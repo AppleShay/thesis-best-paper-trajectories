@@ -3,7 +3,7 @@
 **Master Thesis** | Uppsala University | Spring 2026  
 **Student**: Shaheryar (AppleShay) | **Supervisors**: Georgios Panayiotou, Arjun Menon
 
-"Is the Best, the Best?" — Do early-career best-paper awards predict distinct trajectories (productivity, citations, disruption), or reflect pre-existing excellence? [Proposal](https://github.com/AppleShay/thesis-best-paper-trajectories/docs/thesis_proposal.pdf)
+"Is the Best, the Best?" — Do early-career best-paper awards predict distinct trajectories (productivity, citations, disruption), or reflect pre-existing excellence? [Proposal](docs/thesis_proposal.pdf)
 
 [![OpenAlex](https://img.shields.io/badge/Data-OpenAlex-blue)](https://openalex.org/) [![Python](https://img.shields.io/badge/Tools-Python%20%7C%20Pandas%20%7C%20NetworkX-green)](https://python.org/)
 

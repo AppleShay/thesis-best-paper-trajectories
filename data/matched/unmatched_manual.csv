@@ -1,0 +1,23 @@
+year,conference,paper_title
+2017,SODA,A (2 + Є) Approximation for Maximum Weight Matching in the Semi-Streaming Model
+2016,OSDI,Ryoan: A Distributed Sandbox for Untrusted Computation on Secret Data
+2016,OSDI,Early Detection of Configuration Errors to Reduce Failure Damage
+2015,CHI,"""I always assumed that I wasn't really that close to [her]"": Reasoning about Invisible Algorithms in News Feeds"
+2014,NSDI,Software Dataplane Verification
+2013,CHI,At Home with Agents: Exploring Attitudes Towards Future Smart Energy Infrastructures
+2013,IJCAI,Bayesian Optimization in High Dimensions via Random Embeddings
+2012,CHI,Communitysourcing: Engaging Local Crowds to Perform Expert Work Via Physical Kiosks
+2012,CHI,"Touché: Enhancing Touch Interaction on Humans, Screens, Liquids, and Everyday Objects"
+2012,CHI,ClayVision: The (Elastic) Image of the City
+2012,S&P,Don't Trust Satellite Phones: A Security Analysis of Two Satphone Standards
+2012,UIST,Jamming User Interfaces: Programmable Particle Stiffness and Sensing for Malleable and Shape-Changing Devices
+2011,CHI,Bricolage: Example-Based Retargeting for Web Design
+2011,IJCAI,Nested Rollout Policy Adaptation for Monte Carlo Tree Search
+2011,S&P,Phonotactic Reconstruction of Encrypted VoIP Conversations: Hookt on fon-iks
+2010,MOBICOM,The κ Factor: Inferring Protocol Performance UsingInter-link Reception Correlation
+2009,CHI,Musink: Composing Music through Augmented Drawing
+2009,SOSP,FAWN: A Fast Array of Wimpy Nodes
+2009,SOSP,RouteBricks: Exploiting Parallelism to Scale Software Routers
+2008,SIGCOMM,ZigZag Decoding: Combating Hidden Terminals in Wireless Networks
+2005,FOCS,"The Unique Games Conjecture, Integrality Gap for Cut Problems and Embeddability of Negative Type Metrics into L1"
+2005,SOSP,Rx: treating bugs as allergies - a safe method to survive software failures

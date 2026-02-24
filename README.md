@@ -12,7 +12,7 @@
 
 ---
 
-## 🔬 Research Questions
+## 🔬 Research Questions (for now)
 - **RQ1**: Is the career of a junior winner (J=True) better than a matched senior co-author
   (J=False) after the award?
 - **RQ2**: Is an award-winning paper actually better than non-award papers at the same venue

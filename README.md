@@ -1,7 +1,7 @@
 # Best-Paper Awards & Career Trajectories in Computer Science
 
 **Master Thesis** | Uppsala University | Spring 2026  
-**Student**: Shaheryar (AppleShay) | **Supervisors**: Georgios Panayiotou, Arjun Menon
+**Student**: Shaheryar (AppleShay) | **Supervisors**: [Georgios Panayiotou](https://www.uu.se/kontakt-och-organisation/personal?query=N20-1603) & [Davide Vega](https://davidevega.eu/) **Subject Reviewer:** [Arjun Menon](https://www.uu.se/kontakt-och-organisation/personal?query=N26-77)
 
 "Is the Best, the Best?" — Do early-career best-paper awards predict distinct trajectories
 (productivity, citations), or merely reflect pre-existing excellence?

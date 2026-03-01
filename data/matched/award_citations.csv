@@ -1,0 +1,375 @@
+conference,year,openalex_id,paper_title,cited_by_count,source_id,source_name,is_award
+AAAI,2018,https://openalex.org/W2788603415,Memory-Augmented Monte Carlo Tree Search,20,https://openalex.org/S4210191458,Proceedings of the AAAI Conference on Artificial Intelligence,1
+CHI,2018,https://openalex.org/W4255717503,Agile 3D Sketching with Air Scaffolding,41,,,1
+CHI,2018,https://openalex.org/W2796228338,Pinpointing: Precise Head- and Eye-Based Target Selection for Augmented Reality,278,,,1
+CHI,2018,https://openalex.org/W2795857247,Data Illustrator: Augmenting Vector Design Tools with Lazy Data Binding for Expressive Visualization Authoring,157,,,1
+CHI,2018,https://openalex.org/W2889312863,"""A Stalker's Paradise"": How Intimate Partner Abusers Exploit Technology",4,https://openalex.org/S2737936280,Palgrave Communications,1
+CHI,2018,https://openalex.org/W2796063124,"Keeping a Low Profile? Technology, Risk and Privacy among Undocumented Immigrants",98,,,1
+CHI,2018,https://openalex.org/W2796122895,Streets for People: Engaging Children in Placemaking Through a Socio-technical Process,39,,,1
+CHI,2018,https://openalex.org/W2795975316,Addressing Age-Related Bias in Sentiment Analysis,135,,,1
+CHI,2018,https://openalex.org/W2795736453,"From Her Story, to Our Story: Digital Storytelling as Public Engagement around Abortion Rights Advocacy in Ireland",66,,,1
+CHI,2018,https://openalex.org/W2795908329,Gender Recognition or Gender Reductionism?: The Social Implications of Embedded Gender Recognition Systems,205,,,1
+CHI,2018,https://openalex.org/W2795620203,How Relevant are Incidental Power Poses for HCI?,8,,,1
+CHI,2018,https://openalex.org/W2787712888,Voice Interfaces in Everyday Life,657,,,1
+CHI,2018,https://openalex.org/W2795582800,Examining Wikipedia With a Broader Lens: Quantifying the Value of Wikipedia's Relationships with Other Large-Scale Online Communities,46,,,1
+CHI,2018,https://openalex.org/W2795389852,"Let's Talk About Race: Identity, Chatbots, and AI",139,,,1
+CHI,2018,https://openalex.org/W2795783386,Semi-Automated Coding for Qualitative Research: A User-Centered Inquiry and Initial Prototypes,53,,,1
+CHI,2018,https://openalex.org/W2796076588,Wall++: Room-Scale Interactive and Context-Aware Sensing,122,,,1
+CHI,2018,https://openalex.org/W2807472134,HARK No More: On the Preregistration of CHI Experiments,19,https://openalex.org/S4210212669,Journal of Science Communication,1
+CHI,2018,https://openalex.org/W2795429875,Making as Expression: Informing Design with People with Complex Communication Needs through Art Therapy,85,,,1
+CHI,2018,https://openalex.org/W2795442664,Expressive Time Series Querying with Hand-Drawn Scale-Free Sketches,60,,,1
+CHI,2018,https://openalex.org/W2795619128,Project Zanzibar: A Portable and Flexible Tangible Interaction Platform,99,,,1
+CHI,2018,https://openalex.org/W2795552328,Experiencing the Body as Play,117,,,1
+CHI,2018,https://openalex.org/W2795802000,Making Core Memory: Design Inquiry into Gendered Legacies of Engineering and Craftwork,97,,,1
+CHI,2018,https://openalex.org/W2795651511,Design for Collaborative Survival: An Inquiry into Human-Fungi Relationships,201,,,1
+CHI,2018,https://openalex.org/W2796034586,Design Within a Patriarchal Society: Opportunities and Challenges in Designing for Rural Women in Bangladesh,178,,,1
+CHI,2018,https://openalex.org/W2795953912,Hoarding and Minimalism: Tendencies in Digital Data Preservation,46,,,1
+CHI,2018,https://openalex.org/W2796058046,Extending Manual Drawing Practices with Artist-Centric Programming Tools,50,,,1
+CVPR,2018,https://openalex.org/W2798512429,Taskonomy: Disentangling Task Transfer Learning,116,,,1
+IJCAI,2018,https://openalex.org/W2808437126,SentiGAN: Generating Sentimental Texts via Mixture Adversarial Networks,171,,,1
+IJCAI,2018,https://openalex.org/W2808657866,Reasoning about Consensus when Opinions Diffuse through Majority Dynamics,46,,,1
+IJCAI,2018,https://openalex.org/W2807936987,R-SVM+: Robust Learning with Privileged Information,11,,,1
+IJCAI,2018,https://openalex.org/W2808071466,From Conjunctive Queries to Instance Queries in Ontology-Mediated Querying,1,,,1
+IJCAI,2018,https://openalex.org/W2800007566,What game are we playing? End-to-end learning in normal and extensive form games,21,,,1
+IJCAI,2018,https://openalex.org/W2807873315,Commonsense Knowledge Aware Conversation Generation with Graph Attention,519,,,1
+IJCAI,2018,https://openalex.org/W2808551187,A Degeneracy Framework for Graph Similarity,58,,,1
+OSDI,2018,https://openalex.org/W2897044322,REPT: Reverse Debugging of Failures in Deployed Software,37,https://openalex.org/S4306420647,Operating Systems Design and Implementation,1
+OSDI,2018,https://openalex.org/W2899396876,"LegoOS: A Disseminated, Distributed OS for Hardware Resource Disaggregation",182,https://openalex.org/S4306420647,Operating Systems Design and Implementation,1
+OSDI,2018,https://openalex.org/W2898817152,Orca: Differential Bug Localization in Large-Scale Services,9,https://openalex.org/S4306420647,Operating Systems Design and Implementation,1
+S&P,2018,https://openalex.org/W2794473399,On Enforcing the Digital Immunity of a Large Humanitarian Organization,20,,,1
+S&P,2018,https://openalex.org/W2787222284,DEEPSEC: Deciding Equivalence Properties in Security Protocols -- Theory and Practice,70,,,1
+SIGIR,2018,https://openalex.org/W2799048248,Should I Follow the Crowd? A Probabilistic Analysis of the Effectiveness of Popularity in Recommender Systems,128,,,1
+SIGMETRICS,2018,https://openalex.org/W4252400026,A Refined Mean Field Approximation,51,https://openalex.org/S4210193547,Proceedings of the ACM on Measurement and Analysis of Computing Systems,1
+SIGMOD,2018,https://openalex.org/W2798891709,SuRF: Practical Range Query Filtering with Fast Succinct Tries,155,,,1
+SODA,2018,https://openalex.org/W2793481095,Approaching 3/2 for the s-t-path TSP,91,https://openalex.org/S162708223,Atmospheric chemistry and physics,1
+SODA,2018,https://openalex.org/W2974337481,Online Bipartite Matching with Amortized O(log2 N)Replacements,16,https://openalex.org/S118992489,Journal of the ACM,1
+VLDB,2018,https://openalex.org/W2802609531,The Ubiquity of Large Graphs and Surprising Challenges of Graph Processing: Extended Survey,420,https://openalex.org/S2595095599,Frontiers in Robotics and AI,1
+AAAI,2017,https://openalex.org/W2521461771,Label-Free Supervision of Neural Networks with Physics and Domain Knowledge,45,https://openalex.org/S4210191458,Proceedings of the AAAI Conference on Artificial Intelligence,1
+CHI,2017,https://openalex.org/W2610214088,Kinecting with Orangutans: Zoo Visitors' Empathetic Responses to Animals' Use of Interactive Technology,77,,,1
+CHI,2017,https://openalex.org/W4300093098,"Organic Primitives: Synthesis and Design of pH-Reactive Materials using Molecular I/O for Sensing, Actuation, and Interaction",59,,,1
+CHI,2017,https://openalex.org/W2594859391,Understanding Public Evaluation: Quantifying Experimenter Intervention,19,,,1
+CHI,2017,https://openalex.org/W2591131751,Designing Gamified Applications that Make Safe Driving More Engaging,87,,,1
+CHI,2017,https://openalex.org/W2611348597,Illumination Aesthetics: Light as a Creative Material within Computational Design,31,,,1
+CHI,2017,https://openalex.org/W2767327746,Empowered participation: How Citizens Use Technology in Local Governance,1232,https://openalex.org/S181659395,Information Systems Frontiers,1
+CHI,2017,https://openalex.org/W2778244123,Stories from Survivors: Privacy & Security Practices when Coping with Intimate Partner Abuse,36,https://openalex.org/S2898590181,Development Engineering,1
+CHI,2017,https://openalex.org/W2611579020,ShareVR: Enabling Co-Located Experiences for Virtual Reality between HMD and Non-HMD Users,288,,,1
+CHI,2017,https://openalex.org/W2610339637,Examining Menstrual Tracking to Inform the Design of Personal Informatics Tools,326,,,1
+CHI,2017,https://openalex.org/W2611586694,Explaining the Gap: Visualizing One's Predictions Improves Recall and Comprehension of Data,105,,,1
+CHI,2017,https://openalex.org/W2611667142,mHealth for Maternal Mental Health: Everyday Wisdom in Ethical Design,57,,,1
+CHI,2017,https://openalex.org/W2610215278,A Critical Lens on Dementia and Design in HCI,186,,,1
+CHI,2017,https://openalex.org/W2611474773,What Is Interaction?,209,,,1
+CHI,2017,https://openalex.org/W2610874624,BIGnav: Bayesian Information Gain for Guiding Multiscale Navigation,74,,,1
+CHI,2017,https://openalex.org/W2611632447,Modelling Learning of New Keyboard Layouts,57,,,1
+CHI,2017,https://openalex.org/W2610281177,Flash Organizations: Crowdsourcing Complex Work by Structuring Crowds As Organizations,156,,,1
+CHI,2017,https://openalex.org/W2610874523,Reflective Practicum: A Framework of Sensitising Concepts to Design for Transformative Reflection,110,,,1
+CHI,2017,https://openalex.org/W2610929834,Fingertip Tactile Devices for Virtual Object Manipulation and Exploration,151,,,1
+CHI,2017,https://openalex.org/W2558581619,What Can Be Predicted from Six Seconds of Driver Glances?,50,,,1
+CHI,2017,https://openalex.org/W2610414453,Design and Evaluation of a Data-Driven Password Meter,116,,,1
+CHI,2017,https://openalex.org/W2610850748,You Want Me to Work with Who?: Stakeholder Perceptions of Automated Team Formation in Project-based Courses,54,,,1
+CHI,2017,https://openalex.org/W2603410158,Organic Primitives: Synthesis and Design of pH-Reactive Materials using Molecular I/O for Sensing Actuation and Interaction,1025,https://openalex.org/S316438,Chemical Society Reviews,1
+CVPR,2017,https://openalex.org/W2963446712,Densely Connected Convolutional Networks,43369,,,1
+CVPR,2017,https://openalex.org/W2567101557,Learning from Simulated and Unsupervised Images through Adversarial Training,195,,,1
+IJCAI,2017,https://openalex.org/W2620074062,Foundations of Declarative Data Analysis Using Limit Datalog Programs,1,,,1
+S&P,2017,https://openalex.org/W2618267215,Verified Models and Reference Implementations for the TLS 1.3 Standard Candidate,184,,,1
+SIGIR,2017,https://openalex.org/W2970128991,BitFunnel: Revisiting Signatures for Search,0,,,1
+SIGMETRICS,2017,https://openalex.org/W2576238278,Accelerating Performance Inference over Closed Systems by Asymptotic Methods,14,,,1
+SIGMOD,2017,https://openalex.org/W2613088476,Parallelizing Sequential Graph Computations,84,,,1
+SODA,2017,https://openalex.org/W2570172216,Subquadratic Algorithms for the Diameter and the Sum of Pairwise Distances in Planar Graphs,17,https://openalex.org/S4306420974,Symposium on Discrete Algorithms,1
+VLDB,2017,https://openalex.org/W2583856578,Provenance for Natural Language Queries,29,https://openalex.org/S4210226185,Proceedings of the VLDB Endowment,1
+AAAI,2016,https://openalex.org/W2555956881,Bidirectional Search That Is Guaranteed to Meet in the Middle,1,https://openalex.org/S7407053046,University of Alberta Library,1
+CHI,2016,https://openalex.org/W2407293509,The Effect of Visual Appearance on the Performance of Continuous Sliders and Visual Analogue Scales,107,,,1
+CHI,2016,https://openalex.org/W2225313775,Designing Movement-based Play With Young People Using Powered Wheelchairs,55,,,1
+CHI,2016,https://openalex.org/W2395063354,Object-Oriented Drawing,104,,,1
+CHI,2016,https://openalex.org/W2400260714,Enabling Designers to Foresee Which Colors Users Cannot See,43,,,1
+CHI,2016,https://openalex.org/W2402642969,On Looking at the Vagina through Labella,111,,,1
+CHI,2016,https://openalex.org/W2405564622,Project Jacquard: Interactive Digital Textiles at Scale,318,,,1
+CHI,2016,https://openalex.org/W2582468434,"""I don't Want to Wear a Screen"": Probing Perceptions of and Possibilities for Dynamic Displays on Clothing",1,https://openalex.org/S4306402644,Digital Repository at the University of Maryland (University of Maryland College Park),1
+CHI,2016,https://openalex.org/W2351491323,Momentary Pleasure or Lasting Meaning?: Distinguishing Eudaimonic and Hedonic User Experiences,134,,,1
+CHI,2016,https://openalex.org/W2346915687,RapID: A Framework for Fabricating Low-Latency Interactive Objects with RFID Tags,64,,,1
+CHI,2016,https://openalex.org/W2396575601,HCI Research as Problem-Solving,207,,,1
+CHI,2016,https://openalex.org/W2339558352,Haptic Wave: A Cross-Modal Interface for Visually Impaired Audio Producers,63,,,1
+CHI,2016,https://openalex.org/W2395423607,FlexCase: Enhancing Mobile Interaction with a Flexible Sensing and Display Cover,29,,,1
+CHI,2016,https://openalex.org/W4289875163,Dear Diary: Teens Reflect on Their Weekly Online Risk Experiences,68,https://openalex.org/S4306464181,University of Michigan Press eBooks,1
+CHI,2016,https://openalex.org/W2408438722,Understanding and Mitigating the Effects of Device and Cloud Service Design Decisions on the Environmental Footprint of Digital Infrastructure,123,,,1
+CHI,2016,https://openalex.org/W2406854312,Enhancing Cross-Device Interaction Scripting with Interactive Illustrations,28,,,1
+CHI,2016,https://openalex.org/W2402939184,Learn Piano with BACh: An Adaptive Learning Interface that Adjusts Task Difficulty Based on Brain State,122,,,1
+CHI,2016,https://openalex.org/W2400074865,Smart Touch: Improving Touch Accuracy for People with Motor Impairments with Template Matching,74,,,1
+CHI,2016,https://openalex.org/W2396533648,"Building a Personalized, Auto-Calibrating Eye Tracker from User Interactions",71,,,1
+CHI,2016,https://openalex.org/W2394670422,Developing and Validating the User Burden Scale: A Tool for Assessing User Burden in Computing Systems,169,,,1
+CHI,2016,https://openalex.org/W2400341429,Foraging Among an Overabundance of Similar Variants,45,,,1
+CHI,2016,https://openalex.org/W2396662988,"Finding Email in a Multi-Account, Multi-Device World",35,,,1
+CHI,2016,https://openalex.org/W2273847690,Empath: Understanding Topic Signals in Large-Scale Text,319,,,1
+CHI,2016,https://openalex.org/W2398012670,Lock n' LoL: Group-based Limiting Assistance App to Mitigate Smartphone Distractions in Group Activities,104,,,1
+CVPR,2016,https://openalex.org/W2194775991,Deep Residual Learning for Image Recognition,215254,,,1
+IJCAI,2016,https://openalex.org/W2552810632,Hierarchical Finite State Controllers for Generalized Planning,1120,https://openalex.org/S207023548,Neural Computation,1
+OSDI,2016,https://openalex.org/W2576393274,Push-Button Verification of File Systems via Crash Refinement,57,https://openalex.org/S4306420647,Operating Systems Design and Implementation,1
+S&P,2016,https://openalex.org/W2511192821,A2: Analog Malicious Hardware,244,,,1
+SIGIR,2016,https://openalex.org/W2340380384,Understanding Information Need: An fMRI Study,61,,,1
+SIGMETRICS,2016,https://openalex.org/W2339552468,On the Duration and Intensity of Competitions in Nonlinear Pólya Urn Processes with Fitness,5,,,1
+SIGMOD,2016,https://openalex.org/W2421547754,Wander Join: Online Aggregation via Random Walks,147,,,1
+SODA,2016,https://openalex.org/W2953390354,An Improved Distributed Algorithm for Maximal Independent Set,104,,,1
+SODA,2016,https://openalex.org/W3163127969,Near-Optimal Light Spanners,12,https://openalex.org/S137348503,ACM Transactions on Algorithms,1
+VLDB,2016,https://openalex.org/W4234138276,Compressed Linear Algebra for Large-Scale Machine Learning,20,https://openalex.org/S78926909,The VLDB Journal,1
+AAAI,2015,https://openalex.org/W2211594368,From Non-Negative to General Operator Cost Partitioning,77,https://openalex.org/S4210191458,Proceedings of the AAAI Conference on Artificial Intelligence,1
+CHI,2015,https://openalex.org/W1974329625,Affordance++: Allowing Objects to Communicate Dynamic Use,130,,,1
+CHI,2015,https://openalex.org/W2077940530,VelociTap: Investigating Fast Mobile Text Entry using Sentence-Based Decoding of Touchscreen Keyboard Input,124,,,1
+CHI,2015,https://openalex.org/W2171022339,What Makes Interruptions Disruptive?: A Process-Model Account of the Effects of the Problem State Bottleneck on Task Interruption and Resumption,153,,,1
+CHI,2015,https://openalex.org/W1993143504,Lightweight Relief Shearing for Enhanced Terrain Perception on Interactive Maps,45,,,1
+CHI,2015,https://openalex.org/W2169549255,The Social Impact of a Robot Co-Worker in Industrial Settings,207,,,1
+CHI,2015,https://openalex.org/W2114469472,Sangeet Swara: A Community-Moderated Voice Forum in Rural India,95,,,1
+CHI,2015,https://openalex.org/W2171206549,Understanding and Supporting Fathers and Fatherhood on Social Media Sites,178,,,1
+CHI,2015,https://openalex.org/W2071865879,Patina Engraver: Visualizing Activity Logs as Patina in Fashionable Trackers,44,,,1
+CHI,2015,https://openalex.org/W2162482411,Fluid Grouping: Quantifying Group Engagement around Interactive Tabletop Exhibits in the Wild,53,,,1
+CHI,2015,https://openalex.org/W1972988737,Resilience Mitigates the Negative Effects of Adolescent Internet Addiction and Online Risk Exposure,120,,,1
+CHI,2015,https://openalex.org/W2148163144,BaseLase: An Interactive Focus+Context Laser Floor,17,,,1
+CHI,2015,https://openalex.org/W2141795668,Tiree Energy Pulse: Exploring Renewable Energy Forecasts on the Edge of the Grid,54,,,1
+CHI,2015,https://openalex.org/W2163444123,"iSkin: Flexible, Stretchable and Visually Customizable On-Body Touch Sensors for Mobile Computing",357,,,1
+CHI,2015,https://openalex.org/W2040372247,Designing Political Deliberation Environments to Support Interactions in the Public Sphere,65,,,1
+CHI,2015,https://openalex.org/W1924429363,From User-Centered to Adoption-Centered Design: A Case Study of an HCI Research Innovation Becoming a Product,909,https://openalex.org/S57293258,MIS Quarterly,1
+CHI,2015,https://openalex.org/W2193303691,"Acoustruments: Passive, Acoustically-Driven, Interactive Controls for Handheld Devices",13,,,1
+CHI,2015,https://openalex.org/W4253045713,"The Heart Work of Wikipedia: Gendered, Emotional Labor in the World's Largest Online Encyclopedia",8,https://openalex.org/S4306464181,University of Michigan Press eBooks,1
+CHI,2015,https://openalex.org/W2149252982,Unequal Representation and Gender Stereotypes in Image Search Results for Occupations,497,,,1
+CHI,2015,https://openalex.org/W2071620178,Sharing is Caring: Assistive Technology Designs on Thingiverse,201,,,1
+CHI,2015,https://openalex.org/W1964639420,ColourID: Improving Colour Identification for People with Impaired Colour Vision,30,,,1
+CVPR,2015,https://openalex.org/W1938204631,DynamicFusion: Reconstruction and Tracking of Non-rigid Scenes in Real-Time,952,,,1
+IJCAI,2015,https://openalex.org/W2399956932,Recursive Decomposition for Nonconvex Optimization,0,https://openalex.org/S4306419999,International Joint Conference on Artificial Intelligence,1
+IJCAI,2015,https://openalex.org/W2497473102,Bayesian Active Learning for Posterior Estimation,32,https://openalex.org/S4306419142,International Conference on Artificial Intelligence,1
+S&P,2015,https://openalex.org/W2580339477,A Messy State of the Union: Taming the Composite State Machines of TLS,30,https://openalex.org/S103482838,Communications of the ACM,1
+S&P,2015,https://openalex.org/W1536141561,Riposte: An Anonymous Messaging System Handling Millions of Users,132,,,1
+SIGIR,2015,https://openalex.org/W2070299948,QuickScorer: A Fast Algorithm to Rank Documents with Additive Ensembles of Regression Trees,74,,,1
+SIGMETRICS,2015,https://openalex.org/W3212975581,Spy vs. Spy: Rumor Source Obfuscation,33,https://openalex.org/S4210187660,ACM SIGMETRICS Performance Evaluation Review,1
+SIGMOD,2015,https://openalex.org/W2092799168,"DBSCAN Revisited: Mis-Claim, Un-Fixability, and Approximation",218,,,1
+SODA,2015,https://openalex.org/W2565184432,The Parameterized Complexity of k-Biclique,16,,,1
+VLDB,2015,https://openalex.org/W2269738476,Constructing an interactive natural language interface for relational databases,430,https://openalex.org/S4210226185,Proceedings of the VLDB Endowment,1
+AAAI,2014,https://openalex.org/W151167705,Recovering from Selection Bias in Causal and Statistical Inference,95,https://openalex.org/S4306462769,ACM eBooks,1
+CHI,2014,https://openalex.org/W2137864660,Consumed Endurance: A Metric to Quantify Arm Fatigue of Mid-Air Interactions,380,,,1
+CHI,2014,https://openalex.org/W2005511465,Duet: Exploring Joint Interactions on a Smart Phone and a Smart Watch,33,,,1
+CHI,2014,https://openalex.org/W2081933842,Type-Hover-Swipe in 96 Bytes: A Motion Sensing Mechanical Keyboard,39,,,1
+CHI,2014,https://openalex.org/W2005996634,Effects of Display Size and Navigation Type on a Classification Task,74,,,1
+CHI,2014,https://openalex.org/W2094690640,MixFab: a Mixed-Reality Environment for Personal Fabrication,159,,,1
+CHI,2014,https://openalex.org/W2155058526,Growing Closer on Meta: Changes in Tie Strength Through Social Network Site Use,648,https://openalex.org/S59628311,Behavioral and Brain Sciences,1
+CHI,2014,https://openalex.org/W2125898659,"Emerging Sites of HCI Innovation: Hackerspaces, Hardware Startups & Incubators",278,,,1
+CHI,2014,https://openalex.org/W2059268796,"Designing for Slowness, Anticipation and Re-visitation: A Long Term Field Study of the Photobox",187,,,1
+CHI,2014,https://openalex.org/W2140006089,Estimating the Social Costs of Friendsourcing,38,,,1
+CHI,2014,https://openalex.org/W1985475196,Human Values in Curating a Human Rights Media Archive,19,,,1
+CHI,2014,https://openalex.org/W2250553926,"""Narco"" Emotions: Affect and Desensitization in Social Media during the Mexican Drug War",680,,,1
+CHI,2014,https://openalex.org/W2047781873,Real-time Feedback for Improving Medication Taking,78,,,1
+CHI,2014,https://openalex.org/W2162409443,Structured Labeling for Facilitating Concept Evolution in Machine Learning,104,,,1
+CHI,2014,https://openalex.org/W2117160827,Towards Accurate and Practical Predictive Models of Active-Vision-Based Visual Search,97,,,1
+CHI,2014,https://openalex.org/W2051295909,RetroDepth: 3D Silhouette Sensing for High-Precision Input On and Above Physical Surfaces,30,,,1
+CHI,2014,https://openalex.org/W2124910144,Understanding Multitasking Through Parallelized Strategy Exploration and Individualized Cognitive Modeling,19,,,1
+CHI,2014,https://openalex.org/W2106612861,Making Sustainability Sustainable: Challenges in the Design of Eco-Interaction Technologies,97,,,1
+CVPR,2014,https://openalex.org/W2032643440,What Camera Motion Reveals About Shape with Unknown BRDF,27,,,1
+OSDI,2014,https://openalex.org/W2265366104,Arrakis: The Operating System is the Control Plane,102,https://openalex.org/S193109227,ACM Transactions on Computer Systems,1
+OSDI,2014,https://openalex.org/W2061643296,Shielding Applications from an Untrusted Cloud with Haven,448,https://openalex.org/S193109227,ACM Transactions on Computer Systems,1
+OSDI,2014,https://openalex.org/W2169414316,IX: A Protected Dataplane Operating System for High Throughput and Low Latency,306,,,1
+S&P,2014,https://openalex.org/W2302922559,Secure Multiparty Computations on BitCoin,80,https://openalex.org/S103482838,Communications of the ACM,1
+SIGIR,2014,https://openalex.org/W2089455813,Partitioned Elias-Fano Indexes,126,,,1
+SIGMETRICS,2014,https://openalex.org/W319976220,Concave switching in single and multihop networks,22,,,1
+SIGMOD,2014,https://openalex.org/W2099102906,Materialization Optimizations for Feature Selection Workloads,107,,,1
+SODA,2014,https://openalex.org/W2296493992,Polynomiality for Bin Packing with a Constant Number of Item Types,0,https://openalex.org/S118992489,Journal of the ACM,1
+SODA,2014,https://openalex.org/W2278710066,"An Almost-Linear-Time Algorithm for Approximate Max Flow in Undirected Graphs, and its Multicommodity Generalizations",150,,,1
+VLDB,2014,https://openalex.org/W2243512312,The Uncracked Pieces in Database Cracking,65,https://openalex.org/S4210226185,Proceedings of the VLDB Endowment,1
+VLDB,2014,https://openalex.org/W4230031594,epiC: an Extensible and Scalable System for Processing Big Data,14,https://openalex.org/S78926909,The VLDB Journal,1
+VLDB,2014,https://openalex.org/W2294510862,M4: A Visualization-Oriented Time Series Data Aggregation,92,https://openalex.org/S4210226185,Proceedings of the VLDB Endowment,1
+VLDB,2014,https://openalex.org/W2797202077,Building Efficient Query Engines in a High-Level Language,40,https://openalex.org/S90119964,ACM Transactions on Database Systems,1
+VLDB,2014,https://openalex.org/W3009330983,On k-Path Covers and their Applications,12,https://openalex.org/S78926909,The VLDB Journal,1
+AAAI,2013,https://openalex.org/W2186424956,SMILe: Shuffled Multiple-Instance Learning,3,https://openalex.org/S4210191458,Proceedings of the AAAI Conference on Artificial Intelligence,1
+AAAI,2013,https://openalex.org/W2215753997,HC-Search: Learning Heuristics and Cost Functions for Structured Prediction,12,https://openalex.org/S4210191458,Proceedings of the AAAI Conference on Artificial Intelligence,1
+CHI,2013,https://openalex.org/W2052209137,Weighted Graph Comparison Techniques for Brain Connectivity Analysis,175,,,1
+CHI,2013,https://openalex.org/W2158892938,Analyzing User-Generated YouTube Videos to Understand Touchscreen Use by People with Motor Impairments,194,,,1
+CHI,2013,https://openalex.org/W2032438879,"What is ""Critical"" About Critical Design?",438,,,1
+CHI,2013,https://openalex.org/W2021826037,The Dubuque Electricity Portal: Evaluation of a City-Scale Residential Electricity Consumption Feedback System,34,,,1
+CHI,2013,https://openalex.org/W2128640376,Improving Navigation-Based File Retrieval,31,,,1
+CHI,2013,https://openalex.org/W4241693488,SPRWeb: Preserving Subjective Responses to Website Colour Schemes through Automatic Recolouring,31,,,1
+CHI,2013,https://openalex.org/W1986345088,The Efficacy of Human Post-Editing for Language Translation,190,,,1
+CHI,2013,https://openalex.org/W1988133012,"Mind the Theoretical Gap: Interpreting, Using, and Developing Behavioral Theory in HCI Research",178,https://openalex.org/S202381698,PLoS ONE,1
+CHI,2013,https://openalex.org/W2147603330,Turkopticon: Interrupting Worker Invisibility in Amazon Mechanical Turk,759,,,1
+CHI,2013,https://openalex.org/W4240168875,IllumiRoom: Peripheral Projected Illusions for Interactive Experiences,172,,,1
+CHI,2013,https://openalex.org/W2007644286,Webzeitgeist: Design Mining the Web,135,,,1
+CHI,2013,https://openalex.org/W4243991703,LaserOrigami: Laser-Cutting 3D Objects,106,,,1
+CHI,2013,https://openalex.org/W2056225838,Labor Dynamics in a Mobile Micro-Task Market,106,,,1
+CHI,2013,https://openalex.org/W1997652918,Job Opportunities through Entertainment: Virally Spread Speech-Based Services for Low-Literate Users,3,https://openalex.org/S2764421862,International Journal of Information and Education Technology,1
+CHI,2013,https://openalex.org/W2109727442,Screenfinity: Extending the Perception Area of Content on Very Large Public Displays,36,,,1
+CHI,2013,https://openalex.org/W2025802550,Reasons to Question Seven Segment Displays,19,,,1
+CHI,2013,https://openalex.org/W2163568095,"The Many Faces of Meta: Experiencing Social Media as Performance, Exhibition, and Personal Archive",125,https://openalex.org/S4306462833,Amsterdam University Press eBooks,1
+CVPR,2013,https://openalex.org/W2337673916,"Fast, Accurate Detection of 100,000 Object Classes on a Single Machine",1,,,1
+IJCAI,2013,https://openalex.org/W1562564857,Flexibility and Decoupling in the Simple Temporal Problem,1,https://openalex.org/S4306400906,Research Repository (Delft University of Technology),1
+S&P,2013,https://openalex.org/W2252150191,Pinocchio: Nearly Practical Verifiable Computation,185,https://openalex.org/S103482838,Communications of the ACM,1
+SIGIR,2013,https://openalex.org/W2159205954,Beliefs and Biases in Web Search,182,,,1
+SIGMETRICS,2013,https://openalex.org/W2145432435,Queueing System Topologies with Limited Flexibility,37,,,1
+SIGMOD,2013,https://openalex.org/W2002203222,Massive Graph Triangulation,132,,,1
+SODA,2013,https://openalex.org/W4239159750,A Simple Algorithm for the Graph Minor Decomposition - Logic meets Structural Graph Theory,12,,,1
+SODA,2013,https://openalex.org/W4238411931,Dynamic graph connectivity in polylogarithmic worst case time,85,,,1
+VLDB,2013,https://openalex.org/W2033201131,DisC Diversity: Result Diversification based on Dissimilarity and Coverage,81,https://openalex.org/S4210226185,Proceedings of the VLDB Endowment,1
+AAAI,2012,https://openalex.org/W2293636571,Learning SVM Classifiers with Indefinite Kernels,27,https://openalex.org/S4210191458,Proceedings of the AAAI Conference on Artificial Intelligence,1
+AAAI,2012,https://openalex.org/W1512874001,Document Summarization Based on Data Reconstruction,119,https://openalex.org/S4210191458,Proceedings of the AAAI Conference on Artificial Intelligence,1
+CHI,2012,https://openalex.org/W2136345490,Observational and Experimental Investigation of Typing Behaviour using Virtual Keyboards for Mobile Devices,97,,,1
+CHI,2012,https://openalex.org/W2126298837,The Normal Natural Troubles of Driving with GPS,108,,,1
+CHI,2012,https://openalex.org/W2060696172,Improving Command Selection with CommandMaps,116,,,1
+CHI,2012,https://openalex.org/W2166132393,Detecting Error-Related Negativity for Interaction Design,63,,,1
+CHI,2012,https://openalex.org/W2048608322,"Empathy, Participatory Design and People with Dementia",247,,,1
+CHI,2012,https://openalex.org/W1823310840,Looking Glass: A Field Study on Noticing Interactivity of Shop Windows,71,https://openalex.org/S4306462833,Amsterdam University Press eBooks,1
+CHI,2012,https://openalex.org/W2030343501,Affordances in HCI: Toward a Mediated Action Perspective,230,,,1
+CHI,2012,https://openalex.org/W2047883041,Personas and Decision Making in the Design Process: An Ethnographic Case Study,132,,,1
+CHI,2012,https://openalex.org/W1974923332,Using Rhythmic Patterns as an Input Method,39,,,1
+CHI,2012,https://openalex.org/W2168953163,Revisiting the Jacquard Loom: Threads of History and Current Patterns in HCI,52,,,1
+CHI,2012,https://openalex.org/W2295996570,Uncomfortable Interactions,269,,,1
+CVPR,2012,https://openalex.org/W1994804971,A Simple Prior-free Method for Non-Rigid Structure-from-Motion Factorization,282,https://openalex.org/S25538012,International Journal of Computer Vision,1
+OSDI,2012,https://openalex.org/W1984533413,Spanner: Google's Globally-Distributed Database,7,,,1
+SIGIR,2012,https://openalex.org/W2029009258,Time-Based Calibration of Effectiveness Measures,200,,,1
+SIGMETRICS,2012,https://openalex.org/W2101221989,Temperature management in data centers: why some (might) like it hot,196,,,1
+SIGMOD,2012,https://openalex.org/W2123458705,High-Performance Complex Event Processing over XML Streams,62,,,1
+SODA,2012,https://openalex.org/W1995509853,Computing all maps into a sphere,35,https://openalex.org/S118992489,Journal of the ACM,1
+VLDB,2012,https://openalex.org/W2953102514,Dense Subgraph Maintenance under Streaming Edge Weight Updates for Real-time Story Identification,103,https://openalex.org/S78926909,The VLDB Journal,1
+AAAI,2011,https://openalex.org/W57159709,Complexity of and Algorithms for Borda Manipulation,71,https://openalex.org/S4210191458,Proceedings of the AAAI Conference on Artificial Intelligence,1
+AAAI,2011,https://openalex.org/W1768003445,Dynamic Resource Allocation in Conservation Planning,30,https://openalex.org/S4210191458,Proceedings of the AAAI Conference on Artificial Intelligence,1
+CHI,2011,https://openalex.org/W2080299624,Teenagers and Their Virtual Possessions: Design Opportunities and Issues,206,,,1
+CHI,2011,https://openalex.org/W2022815033,Mid-air Pan-and-Zoom on Wall-sized Displays,206,,,1
+CHI,2011,https://openalex.org/W2153391061,Why is My Internet Slow?: Making Network Speeds Visible,70,,,1
+CHI,2011,https://openalex.org/W2146852151,Synchronous Interaction Among Hundreds: An Evaluation of a Conference in an Avatar-based Virtual Environment,76,,,1
+CHI,2011,https://openalex.org/W2105697580,Your Noise is My Command: Sensing Gestures Using the Body as an Antenna,144,,,1
+CHI,2011,https://openalex.org/W2081964782,Enhancing Physicality in Touch Interaction with Programmable Friction,141,,,1
+CHI,2011,https://openalex.org/W2136691781,Usable Gestures for Blind People: Understanding Preference and Performance,305,,,1
+CHI,2011,https://openalex.org/W2127473562,Automics: souvenir generating photoware for theme parks,65,,,1
+CHI,2011,https://openalex.org/W2097331574,Effects of Community Size and Contact Rate in Synchronous Social Q&A,44,,,1
+CHI,2011,https://openalex.org/W603000039,Review Spotlight: A User Interface for Summarizing User-generated Reviews Using Adjective-Noun Word Pairs,3,https://openalex.org/S4377196383,Publications of the UdS (Saarland University),1
+CHI,2011,https://openalex.org/W2140232903,In the Shadow of Misperception: Assistive Technology Use and Social Interactions,458,,,1
+CHI,2011,https://openalex.org/W1986692274,Ease of Juggling: Studying the Effects of Manual Multitasking,34,,,1
+CVPR,2011,https://openalex.org/W2060280062,Real-time Human Pose Recognition in Parts from Single Depth Images,2046,https://openalex.org/S103482838,Communications of the ACM,1
+IJCAI,2011,https://openalex.org/W1611302770,Unweighted Coalitional Manipulation Under the Borda Rule is NP-Hard,168,https://openalex.org/S139930977,Journal of Artificial Intelligence Research,1
+IJCAI,2011,https://openalex.org/W2148552911,On the Decidability of Connectedness Constraints in 2D and 3D Euclidean Spaces,9,https://openalex.org/S4306400662,Research Explorer (The University of Manchester),1
+SIGIR,2011,https://openalex.org/W2008251177,Find It If You Can: A Game for Modeling Different Types of Web Search Success Using Interaction Data,116,,,1
+SIGMETRICS,2011,https://openalex.org/W2136110891,Topology Discovery of Sparse Random Graphs With Few Participants,33,,,1
+SIGMOD,2011,https://openalex.org/W2115799249,Entangled Queries: Enabling Declarative Data-Driven Coordination,13,,,1
+SODA,2011,https://openalex.org/W2116019049,An Almost Optimal Unrestricted Fast Johnson-Lindenstrauss Transform,109,https://openalex.org/S137348503,ACM Transactions on Algorithms,1
+VLDB,2011,https://openalex.org/W4230948688,RemusDB: Transparent High-Availability for Database Systems,52,https://openalex.org/S78926909,The VLDB Journal,1
+AAAI,2010,https://openalex.org/W1538864647,A Novel Transition Based Encoding Scheme for Planning as Satisfiability,54,https://openalex.org/S4210191458,Proceedings of the AAAI Conference on Artificial Intelligence,1
+AAAI,2010,https://openalex.org/W2468755302,How Incomplete Is Your Semantic Web Reasoner? Systematic Analysis of the Completeness of Query Answering Systems,5,,,1
+CHI,2010,https://openalex.org/W2124318441,How does search behavior change as search becomes more difficult?,207,,,1
+CHI,2010,https://openalex.org/W2119188105,The Tower of Babel Meets Web 2.0: User-Generated Content and its Applications in a Multilingual Context,156,,,1
+CHI,2010,https://openalex.org/W2155385126,Occlusion-Aware Interfaces,72,,,1
+CHI,2010,https://openalex.org/W2169709590,Skinput: Appropriating the Body as an Input Surface,678,,,1
+CHI,2010,https://openalex.org/W2142869276,Avaaj Otalo — A Field Study of an Interactive Voice Forum for Small Farmers in Rural India,378,,,1
+CHI,2010,https://openalex.org/W2129146498,Lumino: Tangible Blocks for Tabletop Computers Based on Glass Fiber Bundles,101,,,1
+CHI,2010,https://openalex.org/W2140420369,Feminist HCI: Taking Stock and Outlining an Agenda for Design,987,,,1
+CHI,2010,https://openalex.org/W2158447593,Prefab: Implementing Advanced Behaviors Using Pixel-Based Reverse Engineering of Interface Structure,135,,,1
+CHI,2010,https://openalex.org/W2119698661,Mobile-izing Health Workers in Rural India,195,,,1
+CHI,2010,https://openalex.org/W2104113460,Mapping the Landscape of Sustainable HCI,746,,,1
+CHI,2010,https://openalex.org/W2127523455,The Design of Eco-Feedback Technology,758,,,1
+CHI,2010,https://openalex.org/W2120326355,Useful Junk? The Effects of Visual Embellishment on Comprehension and Memorability of Charts,396,,,1
+CVPR,2010,https://openalex.org/W2124584309,Efficient Computation of Robust Low-Rank Matrix Approximations in the Presence of Missing Data using the L1 Norm,200,,,1
+OSDI,2010,https://openalex.org/W2145467766,Efficient System-Enforced Deterministic Parallelism,144,https://openalex.org/S4306420647,Operating Systems Design and Implementation,1
+OSDI,2010,https://openalex.org/W1893312510,The Turtles Project: Design and Implementation of Nested Virtualization,247,https://openalex.org/S4306420647,Operating Systems Design and Implementation,1
+S&P,2010,https://openalex.org/W1985225657,SCiFI - A System for Secure Face Identification,227,,,1
+SIGIR,2010,https://openalex.org/W2109913881,Assessing the Scenic Route: Measuring the Value of Search Trails in Web Logs,115,,,1
+SIGMETRICS,2010,https://openalex.org/W2152475116,Load balancing via random local search in closed and open systems,23,,,1
+SIGMOD,2010,https://openalex.org/W2151224499,FAST: fast architecture sensitive tree search on modern CPUs and GPUs,301,,,1
+SODA,2010,https://openalex.org/W1480355964,An O(log n/log log n)-approximation Algorithm for the Asymmetric Traveling Salesman Problem,67,,,1
+VLDB,2010,https://openalex.org/W3000214033,Towards Certain Fixes with Editing Rules and Master Data,124,https://openalex.org/S78926909,The VLDB Journal,1
+CHI,2009,https://openalex.org/W2124142520,Predicting Tie Strength With Social Media,1368,,,1
+CHI,2009,https://openalex.org/W2116041277,Undo and Erase Events as Indicators of Usability Problems,87,,,1
+CHI,2009,https://openalex.org/W2162065809,From Interaction to Trajectories: Designing Coherent Journeys Through User Experiences,295,,,1
+CHI,2009,https://openalex.org/W2114197969,Sizing the Horizon: The Effects of Chart Size and Layering on the Graphical Perception of Time Series Visualizations,108,https://openalex.org/S4377196327,Digital Commons - USU (Utah State University),1
+CHI,2009,https://openalex.org/W2061766138,Social Immersive Media: Pursuing Best Practices for Multi-user Interactive Camera/Projector Exhibits,108,,,1
+CHI,2009,https://openalex.org/W2097298348,Ephemeral Adaptation: The Use of Gradual Onset to Improve Menu Selection Performance,105,,,1
+CVPR,2009,https://openalex.org/W1990592195,Single Image Haze Removal Using Dark Channel Prior,2407,https://openalex.org/S4363607795,2009 IEEE Conference on Computer Vision and Pattern Recognition,1
+IJCAI,2009,https://openalex.org/W1496830905,Learning Conditional Preference Networks with Queries,27,,,1
+IJCAI,2009,https://openalex.org/W1528986923,Consequence-Driven Reasoning for Horn SHIQ Ontologies,178,https://openalex.org/S4306402636,Oxford University Research Archive (ORA) (University of Oxford),1
+S&P,2009,https://openalex.org/W2105842205,"Native Client: A Sandbox for Portable, Untrusted x86 Native Code",145,https://openalex.org/S103482838,Communications of the ACM,1
+SIGIR,2009,https://openalex.org/W2134842174,Sources of evidence for vertical selection,202,,,1
+SIGMETRICS,2009,https://openalex.org/W2109992755,The Age of Gossip: Spatial Mean Field Regime,135,https://openalex.org/S4306462833,Amsterdam University Press eBooks,1
+SIGMOD,2009,https://openalex.org/W2126354234,Generating example data for dataflow programs,57,,,1
+SODA,2009,https://openalex.org/W2911824201,Natural Algorithms,64,https://openalex.org/S4306420974,Symposium on Discrete Algorithms,1
+VLDB,2009,https://openalex.org/W2998654680,A Unified Approach to Ranking in Probabilistic Databases,48,https://openalex.org/S78926909,The VLDB Journal,1
+AAAI,2008,https://openalex.org/W192051504,Optimal False-Name-Proof Voting Rules with Costly Voting,42,,,1
+AAAI,2008,https://openalex.org/W1816489643,How Good is Almost Perfect?,101,,,1
+CHI,2008,https://openalex.org/W2105512500,An Error Model for Pointing Based on Fitts' Law,143,,,1
+CHI,2008,https://openalex.org/W2094064671,Designs on Dignity: Perceptions of Technology Among the Homeless,18,https://openalex.org/S1535467,African Research Review,1
+CHI,2008,https://openalex.org/W2152414382,"Improving the Performance of Motor-Impaired Users with Automatically-Generated, Ability-Based Interfaces",185,,,1
+CHI,2008,https://openalex.org/W2053078227,In-Car GPS Navigation: Engagement with and Disengagement from the Environment,156,,,1
+CHI,2008,https://openalex.org/W2140188249,Large Scale Analysis of Web Revisitation Patterns,250,,,1
+CHI,2008,https://openalex.org/W2062709156,Multimodal collaborative handwriting training for visually-impaired people,80,,,1
+CHI,2008,https://openalex.org/W2059641569,The Network in the Garden: An Empirical Analysis of Social Media in Rural Life,134,,,1
+CVPR,2008,https://openalex.org/W2113201641,Beyond Sliding Windows: Object Localization by Efficient Subwindow Search,691,,,1
+CVPR,2008,https://openalex.org/W2111559961,Global Stereo Reconstruction under Second Order Smoothness Priors,122,,,1
+OSDI,2008,https://openalex.org/W1710734607,KLEE: Unassisted and Automatic Generation of High-Coverage Tests for Complex Systems Programs,2670,https://openalex.org/S4306420647,Operating Systems Design and Implementation,1
+OSDI,2008,https://openalex.org/W1493893823,DryadLINQ: A System for General-Purpose Distributed Data-Parallel Computing Using a High-Level Language,699,https://openalex.org/S4306420647,Operating Systems Design and Implementation,1
+OSDI,2008,https://openalex.org/W2013592197,Difference Engine: Harnessing Memory Redundancy in Virtual Machines,232,https://openalex.org/S103482838,Communications of the ACM,1
+S&P,2008,https://openalex.org/W2143472559,Pacemakers and Implantable Cardiac Defibrillators: Software Radio Attacks and Zero-Power Defenses,725,https://openalex.org/S4210233669,Proceedings - IEEE Symposium on Security and Privacy/Proceedings of the ... IEEE Symposium on Security and Privacy,1
+SIGIR,2008,https://openalex.org/W2005689470,Algorithmic Mediation for Collaborative Exploratory Search,178,,,1
+SIGMETRICS,2008,https://openalex.org/W2059739152,Counter Braids: A Novel Counter Architecture for Per-Flow Measurement,208,,,1
+SIGMOD,2008,https://openalex.org/W2725226870,Serializable isolation for snapshot databases,191,https://openalex.org/S90119964,ACM Transactions on Database Systems,1
+SIGMOD,2008,https://openalex.org/W2171901130,Scalable Network Distance Browsing in Spatial Databases,303,,,1
+VLDB,2008,https://openalex.org/W4249843299,Finding Frequent Items in Data Streams,618,https://openalex.org/S106296714,Lecture notes in computer science,1
+VLDB,2008,https://openalex.org/W2141463661,Constrained Physical Design Tuning,35,https://openalex.org/S4210226185,Proceedings of the VLDB Endowment,1
+AAAI,2007,https://openalex.org/W2146447174,PLOW: A Collaborative Task Learning Agent,146,,,1
+AAAI,2007,https://openalex.org/W1902527071,"Thresholded Rewards: Acting Optimally in Timed, Zero-Sum Games",13,,,1
+CHI,2007,https://openalex.org/W2117601224,Authoring sensor-based interactions by demonstration with direct manipulation and pattern recognition,152,,,1
+CHI,2007,https://openalex.org/W2006550435,Consuming video on Mobile devices,193,,,1
+CHI,2007,https://openalex.org/W2152312062,Multiview: improving trust in group video conferencing through spatial faithfulness,233,https://openalex.org/S53579087,Ground Water,1
+CHI,2007,https://openalex.org/W2108518773,Shift: a technique for operating pen-based interfaces using touch,465,,,1
+CHI,2007,https://openalex.org/W2057359302,Software or wetware?: discovering when and why people use digital prosthetic memory,65,,,1
+CHI,2007,https://openalex.org/W3172402307,"Sustainable interaction design: invention & disposal, renewal & reuse",2,https://openalex.org/S4306401992,Repository KITopen (Karlsruhe Institute of Technology),1
+CVPR,2007,https://openalex.org/W2082546838,Dynamic 3D Scene Analysis from a Moving Vehicle,87,https://openalex.org/S4210187442,Reviews in Mineralogy and Geochemistry,1
+IJCAI,2007,https://openalex.org/W110738662,Automated Heart Wall Motion Abnormality Detection From Ultrasound Images using Bayesian Networks,44,https://openalex.org/S4306419999,International Joint Conference on Artificial Intelligence,1
+IJCAI,2007,https://openalex.org/W57770583,Performance Analysis of Online Anticipatory Algorithms for Large Multistage Stochastic Integer Programs,32,,,1
+IJCAI,2007,https://openalex.org/W1552944591,Building Structure into Local Search for SAT,40,https://openalex.org/S4306402548,"Griffith Research Online (Griffith University, Queensland, Australia)",1
+SIGIR,2007,https://openalex.org/W2149156280,Studying the Use of Popular Destinations to Enhance Web Search Interaction,197,,,1
+SIGMETRICS,2007,https://openalex.org/W2066262685,Modeling the Relative Fitness of Storage,84,,,1
+SIGMOD,2007,https://openalex.org/W2077449561,Compiling mappings to bridge applications and databases,65,,,1
+SIGMOD,2007,https://openalex.org/W2035801804,Scalable Approximate Query Processing with the DBO Engine,85,,,1
+VLDB,2007,https://openalex.org/W2140613126,Scalable Semantic Web Data Management Using Vertical Partitioning,655,,,1
+AAAI,2006,https://openalex.org/W1607840088,Model Counting: A New Strategy for Obtaining Good Bounds,136,,,1
+AAAI,2006,https://openalex.org/W52985456,Towards an Axiom System for Default Logic,13,https://openalex.org/S4306401362,RWTH Publications (RWTH Aachen),1
+CHI,2006,https://openalex.org/W2003257628,Trackball text entry for people with motor impairments,75,,,1
+CHI,2006,https://openalex.org/W4390808104,Embedded phenomena: supporting science learning with classroom-sized distributed simulations,15,,,1
+CHI,2006,https://openalex.org/W2118755902,A role for haptics in mobile interaction: initial design using a handheld tactile display prototype,199,,,1
+CVPR,2006,https://openalex.org/W2146352414,Putting Objects in Perspective,820,https://openalex.org/S25538012,International Journal of Computer Vision,1
+OSDI,2006,https://openalex.org/W2058535975,Rethink the Sync,47,https://openalex.org/S193109227,ACM Transactions on Computer Systems,1
+OSDI,2006,https://openalex.org/W1981420413,Bigtable: A Distributed Storage System for Structured Data,3405,https://openalex.org/S193109227,ACM Transactions on Computer Systems,1
+SIGIR,2006,https://openalex.org/W2124504084,Minimal Test Collections for Retrieval Evaluation,241,,,1
+SIGMETRICS,2006,https://openalex.org/W4214714086,Maximizing throughput in wireless networks via gossiping,135,,,1
+SIGMOD,2006,https://openalex.org/W118378920,To search or to crawl?: towards a query optimizer for text-centric tasks,24,https://openalex.org/S4306401019,ePrints Soton (University of Southampton),1
+VLDB,2006,https://openalex.org/W2146081216,Trustworthy Keyword Search for Regulatory-Compliant Records Retention,29,https://openalex.org/S4306421142,Very Large Data Bases,1
+AAAI,2005,https://openalex.org/W1587673378,The Max K- Armed Bandit: A New Model of Exploration Applied to Search Heuristic Selection,116,,,1
+CHI,2005,https://openalex.org/W2112103637,The bubble cursor: enhancing target acquisition by dynamic resizing of the cursor's activation area,581,,,1
+CHI,2005,https://openalex.org/W2107788319,Designing the spectator experience,431,,,1
+CHI,2005,https://openalex.org/W2153282521,Examining Task Engagement in Sensor-Based Statistical Models of Human Interruptibility,110,,,1
+CHI,2005,https://openalex.org/W4301013381,Making space for stories: ambiguity in the design of personal communication systems,104,,,1
+CVPR,2005,https://openalex.org/W2140720810,Real-Time Non-Rigid Surface Detection,2116,https://openalex.org/S189275214,Particle and Fibre Toxicology,1
+IJCAI,2005,https://openalex.org/W1603364293,Learning Coordination Classifiers,7,,,1
+IJCAI,2005,https://openalex.org/W2912387951,Solving Checkers,46,https://openalex.org/S4306419999,International Joint Conference on Artificial Intelligence,1
+IJCAI,2005,https://openalex.org/W157725869,A Probabilistic Model of Redundancy in Information Extraction,176,,,1
+SIGIR,2005,https://openalex.org/W1963658069,Learning to estimate query difficulty: including applications to missing content detection and distributed information retrieval,196,,,1
+SIGMETRICS,2005,https://openalex.org/W2171217544,Coupon replication systems,73,https://openalex.org/S62238642,IEEE/ACM Transactions on Networking,1
+VLDB,2005,https://openalex.org/W2135552269,Cache-conscious Frequent Pattern Mining on a Modern Processor,63,,,1
+AAAI,2004,https://openalex.org/W2753424512,Learning and Inferring Transportation Routines,0,,,1
+CVPR,2004,https://openalex.org/W2101305476,Programmable Imaging using a Digital Micromirror Array,102,,,1
+OSDI,2004,https://openalex.org/W2116283852,Recovering Device Drivers,136,https://openalex.org/S193109227,ACM Transactions on Computer Systems,1
+OSDI,2004,https://openalex.org/W146360823,Using Model Checking to Find Serious File System Errors,18,https://openalex.org/S4306420647,Operating Systems Design and Implementation,1
+SIGIR,2004,https://openalex.org/W2134557008,A Formal Study of Information Retrieval Heuristics,350,,,1
+SIGMETRICS,2004,https://openalex.org/W2116790783,On performance bounds for the integration of elastic and adaptive streaming flows,51,https://openalex.org/S4210187660,ACM SIGMETRICS Performance Evaluation Review,1
+SIGMOD,2004,https://openalex.org/W1993855803,Indexing spatio-temporal trajectories with Chebyshev polynomials,314,,,1
+VLDB,2004,https://openalex.org/W2097995023,Model-Driven Data Acquisition in Sensor Networks,1044,https://openalex.org/S4306463230,Elsevier eBooks,1
+CVPR,2003,https://openalex.org/W2154422044,Object Class Recognition by Unsupervised Scale-Invariant Learning,2036,,,1
+IJCAI,2003,https://openalex.org/W2101914010,Thin Junction Tree Filters for Simultaneous Localization and Mapping,201,https://openalex.org/S7407050879,UC Berkeley,1
+IJCAI,2003,https://openalex.org/W1664963465,Approximating Game-Theoretic Optimal Strategies for Full-scale Poker,208,,,1
+SIGIR,2003,https://openalex.org/W2125596620,Re-examining the potential effectiveness of interactive query expansion,180,,,1
+SIGMOD,2003,https://openalex.org/W2102951036,Spreadsheets in RDBMS for OLAP,68,,,1
+AAAI,2002,https://openalex.org/W1964376592,On Computing All Abductive Explanations,43,https://openalex.org/S4306420577,National Conference on Artificial Intelligence,1
+OSDI,2002,https://openalex.org/W2121542813,Memory Resource Management in VMware ESX Server,1205,https://openalex.org/S50071195,ACM SIGOPS Operating Systems Review,1
+SIGIR,2002,https://openalex.org/W1981825277,Novelty and redundancy detection in adaptive filtering,432,,,1
+CVPR,2001,https://openalex.org/W2130398583,Morphable 3D models from video,151,,,1
+IJCAI,2001,https://openalex.org/W2084341220,Complexity Results for Structure-Based Causality,4115,https://openalex.org/S12967704,Statistical Science,1
+SIGIR,2001,https://openalex.org/W2094661073,Temporal summaries of new topics,253,,,1
+SIGMOD,2001,https://openalex.org/W2163336863,Locally adaptive dimensionality reduction for indexing large time series databases,869,,,1
+VLDB,2001,https://openalex.org/W2130642985,Weaving Relations for Cache Performance,326,,,1
+AAAI,2000,https://openalex.org/W2096678443,The Game of Hex: An Automatic Theorem-Proving Approach to Game Programming,36,,,1
+AAAI,2000,https://openalex.org/W2284662111,Automatic Invention of Integer Sequences,31,https://openalex.org/S4306400321,Edinburgh Research Explorer (University of Edinburgh),1
+AAAI,2000,https://openalex.org/W2118119027,Statistics-Based Summarization -- Step One: Sentence Compression,405,,,1
+AAAI,2000,https://openalex.org/W2103552898,Local Search Characteristics of Incomplete SAT Procedures,39,,,1
+CVPR,2000,https://openalex.org/W2159128898,Real-Time Tracking of Non-Rigid Objects using Mean Shift,2914,,,1
+OSDI,2000,https://openalex.org/W4235785239,"Checking System Rules Using System-Specific, Programmer-Written Compiler Extensions",177,,,1
+SIGIR,2000,https://openalex.org/W1985554184,IR evaluation methods for retrieving highly relevant documents,1457,https://openalex.org/S6756005,ACM SIGIR Forum,1
+SIGMOD,2000,https://openalex.org/W4235095233,XMill: an efficient compressor for XML data,200,,,1

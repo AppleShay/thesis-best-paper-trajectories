@@ -1,0 +1,1063 @@
+conference,year,openalex_id,title,cited_by_count,source_id,source_name,is_award
+AAAI,2018,https://openalex.org/W2963076818,Spatial Temporal Graph Convolutional Networks for Skeleton-Based Action Recognition,4646,https://openalex.org/S4210191458,Proceedings of the AAAI Conference on Artificial Intelligence,0
+AAAI,2018,https://openalex.org/W2964051675,Deeper Insights Into Graph Convolutional Networks for Semi-Supervised Learning,2489,https://openalex.org/S4210191458,Proceedings of the AAAI Conference on Artificial Intelligence,0
+AAAI,2018,https://openalex.org/W2728059831,Convolutional 2D Knowledge Graph Embeddings,2322,https://openalex.org/S4210191458,Proceedings of the AAAI Conference on Artificial Intelligence,0
+AAAI,2018,https://openalex.org/W2788403449,Anchors: High-Precision Model-Agnostic Explanations,2006,https://openalex.org/S4210191458,Proceedings of the AAAI Conference on Artificial Intelligence,0
+AAAI,2018,https://openalex.org/W2761873684,Rainbow: Combining Improvements in Deep Reinforcement Learning,1679,https://openalex.org/S4210191458,Proceedings of the AAAI Conference on Artificial Intelligence,0
+AAAI,2018,https://openalex.org/W2617547828,Counterfactual Multi-Agent Policy Gradients,1569,https://openalex.org/S4210191458,Proceedings of the AAAI Conference on Artificial Intelligence,0
+AAAI,2018,https://openalex.org/W2788919350,An End-to-End Deep Learning Architecture for Graph Classification,1470,https://openalex.org/S4210191458,Proceedings of the AAAI Conference on Artificial Intelligence,0
+AAAI,2018,https://openalex.org/W2754517384,Deep Reinforcement Learning That Matters,1446,https://openalex.org/S4210191458,Proceedings of the AAAI Conference on Artificial Intelligence,0
+AAAI,2018,https://openalex.org/W2760103357,FiLM: Visual Reasoning with a General Conditioning Layer,1419,https://openalex.org/S4210191458,Proceedings of the AAAI Conference on Artificial Intelligence,0
+AAAI,2018,https://openalex.org/W2963043696,Learning to Generalize: Meta-Learning for Domain Generalization,1183,https://openalex.org/S4210191458,Proceedings of the AAAI Conference on Artificial Intelligence,0
+CHI,2018,https://openalex.org/W2902417118,"Cultural additivity: behavioural insights from the interaction of Confucianism, Buddhism and Taoism in folktales",472,https://openalex.org/S2737936280,Palgrave Communications,0
+CHI,2018,https://openalex.org/W2883789863,Pharming animals: a global history of antibiotics in food production (1935–2017),376,https://openalex.org/S2737936280,Palgrave Communications,0
+CHI,2018,https://openalex.org/W2896537918,The evolving response to antibiotic resistance (1945–2018),219,https://openalex.org/S2737936280,Palgrave Communications,0
+CHI,2018,https://openalex.org/W2804274284,Socially mediated populism: the communicative strategies of political leaders on Facebook,185,https://openalex.org/S2737936280,Palgrave Communications,0
+CHI,2018,https://openalex.org/W2810862855,Right-wing populism and the dynamics of style: a discourse-analytic perspective on mediated political performances,138,https://openalex.org/S2737936280,Palgrave Communications,0
+CHI,2018,https://openalex.org/W2787443769,What has economics got to do with it? The impact of socioeconomic factors on mental health and the case for collective action,127,https://openalex.org/S2737936280,Palgrave Communications,0
+CHI,2018,https://openalex.org/W2875242420,An introduction to achieving policy impact for early career researchers,122,https://openalex.org/S2737936280,Palgrave Communications,0
+CHI,2018,https://openalex.org/W2790037481,The Prevent strategy and the UK ‘war on terror’: embedding infrastructures of surveillance in Muslim communities,118,https://openalex.org/S2737936280,Palgrave Communications,0
+CHI,2018,https://openalex.org/W2796031215,Will the Sustainable Development Goals be fulfilled? Assessing present and future global poverty,117,https://openalex.org/S2737936280,Palgrave Communications,0
+CHI,2018,https://openalex.org/W2804137819,Healthy publics: enabling cultures and environments for health,114,https://openalex.org/S2737936280,Palgrave Communications,0
+CHI,2018,https://openalex.org/W2784752296,The potential of comics in science communication,233,https://openalex.org/S4210212669,Journal of Science Communication,0
+CHI,2018,https://openalex.org/W2810831265,What do people know about climate change ― and how confident are they? On measurements and analyses of science related knowledge,51,https://openalex.org/S4210212669,Journal of Science Communication,0
+CHI,2018,https://openalex.org/W2792048062,AI writing bots are about to revolutionise science journalism: we must shape how this is done,39,https://openalex.org/S4210212669,Journal of Science Communication,0
+CHI,2018,https://openalex.org/W2891629907,Structure and development of science communication research: co-citation analysis of a developing field,38,https://openalex.org/S4210212669,Journal of Science Communication,0
+CHI,2018,https://openalex.org/W2891979380,Digging deeper? Muddling through? How environmental activists make sense and use of science —an exploratory study,36,https://openalex.org/S4210212669,Journal of Science Communication,0
+CHI,2018,https://openalex.org/W2808814610,"Communicating data: interactive infographics, scientific data and credibility",34,https://openalex.org/S4210212669,Journal of Science Communication,0
+CHI,2018,https://openalex.org/W2785317911,Appealing to different motivations in a message to recruit citizen scientists: results of a field experiment,29,https://openalex.org/S4210212669,Journal of Science Communication,0
+CHI,2018,https://openalex.org/W2900157232,Ethics and practice in science communication,26,https://openalex.org/S4210212669,Journal of Science Communication,0
+CHI,2018,https://openalex.org/W2807896567,Speaking about science: a student-led training program improves graduate students' skills in public communication,25,https://openalex.org/S4210212669,Journal of Science Communication,0
+CHI,2018,https://openalex.org/W2802268613,"Lots of data, lots of hurdles: aggregating usage information from distributed Open Access repositories",1,https://openalex.org/S4210212669,Journal of Science Communication,0
+OSDI,2018,https://openalex.org/W2804032941,TVM: an automated end-to-end optimizing compiler for deep learning,909,https://openalex.org/S4306420647,Operating Systems Design and Implementation,0
+OSDI,2018,https://openalex.org/W2899160556,Pocket: elastic ephemeral storage for serverless analytics,159,https://openalex.org/S4306420647,Operating Systems Design and Implementation,0
+OSDI,2018,https://openalex.org/W2899435347,Graviton: trusted execution environments on GPUs,124,https://openalex.org/S4306420647,Operating Systems Design and Implementation,0
+OSDI,2018,https://openalex.org/W2899106940,Adaptive dynamic checkpointing for safe efficient intermittent computing,92,https://openalex.org/S4306420647,Operating Systems Design and Implementation,0
+OSDI,2018,https://openalex.org/W2898855235,Neural adaptive content-aware internet video delivery,88,https://openalex.org/S4306420647,Operating Systems Design and Implementation,0
+OSDI,2018,https://openalex.org/W2898662556,Write-optimized and high-performance hashing index scheme for persistent memory,87,https://openalex.org/S4306420647,Operating Systems Design and Implementation,0
+OSDI,2018,https://openalex.org/W2898662643,Floem: a programming system for NIC-accelerated network applications,65,https://openalex.org/S4306420647,Operating Systems Design and Implementation,0
+OSDI,2018,https://openalex.org/W2899117404,Taming performance variability,63,https://openalex.org/S4306420647,Operating Systems Design and Implementation,0
+OSDI,2018,https://openalex.org/W2899225507,Deconstructing RDMA-enabled distributed transactions: hybrid is better,63,https://openalex.org/S4306420647,Operating Systems Design and Implementation,0
+OSDI,2018,https://openalex.org/W2899472238,"Three steps is all you need: fast, accurate, automatic scaling decisions for distributed streaming dataflows",57,https://openalex.org/S4306420647,Operating Systems Design and Implementation,0
+OSDI,2018,https://openalex.org/W2804032941,TVM: an automated end-to-end optimizing compiler for deep learning,909,https://openalex.org/S4306420647,Operating Systems Design and Implementation,0
+OSDI,2018,https://openalex.org/W2899160556,Pocket: elastic ephemeral storage for serverless analytics,159,https://openalex.org/S4306420647,Operating Systems Design and Implementation,0
+OSDI,2018,https://openalex.org/W2899435347,Graviton: trusted execution environments on GPUs,124,https://openalex.org/S4306420647,Operating Systems Design and Implementation,0
+OSDI,2018,https://openalex.org/W2899106940,Adaptive dynamic checkpointing for safe efficient intermittent computing,92,https://openalex.org/S4306420647,Operating Systems Design and Implementation,0
+OSDI,2018,https://openalex.org/W2898855235,Neural adaptive content-aware internet video delivery,88,https://openalex.org/S4306420647,Operating Systems Design and Implementation,0
+OSDI,2018,https://openalex.org/W2898662556,Write-optimized and high-performance hashing index scheme for persistent memory,87,https://openalex.org/S4306420647,Operating Systems Design and Implementation,0
+OSDI,2018,https://openalex.org/W2898662643,Floem: a programming system for NIC-accelerated network applications,65,https://openalex.org/S4306420647,Operating Systems Design and Implementation,0
+OSDI,2018,https://openalex.org/W2899117404,Taming performance variability,63,https://openalex.org/S4306420647,Operating Systems Design and Implementation,0
+OSDI,2018,https://openalex.org/W2899225507,Deconstructing RDMA-enabled distributed transactions: hybrid is better,63,https://openalex.org/S4306420647,Operating Systems Design and Implementation,0
+OSDI,2018,https://openalex.org/W2899472238,"Three steps is all you need: fast, accurate, automatic scaling decisions for distributed streaming dataflows",57,https://openalex.org/S4306420647,Operating Systems Design and Implementation,0
+OSDI,2018,https://openalex.org/W2804032941,TVM: an automated end-to-end optimizing compiler for deep learning,909,https://openalex.org/S4306420647,Operating Systems Design and Implementation,0
+OSDI,2018,https://openalex.org/W2899160556,Pocket: elastic ephemeral storage for serverless analytics,159,https://openalex.org/S4306420647,Operating Systems Design and Implementation,0
+OSDI,2018,https://openalex.org/W2899435347,Graviton: trusted execution environments on GPUs,124,https://openalex.org/S4306420647,Operating Systems Design and Implementation,0
+OSDI,2018,https://openalex.org/W2899106940,Adaptive dynamic checkpointing for safe efficient intermittent computing,92,https://openalex.org/S4306420647,Operating Systems Design and Implementation,0
+OSDI,2018,https://openalex.org/W2898855235,Neural adaptive content-aware internet video delivery,88,https://openalex.org/S4306420647,Operating Systems Design and Implementation,0
+OSDI,2018,https://openalex.org/W2898662556,Write-optimized and high-performance hashing index scheme for persistent memory,87,https://openalex.org/S4306420647,Operating Systems Design and Implementation,0
+OSDI,2018,https://openalex.org/W2898662643,Floem: a programming system for NIC-accelerated network applications,65,https://openalex.org/S4306420647,Operating Systems Design and Implementation,0
+OSDI,2018,https://openalex.org/W2899117404,Taming performance variability,63,https://openalex.org/S4306420647,Operating Systems Design and Implementation,0
+OSDI,2018,https://openalex.org/W2899225507,Deconstructing RDMA-enabled distributed transactions: hybrid is better,63,https://openalex.org/S4306420647,Operating Systems Design and Implementation,0
+OSDI,2018,https://openalex.org/W2899472238,"Three steps is all you need: fast, accurate, automatic scaling decisions for distributed streaming dataflows",57,https://openalex.org/S4306420647,Operating Systems Design and Implementation,0
+SIGMETRICS,2018,https://openalex.org/W4252654521,Distributed Statistical Machine Learning in Adversarial Settings,351,https://openalex.org/S4210193547,Proceedings of the ACM on Measurement and Analysis of Computing Systems,0
+SIGMETRICS,2018,https://openalex.org/W2731312897,Expected Values Estimated via Mean-Field Approximation are 1/N-Accurate,58,https://openalex.org/S4210193547,Proceedings of the ACM on Measurement and Analysis of Computing Systems,0
+SIGMETRICS,2018,https://openalex.org/W2997613220,Understanding Reduced-Voltage Operation in Modern DRAM Devices,52,https://openalex.org/S4210193547,Proceedings of the ACM on Measurement and Analysis of Computing Systems,0
+SIGMETRICS,2018,https://openalex.org/W3005736915,Designing Low-Complexity Heavy-Traffic Delay-Optimal Load Balancing Schemes,44,https://openalex.org/S4210193547,Proceedings of the ACM on Measurement and Analysis of Computing Systems,0
+SIGMETRICS,2018,https://openalex.org/W4241517995,Dandelion,40,https://openalex.org/S4210193547,Proceedings of the ACM on Measurement and Analysis of Computing Systems,0
+SIGMETRICS,2018,https://openalex.org/W2951258124,Optimal Posted Prices for Online Cloud Resource Allocation,29,https://openalex.org/S4210193547,Proceedings of the ACM on Measurement and Analysis of Computing Systems,0
+SIGMETRICS,2018,https://openalex.org/W3010484576,Quality and Cost of Deterministic Network Calculus,26,https://openalex.org/S4210193547,Proceedings of the ACM on Measurement and Analysis of Computing Systems,0
+SIGMETRICS,2018,https://openalex.org/W4233386150,Design-Induced Latency Variation in Modern DRAM Chips,25,https://openalex.org/S4210193547,Proceedings of the ACM on Measurement and Analysis of Computing Systems,0
+SIGMETRICS,2018,https://openalex.org/W2949192595,Optimal Service Elasticity in Large-Scale Distributed Systems,24,https://openalex.org/S4210193547,Proceedings of the ACM on Measurement and Analysis of Computing Systems,0
+SIGMETRICS,2018,https://openalex.org/W2949495319,Towards Optimality in Parallel Scheduling,18,https://openalex.org/S4210193547,Proceedings of the ACM on Measurement and Analysis of Computing Systems,0
+SODA,2018,https://openalex.org/W2800203331,Trends in China's anthropogenic emissions since 2010 as the consequence of clean air actions,2815,https://openalex.org/S162708223,Atmospheric chemistry and physics,0
+SODA,2018,https://openalex.org/W2737721127,The Ozone Monitoring Instrument: overview of 14 years in space,498,https://openalex.org/S162708223,Atmospheric chemistry and physics,0
+SODA,2018,https://openalex.org/W2766974099,"Non-methane organic gas emissions from biomass burning: identification, quantification, and emission factors from PTR-ToF during the FIREX 2016 laboratory experiment",436,https://openalex.org/S162708223,Atmospheric chemistry and physics,0
+SODA,2018,https://openalex.org/W2786588599,Random forest meteorological normalisation models for Swiss PM <sub>10</sub> trend analysis,419,https://openalex.org/S162708223,Atmospheric chemistry and physics,0
+SODA,2018,https://openalex.org/W2745970488,"The Network for the Detection of Atmospheric Composition Change (NDACC): history, status and perspectives",380,https://openalex.org/S162708223,Atmospheric chemistry and physics,0
+SODA,2018,https://openalex.org/W2786941826,Evidence for a continuous decline in lower stratospheric ozone offsetting ozone layer recovery,375,https://openalex.org/S162708223,Atmospheric chemistry and physics,0
+SODA,2018,https://openalex.org/W2747050720,Agricultural ammonia emissions in China: reconciling bottom-up and top-down estimates,374,https://openalex.org/S162708223,Atmospheric chemistry and physics,0
+SODA,2018,https://openalex.org/W2900379721,Relationships between the planetary boundary layer height and surface pollutants derived from lidar observations over China: regional pattern and influencing factors,351,https://openalex.org/S162708223,Atmospheric chemistry and physics,0
+SODA,2018,https://openalex.org/W2797722950,Wintertime photochemistry in Beijing: observations of RO <sub> <i>x</i> </sub> radical concentrations in the North China Plain during the BEST-ONE campaign,331,https://openalex.org/S162708223,Atmospheric chemistry and physics,0
+SODA,2018,https://openalex.org/W2888494744,"Depolarization and lidar ratios at 355, 532, and 1064 nm and microphysical properties of aged tropospheric and stratospheric Canadian wildfire smoke",307,https://openalex.org/S162708223,Atmospheric chemistry and physics,0
+SODA,2018,https://openalex.org/W2951747536,Hierarchical Clustering,193,https://openalex.org/S118992489,Journal of the ACM,0
+SODA,2018,https://openalex.org/W2909539666,Near Optimal Online Algorithms and Fast Approximation Algorithms for Resource Allocation Problems,81,https://openalex.org/S118992489,Journal of the ACM,0
+SODA,2018,https://openalex.org/W2991150483,The Weisfeiler--Leman Dimension of Planar Graphs Is at Most 3,37,https://openalex.org/S118992489,Journal of the ACM,0
+SODA,2018,https://openalex.org/W2914272038,Uniform Sampling Through the Lovász Local Lemma,42,https://openalex.org/S118992489,Journal of the ACM,0
+SODA,2018,https://openalex.org/W2938658492,"Approximate Counting, the Lovász Local Lemma, and Inference in Graphical Models",33,https://openalex.org/S118992489,Journal of the ACM,0
+SODA,2018,https://openalex.org/W2921785090,Approaching 3/2 for the <i>s</i> - <i>t</i> -path TSP,30,https://openalex.org/S118992489,Journal of the ACM,0
+SODA,2018,https://openalex.org/W2968783941,On the Parameterized Complexity of Approximating Dominating Set,30,https://openalex.org/S118992489,Journal of the ACM,0
+SODA,2018,https://openalex.org/W2950407838,"Nonhomogeneous Place-dependent Markov Chains, Unsynchronised AIMD, and Optimisation",15,https://openalex.org/S118992489,Journal of the ACM,0
+SODA,2018,https://openalex.org/W2950127069,The Salesman’s Improved Paths through Forests,14,https://openalex.org/S118992489,Journal of the ACM,0
+SODA,2018,https://openalex.org/W2951182186,Toward Verifying Nonlinear Integer Arithmetic,5,https://openalex.org/S118992489,Journal of the ACM,0
+VLDB,2018,https://openalex.org/W2896735034,"A Systematic Review of Social Presence: Definition, Antecedents, and Implications",891,https://openalex.org/S2595095599,Frontiers in Robotics and AI,0
+VLDB,2018,https://openalex.org/W2806760695,Avatar Embodiment. Towards a Standardized Questionnaire,462,https://openalex.org/S2595095599,Frontiers in Robotics and AI,0
+VLDB,2018,https://openalex.org/W2792435043,Meaningful Human Control over Autonomous Systems: A Philosophical Account,410,https://openalex.org/S2595095599,Frontiers in Robotics and AI,0
+VLDB,2018,https://openalex.org/W2807783427,Immersive VR and Education: Embodied Design Principles That Include Gesture and Hand Controls,345,https://openalex.org/S2595095599,Frontiers in Robotics and AI,0
+VLDB,2018,https://openalex.org/W2889529934,Soft Robots Manufacturing: A Review,321,https://openalex.org/S2595095599,Frontiers in Robotics and AI,0
+VLDB,2018,https://openalex.org/W2791303701,Learning Empathy Through Virtual Reality: Multiple Strategies for Training Empathy-Related Abilities Using Body Ownership Illusions in Embodied Virtual Reality,272,https://openalex.org/S2595095599,Frontiers in Robotics and AI,0
+VLDB,2018,https://openalex.org/W2805031923,Cooperative Object Transport in Multi-Robot Systems: A Review of the State-of-the-Art,214,https://openalex.org/S2595095599,Frontiers in Robotics and AI,0
+VLDB,2018,https://openalex.org/W2807119323,Passive Back Support Exoskeleton Improves Range of Motion Using Flexible Beams,195,https://openalex.org/S2595095599,Frontiers in Robotics and AI,0
+VLDB,2018,https://openalex.org/W2790610816,A Review of Future and Ethical Perspectives of Robotics and AI,173,https://openalex.org/S2595095599,Frontiers in Robotics and AI,0
+VLDB,2018,https://openalex.org/W2801932927,"Rationale, Implementation and Evaluation of Assistive Strategies for an Active Back-Support Exoskeleton",164,https://openalex.org/S2595095599,Frontiers in Robotics and AI,0
+AAAI,2017,https://openalex.org/W2274287116,"Inception-v4, Inception-ResNet and the Impact of Residual Connections on Learning",4483,https://openalex.org/S4210191458,Proceedings of the AAAI Conference on Artificial Intelligence,0
+AAAI,2017,https://openalex.org/W2964268978,SeqGAN: Sequence Generative Adversarial Nets with Policy Gradient,2265,https://openalex.org/S4210191458,Proceedings of the AAAI Conference on Artificial Intelligence,0
+AAAI,2017,https://openalex.org/W2528639018,Deep Spatio-Temporal Residual Networks for Citywide Crowd Flows Prediction,2097,https://openalex.org/S4210191458,Proceedings of the AAAI Conference on Artificial Intelligence,0
+AAAI,2017,https://openalex.org/W2561529111,ConceptNet 5.5: An Open Multilingual Graph of General Knowledge,2013,https://openalex.org/S4210191458,Proceedings of the AAAI Conference on Artificial Intelligence,0
+AAAI,2017,https://openalex.org/W2952138241,SummaRuNNer: A Recurrent Neural Network Based Sequence Model for Extractive Summarization of Documents,949,https://openalex.org/S4210191458,Proceedings of the AAAI Conference on Artificial Intelligence,0
+AAAI,2017,https://openalex.org/W2604942799,Community Preserving Network Embedding,917,https://openalex.org/S4210191458,Proceedings of the AAAI Conference on Artificial Intelligence,0
+AAAI,2017,https://openalex.org/W2963697299,Robust Loss Functions under Label Noise for Deep Neural Networks,888,https://openalex.org/S4210191458,Proceedings of the AAAI Conference on Artificial Intelligence,0
+AAAI,2017,https://openalex.org/W2550687635,TextBoxes: A Fast Text Detector with a Single Deep Neural Network,847,https://openalex.org/S4210191458,Proceedings of the AAAI Conference on Artificial Intelligence,0
+AAAI,2017,https://openalex.org/W2950568498,An End-to-End Spatio-Temporal Attention Model for Human Action Recognition from Skeleton Data,838,https://openalex.org/S4210191458,Proceedings of the AAAI Conference on Artificial Intelligence,0
+AAAI,2017,https://openalex.org/W2604723872,Multi-View Clustering and Semi-Supervised Classification with Adaptive Neighbours,556,https://openalex.org/S4210191458,Proceedings of the AAAI Conference on Artificial Intelligence,0
+CHI,2017,https://openalex.org/W2622458265,Re-examining the Unified Theory of Acceptance and Use of Technology (UTAUT): Towards a Revised Theoretical Model,1830,https://openalex.org/S181659395,Information Systems Frontiers,0
+CHI,2017,https://openalex.org/W2621621268,Integrating cognitive antecedents into TAM to explain mobile banking behavioral intention: A SEM-neural network modeling,218,https://openalex.org/S181659395,Information Systems Frontiers,0
+CHI,2017,https://openalex.org/W2772642027,Privacy and Personalization in Continued Usage Intention of Mobile Banking: An Integrative Perspective,137,https://openalex.org/S181659395,Information Systems Frontiers,0
+CHI,2017,https://openalex.org/W2781398974,The Impact of Social Media on Consumers’ Acculturation and Purchase Intentions,122,https://openalex.org/S181659395,Information Systems Frontiers,0
+CHI,2017,https://openalex.org/W2584283192,Understanding mobile hotel booking loyalty: an integration of privacy calculus theory and trust-risk framework,119,https://openalex.org/S181659395,Information Systems Frontiers,0
+CHI,2017,https://openalex.org/W2596910185,Driving public sector innovation using big and open linked data (BOLD),114,https://openalex.org/S181659395,Information Systems Frontiers,0
+CHI,2017,https://openalex.org/W2752900252,User Personality and User Satisfaction with Recommender Systems,110,https://openalex.org/S181659395,Information Systems Frontiers,0
+CHI,2017,https://openalex.org/W2577932382,"Crowdsourcing roles, methods and tools for data-intensive disaster management",108,https://openalex.org/S181659395,Information Systems Frontiers,0
+CHI,2017,https://openalex.org/W2605544885,Risks and rewards of cloud computing in the UK public sector: A reflection on three Organisational case studies,103,https://openalex.org/S181659395,Information Systems Frontiers,0
+CHI,2017,https://openalex.org/W2761189529,Analysis of Factors that Influence Customers’ Willingness to Leave Big Data Digital Footprints on Social Media: A Systematic Review of Literature,102,https://openalex.org/S181659395,Information Systems Frontiers,0
+CHI,2017,https://openalex.org/W2625216095,Limestone calcined clay cement as a low-carbon solution to meet expanding cement demand in emerging economies,281,https://openalex.org/S2898590181,Development Engineering,0
+CHI,2017,https://openalex.org/W2573381006,Insulated Solar Electric Cooking – Tomorrow's healthy affordable stoves?,37,https://openalex.org/S2898590181,Development Engineering,0
+CHI,2017,https://openalex.org/W2763431508,Piloting the use of accelerometry devices to capture energy expenditure in agricultural and rural livelihoods: Protocols and findings from northern Ghana,35,https://openalex.org/S2898590181,Development Engineering,0
+CHI,2017,https://openalex.org/W2774660002,Estimating the price (in)elasticity of off-grid electricity demand,20,https://openalex.org/S2898590181,Development Engineering,0
+CHI,2017,https://openalex.org/W2772731311,The double-edged sword of mobilizing citizens via mobile phone in developing countries,20,https://openalex.org/S2898590181,Development Engineering,0
+CHI,2017,https://openalex.org/W2728030092,Cost effectiveness of medical devices to diagnose pre-eclampsia in low-resource settings,18,https://openalex.org/S2898590181,Development Engineering,0
+CHI,2017,https://openalex.org/W2740930656,Adoption of energy-efficient televisions for expanded off-grid electricity service,11,https://openalex.org/S2898590181,Development Engineering,0
+CHI,2017,https://openalex.org/W2729260836,Natural gas to improve energy security in Small Island Developing States: A techno-economic analysis,10,https://openalex.org/S2898590181,Development Engineering,0
+CHI,2017,https://openalex.org/W2606344399,Rapid prototyping a school-based health program in the developing world,6,https://openalex.org/S2898590181,Development Engineering,0
+CHI,2017,https://openalex.org/W4246531139,Editorial Board (IFC),0,https://openalex.org/S2898590181,Development Engineering,0
+CHI,2017,https://openalex.org/W2575823937,Electrocatalysis for the oxygen evolution reaction: recent development and future perspectives,5968,https://openalex.org/S316438,Chemical Society Reviews,0
+CHI,2017,https://openalex.org/W2603442821,Sodium-ion batteries: present and future,4895,https://openalex.org/S316438,Chemical Society Reviews,0
+CHI,2017,https://openalex.org/W2610608721,Metal–organic frameworks: functional luminescent and photonic materials for sensing applications,2990,https://openalex.org/S316438,Chemical Society Reviews,0
+CHI,2017,https://openalex.org/W2624317658,Cellular uptake of nanoparticles: journey inside the cell,2608,https://openalex.org/S316438,Chemical Society Reviews,0
+CHI,2017,https://openalex.org/W2582344271,Recent advances in organic thermally activated delayed fluorescence materials,2299,https://openalex.org/S316438,Chemical Society Reviews,0
+CHI,2017,https://openalex.org/W2753377532,Latest advances in supercapacitors: from new electrode materials to novel device designs,1937,https://openalex.org/S316438,Chemical Society Reviews,0
+CHI,2017,https://openalex.org/W2763434265,"Fluorescent chemosensors: the past, present and future",1909,https://openalex.org/S316438,Chemical Society Reviews,0
+CHI,2017,https://openalex.org/W2626830377,Metal–organic frameworks meet metal nanoparticles: synergistic effect for enhanced catalysis,1850,https://openalex.org/S316438,Chemical Society Reviews,0
+CHI,2017,https://openalex.org/W2668221079,Photoelectrochemical devices for solar water splitting – materials and challenges,1557,https://openalex.org/S316438,Chemical Society Reviews,0
+CHI,2017,https://openalex.org/W2734204036,Electromagnetic theories of surface-enhanced Raman spectroscopy,1462,https://openalex.org/S316438,Chemical Society Reviews,0
+SODA,2017,https://openalex.org/W2962844620,Input sparsity time low-rank approximation via ridge leverage score sampling,64,https://openalex.org/S4306420974,Symposium on Discrete Algorithms,0
+SODA,2017,https://openalex.org/W2962891378,Statistical query algorithms for mean vector estimation and stochastic convex optimization,36,https://openalex.org/S4306420974,Symposium on Discrete Algorithms,0
+SODA,2017,https://openalex.org/W2508647357,A hierarchy of lower bounds for sublinear additive spanners,35,https://openalex.org/S4306420974,Symposium on Discrete Algorithms,0
+SODA,2017,https://openalex.org/W2570014581,Deterministic partially dynamic single source shortest paths for sparse graphs,35,https://openalex.org/S4306420974,Symposium on Discrete Algorithms,0
+SODA,2017,https://openalex.org/W2570965098,LSH forest: practical algorithms made theoretical,17,https://openalex.org/S4306420974,Symposium on Discrete Algorithms,0
+SODA,2017,https://openalex.org/W2963497715,Find your place: simple distributed algorithms for community detection,17,https://openalex.org/S4306420974,Symposium on Discrete Algorithms,0
+SODA,2017,https://openalex.org/W2569902587,Better approximations for tree sparsity in nearly-linear time,22,https://openalex.org/S4306420974,Symposium on Discrete Algorithms,0
+SODA,2017,https://openalex.org/W2963060913,Random cluster dynamics for the ising model is rapidly mixing,21,https://openalex.org/S4306420974,Symposium on Discrete Algorithms,0
+SODA,2017,https://openalex.org/W2964013013,A framework for similarity search with space-time tradeoffs using locality-sensitive filtering,17,https://openalex.org/S4306420974,Symposium on Discrete Algorithms,0
+SODA,2017,https://openalex.org/W2962708254,Computing minimum cuts in hypergraphs,15,https://openalex.org/S4306420974,Symposium on Discrete Algorithms,0
+VLDB,2017,https://openalex.org/W2769041395,Snorkel,731,https://openalex.org/S4210226185,Proceedings of the VLDB Endowment,0
+VLDB,2017,https://openalex.org/W2591700809,HoloClean,438,https://openalex.org/S4210226185,Proceedings of the VLDB Endowment,0
+VLDB,2017,https://openalex.org/W2585226541,Truth inference in crowdsourcing,419,https://openalex.org/S4210226185,Proceedings of the VLDB Endowment,0
+VLDB,2017,https://openalex.org/W2752236330,NoScope,354,https://openalex.org/S4210226185,Proceedings of the VLDB Endowment,0
+VLDB,2017,https://openalex.org/W2728796024,An experimental evaluation of point-of-interest recommendation in location-based social networks,304,https://openalex.org/S4210226185,Proceedings of the VLDB Endowment,0
+VLDB,2017,https://openalex.org/W2753910905,Samza,251,https://openalex.org/S4210226185,Proceedings of the VLDB Endowment,0
+VLDB,2017,https://openalex.org/W2621145626,Attribute-driven community search,238,https://openalex.org/S4210226185,Proceedings of the VLDB Endowment,0
+VLDB,2017,https://openalex.org/W2752238980,State management in Apache Flink®,228,https://openalex.org/S4210226185,Proceedings of the VLDB Endowment,0
+VLDB,2017,https://openalex.org/W2594188495,Effective community search over large spatial graphs,210,https://openalex.org/S4210226185,Proceedings of the VLDB Endowment,0
+VLDB,2017,https://openalex.org/W2584356431,KBQA,199,https://openalex.org/S4210226185,Proceedings of the VLDB Endowment,0
+AAAI,2016,https://openalex.org/W2256531418,The future of thematic children’s rights institutions in a national human rights institution world: The Paris Principles and the UN Committee on the Rights of the Child,32,https://openalex.org/S7407053046,University of Alberta Library,0
+AAAI,2016,https://openalex.org/W2153085504,Non-Consequentialism Demystified,18,https://openalex.org/S7407053046,University of Alberta Library,0
+AAAI,2016,https://openalex.org/W2566958553,Reading risk in online news articles about artificial intelligence,12,https://openalex.org/S7407053046,University of Alberta Library,0
+AAAI,2016,https://openalex.org/W2175262719,Forms of Capital as Facilitators of Internationally Educated Nurses’ Integration into the Registered Nursing Workforce in Canada,9,https://openalex.org/S7407053046,University of Alberta Library,0
+AAAI,2016,https://openalex.org/W2182082243,Live-in Caregivers in Fort McMurray: a Socioeconomic Footprint,5,https://openalex.org/S7407053046,University of Alberta Library,0
+AAAI,2016,https://openalex.org/W2792928757,Optimizing adoption and diffusion of medical devices at the system level,6,https://openalex.org/S7407053046,University of Alberta Library,0
+AAAI,2016,https://openalex.org/W2132025224,The Changing Health of Canadian Grandparents,5,https://openalex.org/S7407053046,University of Alberta Library,0
+AAAI,2016,https://openalex.org/W2802489915,"Bioarchaeology of the Indus Valley Civilization: Biological Affinities, Paleopathology, and Chemical Analyses",5,https://openalex.org/S7407053046,University of Alberta Library,0
+AAAI,2016,https://openalex.org/W2258036972,"It's all about, like, acoustics",4,https://openalex.org/S7407053046,University of Alberta Library,0
+AAAI,2016,https://openalex.org/W2792667311,Supporting students' self-determined motivation to learn languages,4,https://openalex.org/S7407053046,University of Alberta Library,0
+CHI,2016,https://openalex.org/W2301203322,Erotic Curse Tablets from the Heroön of Opheltes at Nemea,19,https://openalex.org/S4306402644,Digital Repository at the University of Maryland (University of Maryland College Park),0
+CHI,2016,https://openalex.org/W2760137351,Musical Training: Contributions to Executive Function,14,https://openalex.org/S4306402644,Digital Repository at the University of Maryland (University of Maryland College Park),0
+CHI,2016,https://openalex.org/W2533582421,WORKPLACE HAPPINESS: ORGANIZATIONAL ROLE AND THE RELIABILITY OF SELF-REPORTING,10,https://openalex.org/S4306402644,Digital Repository at the University of Maryland (University of Maryland College Park),0
+CHI,2016,https://openalex.org/W2527659636,Harmonization of Life Cycle Climate Performance and Its Improvements for Heat Pump Applications,7,https://openalex.org/S4306402644,Digital Repository at the University of Maryland (University of Maryland College Park),0
+CHI,2016,https://openalex.org/W2491367101,The Effect of Package Geometry on Moisture Driven Degradation of Polymer Aluminum Capacitors,5,https://openalex.org/S4306402644,Digital Repository at the University of Maryland (University of Maryland College Park),0
+CHI,2016,https://openalex.org/W2601728376,Laboratory Studies on the Generation of Firebrands from Cylindrical Wooden Dowels,5,https://openalex.org/S4306402644,Digital Repository at the University of Maryland (University of Maryland College Park),0
+CHI,2016,https://openalex.org/W2602897194,IGNITION QUALITY TESTER CHARACTERIZATION WITH PURE COMPONENT AND CONVENTIONAL NAVY FUELS,5,https://openalex.org/S4306402644,Digital Repository at the University of Maryland (University of Maryland College Park),0
+CHI,2016,https://openalex.org/W3100271217,Data Cleaning for XML Electronic Dictionaries via Statistical Anomaly Detection,5,https://openalex.org/S4306402644,Digital Repository at the University of Maryland (University of Maryland College Park),0
+CHI,2016,https://openalex.org/W2589658581,Empathy in parents and children: Links to preschoolers' attachment and aggression,6,https://openalex.org/S4306402644,Digital Repository at the University of Maryland (University of Maryland College Park),0
+CHI,2016,https://openalex.org/W2506804037,Fighting Evasive Malware with DVasion,5,https://openalex.org/S4306402644,Digital Repository at the University of Maryland (University of Maryland College Park),0
+CHI,2016,https://openalex.org/W4246020514,Causal Case Study Methods,270,https://openalex.org/S4306464181,University of Michigan Press eBooks,0
+CHI,2016,https://openalex.org/W2588490979,Forging the World,218,https://openalex.org/S4306464181,University of Michigan Press eBooks,0
+CHI,2016,https://openalex.org/W2259558515,Undertaking Discourse Analysis for Social Research,202,https://openalex.org/S4306464181,University of Michigan Press eBooks,0
+CHI,2016,https://openalex.org/W2467244311,War on Autism,119,https://openalex.org/S4306464181,University of Michigan Press eBooks,0
+CHI,2016,https://openalex.org/W2468757982,The Topography of Violence in the Greco-Roman World,111,https://openalex.org/S4306464181,University of Michigan Press eBooks,0
+CHI,2016,https://openalex.org/W2587068982,Body Parts of Empire,81,https://openalex.org/S4306464181,University of Michigan Press eBooks,0
+CHI,2016,https://openalex.org/W2595306947,Water and Politics,79,https://openalex.org/S4306464181,University of Michigan Press eBooks,0
+CHI,2016,https://openalex.org/W2494742484,The Republican Aventine and Rome’s Social Order,73,https://openalex.org/S4306464181,University of Michigan Press eBooks,0
+CHI,2016,https://openalex.org/W4299358243,African Print Cultures,70,https://openalex.org/S4306464181,University of Michigan Press eBooks,0
+CHI,2016,https://openalex.org/W4234994929,Hearing Harmony,68,https://openalex.org/S4306464181,University of Michigan Press eBooks,0
+IJCAI,2016,https://openalex.org/W2346353886,Electroencephalographic Motor Imagery Brain Connectivity Analysis for BCI: A Review,234,https://openalex.org/S207023548,Neural Computation,0
+IJCAI,2016,https://openalex.org/W2465126939,A Mathematical Framework for Statistical Decision Confidence,115,https://openalex.org/S207023548,Neural Computation,0
+IJCAI,2016,https://openalex.org/W2550869724,Comparison of Different Generalizations of Clustering Coefficient and Local Efficiency for Weighted Undirected Graphs,95,https://openalex.org/S207023548,Neural Computation,0
+IJCAI,2016,https://openalex.org/W2308431372,Effect of Reference Scheme on Power and Phase of the Local Field Potential,88,https://openalex.org/S207023548,Neural Computation,0
+IJCAI,2016,https://openalex.org/W2279814016,Sampled-Data State Feedback Stabilization of Boolean Control Networks,79,https://openalex.org/S207023548,Neural Computation,0
+IJCAI,2016,https://openalex.org/W2518838526,Exponential Stability of Almost Periodic Solutions for Memristor-Based Neural Networks with Distributed Leakage Delays,71,https://openalex.org/S207023548,Neural Computation,0
+IJCAI,2016,https://openalex.org/W1745681373,An Infinite Restricted Boltzmann Machine,57,https://openalex.org/S207023548,Neural Computation,0
+IJCAI,2016,https://openalex.org/W2550390782,Time Series Decomposition into Oscillation Components and Phase Estimation,56,https://openalex.org/S207023548,Neural Computation,0
+IJCAI,2016,https://openalex.org/W2223051473,Dimensionality-Dependent Generalization Bounds for <i>k</i>-Dimensional Coding Schemes,47,https://openalex.org/S207023548,Neural Computation,0
+IJCAI,2016,https://openalex.org/W2538037731,Derivation of Human Chromatic Discrimination Ability from an Information-Theoretical Notion of Distance in Color Space,19,https://openalex.org/S207023548,Neural Computation,0
+OSDI,2016,https://openalex.org/W2402144811,TensorFlow: a system for large-scale machine learning,6325,https://openalex.org/S4306420647,Operating Systems Design and Implementation,0
+OSDI,2016,https://openalex.org/W2561955909,SCONE: secure Linux containers with Intel SGX,460,https://openalex.org/S4306420647,Operating Systems Design and Implementation,0
+OSDI,2016,https://openalex.org/W2524623326,Gemini: a computation-centric distributed graph processing system,252,https://openalex.org/S4306420647,Operating Systems Design and Implementation,0
+OSDI,2016,https://openalex.org/W2574582689,"FaSST: fast, scalable and simple distributed transactions with two-sided (RDMA) datagram RPCs",223,https://openalex.org/S4306420647,Operating Systems Design and Implementation,0
+OSDI,2016,https://openalex.org/W2579461576,NetBricks: taking the V out of NFV,219,https://openalex.org/S4306420647,Operating Systems Design and Implementation,0
+OSDI,2016,https://openalex.org/W2575735093,Ryoan: a distributed sandbox for untrusted computation on secret data,175,https://openalex.org/S4306420647,Operating Systems Design and Implementation,0
+OSDI,2016,https://openalex.org/W2528415359,Morpheus: towards automated SLOs for enterprise clusters,172,https://openalex.org/S4306420647,Operating Systems Design and Implementation,0
+OSDI,2016,https://openalex.org/W2578546025,CertiKOS: an extensible architecture for building certified concurrent OS kernels,162,https://openalex.org/S4306420647,Operating Systems Design and Implementation,0
+OSDI,2016,https://openalex.org/W2572234696,"Firmament: fast, centralized cluster scheduling at scale",154,https://openalex.org/S4306420647,Operating Systems Design and Implementation,0
+OSDI,2016,https://openalex.org/W2576355797,Graphene: packing and dependency-aware scheduling for data-parallel clusters,136,https://openalex.org/S4306420647,Operating Systems Design and Implementation,0
+SODA,2016,https://openalex.org/W2800485060,Known Algorithms on Graphs of Bounded Treewidth Are Probably Optimal,57,https://openalex.org/S137348503,ACM Transactions on Algorithms,0
+SODA,2016,https://openalex.org/W2810074797,Kernels for (Connected) Dominating Set on Graphs with Excluded Topological Minors,18,https://openalex.org/S137348503,ACM Transactions on Algorithms,0
+SODA,2016,https://openalex.org/W3160089363,Polynomial Kernels and Wideness Properties of Nowhere Dense Graph Classes,10,https://openalex.org/S137348503,ACM Transactions on Algorithms,0
+SODA,2016,https://openalex.org/W2963606058,Dynamic Time Warping and Geometric Edit Distance,74,https://openalex.org/S137348503,ACM Transactions on Algorithms,0
+SODA,2016,https://openalex.org/W2782000683,Scaling Algorithms for Weighted Matching in General Graphs,49,https://openalex.org/S137348503,ACM Transactions on Algorithms,0
+SODA,2016,https://openalex.org/W3160905013,Deterministic Algorithms for Submodular Maximization Problems,46,https://openalex.org/S137348503,ACM Transactions on Algorithms,0
+SODA,2016,https://openalex.org/W4230551286,Fully Polynomial-Time Parameterized Computations for Graphs and Matrices of Low Treewidth,43,https://openalex.org/S137348503,ACM Transactions on Algorithms,0
+SODA,2016,https://openalex.org/W2903797494,Subquadratic Algorithms for the Diameter and the Sum of Pairwise Distances in Planar Graphs,42,https://openalex.org/S137348503,ACM Transactions on Algorithms,0
+SODA,2016,https://openalex.org/W2900806478,Efficient Algorithms for Constructing Very Sparse Spanners and Emulators,38,https://openalex.org/S137348503,ACM Transactions on Algorithms,0
+SODA,2016,https://openalex.org/W2551688242,Data Structures for Weighted Matching and Extensions to <i>b</i> -matching and <i>f</i> -factors,31,https://openalex.org/S137348503,ACM Transactions on Algorithms,0
+VLDB,2016,https://openalex.org/W2766945679,A survey on provenance: What for? What form? What from?,258,https://openalex.org/S78926909,The VLDB Journal,0
+VLDB,2016,https://openalex.org/W2755385361,"Query optimization through the looking glass, and what we found running the Join Order Benchmark",140,https://openalex.org/S78926909,The VLDB Journal,0
+VLDB,2016,https://openalex.org/W2759385412,Effective and efficient attributed community search,108,https://openalex.org/S78926909,The VLDB Journal,0
+VLDB,2016,https://openalex.org/W2768361919,PACE: a PAth-CEntric paradigm for stochastic path finding,82,https://openalex.org/S78926909,The VLDB Journal,0
+VLDB,2016,https://openalex.org/W2619090416,Finding influential communities in massive networks,51,https://openalex.org/S78926909,The VLDB Journal,0
+VLDB,2016,https://openalex.org/W2588514192,Distributed shortest path query processing on dynamic road networks,38,https://openalex.org/S78926909,The VLDB Journal,0
+VLDB,2016,https://openalex.org/W2963985215,Geo-social group queries with minimum acquaintance constraints,72,https://openalex.org/S78926909,The VLDB Journal,0
+VLDB,2016,https://openalex.org/W2752854719,From conceptual design to performance optimization of ETL workflows: current state of research and open problems,64,https://openalex.org/S78926909,The VLDB Journal,0
+VLDB,2016,https://openalex.org/W2730215440,Secret sharing for cloud data security: a survey,59,https://openalex.org/S78926909,The VLDB Journal,0
+VLDB,2016,https://openalex.org/W2604600148,Argument discovery via crowdsourcing,53,https://openalex.org/S78926909,The VLDB Journal,0
+AAAI,2015,https://openalex.org/W2184957013,Learning Entity and Relation Embeddings for Knowledge Graph Completion,3590,https://openalex.org/S4210191458,Proceedings of the AAAI Conference on Artificial Intelligence,0
+AAAI,2015,https://openalex.org/W2294347342,The Network Data Repository with Interactive Graph Analytics and Visualization,2363,https://openalex.org/S4210191458,Proceedings of the AAAI Conference on Artificial Intelligence,0
+AAAI,2015,https://openalex.org/W2265846598,Recurrent Convolutional Neural Networks for Text Classification,2282,https://openalex.org/S4210191458,Proceedings of the AAAI Conference on Artificial Intelligence,0
+AAAI,2015,https://openalex.org/W2254249950,Obtaining Well Calibrated Probabilities Using Bayesian Binning,905,https://openalex.org/S4210191458,Proceedings of the AAAI Conference on Artificial Intelligence,0
+AAAI,2015,https://openalex.org/W2244405900,TrustSVD: Collaborative Filtering with Both the Explicit and Implicit Influence of User Trust and of Item Ratings,575,https://openalex.org/S4210191458,Proceedings of the AAAI Conference on Artificial Intelligence,0
+AAAI,2015,https://openalex.org/W297461772,Large-Scale Multi-View Spectral Clustering via Bipartite Graph,570,https://openalex.org/S4210191458,Proceedings of the AAAI Conference on Artificial Intelligence,0
+AAAI,2015,https://openalex.org/W2256388387,Self-Paced Curriculum Learning,488,https://openalex.org/S4210191458,Proceedings of the AAAI Conference on Artificial Intelligence,0
+AAAI,2015,https://openalex.org/W2963992782,Robust Image Sentiment Analysis Using Progressively Trained and Domain Transferred Deep Networks,468,https://openalex.org/S4210191458,Proceedings of the AAAI Conference on Artificial Intelligence,0
+AAAI,2015,https://openalex.org/W2200000192,Initializing Bayesian Hyperparameter Optimization via Meta-Learning,393,https://openalex.org/S4210191458,Proceedings of the AAAI Conference on Artificial Intelligence,0
+AAAI,2015,https://openalex.org/W2238728730,Topical Word Embeddings,389,https://openalex.org/S4210191458,Proceedings of the AAAI Conference on Artificial Intelligence,0
+CHI,2015,https://openalex.org/W2138071797,Consistent Partial Least Squares Path Modeling1,2546,https://openalex.org/S57293258,MIS Quarterly,0
+CHI,2015,https://openalex.org/W271526086,Service Innovation: A Service-Dominant Logic Perspective1,1830,https://openalex.org/S57293258,MIS Quarterly,0
+CHI,2015,https://openalex.org/W324885528,What Do Systems Users Have to Fear? Using Fear Appeals to Engender Threats and Fear that Motivate Protective Security Behaviors1,614,https://openalex.org/S57293258,MIS Quarterly,0
+CHI,2015,https://openalex.org/W1573877699,Distributed Tuning of Boundary Resources: The Case of Apple’s iOS Service System1,543,https://openalex.org/S57293258,MIS Quarterly,0
+CHI,2015,https://openalex.org/W1906951560,How Information Technology Governance Mechanisms and Strategic Alignment Influence Organizational Performance: Insights from a Matched Survey of Business and IT Managers1,539,https://openalex.org/S57293258,MIS Quarterly,0
+CHI,2015,https://openalex.org/W1923944066,Mobile Application Usability: Conceptualization and Instrument Development1,416,https://openalex.org/S57293258,MIS Quarterly,0
+CHI,2015,https://openalex.org/W129912261,An Enhanced Fear Appeal Rhetorical Framework: Leveraging Threats to the Human Asset Through Sanctioning RhetoriC1,404,https://openalex.org/S57293258,MIS Quarterly,0
+CHI,2015,https://openalex.org/W2224422582,Ambient Awareness and Knowledge Acquisition: Using Social Media to Learn “Who Knows What” and “Who Knows Whom”1,361,https://openalex.org/S57293258,MIS Quarterly,0
+CHI,2015,https://openalex.org/W2202316322,"Me, My Self, and I(T): Conceptualizing Information Technology Identity and ITS Implications1",294,https://openalex.org/S57293258,MIS Quarterly,0
+CHI,2015,https://openalex.org/W82733688,Increasing Accountability Through User-Interface Design Artifacts: A New Approach To Addressing the Problem of Access-Policy Violations1,277,https://openalex.org/S57293258,MIS Quarterly,0
+CHI,2015,https://openalex.org/W2341500856,The Biopolitics of Disability,396,https://openalex.org/S4306464181,University of Michigan Press eBooks,0
+CHI,2015,https://openalex.org/W2208765609,Foucault and the Government of Disability,332,https://openalex.org/S4306464181,University of Michigan Press eBooks,0
+CHI,2015,https://openalex.org/W4301810982,Campaign Finance and Political Polarization,202,https://openalex.org/S4306464181,University of Michigan Press eBooks,0
+CHI,2015,https://openalex.org/W1955624,The Politics of Subjectivity in American Foreign Policy Discourses,171,https://openalex.org/S4306464181,University of Michigan Press eBooks,0
+CHI,2015,https://openalex.org/W2177717590,The Latin American Voter,159,https://openalex.org/S4306464181,University of Michigan Press eBooks,0
+CHI,2015,https://openalex.org/W2300294484,Law and Transaction Costs in the Ancient Economy,124,https://openalex.org/S4306464181,University of Michigan Press eBooks,0
+CHI,2015,https://openalex.org/W4299955298,Monsters and Monstrosity in Augustan Poetry,121,https://openalex.org/S4306464181,University of Michigan Press eBooks,0
+CHI,2015,https://openalex.org/W4242638064,Rights Enabled,108,https://openalex.org/S4306464181,University of Michigan Press eBooks,0
+CHI,2015,https://openalex.org/W3167007713,Hallyu 2.0,104,https://openalex.org/S4306464181,University of Michigan Press eBooks,0
+CHI,2015,https://openalex.org/W2253294965,Clio's Other Sons,101,https://openalex.org/S4306464181,University of Michigan Press eBooks,0
+IJCAI,2015,https://openalex.org/W2295158492,"Framing Image Description as a Ranking Task: Data, Models and Evaluation Metrics (Extended Abstract)",27,https://openalex.org/S4306419999,International Joint Conference on Artificial Intelligence,0
+IJCAI,2015,https://openalex.org/W2408194337,Pattern structures for news clustering,6,https://openalex.org/S4306419999,International Joint Conference on Artificial Intelligence,0
+IJCAI,2015,https://openalex.org/W2398269580,Deep color semantics for E-commerce content-based image retrieval,7,https://openalex.org/S4306419999,International Joint Conference on Artificial Intelligence,0
+IJCAI,2015,https://openalex.org/W2402613125,Between belief bases and belief sets: partial meet contraction,6,https://openalex.org/S4306419999,International Joint Conference on Artificial Intelligence,0
+IJCAI,2015,https://openalex.org/W2395731926,Integrating Graphical Support with Reasoning in a Methodology for Ontology Evolution.,6,https://openalex.org/S4306419999,International Joint Conference on Artificial Intelligence,0
+IJCAI,2015,https://openalex.org/W2404575846,Finding explanations: an empirical evaluation of abductive diagnosis algorithms,6,https://openalex.org/S4306419999,International Joint Conference on Artificial Intelligence,0
+IJCAI,2015,https://openalex.org/W2296519941,Algorithm Runtime Prediction: Methods & Evaluation (Extended Abstract) .,5,https://openalex.org/S4306419999,International Joint Conference on Artificial Intelligence,0
+IJCAI,2015,https://openalex.org/W2404327768,Sofia: how to make FCA polynomial?,5,https://openalex.org/S4306419999,International Joint Conference on Artificial Intelligence,0
+IJCAI,2015,https://openalex.org/W2408611420,Military Ontologies for Information Dissemination at the Tactical Edge.,5,https://openalex.org/S4306419999,International Joint Conference on Artificial Intelligence,0
+IJCAI,2015,https://openalex.org/W2296385786,Complexity-Sensitive Decision Procedures for Abstract Argumentation (Extended Abstract),4,https://openalex.org/S4306419999,International Joint Conference on Artificial Intelligence,0
+IJCAI,2015,https://openalex.org/W2296438605,Deep learning for event-driven stock prediction,557,https://openalex.org/S4306419142,International Conference on Artificial Intelligence,0
+IJCAI,2015,https://openalex.org/W2296071000,Target-dependent twitter sentiment classification with rich automatic features,306,https://openalex.org/S4306419142,International Conference on Artificial Intelligence,0
+IJCAI,2015,https://openalex.org/W2394700483,Joint learning of character and word embeddings,247,https://openalex.org/S4306419142,International Conference on Artificial Intelligence,0
+IJCAI,2015,https://openalex.org/W2291880741,Convolutional neural tensor network architecture for community-based question answering,219,https://openalex.org/S4306419142,International Conference on Artificial Intelligence,0
+IJCAI,2015,https://openalex.org/W2406581873,A new simplex sparse learning model to measure data similarity for clustering,193,https://openalex.org/S4306419142,International Conference on Artificial Intelligence,0
+IJCAI,2015,https://openalex.org/W2213253086,Semantic topic multimodal hashing for cross-media retrieval,167,https://openalex.org/S4306419142,International Conference on Artificial Intelligence,0
+IJCAI,2015,https://openalex.org/W2274308990,Knowledge base completion using embeddings and rules,152,https://openalex.org/S4306419142,International Conference on Artificial Intelligence,0
+IJCAI,2015,https://openalex.org/W2217066517,User modeling with neural network for review rating prediction,137,https://openalex.org/S4306419142,International Conference on Artificial Intelligence,0
+IJCAI,2015,https://openalex.org/W2234079371,Automated rule selection for aspect extraction in opinion mining,120,https://openalex.org/S4306419142,International Conference on Artificial Intelligence,0
+IJCAI,2015,https://openalex.org/W2203034355,Integrated anchor and social link predictions across social networks,101,https://openalex.org/S4306419142,International Conference on Artificial Intelligence,0
+S&P,2015,https://openalex.org/W2163605009,ImageNet classification with deep convolutional neural networks,75544,https://openalex.org/S103482838,Communications of the ACM,0
+S&P,2015,https://openalex.org/W2540285146,BBR,826,https://openalex.org/S103482838,Communications of the ACM,0
+S&P,2015,https://openalex.org/W2617400317,Remaining trouble spots with computational thinking,422,https://openalex.org/S103482838,Communications of the ACM,0
+S&P,2015,https://openalex.org/W2599518471,Computational thinking for teacher education,325,https://openalex.org/S103482838,Communications of the ACM,0
+S&P,2015,https://openalex.org/W4293898435,Learnable programming,309,https://openalex.org/S103482838,Communications of the ACM,0
+S&P,2015,https://openalex.org/W2778126034,Decentralized blockchain-based electronic marketplaces,262,https://openalex.org/S103482838,Communications of the ACM,0
+S&P,2015,https://openalex.org/W2752726215,Bitcoin's academic pedigree,240,https://openalex.org/S103482838,Communications of the ACM,0
+S&P,2015,https://openalex.org/W2776398026,Healthcare robotics,234,https://openalex.org/S103482838,Communications of the ACM,0
+S&P,2015,https://openalex.org/W2599436010,A service computing manifesto,222,https://openalex.org/S103482838,Communications of the ACM,0
+S&P,2015,https://openalex.org/W2583228413,Model learning,207,https://openalex.org/S103482838,Communications of the ACM,0
+SIGMETRICS,2015,https://openalex.org/W1497601926,Using Straggler Replication to Reduce Latency in Large-scale Parallel Computing,131,https://openalex.org/S4210187660,ACM SIGMETRICS Performance Evaluation Review,0
+SIGMETRICS,2015,https://openalex.org/W3003346454,A Large-Scale Study of Flash Memory Failures in the Field,65,https://openalex.org/S4210187660,ACM SIGMETRICS Performance Evaluation Review,0
+SIGMETRICS,2015,https://openalex.org/W3017988589,Sponsored Data Plan,45,https://openalex.org/S4210187660,ACM SIGMETRICS Performance Evaluation Review,0
+SIGMETRICS,2015,https://openalex.org/W3113961955,Reducing Latency via Redundant Requests,79,https://openalex.org/S4210187660,ACM SIGMETRICS Performance Evaluation Review,0
+SIGMETRICS,2015,https://openalex.org/W2998611528,Smartphone Energy Drain in the Wild,58,https://openalex.org/S4210187660,ACM SIGMETRICS Performance Evaluation Review,0
+SIGMETRICS,2015,https://openalex.org/W1994574815,Queues with Redundancy,41,https://openalex.org/S4210187660,ACM SIGMETRICS Performance Evaluation Review,0
+SIGMETRICS,2015,https://openalex.org/W3008956930,60 GHz Indoor Networking through Flexible Beams,38,https://openalex.org/S4210187660,ACM SIGMETRICS Performance Evaluation Review,0
+SIGMETRICS,2015,https://openalex.org/W3011357933,Power of <i>d</i> Choices for Large-Scale Bin Packing,36,https://openalex.org/S4210187660,ACM SIGMETRICS Performance Evaluation Review,0
+SIGMETRICS,2015,https://openalex.org/W1971619670,Maximizing Cache Hit Ratios by Variance Reduction,33,https://openalex.org/S4210187660,ACM SIGMETRICS Performance Evaluation Review,0
+SIGMETRICS,2015,https://openalex.org/W2207490587,Exploiting Cloud Heterogeneity to Optimize Performance and Cost of MapReduce Processing,33,https://openalex.org/S4210187660,ACM SIGMETRICS Performance Evaluation Review,0
+VLDB,2015,https://openalex.org/W2196824873,A framework for protecting worker location privacy in spatial crowdsourcing,361,https://openalex.org/S4210226185,Proceedings of the VLDB Endowment,0
+VLDB,2015,https://openalex.org/W2290431464,A confidence-aware approach for truth discovery on long-tail data,345,https://openalex.org/S4210226185,Proceedings of the VLDB Endowment,0
+VLDB,2015,https://openalex.org/W2122255072,GraMi,297,https://openalex.org/S4210226185,Proceedings of the VLDB Endowment,0
+VLDB,2015,https://openalex.org/W2244843312,Path problems in temporal graphs,266,https://openalex.org/S4210226185,Proceedings of the VLDB Endowment,0
+VLDB,2015,https://openalex.org/W2394555589,Staring into the abyss,256,https://openalex.org/S4210226185,Proceedings of the VLDB Endowment,0
+VLDB,2015,https://openalex.org/W2259576664,Blogel,253,https://openalex.org/S4210226185,Proceedings of the VLDB Endowment,0
+VLDB,2015,https://openalex.org/W2286264920,Ibex,243,https://openalex.org/S4210226185,Proceedings of the VLDB Endowment,0
+VLDB,2015,https://openalex.org/W2102086994,An efficient reconciliation algorithm for social networks,239,https://openalex.org/S4210226185,Proceedings of the VLDB Endowment,0
+VLDB,2015,https://openalex.org/W889496518,Differentially private event sequences over infinite streams,238,https://openalex.org/S4210226185,Proceedings of the VLDB Endowment,0
+VLDB,2015,https://openalex.org/W1565102206,From data fusion to knowledge fusion,229,https://openalex.org/S4210226185,Proceedings of the VLDB Endowment,0
+AAAI,2014,https://openalex.org/W4285092328,A Note on Two Problems in Connexion with Graphs,1265,https://openalex.org/S4306462769,ACM eBooks,0
+AAAI,2014,https://openalex.org/W1568555062,Equivalence and Synthesis of Causal Models,999,https://openalex.org/S4306462769,ACM eBooks,0
+AAAI,2014,https://openalex.org/W1501375624,Direct and Indirect Effects,920,https://openalex.org/S4306462769,ACM eBooks,0
+AAAI,2014,https://openalex.org/W2156094048,Reverend Bayes on Inference Engines: A Distributed Hierarchical Approach,751,https://openalex.org/S4306462769,ACM eBooks,0
+AAAI,2014,https://openalex.org/W4293168393,New Directions in Cryptography,634,https://openalex.org/S4306462769,ACM eBooks,0
+AAAI,2014,https://openalex.org/W2143336154,System <i>Z</i> : A Natural Ordering of Defaults with Tractable Applications to Nonmonotonic Reasoning,325,https://openalex.org/S4306462769,ACM eBooks,0
+AAAI,2014,https://openalex.org/W4220858968,On Pearl’s Hierarchy and the Foundations of Causal Inference,137,https://openalex.org/S4306462769,ACM eBooks,0
+AAAI,2014,https://openalex.org/W2990408532,Causality for Machine Learning,123,https://openalex.org/S4306462769,ACM eBooks,0
+AAAI,2014,https://openalex.org/W4308101891,The Handbook on Socially Interactive Agents,51,https://openalex.org/S4306462769,ACM eBooks,0
+AAAI,2014,https://openalex.org/W3048715862,An Interventionist Approach to Mediation Analysis,44,https://openalex.org/S4306462769,ACM eBooks,0
+CHI,2014,https://openalex.org/W2152126086,The cultural evolution of prosocial religions,947,https://openalex.org/S59628311,Behavioral and Brain Sciences,0
+CHI,2014,https://openalex.org/W2052241245,A conceptual framework for the neurobiological study of resilience,637,https://openalex.org/S59628311,Behavioral and Brain Sciences,0
+CHI,2014,https://openalex.org/W2116035131,Unconscious influences on decision making: A critical review,627,https://openalex.org/S59628311,Behavioral and Brain Sciences,0
+CHI,2014,https://openalex.org/W2096117537,Mirror neurons: From origin to function,616,https://openalex.org/S59628311,Behavioral and Brain Sciences,0
+CHI,2014,https://openalex.org/W2034144524,Differences in negativity bias underlie variations in political ideology,600,https://openalex.org/S59628311,Behavioral and Brain Sciences,0
+CHI,2014,https://openalex.org/W2026194000,Political diversity will improve social psychological science,547,https://openalex.org/S59628311,Behavioral and Brain Sciences,0
+CHI,2014,https://openalex.org/W1977539641,"Memory reconsolidation, emotional arousal, and the process of change in psychotherapy: New insights from brain science",508,https://openalex.org/S59628311,Behavioral and Brain Sciences,0
+CHI,2014,https://openalex.org/W2064673991,How to learn about teaching: An evolutionary framework for the study of teaching behavior in humans and other animals,485,https://openalex.org/S59628311,Behavioral and Brain Sciences,0
+CHI,2014,https://openalex.org/W2044880034,Evolving the future: Toward a science of intentional change,256,https://openalex.org/S59628311,Behavioral and Brain Sciences,0
+CHI,2014,https://openalex.org/W2401878968,"The inherence heuristic: An intuitive means of making sense of the world, and a potential precursor to psychological essentialism",246,https://openalex.org/S59628311,Behavioral and Brain Sciences,0
+OSDI,2014,https://openalex.org/W2074881976,The RAMCloud Storage System,267,https://openalex.org/S193109227,ACM Transactions on Computer Systems,0
+OSDI,2014,https://openalex.org/W2124037649,The Next 700 BFT Protocols,134,https://openalex.org/S193109227,ACM Transactions on Computer Systems,0
+OSDI,2014,https://openalex.org/W2069852267,The Scalable Commutativity Rule,55,https://openalex.org/S193109227,ACM Transactions on Computer Systems,0
+OSDI,2014,https://openalex.org/W1987773847,SKMD,46,https://openalex.org/S193109227,ACM Transactions on Computer Systems,0
+OSDI,2014,https://openalex.org/W1987099882,A Differential Approach to Undefined Behavior Detection,36,https://openalex.org/S193109227,ACM Transactions on Computer Systems,0
+OSDI,2014,https://openalex.org/W1988220683,ISA Wars,30,https://openalex.org/S193109227,ACM Transactions on Computer Systems,0
+OSDI,2014,https://openalex.org/W1967420911,Energy-Oriented Partial Desktop Virtual Machine Migration,20,https://openalex.org/S193109227,ACM Transactions on Computer Systems,0
+OSDI,2014,https://openalex.org/W2245949953,Fireflies,18,https://openalex.org/S193109227,ACM Transactions on Computer Systems,0
+OSDI,2014,https://openalex.org/W1988150112,Efficient Control and Communication Paradigms for Coarse-Grained Spatial Architectures,15,https://openalex.org/S193109227,ACM Transactions on Computer Systems,0
+OSDI,2014,https://openalex.org/W2264380155,K2,13,https://openalex.org/S193109227,ACM Transactions on Computer Systems,0
+OSDI,2014,https://openalex.org/W2074881976,The RAMCloud Storage System,267,https://openalex.org/S193109227,ACM Transactions on Computer Systems,0
+OSDI,2014,https://openalex.org/W2124037649,The Next 700 BFT Protocols,134,https://openalex.org/S193109227,ACM Transactions on Computer Systems,0
+OSDI,2014,https://openalex.org/W2069852267,The Scalable Commutativity Rule,55,https://openalex.org/S193109227,ACM Transactions on Computer Systems,0
+OSDI,2014,https://openalex.org/W1987773847,SKMD,46,https://openalex.org/S193109227,ACM Transactions on Computer Systems,0
+OSDI,2014,https://openalex.org/W1987099882,A Differential Approach to Undefined Behavior Detection,36,https://openalex.org/S193109227,ACM Transactions on Computer Systems,0
+OSDI,2014,https://openalex.org/W1988220683,ISA Wars,30,https://openalex.org/S193109227,ACM Transactions on Computer Systems,0
+OSDI,2014,https://openalex.org/W1967420911,Energy-Oriented Partial Desktop Virtual Machine Migration,20,https://openalex.org/S193109227,ACM Transactions on Computer Systems,0
+OSDI,2014,https://openalex.org/W2245949953,Fireflies,18,https://openalex.org/S193109227,ACM Transactions on Computer Systems,0
+OSDI,2014,https://openalex.org/W1988150112,Efficient Control and Communication Paradigms for Coarse-Grained Spatial Architectures,15,https://openalex.org/S193109227,ACM Transactions on Computer Systems,0
+OSDI,2014,https://openalex.org/W2264380155,K2,13,https://openalex.org/S193109227,ACM Transactions on Computer Systems,0
+S&P,2014,https://openalex.org/W2542459869,Apache Spark,2243,https://openalex.org/S103482838,Communications of the ACM,0
+S&P,2014,https://openalex.org/W2250384498,YFCC100M,1500,https://openalex.org/S103482838,Communications of the ACM,0
+S&P,2014,https://openalex.org/W1837843568,The rise of social bots,1479,https://openalex.org/S103482838,Communications of the ACM,0
+S&P,2014,https://openalex.org/W2544710688,Blockchain beyond bitcoin,1173,https://openalex.org/S103482838,Communications of the ACM,0
+S&P,2014,https://openalex.org/W2263936035,Accountability in algorithmic decision making,585,https://openalex.org/S103482838,Communications of the ACM,0
+S&P,2014,https://openalex.org/W2290712622,"Borg, Omega, and Kubernetes",527,https://openalex.org/S103482838,Communications of the ACM,0
+S&P,2014,https://openalex.org/W2196674927,Schema.org,398,https://openalex.org/S103482838,Communications of the ACM,0
+S&P,2014,https://openalex.org/W2492085449,Smart cities,314,https://openalex.org/S103482838,Communications of the ACM,0
+S&P,2014,https://openalex.org/W2344444819,On the naturalness of software,283,https://openalex.org/S103482838,Communications of the ACM,0
+S&P,2014,https://openalex.org/W2395092677,Improving API usability,270,https://openalex.org/S103482838,Communications of the ACM,0
+SODA,2014,https://openalex.org/W2889833303,Fully Functional Suffix Trees and Optimal Text Searching in BWT-Runs Bounded Space,135,https://openalex.org/S118992489,Journal of the ACM,0
+SODA,2014,https://openalex.org/W3088537673,Universally Composable Security,111,https://openalex.org/S118992489,Journal of the ACM,0
+SODA,2014,https://openalex.org/W2938191358,Planar Graphs Have Bounded Queue-Number,68,https://openalex.org/S118992489,Journal of the ACM,0
+SODA,2014,https://openalex.org/W3096239448,A Constant-factor Approximation Algorithm for the Asymmetric Traveling Salesman Problem,42,https://openalex.org/S118992489,Journal of the ACM,0
+SODA,2014,https://openalex.org/W3039254663,Representative Sets and Irrelevant Vertices,39,https://openalex.org/S118992489,Journal of the ACM,0
+SODA,2014,https://openalex.org/W3036875494,A Simple and Approximately Optimal Mechanism for an Additive Buyer,37,https://openalex.org/S118992489,Journal of the ACM,0
+SODA,2014,https://openalex.org/W3029111739,Fully Online Matching,34,https://openalex.org/S118992489,Journal of the ACM,0
+SODA,2014,https://openalex.org/W2948003455,Differential Equation Invariance Axiomatization,32,https://openalex.org/S118992489,Journal of the ACM,0
+SODA,2014,https://openalex.org/W3009870468,"Matrix Multiplication, a Little Faster",20,https://openalex.org/S118992489,Journal of the ACM,0
+SODA,2014,https://openalex.org/W3088152573,Parallelism in Randomized Incremental Algorithms,16,https://openalex.org/S118992489,Journal of the ACM,0
+VLDB,2014,https://openalex.org/W2138744797,XORing elephants,683,https://openalex.org/S4210226185,Proceedings of the VLDB Endowment,0
+VLDB,2014,https://openalex.org/W2115583184,Hadoop GIS,572,https://openalex.org/S4210226185,Proceedings of the VLDB Endowment,0
+VLDB,2014,https://openalex.org/W2153972927,MillWheel,526,https://openalex.org/S4210226185,Proceedings of the VLDB Endowment,0
+VLDB,2014,https://openalex.org/W2240667924,OLTP-Bench,367,https://openalex.org/S4210226185,Proceedings of the VLDB Endowment,0
+VLDB,2014,https://openalex.org/W2250570571,Processing analytical queries over encrypted data,354,https://openalex.org/S4210226185,Proceedings of the VLDB Endowment,0
+VLDB,2014,https://openalex.org/W217817341,"From ""think like a vertex"" to ""think like a graph""",349,https://openalex.org/S4210226185,Proceedings of the VLDB Endowment,0
+VLDB,2014,https://openalex.org/W2171539317,A distributed graph engine for web scale RDF data,312,https://openalex.org/S4210226185,Proceedings of the VLDB Endowment,0
+VLDB,2014,https://openalex.org/W2167275936,Spatial keyword query processing,305,https://openalex.org/S4210226185,Proceedings of the VLDB Endowment,0
+VLDB,2014,https://openalex.org/W1998032016,EvenTweet,256,https://openalex.org/S4210226185,Proceedings of the VLDB Endowment,0
+VLDB,2014,https://openalex.org/W1972115340,F1,252,https://openalex.org/S4210226185,Proceedings of the VLDB Endowment,0
+VLDB,2014,https://openalex.org/W2107306718,Fast rule mining in ontological knowledge bases with AMIE $$+$$ +,484,https://openalex.org/S78926909,The VLDB Journal,0
+VLDB,2014,https://openalex.org/W760598031,Profiling relational data: a survey,267,https://openalex.org/S78926909,The VLDB Journal,0
+VLDB,2014,https://openalex.org/W1995211436,Task assignment optimization in knowledge-intensive crowdsourcing,132,https://openalex.org/S78926909,The VLDB Journal,0
+VLDB,2014,https://openalex.org/W1202352811,Effective deep learning-based multi-modal retrieval,122,https://openalex.org/S78926909,The VLDB Journal,0
+VLDB,2014,https://openalex.org/W1446333884,The matrix mechanism: optimizing linear counting queries under differential privacy,121,https://openalex.org/S78926909,The VLDB Journal,0
+VLDB,2014,https://openalex.org/W2231297807,Diversified top-k clique search,95,https://openalex.org/S78926909,The VLDB Journal,0
+VLDB,2014,https://openalex.org/W2008003976,"Toward personalized, context-aware routing",86,https://openalex.org/S78926909,The VLDB Journal,0
+VLDB,2014,https://openalex.org/W2146838049,NScale: neighborhood-centric large-scale graph analytics in the cloud,57,https://openalex.org/S78926909,The VLDB Journal,0
+VLDB,2014,https://openalex.org/W2295144739,Data generation for testing and grading SQL queries,54,https://openalex.org/S78926909,The VLDB Journal,0
+VLDB,2014,https://openalex.org/W2257971564,GPU-accelerated string matching for database applications,42,https://openalex.org/S78926909,The VLDB Journal,0
+VLDB,2014,https://openalex.org/W2196824873,A framework for protecting worker location privacy in spatial crowdsourcing,361,https://openalex.org/S4210226185,Proceedings of the VLDB Endowment,0
+VLDB,2014,https://openalex.org/W2290431464,A confidence-aware approach for truth discovery on long-tail data,345,https://openalex.org/S4210226185,Proceedings of the VLDB Endowment,0
+VLDB,2014,https://openalex.org/W2122255072,GraMi,297,https://openalex.org/S4210226185,Proceedings of the VLDB Endowment,0
+VLDB,2014,https://openalex.org/W2244843312,Path problems in temporal graphs,266,https://openalex.org/S4210226185,Proceedings of the VLDB Endowment,0
+VLDB,2014,https://openalex.org/W2394555589,Staring into the abyss,256,https://openalex.org/S4210226185,Proceedings of the VLDB Endowment,0
+VLDB,2014,https://openalex.org/W2259576664,Blogel,253,https://openalex.org/S4210226185,Proceedings of the VLDB Endowment,0
+VLDB,2014,https://openalex.org/W2286264920,Ibex,243,https://openalex.org/S4210226185,Proceedings of the VLDB Endowment,0
+VLDB,2014,https://openalex.org/W2102086994,An efficient reconciliation algorithm for social networks,239,https://openalex.org/S4210226185,Proceedings of the VLDB Endowment,0
+VLDB,2014,https://openalex.org/W889496518,Differentially private event sequences over infinite streams,238,https://openalex.org/S4210226185,Proceedings of the VLDB Endowment,0
+VLDB,2014,https://openalex.org/W1565102206,From data fusion to knowledge fusion,229,https://openalex.org/S4210226185,Proceedings of the VLDB Endowment,0
+VLDB,2014,https://openalex.org/W2903162282,Optimal Bloom Filters and Adaptive Merging for LSM-Trees,80,https://openalex.org/S90119964,ACM Transactions on Database Systems,0
+VLDB,2014,https://openalex.org/W3001851942,Parallelizing Sequential Graph Computations,43,https://openalex.org/S90119964,ACM Transactions on Database Systems,0
+VLDB,2014,https://openalex.org/W2789797077,Practical Private Range Search in Depth,31,https://openalex.org/S90119964,ACM Transactions on Database Systems,0
+VLDB,2014,https://openalex.org/W2901077120,Distributed Joins and Data Placement for Minimal Network Traffic,12,https://openalex.org/S90119964,ACM Transactions on Database Systems,0
+VLDB,2014,https://openalex.org/W2766594194,TriAL,18,https://openalex.org/S90119964,ACM Transactions on Database Systems,0
+VLDB,2014,https://openalex.org/W2888613844,K-Regret Queries Using Multiplicative Utility Functions,14,https://openalex.org/S90119964,ACM Transactions on Database Systems,0
+VLDB,2014,https://openalex.org/W2886448534,Lightweight Monitoring of Distributed Streams,7,https://openalex.org/S90119964,ACM Transactions on Database Systems,0
+VLDB,2014,https://openalex.org/W2888177241,Answering FO+MOD Queries under Updates on Bounded Degree Databases,17,https://openalex.org/S90119964,ACM Transactions on Database Systems,0
+VLDB,2014,https://openalex.org/W4211256068,MacroBase,8,https://openalex.org/S90119964,ACM Transactions on Database Systems,0
+VLDB,2014,https://openalex.org/W2953288349,Estimating the Impact of Unknown Unknowns on Aggregate Query Results,7,https://openalex.org/S90119964,ACM Transactions on Database Systems,0
+VLDB,2014,https://openalex.org/W2107306718,Fast rule mining in ontological knowledge bases with AMIE $$+$$ +,484,https://openalex.org/S78926909,The VLDB Journal,0
+VLDB,2014,https://openalex.org/W760598031,Profiling relational data: a survey,267,https://openalex.org/S78926909,The VLDB Journal,0
+VLDB,2014,https://openalex.org/W1995211436,Task assignment optimization in knowledge-intensive crowdsourcing,132,https://openalex.org/S78926909,The VLDB Journal,0
+VLDB,2014,https://openalex.org/W1202352811,Effective deep learning-based multi-modal retrieval,122,https://openalex.org/S78926909,The VLDB Journal,0
+VLDB,2014,https://openalex.org/W1446333884,The matrix mechanism: optimizing linear counting queries under differential privacy,121,https://openalex.org/S78926909,The VLDB Journal,0
+VLDB,2014,https://openalex.org/W2231297807,Diversified top-k clique search,95,https://openalex.org/S78926909,The VLDB Journal,0
+VLDB,2014,https://openalex.org/W2008003976,"Toward personalized, context-aware routing",86,https://openalex.org/S78926909,The VLDB Journal,0
+VLDB,2014,https://openalex.org/W2146838049,NScale: neighborhood-centric large-scale graph analytics in the cloud,57,https://openalex.org/S78926909,The VLDB Journal,0
+VLDB,2014,https://openalex.org/W2295144739,Data generation for testing and grading SQL queries,54,https://openalex.org/S78926909,The VLDB Journal,0
+VLDB,2014,https://openalex.org/W2257971564,GPU-accelerated string matching for database applications,42,https://openalex.org/S78926909,The VLDB Journal,0
+AAAI,2013,https://openalex.org/W80056832,Locate the Hate: Detecting Tweets against Blacks,452,https://openalex.org/S4210191458,Proceedings of the AAAI Conference on Artificial Intelligence,0
+AAAI,2013,https://openalex.org/W2191404279,Structure and Intractability of Optimal Multi-Robot Path Planning on Graphs,408,https://openalex.org/S4210191458,Proceedings of the AAAI Conference on Artificial Intelligence,0
+AAAI,2013,https://openalex.org/W2152984213,Generating Natural-Language Video Descriptions Using Text-Mined Knowledge,241,https://openalex.org/S4210191458,Proceedings of the AAAI Conference on Artificial Intelligence,0
+AAAI,2013,https://openalex.org/W25648700,Story Generation with Crowdsourced Plot Graphs,207,https://openalex.org/S4210191458,Proceedings of the AAAI Conference on Artificial Intelligence,0
+AAAI,2013,https://openalex.org/W2294512729,Supervised Coupled Dictionary Learning with Group Structures for Multi-modal Retrieval,195,https://openalex.org/S4210191458,Proceedings of the AAAI Conference on Artificial Intelligence,0
+AAAI,2013,https://openalex.org/W378366556,Analyzing the Effectiveness of Adversary Modeling in Security Games,180,https://openalex.org/S4210191458,Proceedings of the AAAI Conference on Artificial Intelligence,0
+AAAI,2013,https://openalex.org/W62192748,Spectral Rotation versus K-Means in Spectral Clustering,176,https://openalex.org/S4210191458,Proceedings of the AAAI Conference on Artificial Intelligence,0
+AAAI,2013,https://openalex.org/W2399260173,Convex Subspace Representation Learning from Multi-View Data,166,https://openalex.org/S4210191458,Proceedings of the AAAI Conference on Artificial Intelligence,0
+AAAI,2013,https://openalex.org/W1510564526,A General Formal Framework for Pathfinding Problems with Multiple Agents,155,https://openalex.org/S4210191458,Proceedings of the AAAI Conference on Artificial Intelligence,0
+AAAI,2013,https://openalex.org/W1682895868,Learning Collaborative Impedance-Based Robot Behaviors,150,https://openalex.org/S4210191458,Proceedings of the AAAI Conference on Artificial Intelligence,0
+AAAI,2013,https://openalex.org/W80056832,Locate the Hate: Detecting Tweets against Blacks,452,https://openalex.org/S4210191458,Proceedings of the AAAI Conference on Artificial Intelligence,0
+AAAI,2013,https://openalex.org/W2191404279,Structure and Intractability of Optimal Multi-Robot Path Planning on Graphs,408,https://openalex.org/S4210191458,Proceedings of the AAAI Conference on Artificial Intelligence,0
+AAAI,2013,https://openalex.org/W2152984213,Generating Natural-Language Video Descriptions Using Text-Mined Knowledge,241,https://openalex.org/S4210191458,Proceedings of the AAAI Conference on Artificial Intelligence,0
+AAAI,2013,https://openalex.org/W25648700,Story Generation with Crowdsourced Plot Graphs,207,https://openalex.org/S4210191458,Proceedings of the AAAI Conference on Artificial Intelligence,0
+AAAI,2013,https://openalex.org/W2294512729,Supervised Coupled Dictionary Learning with Group Structures for Multi-modal Retrieval,195,https://openalex.org/S4210191458,Proceedings of the AAAI Conference on Artificial Intelligence,0
+AAAI,2013,https://openalex.org/W378366556,Analyzing the Effectiveness of Adversary Modeling in Security Games,180,https://openalex.org/S4210191458,Proceedings of the AAAI Conference on Artificial Intelligence,0
+AAAI,2013,https://openalex.org/W62192748,Spectral Rotation versus K-Means in Spectral Clustering,176,https://openalex.org/S4210191458,Proceedings of the AAAI Conference on Artificial Intelligence,0
+AAAI,2013,https://openalex.org/W2399260173,Convex Subspace Representation Learning from Multi-View Data,166,https://openalex.org/S4210191458,Proceedings of the AAAI Conference on Artificial Intelligence,0
+AAAI,2013,https://openalex.org/W1510564526,A General Formal Framework for Pathfinding Problems with Multiple Agents,155,https://openalex.org/S4210191458,Proceedings of the AAAI Conference on Artificial Intelligence,0
+AAAI,2013,https://openalex.org/W1682895868,Learning Collaborative Impedance-Based Robot Behaviors,150,https://openalex.org/S4210191458,Proceedings of the AAAI Conference on Artificial Intelligence,0
+CHI,2013,https://openalex.org/W2056279562,phyloseq: An R Package for Reproducible Interactive Analysis and Graphics of Microbiome Census Data,21051,https://openalex.org/S202381698,PLoS ONE,0
+CHI,2013,https://openalex.org/W2005821483,BrainNet Viewer: A Network Visualization Tool for Human Brain Connectomics,4174,https://openalex.org/S202381698,PLoS ONE,0
+CHI,2013,https://openalex.org/W2114891756,Yield Trends Are Insufficient to Double Global Crop Production by 2050,3291,https://openalex.org/S202381698,PLoS ONE,0
+CHI,2013,https://openalex.org/W2091808438,Graphical Tools for Network Meta-Analysis in STATA,2320,https://openalex.org/S202381698,PLoS ONE,0
+CHI,2013,https://openalex.org/W2072022921,A DNA-Based Registry for All Animal Species: The Barcode Index Number (BIN) System,2227,https://openalex.org/S202381698,PLoS ONE,0
+CHI,2013,https://openalex.org/W2030182499,The Smartphone Addiction Scale: Development and Validation of a Short Version for Adolescents,1965,https://openalex.org/S202381698,PLoS ONE,0
+CHI,2013,https://openalex.org/W2014274241,In Silico Approach for Predicting Toxicity of Peptides and Proteins,1914,https://openalex.org/S202381698,PLoS ONE,0
+CHI,2013,https://openalex.org/W2126496132,Online Survival Analysis Software to Assess the Prognostic Value of Biomarkers Using Transcriptomic Data in Non-Small-Cell Lung Cancer,1835,https://openalex.org/S202381698,PLoS ONE,0
+CHI,2013,https://openalex.org/W2119595472,"Personality, Gender, and Age in the Language of Social Media: The Open-Vocabulary Approach",1707,https://openalex.org/S202381698,PLoS ONE,0
+CHI,2013,https://openalex.org/W2027266940,"Positive Outcomes Influence the Rate and Time to Publication, but Not the Impact Factor of Publications of Clinical Trial Results",1692,https://openalex.org/S202381698,PLoS ONE,0
+CHI,2013,https://openalex.org/W2026216899,An Empirical Analysis of the Antecedents and Performance Consequences of Using the Moodle Platform,413,https://openalex.org/S2764421862,International Journal of Information and Education Technology,0
+CHI,2013,https://openalex.org/W2018715879,Factors Affecting Students’ Acceptance of e-Learning Environments in Developing Countries:A Structural Equation Modeling Approach,167,https://openalex.org/S2764421862,International Journal of Information and Education Technology,0
+CHI,2013,https://openalex.org/W2327815153,Engaging Computer Science Students through Gamification in an Online Social Network Based Collaborative Learning Environment,119,https://openalex.org/S2764421862,International Journal of Information and Education Technology,0
+CHI,2013,https://openalex.org/W2328029535,A Review of Routing Protocols for Mobile Ad-Hoc NETworks (MANET),107,https://openalex.org/S2764421862,International Journal of Information and Education Technology,0
+CHI,2013,https://openalex.org/W2010352676,The Acceptance of Social Networking as a Learning Tools at University of Bahrain,69,https://openalex.org/S2764421862,International Journal of Information and Education Technology,0
+CHI,2013,https://openalex.org/W2308819871,The Evaluation of a Moodle Based Adaptive e-Learning System,57,https://openalex.org/S2764421862,International Journal of Information and Education Technology,0
+CHI,2013,https://openalex.org/W2315088161,Personal Rehabilitation Exercise Assistant with Kinect and Dynamic Time Warping,53,https://openalex.org/S2764421862,International Journal of Information and Education Technology,0
+CHI,2013,https://openalex.org/W2332308761,Animation Trends in Education,48,https://openalex.org/S2764421862,International Journal of Information and Education Technology,0
+CHI,2013,https://openalex.org/W2045356561,Challenges and Opportunities of Cloud-Based Mobile Learning,32,https://openalex.org/S2764421862,International Journal of Information and Education Technology,0
+CHI,2013,https://openalex.org/W2323120370,Diagnostic Assessment for Improving Teaching Practice,32,https://openalex.org/S2764421862,International Journal of Information and Education Technology,0
+CHI,2013,https://openalex.org/W1801383082,Surveying Ethnic Minorities and Immigrant Populations : Methodological Challenges and Research Strategies,121,https://openalex.org/S4306462833,Amsterdam University Press eBooks,0
+CHI,2013,https://openalex.org/W1609963858,Mobility in Transition : Migration Patterns after EU Enlargement,91,https://openalex.org/S4306462833,Amsterdam University Press eBooks,0
+CHI,2013,https://openalex.org/W4242447105,2. Liquid migration. Dynamic and fluid patterns of post-accession migration flows,67,https://openalex.org/S4306462833,Amsterdam University Press eBooks,0
+CHI,2013,https://openalex.org/W2095596084,"Gender, Migration and Categorisation : Making Distinctions between Migrants in Western Countries, 1945-2010",65,https://openalex.org/S4306462833,Amsterdam University Press eBooks,0
+CHI,2013,https://openalex.org/W4211159215,Syntax of Dutch: Adjectives and Adjective Phrases,53,https://openalex.org/S4306462833,Amsterdam University Press eBooks,0
+CHI,2013,https://openalex.org/W3137997461,"CHAPTER 2. Media Archaeology: Where Film History, Media Art, and New Media (Can) Meet",52,https://openalex.org/S4306462833,Amsterdam University Press eBooks,0
+CHI,2013,https://openalex.org/W4210974180,Installation Art and the Museum,43,https://openalex.org/S4306462833,Amsterdam University Press eBooks,0
+CHI,2013,https://openalex.org/W1830869134,"Battlefields of Negotiation : Control, Agency, and Ownership in World of Warcraft",41,https://openalex.org/S4306462833,Amsterdam University Press eBooks,0
+CHI,2013,https://openalex.org/W4247426206,The Electoral Consequences of Third Way Welfare State Reforms,27,https://openalex.org/S4306462833,Amsterdam University Press eBooks,0
+CHI,2013,https://openalex.org/W4251219524,Chapter 2 Projection Of Noun Phrases I: Complementation,23,https://openalex.org/S4306462833,Amsterdam University Press eBooks,0
+IJCAI,2013,https://openalex.org/W58333609,Small System dynamics models for big issues: Triple jump towards real-world complexity,125,https://openalex.org/S4306400906,Research Repository (Delft University of Technology),0
+IJCAI,2013,https://openalex.org/W2258728934,"Amsterdam as a Sustainable European Metropolis: Integration of Water, Energy and Material Flows",63,https://openalex.org/S4306400906,Research Repository (Delft University of Technology),0
+IJCAI,2013,https://openalex.org/W135939187,The response of mangrove soil surface elevation to sea level rise,63,https://openalex.org/S4306400906,Research Repository (Delft University of Technology),0
+IJCAI,2013,https://openalex.org/W2116314432,Finite Element Modelling of Seismic Liquefaction in Soils,55,https://openalex.org/S4306400906,Research Repository (Delft University of Technology),0
+IJCAI,2013,https://openalex.org/W184452495,Designing Procedurally Generated Levels,53,https://openalex.org/S4306400906,Research Repository (Delft University of Technology),0
+IJCAI,2013,https://openalex.org/W60779146,Automatic generation of CityGML LoD3 building models from IFC models,42,https://openalex.org/S4306400906,Research Repository (Delft University of Technology),0
+IJCAI,2013,https://openalex.org/W2170626514,Daylight and View: The Influence of Windows on the Visual Quality of Indoor Spaces,37,https://openalex.org/S4306400906,Research Repository (Delft University of Technology),0
+IJCAI,2013,https://openalex.org/W135578816,Multiscale Lattice Boltzmann-Finite Element Modelling of Transport Properties in Cement-based Materials,36,https://openalex.org/S4306400906,Research Repository (Delft University of Technology),0
+IJCAI,2013,https://openalex.org/W41333509,A Method for Enterprise Ontology based Design of Enterprise Information Systems,33,https://openalex.org/S4306400906,Research Repository (Delft University of Technology),0
+IJCAI,2013,https://openalex.org/W2118431375,Embodied Typology of Positive Emotions The Development of a Tool to Facilitate Emotional Granularity in Design,29,https://openalex.org/S4306400906,Research Repository (Delft University of Technology),0
+S&P,2013,https://openalex.org/W2542459869,Apache Spark,2243,https://openalex.org/S103482838,Communications of the ACM,0
+S&P,2013,https://openalex.org/W2250384498,YFCC100M,1500,https://openalex.org/S103482838,Communications of the ACM,0
+S&P,2013,https://openalex.org/W1837843568,The rise of social bots,1479,https://openalex.org/S103482838,Communications of the ACM,0
+S&P,2013,https://openalex.org/W2544710688,Blockchain beyond bitcoin,1173,https://openalex.org/S103482838,Communications of the ACM,0
+S&P,2013,https://openalex.org/W2263936035,Accountability in algorithmic decision making,585,https://openalex.org/S103482838,Communications of the ACM,0
+S&P,2013,https://openalex.org/W2290712622,"Borg, Omega, and Kubernetes",527,https://openalex.org/S103482838,Communications of the ACM,0
+S&P,2013,https://openalex.org/W2196674927,Schema.org,398,https://openalex.org/S103482838,Communications of the ACM,0
+S&P,2013,https://openalex.org/W2492085449,Smart cities,314,https://openalex.org/S103482838,Communications of the ACM,0
+S&P,2013,https://openalex.org/W2344444819,On the naturalness of software,283,https://openalex.org/S103482838,Communications of the ACM,0
+S&P,2013,https://openalex.org/W2395092677,Improving API usability,270,https://openalex.org/S103482838,Communications of the ACM,0
+VLDB,2013,https://openalex.org/W2096544401,Distributed GraphLab,1667,https://openalex.org/S4210226185,Proceedings of the VLDB Endowment,0
+VLDB,2013,https://openalex.org/W2069980026,Approximate frequency counts over data streams,1194,https://openalex.org/S4210226185,Proceedings of the VLDB Endowment,0
+VLDB,2013,https://openalex.org/W2165093166,Challenges and opportunities with big data,1047,https://openalex.org/S4210226185,Proceedings of the VLDB Endowment,0
+VLDB,2013,https://openalex.org/W2108399535,Scalable k-means++,625,https://openalex.org/S4210226185,Proceedings of the VLDB Endowment,0
+VLDB,2013,https://openalex.org/W2056748234,CrowdER,509,https://openalex.org/S4210226185,Proceedings of the VLDB Endowment,0
+VLDB,2013,https://openalex.org/W2104993419,Interactive analytical processing in big data systems,464,https://openalex.org/S4210226185,Proceedings of the VLDB Endowment,0
+VLDB,2013,https://openalex.org/W2023536175,Truss decomposition in massive networks,408,https://openalex.org/S4210226185,Proceedings of the VLDB Endowment,0
+VLDB,2013,https://openalex.org/W2044849727,The MADlib analytics library,362,https://openalex.org/S4210226185,Proceedings of the VLDB Endowment,0
+VLDB,2013,https://openalex.org/W2169585110,A Bayesian approach to discovering truth from conflicting sources for data integration,351,https://openalex.org/S4210226185,Proceedings of the VLDB Endowment,0
+VLDB,2013,https://openalex.org/W2118212234,Efficient subgraph matching on billion node graphs,346,https://openalex.org/S4210226185,Proceedings of the VLDB Endowment,0
+AAAI,2012,https://openalex.org/W3177318507,Informer: Beyond Efficient Transformer for Long Sequence Time-Series Forecasting,5366,https://openalex.org/S4210191458,Proceedings of the AAAI Conference on Artificial Intelligence,0
+AAAI,2012,https://openalex.org/W3169450514,Graph Neural Network-Based Anomaly Detection in Multivariate Time Series,1052,https://openalex.org/S4210191458,Proceedings of the AAAI Conference on Artificial Intelligence,0
+AAAI,2012,https://openalex.org/W3174873843,R3Det: Refined Single-Stage Detector with Feature Refinement for Rotating Object,1002,https://openalex.org/S4210191458,Proceedings of the AAAI Conference on Artificial Intelligence,0
+AAAI,2012,https://openalex.org/W3118341329,Voxel R-CNN: Towards High Performance Voxel-based 3D Object Detection,910,https://openalex.org/S4210191458,Proceedings of the AAAI Conference on Artificial Intelligence,0
+AAAI,2012,https://openalex.org/W3174022889,Spatial-Temporal Fusion Graph Neural Networks for Traffic Flow Forecasting,799,https://openalex.org/S4210191458,Proceedings of the AAAI Conference on Artificial Intelligence,0
+AAAI,2012,https://openalex.org/W3112044954,Personalized Cross-Silo Federated Learning on Non-IID Data,626,https://openalex.org/S4210191458,Proceedings of the AAAI Conference on Artificial Intelligence,0
+AAAI,2012,https://openalex.org/W3128412859,Learning Modality-Specific Representations with Self-Supervised Multi-Task Learning for Multimodal Sentiment Analysis,603,https://openalex.org/S4210191458,Proceedings of the AAAI Conference on Artificial Intelligence,0
+AAAI,2012,https://openalex.org/W3083779147,Semi-supervised Medical Image Segmentation through Dual-task Consistency,601,https://openalex.org/S4210191458,Proceedings of the AAAI Conference on Artificial Intelligence,0
+AAAI,2012,https://openalex.org/W3087124270,Contrastive Clustering,590,https://openalex.org/S4210191458,Proceedings of the AAAI Conference on Artificial Intelligence,0
+AAAI,2012,https://openalex.org/W2408538552,Fused Matrix Factorization with Geographical and Social Influence in Location-Based Social Networks,570,https://openalex.org/S4210191458,Proceedings of the AAAI Conference on Artificial Intelligence,0
+AAAI,2012,https://openalex.org/W3177318507,Informer: Beyond Efficient Transformer for Long Sequence Time-Series Forecasting,5366,https://openalex.org/S4210191458,Proceedings of the AAAI Conference on Artificial Intelligence,0
+AAAI,2012,https://openalex.org/W3169450514,Graph Neural Network-Based Anomaly Detection in Multivariate Time Series,1052,https://openalex.org/S4210191458,Proceedings of the AAAI Conference on Artificial Intelligence,0
+AAAI,2012,https://openalex.org/W3174873843,R3Det: Refined Single-Stage Detector with Feature Refinement for Rotating Object,1002,https://openalex.org/S4210191458,Proceedings of the AAAI Conference on Artificial Intelligence,0
+AAAI,2012,https://openalex.org/W3118341329,Voxel R-CNN: Towards High Performance Voxel-based 3D Object Detection,910,https://openalex.org/S4210191458,Proceedings of the AAAI Conference on Artificial Intelligence,0
+AAAI,2012,https://openalex.org/W3174022889,Spatial-Temporal Fusion Graph Neural Networks for Traffic Flow Forecasting,799,https://openalex.org/S4210191458,Proceedings of the AAAI Conference on Artificial Intelligence,0
+AAAI,2012,https://openalex.org/W3112044954,Personalized Cross-Silo Federated Learning on Non-IID Data,626,https://openalex.org/S4210191458,Proceedings of the AAAI Conference on Artificial Intelligence,0
+AAAI,2012,https://openalex.org/W3128412859,Learning Modality-Specific Representations with Self-Supervised Multi-Task Learning for Multimodal Sentiment Analysis,603,https://openalex.org/S4210191458,Proceedings of the AAAI Conference on Artificial Intelligence,0
+AAAI,2012,https://openalex.org/W3083779147,Semi-supervised Medical Image Segmentation through Dual-task Consistency,601,https://openalex.org/S4210191458,Proceedings of the AAAI Conference on Artificial Intelligence,0
+AAAI,2012,https://openalex.org/W3087124270,Contrastive Clustering,590,https://openalex.org/S4210191458,Proceedings of the AAAI Conference on Artificial Intelligence,0
+AAAI,2012,https://openalex.org/W2408538552,Fused Matrix Factorization with Geographical and Social Influence in Location-Based Social Networks,570,https://openalex.org/S4210191458,Proceedings of the AAAI Conference on Artificial Intelligence,0
+CHI,2012,https://openalex.org/W4211245806,The European Second Generation Compared,261,https://openalex.org/S4306462833,Amsterdam University Press eBooks,0
+CHI,2012,https://openalex.org/W1641688997,The European Second Generation Compared : Does the Integration Context Matter?,234,https://openalex.org/S4306462833,Amsterdam University Press eBooks,0
+CHI,2012,https://openalex.org/W4242407388,Care at a Distance,155,https://openalex.org/S4306462833,Amsterdam University Press eBooks,0
+CHI,2012,https://openalex.org/W659366689,9. National paradigms of migration research,126,https://openalex.org/S4306462833,Amsterdam University Press eBooks,0
+CHI,2012,https://openalex.org/W1906136039,Care at a Distance : On the Closeness of Technology,124,https://openalex.org/S4306462833,Amsterdam University Press eBooks,0
+CHI,2012,https://openalex.org/W1801943846,"European Immigrations : Trends, Structures and Policy Implications",121,https://openalex.org/S4306462833,Amsterdam University Press eBooks,0
+CHI,2012,https://openalex.org/W2127857860,Jean Epstein : Critical Essays and New Translations,107,https://openalex.org/S4306462833,Amsterdam University Press eBooks,0
+CHI,2012,https://openalex.org/W4244383691,"Gender, Generations and the Family in International Migration",103,https://openalex.org/S4306462833,Amsterdam University Press eBooks,0
+CHI,2012,https://openalex.org/W4240097148,Mobile Screens,97,https://openalex.org/S4306462833,Amsterdam University Press eBooks,0
+CHI,2012,https://openalex.org/W2116843917,"Nazi Soundscapes : Sound, Technology and Urban Space in Germany, 1933-1945",88,https://openalex.org/S4306462833,Amsterdam University Press eBooks,0
+CVPR,2012,https://openalex.org/W2088049833,Selective Search for Object Recognition,6069,https://openalex.org/S25538012,International Journal of Computer Vision,0
+CVPR,2012,https://openalex.org/W2068611653,Dense Trajectories and Motion Boundary Descriptors for Action Recognition,1671,https://openalex.org/S25538012,International Journal of Computer Vision,0
+CVPR,2012,https://openalex.org/W1966385142,Image Classification with the Fisher Vector: Theory and Practice,1509,https://openalex.org/S25538012,International Journal of Computer Vision,0
+CVPR,2012,https://openalex.org/W1990937109,Face Alignment by Explicit Shape Regression,894,https://openalex.org/S25538012,International Journal of Computer Vision,0
+CVPR,2012,https://openalex.org/W2155302366,A Quantitative Analysis of Current Practices in Optical Flow Estimation and the Principles Behind Them,626,https://openalex.org/S25538012,International Journal of Computer Vision,0
+CVPR,2012,https://openalex.org/W2130558599,Rotational Projection Statistics for 3D Local Surface Description and Object Recognition,600,https://openalex.org/S25538012,International Journal of Computer Vision,0
+CVPR,2012,https://openalex.org/W2070753207,"A Multi-View Embedding Space for Modeling Internet Images, Tags, and Their Semantics",574,https://openalex.org/S25538012,International Journal of Computer Vision,0
+CVPR,2012,https://openalex.org/W4248598408,Rotation Averaging,469,https://openalex.org/S25538012,International Journal of Computer Vision,0
+CVPR,2012,https://openalex.org/W1985436611,A Comprehensive Survey to Face Hallucination,352,https://openalex.org/S25538012,International Journal of Computer Vision,0
+CVPR,2012,https://openalex.org/W2016776918,Max-Margin Early Event Detectors,221,https://openalex.org/S25538012,International Journal of Computer Vision,0
+SODA,2012,https://openalex.org/W2047281923,Linear-Time Approximation for Maximum Weight Matching,264,https://openalex.org/S118992489,Journal of the ACM,0
+SODA,2012,https://openalex.org/W1945899805,Sparser Johnson-Lindenstrauss Transforms,257,https://openalex.org/S118992489,Journal of the ACM,0
+SODA,2012,https://openalex.org/W2039592987,Multiway Spectral Partitioning and Higher-Order Cheeger Inequalities,183,https://openalex.org/S118992489,Journal of the ACM,0
+SODA,2012,https://openalex.org/W2151320232,Privacy Aware Learning,178,https://openalex.org/S118992489,Journal of the ACM,0
+SODA,2012,https://openalex.org/W2020154454,Constraint Satisfaction Problems Solvable by Local Consistency Methods,172,https://openalex.org/S118992489,Journal of the ACM,0
+SODA,2012,https://openalex.org/W2034437384,Satisfiability Allows No Nontrivial Sparsification unless the Polynomial-Time Hierarchy Collapses,157,https://openalex.org/S118992489,Journal of the ACM,0
+SODA,2012,https://openalex.org/W2083820240,Nonuniform ACC Circuit Lower Bounds,136,https://openalex.org/S118992489,Journal of the ACM,0
+SODA,2012,https://openalex.org/W2143303446,Merge-and-Shrink Abstraction,84,https://openalex.org/S118992489,Journal of the ACM,0
+SODA,2012,https://openalex.org/W1989966214,Communication Lower Bounds Using Directional Derivatives,52,https://openalex.org/S118992489,Journal of the ACM,0
+SODA,2012,https://openalex.org/W1983764301,Ranking Functions for Linear-Constraint Loops,67,https://openalex.org/S118992489,Journal of the ACM,0
+VLDB,2012,https://openalex.org/W2110676972,Event detection over twitter social media streams,261,https://openalex.org/S78926909,The VLDB Journal,0
+VLDB,2012,https://openalex.org/W2022542865,Differentially private histogram publication,231,https://openalex.org/S78926909,The VLDB Journal,0
+VLDB,2012,https://openalex.org/W2154138844,A survey of large-scale analytical query processing in MapReduce,219,https://openalex.org/S78926909,The VLDB Journal,0
+VLDB,2012,https://openalex.org/W2085472312,Correlated network data publication via differential privacy,207,https://openalex.org/S78926909,The VLDB Journal,0
+VLDB,2012,https://openalex.org/W2121041488,gStore: a graph-based SPARQL query engine,200,https://openalex.org/S78926909,The VLDB Journal,0
+VLDB,2012,https://openalex.org/W1990588199,Personalized trajectory matching in spatial networks,175,https://openalex.org/S78926909,The VLDB Journal,0
+VLDB,2012,https://openalex.org/W2023478510,Partitioning functions for stateful data parallelism in stream processing,113,https://openalex.org/S78926909,The VLDB Journal,0
+VLDB,2012,https://openalex.org/W2171450492,Large-scale linked data integration using probabilistic reasoning and crowdsourcing,84,https://openalex.org/S78926909,The VLDB Journal,0
+VLDB,2012,https://openalex.org/W2024958874,Query reverse engineering,77,https://openalex.org/S78926909,The VLDB Journal,0
+VLDB,2012,https://openalex.org/W2002315713,YmalDB: exploring relational databases via result-driven recommendations,53,https://openalex.org/S78926909,The VLDB Journal,0
+AAAI,2011,https://openalex.org/W2236233024,Understanding Natural Language Commands for Robotic Navigation and Mobile Manipulation,662,https://openalex.org/S4210191458,Proceedings of the AAAI Conference on Artificial Intelligence,0
+AAAI,2011,https://openalex.org/W2118781169,Learning to Interpret Natural Language Navigation Instructions from Observations,464,https://openalex.org/S4210191458,Proceedings of the AAAI Conference on Artificial Intelligence,0
+AAAI,2011,https://openalex.org/W2051549110,Large Scale Spectral Clustering with Landmark-Based Representation,389,https://openalex.org/S4210191458,Proceedings of the AAAI Conference on Artificial Intelligence,0
+AAAI,2011,https://openalex.org/W2280985394,Heterogeneous Transfer Learning for Image Classification,380,https://openalex.org/S4210191458,Proceedings of the AAAI Conference on Artificial Intelligence,0
+AAAI,2011,https://openalex.org/W135651235,Online Graph Pruning for Pathfinding On Grid Maps,366,https://openalex.org/S4210191458,Proceedings of the AAAI Conference on Artificial Intelligence,0
+AAAI,2011,https://openalex.org/W137627111,Simulated Annealing Based Influence Maximization in Social Networks,284,https://openalex.org/S4210191458,Proceedings of the AAAI Conference on Artificial Intelligence,0
+AAAI,2011,https://openalex.org/W2106261932,Value Function Approximation in Reinforcement Learning Using the Fourier Basis,278,https://openalex.org/S4210191458,Proceedings of the AAAI Conference on Artificial Intelligence,0
+AAAI,2011,https://openalex.org/W2233746965,Can Collective Sentiment Expressed on Twitter Predict Political Elections?,196,https://openalex.org/S4210191458,Proceedings of the AAAI Conference on Artificial Intelligence,0
+AAAI,2011,https://openalex.org/W2167246044,Efficient Energy-Optimal Routing for Electric Vehicles,173,https://openalex.org/S4210191458,Proceedings of the AAAI Conference on Artificial Intelligence,0
+AAAI,2011,https://openalex.org/W256266297,The Stock Sonar — Sentiment Analysis of Stocks Based on a Hybrid Approach,152,https://openalex.org/S4210191458,Proceedings of the AAAI Conference on Artificial Intelligence,0
+AAAI,2011,https://openalex.org/W2236233024,Understanding Natural Language Commands for Robotic Navigation and Mobile Manipulation,662,https://openalex.org/S4210191458,Proceedings of the AAAI Conference on Artificial Intelligence,0
+AAAI,2011,https://openalex.org/W2118781169,Learning to Interpret Natural Language Navigation Instructions from Observations,464,https://openalex.org/S4210191458,Proceedings of the AAAI Conference on Artificial Intelligence,0
+AAAI,2011,https://openalex.org/W2051549110,Large Scale Spectral Clustering with Landmark-Based Representation,389,https://openalex.org/S4210191458,Proceedings of the AAAI Conference on Artificial Intelligence,0
+AAAI,2011,https://openalex.org/W2280985394,Heterogeneous Transfer Learning for Image Classification,380,https://openalex.org/S4210191458,Proceedings of the AAAI Conference on Artificial Intelligence,0
+AAAI,2011,https://openalex.org/W135651235,Online Graph Pruning for Pathfinding On Grid Maps,366,https://openalex.org/S4210191458,Proceedings of the AAAI Conference on Artificial Intelligence,0
+AAAI,2011,https://openalex.org/W137627111,Simulated Annealing Based Influence Maximization in Social Networks,284,https://openalex.org/S4210191458,Proceedings of the AAAI Conference on Artificial Intelligence,0
+AAAI,2011,https://openalex.org/W2106261932,Value Function Approximation in Reinforcement Learning Using the Fourier Basis,278,https://openalex.org/S4210191458,Proceedings of the AAAI Conference on Artificial Intelligence,0
+AAAI,2011,https://openalex.org/W2233746965,Can Collective Sentiment Expressed on Twitter Predict Political Elections?,196,https://openalex.org/S4210191458,Proceedings of the AAAI Conference on Artificial Intelligence,0
+AAAI,2011,https://openalex.org/W2167246044,Efficient Energy-Optimal Routing for Electric Vehicles,173,https://openalex.org/S4210191458,Proceedings of the AAAI Conference on Artificial Intelligence,0
+AAAI,2011,https://openalex.org/W256266297,The Stock Sonar — Sentiment Analysis of Stocks Based on a Hybrid Approach,152,https://openalex.org/S4210191458,Proceedings of the AAAI Conference on Artificial Intelligence,0
+CHI,2011,https://openalex.org/W1487479400,Permutation distribution clustering and structural equation model trees,29,https://openalex.org/S4377196383,Publications of the UdS (Saarland University),0
+CHI,2011,https://openalex.org/W1608231251,High order boundary element methods,11,https://openalex.org/S4377196383,Publications of the UdS (Saarland University),0
+CHI,2011,https://openalex.org/W1958298077,The SEMAINE API : a component integration framework for a naturally interacting and emotionally competent embodied conversational agent,9,https://openalex.org/S4377196383,Publications of the UdS (Saarland University),0
+CHI,2011,https://openalex.org/W1551838092,Sensor- und geräteunabhängige Kalibrierung elektromagnetischer zerstörungsfreier Prüfverfahren zur praxisorientierten Werkstoffcharakterisierung,7,https://openalex.org/S4377196383,Publications of the UdS (Saarland University),0
+CHI,2011,https://openalex.org/W1508585032,"Kompressible, viskoelastische Werkstoffe : Experimente, Modellierung und FE-Umsetzung",5,https://openalex.org/S4377196383,Publications of the UdS (Saarland University),0
+CHI,2011,https://openalex.org/W1573911295,Assertion level proof planning with compiled strategies,5,https://openalex.org/S4377196383,Publications of the UdS (Saarland University),0
+CHI,2011,https://openalex.org/W2170124464,Polynomially solvable cases of hypergraph transversal and related problems,5,https://openalex.org/S4377196383,Publications of the UdS (Saarland University),0
+CHI,2011,https://openalex.org/W622973652,Symbolic representations in WCET analysis,5,https://openalex.org/S4377196383,Publications of the UdS (Saarland University),0
+CHI,2011,https://openalex.org/W96338551,Charakterisierung der mechanischen Grenzschicht in Polymer-Metall-Klebungen,4,https://openalex.org/S4377196383,Publications of the UdS (Saarland University),0
+CHI,2011,https://openalex.org/W1497305508,Pattern formation on Si surfaces by low-energy ion beam erosion,3,https://openalex.org/S4377196383,Publications of the UdS (Saarland University),0
+CVPR,2011,https://openalex.org/W1982063824,The tail at scale,1670,https://openalex.org/S103482838,Communications of the ACM,0
+CVPR,2011,https://openalex.org/W2031998113,Techniques and applications for sentiment analysis,1480,https://openalex.org/S103482838,Communications of the ACM,0
+CVPR,2011,https://openalex.org/W3121961986,Data science and prediction,807,https://openalex.org/S103482838,Communications of the ACM,0
+CVPR,2011,https://openalex.org/W2095932468,Discrimination in online ad delivery,740,https://openalex.org/S103482838,Communications of the ACM,0
+CVPR,2011,https://openalex.org/W2107147876,Symbolic execution for software testing,732,https://openalex.org/S103482838,Communications of the ACM,0
+CVPR,2011,https://openalex.org/W2028926203,Software-defined networking,598,https://openalex.org/S103482838,Communications of the ACM,0
+CVPR,2011,https://openalex.org/W1970124762,From MOOCs to SPOCs,340,https://openalex.org/S103482838,Communications of the ACM,0
+CVPR,2011,https://openalex.org/W1964717191,Human mobility characterization from cellular network data,309,https://openalex.org/S103482838,Communications of the ACM,0
+CVPR,2011,https://openalex.org/W2341057945,Evolutionary robotics,236,https://openalex.org/S103482838,Communications of the ACM,0
+CVPR,2011,https://openalex.org/W2048763066,Reflections on Stanford's MOOCs,210,https://openalex.org/S103482838,Communications of the ACM,0
+IJCAI,2011,https://openalex.org/W1594344279,Regression Conformal Prediction with Nearest Neighbours,146,https://openalex.org/S139930977,Journal of Artificial Intelligence Research,0
+IJCAI,2011,https://openalex.org/W2126879264,"Stackelberg vs. Nash in Security Games: An Extended Investigation of Interchangeability, Equivalence, and Uniqueness",136,https://openalex.org/S139930977,Journal of Artificial Intelligence Research,0
+IJCAI,2011,https://openalex.org/W2123942784,Multimode Control Attacks on Elections,113,https://openalex.org/S139930977,Journal of Artificial Intelligence Research,0
+IJCAI,2011,https://openalex.org/W2156676156,Efficient Planning under Uncertainty with Macro-actions,77,https://openalex.org/S139930977,Journal of Artificial Intelligence Research,0
+IJCAI,2011,https://openalex.org/W2131455536,Clause-Learning Algorithms with Many Restarts and Bounded-Width Resolution,75,https://openalex.org/S139930977,Journal of Artificial Intelligence Research,0
+IJCAI,2011,https://openalex.org/W3022747650,Efficient Multi-Start Strategies for Local Search Algorithms,67,https://openalex.org/S139930977,Journal of Artificial Intelligence Research,0
+IJCAI,2011,https://openalex.org/W2105474401,On the Intertranslatability of Argumentation Semantics,56,https://openalex.org/S139930977,Journal of Artificial Intelligence Research,0
+IJCAI,2011,https://openalex.org/W1517508454,A Probabilistic Framework for Learning Kinematic Models of Articulated Objects,93,https://openalex.org/S139930977,Journal of Artificial Intelligence Research,0
+IJCAI,2011,https://openalex.org/W2116274133,Automated Search for Impossibility Theorems in Social Choice Theory: Ranking Sets of Objects,69,https://openalex.org/S139930977,Journal of Artificial Intelligence Research,0
+IJCAI,2011,https://openalex.org/W1886279298,Analyzing Search Topology Without Running Any Search: On the Connection Between Causal Graphs and h+,60,https://openalex.org/S139930977,Journal of Artificial Intelligence Research,0
+IJCAI,2011,https://openalex.org/W2157878177,Evidence for a mass dependent forward-backward asymmetry in top quark pair production,348,https://openalex.org/S4306400662,Research Explorer (The University of Manchester),0
+IJCAI,2011,https://openalex.org/W82678004,Women in the Boardroom: A Global Perspective?,191,https://openalex.org/S4306400662,Research Explorer (The University of Manchester),0
+IJCAI,2011,https://openalex.org/W2115701628,Value-Driven Design,179,https://openalex.org/S4306400662,Research Explorer (The University of Manchester),0
+IJCAI,2011,https://openalex.org/W431875102,Hybrid Forms of Peace: From Everyday Agency to Post-Liberalism,160,https://openalex.org/S4306400662,Research Explorer (The University of Manchester),0
+IJCAI,2011,https://openalex.org/W2146304708,"Capital Regulation, Monetary Policy and Financial Stability",137,https://openalex.org/S4306400662,Research Explorer (The University of Manchester),0
+IJCAI,2011,https://openalex.org/W629867859,Russia's Own Orient: The Politics of Identity and Oriental Studies in the Late Imperial and Early Soviet Periods,128,https://openalex.org/S4306400662,Research Explorer (The University of Manchester),0
+IJCAI,2011,https://openalex.org/W253582415,Collaboration in the New Life Sciences,114,https://openalex.org/S4306400662,Research Explorer (The University of Manchester),0
+IJCAI,2011,https://openalex.org/W364634732,Why Be Happy When You Could Be Normal,110,https://openalex.org/S4306400662,Research Explorer (The University of Manchester),0
+IJCAI,2011,https://openalex.org/W2170436324,OQuaRE: A SQuaRE-based Approach for Evaluating the Quality of Ontologies,104,https://openalex.org/S4306400662,Research Explorer (The University of Manchester),0
+IJCAI,2011,https://openalex.org/W2082796634,Contribution to Interface: Self-made cities: ordinary informality?,101,https://openalex.org/S4306400662,Research Explorer (The University of Manchester),0
+SODA,2011,https://openalex.org/W2132032691,Optimal Bounds for Johnson-Lindenstrauss Transforms and Streaming Problems with Subconstant Error,114,https://openalex.org/S137348503,ACM Transactions on Algorithms,0
+SODA,2011,https://openalex.org/W1981591809,Finding small separators in linear time via treewidth reduction,113,https://openalex.org/S137348503,ACM Transactions on Algorithms,0
+SODA,2011,https://openalex.org/W2126211987,On the Complexity of Approximating a Nash Equilibrium,86,https://openalex.org/S137348503,ACM Transactions on Algorithms,0
+SODA,2011,https://openalex.org/W2036190740,Submodular secretary problem and extensions,84,https://openalex.org/S137348503,ACM Transactions on Algorithms,0
+SODA,2011,https://openalex.org/W2129029222,Persistent Predecessor Search and Orthogonal Point Location on the Word RAM,54,https://openalex.org/S137348503,ACM Transactions on Algorithms,0
+SODA,2011,https://openalex.org/W1963633992,Replacement Paths and Distance Sensitivity Oracles via Fast Matrix Multiplication,48,https://openalex.org/S137348503,ACM Transactions on Algorithms,0
+SODA,2011,https://openalex.org/W2035767178,Improved Deterministic Algorithms for Decremental Reachability and Strongly Connected Components,47,https://openalex.org/S137348503,ACM Transactions on Algorithms,0
+SODA,2011,https://openalex.org/W2140687800,Optimal Pattern Matching in LZW Compressed Strings,39,https://openalex.org/S137348503,ACM Transactions on Algorithms,0
+SODA,2011,https://openalex.org/W2950424720,Delays Induce an Exponential Memory Gap for Rendezvous in Trees,37,https://openalex.org/S137348503,ACM Transactions on Algorithms,0
+SODA,2011,https://openalex.org/W2083458896,Bin Packing via Discrepancy of Permutations,32,https://openalex.org/S137348503,ACM Transactions on Algorithms,0
+VLDB,2011,https://openalex.org/W2151251992,SCOPE: parallel databases meet MapReduce,149,https://openalex.org/S78926909,The VLDB Journal,0
+VLDB,2011,https://openalex.org/W2139205321,The HaLoop approach to large-scale iterative data analysis,138,https://openalex.org/S78926909,The VLDB Journal,0
+VLDB,2011,https://openalex.org/W2071898519,A framework for efficient spatial web object retrieval,133,https://openalex.org/S78926909,The VLDB Journal,0
+VLDB,2011,https://openalex.org/W2040811166,Automating the database schema evolution process,118,https://openalex.org/S78926909,The VLDB Journal,0
+VLDB,2011,https://openalex.org/W2158138755,gbase: an efficient analysis platform for large graphs,69,https://openalex.org/S78926909,The VLDB Journal,0
+VLDB,2011,https://openalex.org/W2114541504,"OXPath: A language for scalable data extraction, automation, and crawling on the deep web",73,https://openalex.org/S78926909,The VLDB Journal,0
+VLDB,2011,https://openalex.org/W2142126162,The exact distance to destination in undirected world,69,https://openalex.org/S78926909,The VLDB Journal,0
+VLDB,2011,https://openalex.org/W2129088288,Modeling the execution semantics of stream processing engines with SECRET,54,https://openalex.org/S78926909,The VLDB Journal,0
+VLDB,2011,https://openalex.org/W2119441285,"Similarity queries: their conceptual evaluation, transformations, and processing",49,https://openalex.org/S78926909,The VLDB Journal,0
+VLDB,2011,https://openalex.org/W2085799322,Pattern discovery in data streams under the time warping distance,46,https://openalex.org/S78926909,The VLDB Journal,0
+AAAI,2010,https://openalex.org/W1512387364,Toward an Architecture for Never-Ending Language Learning,1973,https://openalex.org/S4210191458,Proceedings of the AAAI Conference on Artificial Intelligence,0
+AAAI,2010,https://openalex.org/W1499669280,Relative Entropy Policy Search,473,https://openalex.org/S4210191458,Proceedings of the AAAI Conference on Artificial Intelligence,0
+AAAI,2010,https://openalex.org/W1502375784,Transfer Learning in Collaborative Filtering for Sparsity Reduction,381,https://openalex.org/S4210191458,Proceedings of the AAAI Conference on Artificial Intelligence,0
+AAAI,2010,https://openalex.org/W1551562380,Finding Optimal Solutions to Cooperative Pathfinding Problems,356,https://openalex.org/S4210191458,Proceedings of the AAAI Conference on Artificial Intelligence,0
+AAAI,2010,https://openalex.org/W2117587045,Collaborative Filtering Meets Mobile Recommendation: A User-Centered Approach,327,https://openalex.org/S4210191458,Proceedings of the AAAI Conference on Artificial Intelligence,0
+AAAI,2010,https://openalex.org/W1606056663,Ad Hoc Autonomous Agent Teams: Collaboration without Pre-Coordination,318,https://openalex.org/S4210191458,Proceedings of the AAAI Conference on Artificial Intelligence,0
+AAAI,2010,https://openalex.org/W1572384134,Probabilistic Plan Recognition Using Off-the-Shelf Classical Planners,282,https://openalex.org/S4210191458,Proceedings of the AAAI Conference on Artificial Intelligence,0
+AAAI,2010,https://openalex.org/W1607408214,Efficient Spectral Feature Selection with Minimum Redundancy,280,https://openalex.org/S4210191458,Proceedings of the AAAI Conference on Artificial Intelligence,0
+AAAI,2010,https://openalex.org/W1536516100,Sentiment Analysis with Global Topics and Local Dependency,248,https://openalex.org/S4210191458,Proceedings of the AAAI Conference on Artificial Intelligence,0
+AAAI,2010,https://openalex.org/W2140335411,Multi-Label Learning with Weak Label,200,https://openalex.org/S4210191458,Proceedings of the AAAI Conference on Artificial Intelligence,0
+OSDI,2010,https://openalex.org/W1963971515,TaintDroid: an information-flow tracking system for realtime privacy monitoring on smartphones,2280,https://openalex.org/S4306420647,Operating Systems Design and Implementation,0
+OSDI,2010,https://openalex.org/W2798915702,Onix: a distributed control platform for large-scale production networks,1219,https://openalex.org/S4306420647,Operating Systems Design and Implementation,0
+OSDI,2010,https://openalex.org/W2110104287,Reining in the outliers in map-reduce clusters using Mantri,650,https://openalex.org/S4306420647,Operating Systems Design and Implementation,0
+OSDI,2010,https://openalex.org/W1510496002,Availability in globally distributed storage systems,556,https://openalex.org/S4306420647,Operating Systems Design and Implementation,0
+OSDI,2010,https://openalex.org/W1236737278,Finding a needle in Haystack: facebook's photo storage,430,https://openalex.org/S4306420647,Operating Systems Design and Implementation,0
+OSDI,2010,https://openalex.org/W1845494277,Large-scale incremental processing using distributed transactions and notifications,412,https://openalex.org/S4306420647,Operating Systems Design and Implementation,0
+OSDI,2010,https://openalex.org/W1938553034,An analysis of Linux scalability to many cores,342,https://openalex.org/S4306420647,Operating Systems Design and Implementation,0
+OSDI,2010,https://openalex.org/W200298483,"Piccolo: building fast, distributed programs with partitioned tables",268,https://openalex.org/S4306420647,Operating Systems Design and Implementation,0
+OSDI,2010,https://openalex.org/W2143677609,FlexSC: flexible system call scheduling with exception-less system calls,227,https://openalex.org/S4306420647,Operating Systems Design and Implementation,0
+OSDI,2010,https://openalex.org/W15308973,SPORC: group collaboration using untrusted cloud resources,224,https://openalex.org/S4306420647,Operating Systems Design and Implementation,0
+OSDI,2010,https://openalex.org/W1963971515,TaintDroid: an information-flow tracking system for realtime privacy monitoring on smartphones,2280,https://openalex.org/S4306420647,Operating Systems Design and Implementation,0
+OSDI,2010,https://openalex.org/W2798915702,Onix: a distributed control platform for large-scale production networks,1219,https://openalex.org/S4306420647,Operating Systems Design and Implementation,0
+OSDI,2010,https://openalex.org/W2110104287,Reining in the outliers in map-reduce clusters using Mantri,650,https://openalex.org/S4306420647,Operating Systems Design and Implementation,0
+OSDI,2010,https://openalex.org/W1510496002,Availability in globally distributed storage systems,556,https://openalex.org/S4306420647,Operating Systems Design and Implementation,0
+OSDI,2010,https://openalex.org/W1236737278,Finding a needle in Haystack: facebook's photo storage,430,https://openalex.org/S4306420647,Operating Systems Design and Implementation,0
+OSDI,2010,https://openalex.org/W1845494277,Large-scale incremental processing using distributed transactions and notifications,412,https://openalex.org/S4306420647,Operating Systems Design and Implementation,0
+OSDI,2010,https://openalex.org/W1938553034,An analysis of Linux scalability to many cores,342,https://openalex.org/S4306420647,Operating Systems Design and Implementation,0
+OSDI,2010,https://openalex.org/W200298483,"Piccolo: building fast, distributed programs with partitioned tables",268,https://openalex.org/S4306420647,Operating Systems Design and Implementation,0
+OSDI,2010,https://openalex.org/W2143677609,FlexSC: flexible system call scheduling with exception-less system calls,227,https://openalex.org/S4306420647,Operating Systems Design and Implementation,0
+OSDI,2010,https://openalex.org/W15308973,SPORC: group collaboration using untrusted cloud resources,224,https://openalex.org/S4306420647,Operating Systems Design and Implementation,0
+VLDB,2010,https://openalex.org/W2152204876,Unveiling the complexity of human mobility by querying and mining massive trajectory data,282,https://openalex.org/S78926909,The VLDB Journal,0
+VLDB,2010,https://openalex.org/W2003500686,Secure multidimensional range queries over outsourced data,226,https://openalex.org/S78926909,The VLDB Journal,0
+VLDB,2010,https://openalex.org/W2134268609,Clustering and aggregating clues of trajectories for mining trajectory patterns and routes,179,https://openalex.org/S78926909,The VLDB Journal,0
+VLDB,2010,https://openalex.org/W2165011274,Sorting networks on FPGAs,164,https://openalex.org/S78926909,The VLDB Journal,0
+VLDB,2010,https://openalex.org/W2050682716,A survey of skyline processing in highly distributed environments,127,https://openalex.org/S78926909,The VLDB Journal,0
+VLDB,2010,https://openalex.org/W2142410337,Continuous reverse k nearest neighbors queries in Euclidean space and in spatial networks,95,https://openalex.org/S78926909,The VLDB Journal,0
+VLDB,2010,https://openalex.org/W2172197636,Scalability of write-ahead logging on multicore and multisocket hardware,56,https://openalex.org/S78926909,The VLDB Journal,0
+VLDB,2010,https://openalex.org/W1979578660,CLARO: modeling and processing uncertain data streams,47,https://openalex.org/S78926909,The VLDB Journal,0
+VLDB,2010,https://openalex.org/W2088443111,GRAIL: a scalable index for reachability queries in very large graphs,88,https://openalex.org/S78926909,The VLDB Journal,0
+VLDB,2010,https://openalex.org/W2084061469,Indexing in-network trajectory flows,62,https://openalex.org/S78926909,The VLDB Journal,0
+CHI,2009,https://openalex.org/W137987617,Reduction of Sodium and Fat Levels in Natural and Processed Cheese Scientific and Technological Aspects,100,https://openalex.org/S4377196327,Digital Commons - USU (Utah State University),0
+CHI,2009,https://openalex.org/W2184125496,Development of a Community Hydrologic Information System,76,https://openalex.org/S4377196327,Digital Commons - USU (Utah State University),0
+CHI,2009,https://openalex.org/W2158845224,Deer guards and Bump Gates for Excluding White-Tailed Deer from Fenced Resources,46,https://openalex.org/S4377196327,Digital Commons - USU (Utah State University),0
+CHI,2009,https://openalex.org/W1587590814,The End of the Internet: A Folk Response to the Provision of Infinite Choice,44,https://openalex.org/S4377196327,Digital Commons - USU (Utah State University),0
+CHI,2009,https://openalex.org/W2940446614,House Cats as Predators in the Australian Environment: Impacts and Management,72,https://openalex.org/S4377196327,Digital Commons - USU (Utah State University),0
+CHI,2009,https://openalex.org/W2979093680,"Coexisting with Cougars: Public Perceptions, Attitudes, and Awareness of Cougars on the Urban-Rural Fringe of Calgary, Alberta, Canada",61,https://openalex.org/S4377196327,Digital Commons - USU (Utah State University),0
+CHI,2009,https://openalex.org/W761439819,Professional Development for Teachers of Engineering: Research and Related Activities,50,https://openalex.org/S4377196327,Digital Commons - USU (Utah State University),0
+CHI,2009,https://openalex.org/W2108821028,Estimating Deer Abundance in Suburban Areas with Infrared-Triggered Cameras,46,https://openalex.org/S4377196327,Digital Commons - USU (Utah State University),0
+CHI,2009,https://openalex.org/W419988246,Benefits of Multi-Paddock Grazing Management on Rangelands: Limitations of Experimental Grazing Research and Knowledge Gaps,46,https://openalex.org/S4377196327,Digital Commons - USU (Utah State University),0
+CHI,2009,https://openalex.org/W138961324,Monograph of Artemisia Subgenus Tridentatae (Asteraceae-Anthemideae),39,https://openalex.org/S4377196327,Digital Commons - USU (Utah State University),0
+CVPR,2009,https://openalex.org/W2108598243,ImageNet: A large-scale hierarchical image database,60257,https://openalex.org/S4363607795,2009 IEEE Conference on Computer Vision and Pattern Recognition,0
+CVPR,2009,https://openalex.org/W2100470808,Frequency-tuned salient region detection,4152,https://openalex.org/S4363607795,2009 IEEE Conference on Computer Vision and Pattern Recognition,0
+CVPR,2009,https://openalex.org/W4239072543,ImageNet: A large-scale hierarchical image database,2917,https://openalex.org/S4363607795,2009 IEEE Conference on Computer Vision and Pattern Recognition,0
+CVPR,2009,https://openalex.org/W2097018403,Linear spatial pyramid matching using sparse coding for image classification,2869,https://openalex.org/S4363607795,2009 IEEE Conference on Computer Vision and Pattern Recognition,0
+CVPR,2009,https://openalex.org/W2098411764,Describing objects by their attributes,1916,https://openalex.org/S4363607795,2009 IEEE Conference on Computer Vision and Pattern Recognition,0
+CVPR,2009,https://openalex.org/W2167089254,Visual tracking with online Multiple Instance Learning,1802,https://openalex.org/S4363607795,2009 IEEE Conference on Computer Vision and Pattern Recognition,0
+CVPR,2009,https://openalex.org/W2164489414,Abnormal crowd behavior detection using social force model,1662,https://openalex.org/S4363607795,2009 IEEE Conference on Computer Vision and Pattern Recognition,0
+CVPR,2009,https://openalex.org/W2134270519,Learning to detect unseen object classes by between-class attribute transfer,1642,https://openalex.org/S4363607795,2009 IEEE Conference on Computer Vision and Pattern Recognition,0
+CVPR,2009,https://openalex.org/W3143107425,Learning to detect unseen object classes by between-class attribute transfer,1600,https://openalex.org/S4363607795,2009 IEEE Conference on Computer Vision and Pattern Recognition,0
+CVPR,2009,https://openalex.org/W2152161678,Recognizing indoor scenes,1482,https://openalex.org/S4363607795,2009 IEEE Conference on Computer Vision and Pattern Recognition,0
+IJCAI,2009,https://openalex.org/W3124435411,Stock market liquidity and firm value,689,https://openalex.org/S4306402636,Oxford University Research Archive (ORA) (University of Oxford),0
+IJCAI,2009,https://openalex.org/W2127031179,"Team Familiarity, Role Experience, and Performance: Evidence from Indian Software Services",470,https://openalex.org/S4306402636,Oxford University Research Archive (ORA) (University of Oxford),0
+IJCAI,2009,https://openalex.org/W3104433300,On the utility of graphics cards to perform massively parallel\nsimulation with advanced Monte Carlo methods.,251,https://openalex.org/S4306402636,Oxford University Research Archive (ORA) (University of Oxford),0
+IJCAI,2009,https://openalex.org/W1946168677,"Structural Time Series Analyser, Modeller and Predictor: STAMP 8.2.",195,https://openalex.org/S4306402636,Oxford University Research Archive (ORA) (University of Oxford),0
+IJCAI,2009,https://openalex.org/W1205510038,The Russo-Ukrainian gas dispute of January 2009: a comprehensive assessment,179,https://openalex.org/S4306402636,Oxford University Research Archive (ORA) (University of Oxford),0
+IJCAI,2009,https://openalex.org/W3105859499,Landau-De Gennes theory of nematic liquid\ncrystals: the Oseen-Frank limit and beyond,164,https://openalex.org/S4306402636,Oxford University Research Archive (ORA) (University of Oxford),0
+IJCAI,2009,https://openalex.org/W2184220696,Psychometric characteristics of cognitive development and achievement instruments in Round 2 of Young Lives,141,https://openalex.org/S4306402636,Oxford University Research Archive (ORA) (University of Oxford),0
+IJCAI,2009,https://openalex.org/W3099005193,Tracking GhostNet: investigating a cyber espionage network,138,https://openalex.org/S4306402636,Oxford University Research Archive (ORA) (University of Oxford),0
+IJCAI,2009,https://openalex.org/W2902430494,The rise of social media and its impact on mainstream journalism,132,https://openalex.org/S4306402636,Oxford University Research Archive (ORA) (University of Oxford),0
+IJCAI,2009,https://openalex.org/W1496644905,Improving Inter-professional Collaborations: Multi-Agency Working for Children's Wellbeing,131,https://openalex.org/S4306402636,Oxford University Research Archive (ORA) (University of Oxford),0
+S&P,2009,https://openalex.org/W2084944215,Scratch,3156,https://openalex.org/S103482838,Communications of the ACM,0
+S&P,2009,https://openalex.org/W2002555321,Roofline,2281,https://openalex.org/S103482838,Communications of the ACM,0
+S&P,2009,https://openalex.org/W2157355837,MapReduce,1179,https://openalex.org/S103482838,Communications of the ACM,0
+S&P,2009,https://openalex.org/W2023035194,Formal verification of a realistic compiler,1096,https://openalex.org/S103482838,Communications of the ACM,0
+S&P,2009,https://openalex.org/W2175377689,Lest we remember,950,https://openalex.org/S103482838,Communications of the ACM,0
+S&P,2009,https://openalex.org/W2091359547,Designing data governance,685,https://openalex.org/S103482838,Communications of the ACM,0
+S&P,2009,https://openalex.org/W2114068176,Overcoming the J-shaped distribution of product reviews,653,https://openalex.org/S103482838,Communications of the ACM,0
+S&P,2009,https://openalex.org/W2069433961,The pathologies of big data,643,https://openalex.org/S103482838,Communications of the ACM,0
+S&P,2009,https://openalex.org/W2039417226,A view of the parallel computing landscape,616,https://openalex.org/S103482838,Communications of the ACM,0
+S&P,2009,https://openalex.org/W2044490410,MapReduce and parallel DBMSs,424,https://openalex.org/S103482838,Communications of the ACM,0
+SIGMETRICS,2009,https://openalex.org/W75967587,The End of the Virtual : Digital Methods,268,https://openalex.org/S4306462833,Amsterdam University Press eBooks,0
+SIGMETRICS,2009,https://openalex.org/W2098051127,Films that Work : Industrial Film and the Productivity of Media,265,https://openalex.org/S4306462833,Amsterdam University Press eBooks,0
+SIGMETRICS,2009,https://openalex.org/W1536656927,Ethnic Constructs in Antiquity : The Role of Power and Tradition,220,https://openalex.org/S4306462833,Amsterdam University Press eBooks,0
+SIGMETRICS,2009,https://openalex.org/W2108711774,"Sound Souvenirs : Audio Technologies, Memory and Cultural Practices",207,https://openalex.org/S4306462833,Amsterdam University Press eBooks,0
+SIGMETRICS,2009,https://openalex.org/W1679525886,The Paradoxes of Transparency : Science and the Ecosystem Approach to Fisheries Management in Europe,136,https://openalex.org/S4306462833,Amsterdam University Press eBooks,0
+SIGMETRICS,2009,https://openalex.org/W1855853373,Cult Places and Cultural Change in Republican Italy : A Contextual Approach to Religious Aspects of Rural Society after the Roman Conquest,135,https://openalex.org/S4306462833,Amsterdam University Press eBooks,0
+SIGMETRICS,2009,https://openalex.org/W2113889751,Sticking Together or Falling Apart? : Solidarity in an Era of Individualization and Globalization,119,https://openalex.org/S4306462833,Amsterdam University Press eBooks,0
+SIGMETRICS,2009,https://openalex.org/W4231680764,"Legalising Land Rights : Local Practices, State Responses and Tenure Security in Africa, Asia and Latin America",109,https://openalex.org/S4306462833,Amsterdam University Press eBooks,0
+SIGMETRICS,2009,https://openalex.org/W1616693301,Statistics and Reality : Concepts and Measurements of Migration in Europe,108,https://openalex.org/S4306462833,Amsterdam University Press eBooks,0
+SIGMETRICS,2009,https://openalex.org/W1769925719,Sri Lankan Housemaids in Lebanon : A Case of 'Symbolic Violence' and 'Everyday Forms of Resistance',88,https://openalex.org/S4306462833,Amsterdam University Press eBooks,0
+SODA,2009,https://openalex.org/W1787402657,An improved approximation algorithm for the column subset selection problem,304,https://openalex.org/S4306420974,Symposium on Discrete Algorithms,0
+SODA,2009,https://openalex.org/W123178497,Maximizing submodular set functions subject to multiple linear constraints,149,https://openalex.org/S4306420974,Symposium on Discrete Algorithms,0
+SODA,2009,https://openalex.org/W1922506815,Constructing Laplace operator from point clouds in Rd,130,https://openalex.org/S4306420974,Symposium on Discrete Algorithms,0
+SODA,2009,https://openalex.org/W1535669030,Approximate clustering without the approximation,119,https://openalex.org/S4306420974,Symposium on Discrete Algorithms,0
+SODA,2009,https://openalex.org/W1512019713,Appointment scheduling with discrete random durations,108,https://openalex.org/S4306420974,Symposium on Discrete Algorithms,0
+SODA,2009,https://openalex.org/W1705602972,Monotone minimal perfect hashing: searching a sorted table with O(1) accesses,98,https://openalex.org/S4306420974,Symposium on Discrete Algorithms,0
+SODA,2009,https://openalex.org/W1480334394,A quadratic kernel for feedback vertex set,77,https://openalex.org/S4306420974,Symposium on Discrete Algorithms,0
+SODA,2009,https://openalex.org/W1537545978,Maximum independent set of rectangles,93,https://openalex.org/S4306420974,Symposium on Discrete Algorithms,0
+SODA,2009,https://openalex.org/W2429127516,"Column subset selection, matrix factorization, and eigenvalue optimization",85,https://openalex.org/S4306420974,Symposium on Discrete Algorithms,0
+SODA,2009,https://openalex.org/W110441439,Partitioning graphs into balanced components,78,https://openalex.org/S4306420974,Symposium on Discrete Algorithms,0
+VLDB,2009,https://openalex.org/W2152204876,Unveiling the complexity of human mobility by querying and mining massive trajectory data,282,https://openalex.org/S78926909,The VLDB Journal,0
+VLDB,2009,https://openalex.org/W2003500686,Secure multidimensional range queries over outsourced data,226,https://openalex.org/S78926909,The VLDB Journal,0
+VLDB,2009,https://openalex.org/W2134268609,Clustering and aggregating clues of trajectories for mining trajectory patterns and routes,179,https://openalex.org/S78926909,The VLDB Journal,0
+VLDB,2009,https://openalex.org/W2165011274,Sorting networks on FPGAs,164,https://openalex.org/S78926909,The VLDB Journal,0
+VLDB,2009,https://openalex.org/W2050682716,A survey of skyline processing in highly distributed environments,127,https://openalex.org/S78926909,The VLDB Journal,0
+VLDB,2009,https://openalex.org/W2142410337,Continuous reverse k nearest neighbors queries in Euclidean space and in spatial networks,95,https://openalex.org/S78926909,The VLDB Journal,0
+VLDB,2009,https://openalex.org/W2172197636,Scalability of write-ahead logging on multicore and multisocket hardware,56,https://openalex.org/S78926909,The VLDB Journal,0
+VLDB,2009,https://openalex.org/W1979578660,CLARO: modeling and processing uncertain data streams,47,https://openalex.org/S78926909,The VLDB Journal,0
+VLDB,2009,https://openalex.org/W2088443111,GRAIL: a scalable index for reachability queries in very large graphs,88,https://openalex.org/S78926909,The VLDB Journal,0
+VLDB,2009,https://openalex.org/W2084061469,Indexing in-network trajectory flows,62,https://openalex.org/S78926909,The VLDB Journal,0
+CHI,2008,https://openalex.org/W1993626569,Knowing the Unknown through the Known: The Case for Indigenous Knowledge in Sustainable Development,6,https://openalex.org/S1535467,African Research Review,0
+CHI,2008,https://openalex.org/W1994725676,Alternative Dispute Resolution in Ethiopia- A Legal Framework,23,https://openalex.org/S1535467,African Research Review,0
+CHI,2008,https://openalex.org/W2071765420,"Yield Performance of Some Cowpea Varieties under Sole and Intercropping with Maize at Bauchi, Nigeria.",22,https://openalex.org/S1535467,African Research Review,0
+CHI,2008,https://openalex.org/W2008464696,"A Study of Hospital Waste Generation and Management Practice in Akure, Nigeria",19,https://openalex.org/S1535467,African Research Review,0
+CHI,2008,https://openalex.org/W2002048876,"Phytoplankton and Nutrient Dynamics of a Tropical Estuarine System, Imo River Estuary, Nigeria",17,https://openalex.org/S1535467,African Research Review,0
+CHI,2008,https://openalex.org/W2040383661,Spelling and Phonetic Inconsistencies in English: A Problem for Learners of English as a Foreign/Second Language,17,https://openalex.org/S1535467,African Research Review,0
+CHI,2008,https://openalex.org/W2057560782,"A Study of Job Satisfaction of Secondary School Administrators in Kano State, Nigeria",15,https://openalex.org/S1535467,African Research Review,0
+CHI,2008,https://openalex.org/W2008178289,Teacher Education in Nigeria: An Overview,12,https://openalex.org/S1535467,African Research Review,0
+CHI,2008,https://openalex.org/W1995335174,"Factors Influencing Health Beliefs Among People in South West, Nigeria",10,https://openalex.org/S1535467,African Research Review,0
+CHI,2008,https://openalex.org/W2139886423,"Sources of Occupational Stress among Secondary School Administrators in Kano State, Nigeria",9,https://openalex.org/S1535467,African Research Review,0
+OSDI,2008,https://openalex.org/W1861377444,Improving MapReduce performance in heterogeneous environments,1618,https://openalex.org/S4306420647,Operating Systems Design and Implementation,0
+OSDI,2008,https://openalex.org/W1588651819,"Automating network application dependency discovery: experiences, limitations, and new solutions",160,https://openalex.org/S4306420647,Operating Systems Design and Implementation,0
+OSDI,2008,https://openalex.org/W1591458180,Deadlock immunity: enabling systems to defend against deadlocks,160,https://openalex.org/S4306420647,Operating Systems Design and Implementation,0
+OSDI,2008,https://openalex.org/W2127825616,Gadara: dynamic deadlock avoidance for multithreaded programs,129,https://openalex.org/S4306420647,Operating Systems Design and Implementation,0
+OSDI,2008,https://openalex.org/W182734301,Digging for data structures,112,https://openalex.org/S4306420647,Operating Systems Design and Implementation,0
+OSDI,2008,https://openalex.org/W1772960743,Device driver safety through a reference validation mechanism,109,https://openalex.org/S4306420647,Operating Systems Design and Implementation,0
+OSDI,2008,https://openalex.org/W186249712,FlightPath: obedience vs. choice in cooperative services,71,https://openalex.org/S4306420647,Operating Systems Design and Implementation,0
+OSDI,2008,https://openalex.org/W109524315,CuriOS: improving reliability through operating system structure,70,https://openalex.org/S4306420647,Operating Systems Design and Implementation,0
+OSDI,2008,https://openalex.org/W1233463431,"Lightweight, high-resolution monitoring for troubleshooting production systems",62,https://openalex.org/S4306420647,Operating Systems Design and Implementation,0
+OSDI,2008,https://openalex.org/W1867761151,R2: an application-level kernel for record and replay,128,https://openalex.org/S4306420647,Operating Systems Design and Implementation,0
+OSDI,2008,https://openalex.org/W1861377444,Improving MapReduce performance in heterogeneous environments,1618,https://openalex.org/S4306420647,Operating Systems Design and Implementation,0
+OSDI,2008,https://openalex.org/W1588651819,"Automating network application dependency discovery: experiences, limitations, and new solutions",160,https://openalex.org/S4306420647,Operating Systems Design and Implementation,0
+OSDI,2008,https://openalex.org/W1591458180,Deadlock immunity: enabling systems to defend against deadlocks,160,https://openalex.org/S4306420647,Operating Systems Design and Implementation,0
+OSDI,2008,https://openalex.org/W2127825616,Gadara: dynamic deadlock avoidance for multithreaded programs,129,https://openalex.org/S4306420647,Operating Systems Design and Implementation,0
+OSDI,2008,https://openalex.org/W182734301,Digging for data structures,112,https://openalex.org/S4306420647,Operating Systems Design and Implementation,0
+OSDI,2008,https://openalex.org/W1772960743,Device driver safety through a reference validation mechanism,109,https://openalex.org/S4306420647,Operating Systems Design and Implementation,0
+OSDI,2008,https://openalex.org/W186249712,FlightPath: obedience vs. choice in cooperative services,71,https://openalex.org/S4306420647,Operating Systems Design and Implementation,0
+OSDI,2008,https://openalex.org/W109524315,CuriOS: improving reliability through operating system structure,70,https://openalex.org/S4306420647,Operating Systems Design and Implementation,0
+OSDI,2008,https://openalex.org/W1233463431,"Lightweight, high-resolution monitoring for troubleshooting production systems",62,https://openalex.org/S4306420647,Operating Systems Design and Implementation,0
+OSDI,2008,https://openalex.org/W1867761151,R2: an application-level kernel for record and replay,128,https://openalex.org/S4306420647,Operating Systems Design and Implementation,0
+OSDI,2008,https://openalex.org/W2114296561,A view of cloud computing,8870,https://openalex.org/S103482838,Communications of the ACM,0
+OSDI,2008,https://openalex.org/W3125952634,Predicting the popularity of online content,994,https://openalex.org/S103482838,Communications of the ACM,0
+OSDI,2008,https://openalex.org/W2077217970,A firm foundation for private data analysis,844,https://openalex.org/S103482838,Communications of the ACM,0
+OSDI,2008,https://openalex.org/W2057763140,Collaborative filtering with temporal dynamics,766,https://openalex.org/S103482838,Communications of the ACM,0
+OSDI,2008,https://openalex.org/W1971286892,Computing arbitrary functions of encrypted data,649,https://openalex.org/S103482838,Communications of the ACM,0
+OSDI,2008,https://openalex.org/W2008626182,A few billion lines of code later,612,https://openalex.org/S103482838,Communications of the ACM,0
+OSDI,2008,https://openalex.org/W2163498454,Peer-to-peer systems,560,https://openalex.org/S103482838,Communications of the ACM,0
+OSDI,2008,https://openalex.org/W2014008637,Energy-efficient algorithms,447,https://openalex.org/S103482838,Communications of the ACM,0
+OSDI,2008,https://openalex.org/W2085773946,x86-TSO,445,https://openalex.org/S103482838,Communications of the ACM,0
+OSDI,2008,https://openalex.org/W1966764836,SQL databases v. NoSQL databases,423,https://openalex.org/S103482838,Communications of the ACM,0
+S&P,2008,https://openalex.org/W2135930857,Robust De-anonymization of Large Sparse Datasets,2247,https://openalex.org/S4210233669,Proceedings - IEEE Symposium on Security and Privacy/Proceedings of the ... IEEE Symposium on Security and Privacy,0
+S&P,2008,https://openalex.org/W2150941206,SybilLimit: A Near-Optimal Social Network Defense against Sybil Attacks,571,https://openalex.org/S4210233669,Proceedings - IEEE Symposium on Security and Privacy/Proceedings of the ... IEEE Symposium on Security and Privacy,0
+S&P,2008,https://openalex.org/W2144006591,Lares: An Architecture for Secure Active Monitoring Using Virtualization,412,https://openalex.org/S4210233669,Proceedings - IEEE Symposium on Security and Privacy/Proceedings of the ... IEEE Symposium on Security and Privacy,0
+S&P,2008,https://openalex.org/W2148791173,Civitas: Toward a Secure Voting System,400,https://openalex.org/S4210233669,Proceedings - IEEE Symposium on Security and Privacy/Proceedings of the ... IEEE Symposium on Security and Privacy,0
+S&P,2008,https://openalex.org/W2111487235,Saner: Composing Static and Dynamic Analysis to Validate Sanitization in Web Applications,381,https://openalex.org/S4210233669,Proceedings - IEEE Symposium on Security and Privacy/Proceedings of the ... IEEE Symposium on Security and Privacy,0
+S&P,2008,https://openalex.org/W2121579803,Preventing Memory Error Exploits with WIT,310,https://openalex.org/S4210233669,Proceedings - IEEE Symposium on Security and Privacy/Proceedings of the ... IEEE Symposium on Security and Privacy,0
+S&P,2008,https://openalex.org/W2165597437,Automatic Patch-Based Exploit Generation is Possible: Techniques and Implications,285,https://openalex.org/S4210233669,Proceedings - IEEE Symposium on Security and Privacy/Proceedings of the ... IEEE Symposium on Security and Privacy,0
+S&P,2008,https://openalex.org/W2103154003,Casting out Demons: Sanitizing Training Data for Anomaly Sensors,228,https://openalex.org/S4210233669,Proceedings - IEEE Symposium on Security and Privacy/Proceedings of the ... IEEE Symposium on Security and Privacy,0
+S&P,2008,https://openalex.org/W2167266744,Spot Me if You Can: Uncovering Spoken Phrases in Encrypted VoIP Conversations,219,https://openalex.org/S4210233669,Proceedings - IEEE Symposium on Security and Privacy/Proceedings of the ... IEEE Symposium on Security and Privacy,0
+S&P,2008,https://openalex.org/W2166971704,Towards Practical Privacy for Genomic Computation,207,https://openalex.org/S4210233669,Proceedings - IEEE Symposium on Security and Privacy/Proceedings of the ... IEEE Symposium on Security and Privacy,0
+SIGMOD,2008,https://openalex.org/W2131785201,Semantics and complexity of SPARQL,1120,https://openalex.org/S90119964,ACM Transactions on Database Systems,0
+SIGMOD,2008,https://openalex.org/W2068418796,Relational query coprocessing on graphics processors,276,https://openalex.org/S90119964,ACM Transactions on Database Systems,0
+SIGMOD,2008,https://openalex.org/W2622005089,Casper*,198,https://openalex.org/S90119964,ACM Transactions on Database Systems,0
+SIGMOD,2008,https://openalex.org/W2057545667,The design of a query monitoring system,169,https://openalex.org/S90119964,ACM Transactions on Database Systems,0
+SIGMOD,2008,https://openalex.org/W2049410874,Semantics and implementation of continuous sliding window queries over data streams,130,https://openalex.org/S90119964,ACM Transactions on Database Systems,0
+SIGMOD,2008,https://openalex.org/W1991758224,Detecting outlying properties of exceptional objects,88,https://openalex.org/S90119964,ACM Transactions on Database Systems,0
+SIGMOD,2008,https://openalex.org/W2035302703,ODE,83,https://openalex.org/S90119964,ACM Transactions on Database Systems,0
+SIGMOD,2008,https://openalex.org/W2112527958,Snapshot isolation and integrity constraints in replicated databases,65,https://openalex.org/S90119964,ACM Transactions on Database Systems,0
+SIGMOD,2008,https://openalex.org/W2073216087,A framework for efficient data anonymization under privacy and accuracy constraints,77,https://openalex.org/S90119964,ACM Transactions on Database Systems,0
+SIGMOD,2008,https://openalex.org/W1965776893,The recovery of a schema mapping,74,https://openalex.org/S90119964,ACM Transactions on Database Systems,0
+VLDB,2008,https://openalex.org/W2153887189,Refactoring: Improving the Design of Existing Code,5620,https://openalex.org/S106296714,Lecture notes in computer science,0
+VLDB,2008,https://openalex.org/W1520914943,The Sybil Attack,4349,https://openalex.org/S106296714,Lecture notes in computer science,0
+VLDB,2008,https://openalex.org/W2119245106,Kademlia: A Peer-to-Peer Information System Based on the XOR Metric,2984,https://openalex.org/S106296714,Lecture notes in computer science,0
+VLDB,2008,https://openalex.org/W2160375412,Semantic Matching of Web Services Capabilities,2109,https://openalex.org/S106296714,Lecture notes in computer science,0
+VLDB,2008,https://openalex.org/W2138464849,Model Driven Engineering,1761,https://openalex.org/S106296714,Lecture notes in computer science,0
+VLDB,2008,https://openalex.org/W1489391022,NuSMV 2: An OpenSource Tool for Symbolic Model Checking,1613,https://openalex.org/S106296714,Lecture notes in computer science,0
+VLDB,2008,https://openalex.org/W1666447063,Object Recognition as Machine Translation: Learning a Lexicon for a Fixed Image Vocabulary,1610,https://openalex.org/S106296714,Lecture notes in computer science,0
+VLDB,2008,https://openalex.org/W4250846042,Isabelle/HOL,1512,https://openalex.org/S106296714,Lecture notes in computer science,0
+VLDB,2008,https://openalex.org/W2495889793,Fast Software Encryption,1422,https://openalex.org/S106296714,Lecture notes in computer science,0
+VLDB,2008,https://openalex.org/W1513768190,Color-Based Probabilistic Tracking,1389,https://openalex.org/S106296714,Lecture notes in computer science,0
+VLDB,2008,https://openalex.org/W2098759488,Querying and mining of time series data,1337,https://openalex.org/S4210226185,Proceedings of the VLDB Endowment,0
+VLDB,2008,https://openalex.org/W2150013559,PNUTS,957,https://openalex.org/S4210226185,Proceedings of the VLDB Endowment,0
+VLDB,2008,https://openalex.org/W2119400430,SCOPE,725,https://openalex.org/S4210226185,Proceedings of the VLDB Endowment,0
+VLDB,2008,https://openalex.org/W2108223890,WebTables,630,https://openalex.org/S4210226185,Proceedings of the VLDB Endowment,0
+VLDB,2008,https://openalex.org/W2135577024,Hexastore,616,https://openalex.org/S4210226185,Proceedings of the VLDB Endowment,0
+VLDB,2008,https://openalex.org/W2089247435,RDF-3X,552,https://openalex.org/S4210226185,Proceedings of the VLDB Endowment,0
+VLDB,2008,https://openalex.org/W2124849257,Resisting structural re-identification in anonymized social networks,544,https://openalex.org/S4210226185,Proceedings of the VLDB Endowment,0
+VLDB,2008,https://openalex.org/W2155070484,H-store,518,https://openalex.org/S4210226185,Proceedings of the VLDB Endowment,0
+VLDB,2008,https://openalex.org/W2141136363,Discovery of convoys in trajectory databases,432,https://openalex.org/S4210226185,Proceedings of the VLDB Endowment,0
+VLDB,2008,https://openalex.org/W2140840007,Taming verification hardness,387,https://openalex.org/S4210226185,Proceedings of the VLDB Endowment,0
+CHI,2007,https://openalex.org/W2124631354,Redox Processes and Water Quality of Selected Principal Aquifer Systems,543,https://openalex.org/S53579087,Ground Water,0
+CHI,2007,https://openalex.org/W2115771358,Extinction Depth and Evapotranspiration from Ground Water under Selected Land Covers,264,https://openalex.org/S53579087,Ground Water,0
+CHI,2007,https://openalex.org/W2024766912,"Effective Groundwater Model Calibration: With Analysis of Data, Sensitivities, Predictions, and Uncertainty",257,https://openalex.org/S53579087,Ground Water,0
+CHI,2007,https://openalex.org/W2169389541,"Pharmaceuticals in On‐Site Sewage Effluent and Ground Water, Western Montana",227,https://openalex.org/S53579087,Ground Water,0
+CHI,2007,https://openalex.org/W2068053619,Solute and Colloid Transport in Karst Conduits under Low‐ and High‐Flow Conditions,196,https://openalex.org/S53579087,Ground Water,0
+CHI,2007,https://openalex.org/W2125856966,Are Models Too Simple? Arguments for Increased Parameterization,187,https://openalex.org/S53579087,Ground Water,0
+CHI,2007,https://openalex.org/W2024367699,Using Hydraulic Head Measurements in Variable‐Density Ground Water Flow Analyses,175,https://openalex.org/S53579087,Ground Water,0
+CHI,2007,https://openalex.org/W2147541497,Groundwater in the Environment: An Introduction,162,https://openalex.org/S53579087,Ground Water,0
+CHI,2007,https://openalex.org/W2039838055,Distinguishing Sources of Ground Water Recharge by Using δ <sup>2</sup> H and δ <sup>18</sup> O,160,https://openalex.org/S53579087,Ground Water,0
+CHI,2007,https://openalex.org/W2137811153,Analyzing Bank Filtration by Deconvoluting Time Series of Electric Conductivity,149,https://openalex.org/S53579087,Ground Water,0
+CHI,2007,https://openalex.org/W2571012312,Comparing Clusterings - An Overview,227,https://openalex.org/S4306401992,Repository KITopen (Karlsruhe Institute of Technology),0
+CHI,2007,https://openalex.org/W1779450743,Energy Management for Hypervisor-Based Virtual Machines,173,https://openalex.org/S4306401992,Repository KITopen (Karlsruhe Institute of Technology),0
+CHI,2007,https://openalex.org/W2588458088,Algorithmic Aspects of Triangle-Based Network Analysis,116,https://openalex.org/S4306401992,Repository KITopen (Karlsruhe Institute of Technology),0
+CHI,2007,https://openalex.org/W2563674362,Assessment of the impact of renewable electricity generation on the German electricity sector: An agent-based simulation approach,75,https://openalex.org/S4306401992,Repository KITopen (Karlsruhe Institute of Technology),0
+CHI,2007,https://openalex.org/W3104134720,Symmetries of Pairing Correlations in Superconductor–Ferromagnet Nanostructures,94,https://openalex.org/S4306401992,Repository KITopen (Karlsruhe Institute of Technology),0
+CHI,2007,https://openalex.org/W73694503,Detection of weak laser pulses by full waveform stacking,51,https://openalex.org/S4306401992,Repository KITopen (Karlsruhe Institute of Technology),0
+CHI,2007,https://openalex.org/W3102228890,Invariant transports of stationary random measures and mass-stationarity,50,https://openalex.org/S4306401992,Repository KITopen (Karlsruhe Institute of Technology),0
+CHI,2007,https://openalex.org/W2615872869,"Inter-vehicle communications - achieving safety in a distributed wireless environment. Challenges, systems and protocols",48,https://openalex.org/S4306401992,Repository KITopen (Karlsruhe Institute of Technology),0
+CHI,2007,https://openalex.org/W3169491100,Variational Integrators and Generating Functions for Stochastic Hamiltonian Systems,30,https://openalex.org/S4306401992,Repository KITopen (Karlsruhe Institute of Technology),0
+CHI,2007,https://openalex.org/W2148286641,The CMU TransTac 2007 Eyes-free and Hands-free Two-way Speech-to-Speech Translation System,23,https://openalex.org/S4306401992,Repository KITopen (Karlsruhe Institute of Technology),0
+CVPR,2007,https://openalex.org/W2003655297,Trace-Element Partitioning Between Amphibole and Silicate Melt,284,https://openalex.org/S4210187442,Reviews in Mineralogy and Geochemistry,0
+CVPR,2007,https://openalex.org/W2089741869,Fluid-Fluid Interactions in Magmatic-Hydrothermal Ore Formation,246,https://openalex.org/S4210187442,Reviews in Mineralogy and Geochemistry,0
+CVPR,2007,https://openalex.org/W2073446505,Paleoelevation Reconstruction using Pedogenic Carbonates,238,https://openalex.org/S4210187442,Reviews in Mineralogy and Geochemistry,0
+CVPR,2007,https://openalex.org/W2000500304,Fluid-Fluid Interactions in Geothermal Systems,190,https://openalex.org/S4210187442,Reviews in Mineralogy and Geochemistry,0
+CVPR,2007,https://openalex.org/W2076885328,Amphiboles: Crystal Chemistry,146,https://openalex.org/S4210187442,Reviews in Mineralogy and Geochemistry,0
+CVPR,2007,https://openalex.org/W2062012791,Stable Isotope-Based Paleoaltimetry: Theory and Validation,120,https://openalex.org/S4210187442,Reviews in Mineralogy and Geochemistry,0
+CVPR,2007,https://openalex.org/W2166111332,Amphiboles in the Igneous Environment,116,https://openalex.org/S4210187442,Reviews in Mineralogy and Geochemistry,0
+CVPR,2007,https://openalex.org/W2028116953,Fluid Phase Separation Processes in Submarine Hydrothermal Systems,102,https://openalex.org/S4210187442,Reviews in Mineralogy and Geochemistry,0
+CVPR,2007,https://openalex.org/W2161108149,Numerical Simulation of Multiphase Fluid Flow in Hydrothermal Systems,75,https://openalex.org/S4210187442,Reviews in Mineralogy and Geochemistry,0
+CVPR,2007,https://openalex.org/W2034236406,Stomatal Frequency Change Over Altitudinal Gradients: Prospects for Paleoaltimetry,109,https://openalex.org/S4210187442,Reviews in Mineralogy and Geochemistry,0
+IJCAI,2007,https://openalex.org/W92376239,Emergence of norms through social learning,279,https://openalex.org/S4306419999,International Joint Conference on Artificial Intelligence,0
+IJCAI,2007,https://openalex.org/W46938732,ItemRank: a random-walk based scoring algorithm for recommender engines,271,https://openalex.org/S4306419999,International Joint Conference on Artificial Intelligence,0
+IJCAI,2007,https://openalex.org/W2108287887,Identifying expressions of opinion in context,253,https://openalex.org/S4306419999,International Joint Conference on Artificial Intelligence,0
+IJCAI,2007,https://openalex.org/W184049366,Formal trust model for multiagent systems,234,https://openalex.org/S4306419999,International Joint Conference on Artificial Intelligence,0
+IJCAI,2007,https://openalex.org/W167115076,Searching for interacting features,214,https://openalex.org/S4306419999,International Joint Conference on Artificial Intelligence,0
+IJCAI,2007,https://openalex.org/W1489026763,Trust based recommender system for the semantic web,151,https://openalex.org/S4306419999,International Joint Conference on Artificial Intelligence,0
+IJCAI,2007,https://openalex.org/W90502410,What you seek is what you get: extraction of class attributes from query logs,128,https://openalex.org/S4306419999,International Joint Conference on Artificial Intelligence,0
+IJCAI,2007,https://openalex.org/W138745945,Selective supervision: guiding supervised learning with decision-theoretic active learning,119,https://openalex.org/S4306419999,International Joint Conference on Artificial Intelligence,0
+IJCAI,2007,https://openalex.org/W1511537177,OSS: a semantic similarity function based on hierarchical ontologies,106,https://openalex.org/S4306419999,International Joint Conference on Artificial Intelligence,0
+IJCAI,2007,https://openalex.org/W1923871101,Learning and multiagent reasoning for autonomous agents,64,https://openalex.org/S4306419999,International Joint Conference on Artificial Intelligence,0
+IJCAI,2007,https://openalex.org/W2061884629,"Mutations in Cardiac T-Box Factor Gene TBX20 are associated with Diverse Cardiac Pathologies, Including Defects of Septation and Valvulogenesis and Cardiomyopathy",359,https://openalex.org/S4306402548,"Griffith Research Online (Griffith University, Queensland, Australia)",0
+IJCAI,2007,https://openalex.org/W1039568389,The Culture of Prison Violence,141,https://openalex.org/S4306402548,"Griffith Research Online (Griffith University, Queensland, Australia)",0
+IJCAI,2007,https://openalex.org/W318430001,Future Schools and How Technology can be used to support Millennial and Generation-Z Students,119,https://openalex.org/S4306402548,"Griffith Research Online (Griffith University, Queensland, Australia)",0
+IJCAI,2007,https://openalex.org/W2126752003,Distances People Walk for Transport,101,https://openalex.org/S4306402548,"Griffith Research Online (Griffith University, Queensland, Australia)",0
+IJCAI,2007,https://openalex.org/W198025141,Power Without Responsibility: Ministerial Staffers in Australian Governments from Whitlam to Howard.,80,https://openalex.org/S4306402548,"Griffith Research Online (Griffith University, Queensland, Australia)",0
+IJCAI,2007,https://openalex.org/W994474385,Continuity and Change in Literacy Practices: A Move towards Multiliteracies.,57,https://openalex.org/S4306402548,"Griffith Research Online (Griffith University, Queensland, Australia)",0
+IJCAI,2007,https://openalex.org/W1525005626,Evaluating the direct and indirect impact of traits and perceptions on technology adoption by women entrepreneurs in Malaysia,33,https://openalex.org/S4306402548,"Griffith Research Online (Griffith University, Queensland, Australia)",0
+IJCAI,2007,https://openalex.org/W1603334961,"Cabinet Government in Australia, 1901-2006 : Practice, Principles, Performance",33,https://openalex.org/S4306402548,"Griffith Research Online (Griffith University, Queensland, Australia)",0
+IJCAI,2007,https://openalex.org/W2134816814,The impact of parental attachment on adolescent perception of the school environment and school connectedness.,86,https://openalex.org/S4306402548,"Griffith Research Online (Griffith University, Queensland, Australia)",0
+IJCAI,2007,https://openalex.org/W1571469744,Global Feminisms: New Directions in Contemporary Art,84,https://openalex.org/S4306402548,"Griffith Research Online (Griffith University, Queensland, Australia)",0
+AAAI,2006,https://openalex.org/W114341944,The IAPR Benchmark : A New Evaluation Resource for Visual Information Systems,307,https://openalex.org/S4306401362,RWTH Publications (RWTH Aachen),0
+AAAI,2006,https://openalex.org/W2398009384,Automatic sentence segmentation and punctuation prediction for spoken language translation.,85,https://openalex.org/S4306401362,RWTH Publications (RWTH Aachen),0
+AAAI,2006,https://openalex.org/W897121544,Mechanical and fracture mechanical properties of fine grained concrete for textile reinforced composites,45,https://openalex.org/S4306401362,RWTH Publications (RWTH Aachen),0
+AAAI,2006,https://openalex.org/W87666917,Mobile Host: A Feasibility Analysis of Mobile Web Service Provisioning.,36,https://openalex.org/S4306401362,RWTH Publications (RWTH Aachen),0
+AAAI,2006,https://openalex.org/W1429528193,Untersuchungen zu den Korrosionsmechanismen von Stahlfasern in chloridhaltigem Beton,24,https://openalex.org/S4306401362,RWTH Publications (RWTH Aachen),0
+AAAI,2006,https://openalex.org/W175138913,Foundations for knowledge-based programs using ES,16,https://openalex.org/S4306401362,RWTH Publications (RWTH Aachen),0
+AAAI,2006,https://openalex.org/W2734821916,Machinability enhancement of non-leaded free cutting steels,14,https://openalex.org/S4306401362,RWTH Publications (RWTH Aachen),0
+AAAI,2006,https://openalex.org/W2095985709,OCALA: an architecture for supporting legacy applications over overlays,65,https://openalex.org/S4306401362,RWTH Publications (RWTH Aachen),0
+AAAI,2006,https://openalex.org/W2618624206,Advances in redox-flow batteries,16,https://openalex.org/S4306401362,RWTH Publications (RWTH Aachen),0
+AAAI,2006,https://openalex.org/W175951530,PhaVoRIT: A Phase Vocoder for Real-Time Interactive Time-Stretching,22,https://openalex.org/S4306401362,RWTH Publications (RWTH Aachen),0
+CVPR,2006,https://openalex.org/W1991544872,EPnP: An Accurate O(n) Solution to the PnP Problem,3092,https://openalex.org/S25538012,International Journal of Computer Vision,0
+CVPR,2006,https://openalex.org/W2158169396,Unsupervised Learning of Human Action Categories Using Spatial-Temporal Words,1480,https://openalex.org/S25538012,International Journal of Computer Vision,0
+CVPR,2006,https://openalex.org/W2017313218,Multi-Class Segmentation with Relative Location Prior,409,https://openalex.org/S25538012,International Journal of Computer Vision,0
+CVPR,2006,https://openalex.org/W2147950119,Adaptive Stochastic Gradient Descent Optimisation for Image Registration,391,https://openalex.org/S25538012,International Journal of Computer Vision,0
+CVPR,2006,https://openalex.org/W2004586880,Object Class Recognition and Localization Using Sparse Features with Limited Receptive Fields,376,https://openalex.org/S25538012,International Journal of Computer Vision,0
+CVPR,2006,https://openalex.org/W2013712253,Spectral Curvature Clustering (SCC),368,https://openalex.org/S25538012,International Journal of Computer Vision,0
+CVPR,2006,https://openalex.org/W2144476963,Particle Video: Long-Range Motion Estimation Using Point Trajectories,355,https://openalex.org/S25538012,International Journal of Computer Vision,0
+CVPR,2006,https://openalex.org/W1967268147,Geodesic Matting: A Framework for Fast Interactive Image and Video Segmentation and Matting,310,https://openalex.org/S25538012,International Journal of Computer Vision,0
+CVPR,2006,https://openalex.org/W1508437923,Optimization and Filtering for Human Motion Capture,230,https://openalex.org/S25538012,International Journal of Computer Vision,0
+CVPR,2006,https://openalex.org/W2052017695,Large Deformation Diffeomorphic Metric Curve Mapping,225,https://openalex.org/S25538012,International Journal of Computer Vision,0
+OSDI,2006,https://openalex.org/W2051544187,A generic component model for building systems software,373,https://openalex.org/S193109227,ACM Transactions on Computer Systems,0
+OSDI,2006,https://openalex.org/W1976922833,Adaptive work-stealing with parallelism feedback,71,https://openalex.org/S193109227,ACM Transactions on Computer Systems,0
+OSDI,2006,https://openalex.org/W2066750882,RaWMS - Random Walk Based Lightweight Membership Service for Wireless Ad Hoc Networks,72,https://openalex.org/S193109227,ACM Transactions on Computer Systems,0
+OSDI,2006,https://openalex.org/W2109077605,Vigilante,33,https://openalex.org/S193109227,ACM Transactions on Computer Systems,0
+OSDI,2006,https://openalex.org/W2163936416,The SMesh wireless mesh network,24,https://openalex.org/S193109227,ACM Transactions on Computer Systems,0
+OSDI,2006,https://openalex.org/W2146515084,Probabilistic quorum systems in wireless Ad Hoc networks,29,https://openalex.org/S193109227,ACM Transactions on Computer Systems,0
+OSDI,2006,https://openalex.org/W2067614093,A stateless approach to connection-oriented protocols,16,https://openalex.org/S193109227,ACM Transactions on Computer Systems,0
+OSDI,2006,https://openalex.org/W2140337761,High-bandwidth data dissemination for large-scale distributed systems,23,https://openalex.org/S193109227,ACM Transactions on Computer Systems,0
+OSDI,2006,https://openalex.org/W2010221388,Incrementally parallelizing database transactions with thread-level speculation,9,https://openalex.org/S193109227,ACM Transactions on Computer Systems,0
+OSDI,2006,https://openalex.org/W2032596249,Improving peer-to-peer performance through server-side scheduling,6,https://openalex.org/S193109227,ACM Transactions on Computer Systems,0
+OSDI,2006,https://openalex.org/W2051544187,A generic component model for building systems software,373,https://openalex.org/S193109227,ACM Transactions on Computer Systems,0
+OSDI,2006,https://openalex.org/W1976922833,Adaptive work-stealing with parallelism feedback,71,https://openalex.org/S193109227,ACM Transactions on Computer Systems,0
+OSDI,2006,https://openalex.org/W2066750882,RaWMS - Random Walk Based Lightweight Membership Service for Wireless Ad Hoc Networks,72,https://openalex.org/S193109227,ACM Transactions on Computer Systems,0
+OSDI,2006,https://openalex.org/W2109077605,Vigilante,33,https://openalex.org/S193109227,ACM Transactions on Computer Systems,0
+OSDI,2006,https://openalex.org/W2163936416,The SMesh wireless mesh network,24,https://openalex.org/S193109227,ACM Transactions on Computer Systems,0
+OSDI,2006,https://openalex.org/W2146515084,Probabilistic quorum systems in wireless Ad Hoc networks,29,https://openalex.org/S193109227,ACM Transactions on Computer Systems,0
+OSDI,2006,https://openalex.org/W2067614093,A stateless approach to connection-oriented protocols,16,https://openalex.org/S193109227,ACM Transactions on Computer Systems,0
+OSDI,2006,https://openalex.org/W2140337761,High-bandwidth data dissemination for large-scale distributed systems,23,https://openalex.org/S193109227,ACM Transactions on Computer Systems,0
+OSDI,2006,https://openalex.org/W2010221388,Incrementally parallelizing database transactions with thread-level speculation,9,https://openalex.org/S193109227,ACM Transactions on Computer Systems,0
+OSDI,2006,https://openalex.org/W2032596249,Improving peer-to-peer performance through server-side scheduling,6,https://openalex.org/S193109227,ACM Transactions on Computer Systems,0
+SIGMOD,2006,https://openalex.org/W2127364208,Why Experts Make Errors,287,https://openalex.org/S4306401019,ePrints Soton (University of Southampton),0
+SIGMOD,2006,https://openalex.org/W2135140174,Kernel-Based Learning of Hierarchical Multilabel Classification Models,247,https://openalex.org/S4306401019,ePrints Soton (University of Southampton),0
+SIGMOD,2006,https://openalex.org/W1787802114,Mechanisms of tsunami generation by submarine landslides - a short review,210,https://openalex.org/S4306401019,ePrints Soton (University of Southampton),0
+SIGMOD,2006,https://openalex.org/W144580640,The cost of disease-related malnutrition in the UK and economic considerations for the use of oral nutritional supplements (ONS) in adults,109,https://openalex.org/S4306401019,ePrints Soton (University of Southampton),0
+SIGMOD,2006,https://openalex.org/W64444179,The effectiveness of homework tasks in an irritable bowel syndrome self-management programme,55,https://openalex.org/S4306401019,ePrints Soton (University of Southampton),0
+SIGMOD,2006,https://openalex.org/W618801200,"European private international law, the environment and obstacles for public authorities",37,https://openalex.org/S4306401019,ePrints Soton (University of Southampton),0
+SIGMOD,2006,https://openalex.org/W1549980882,"Matrilineal Communities, Patriarchal Realities: A Feminist Nirvana Uncovered",36,https://openalex.org/S4306401019,ePrints Soton (University of Southampton),0
+SIGMOD,2006,https://openalex.org/W199644573,Napoleon is dead: Lord Cochrane and the great stock exchange scandal,19,https://openalex.org/S4306401019,ePrints Soton (University of Southampton),0
+SIGMOD,2006,https://openalex.org/W1832033375,An Architecture for Provenance Systems,121,https://openalex.org/S4306401019,ePrints Soton (University of Southampton),0
+SIGMOD,2006,https://openalex.org/W2097025453,Overlapping coalition formation for efficient data fusion in multi-sensor networks,112,https://openalex.org/S4306401019,ePrints Soton (University of Southampton),0
+VLDB,2006,https://openalex.org/W2107927452,Anatomy: simple and effective privacy preservation,646,https://openalex.org/S4306421142,Very Large Data Bases,0
+VLDB,2006,https://openalex.org/W2142151675,Data integration: the teenage years,540,https://openalex.org/S4306421142,Very Large Data Bases,0
+VLDB,2006,https://openalex.org/W2166916904,ULDBs: databases with uncertainty and lineage,459,https://openalex.org/S4306421142,Very Large Data Bases,0
+VLDB,2006,https://openalex.org/W2144550310,Adaptive cleaning for RFID data streams,412,https://openalex.org/S4306421142,Very Large Data Bases,0
+VLDB,2006,https://openalex.org/W2096598900,Efficient exact set-similarity joins,404,https://openalex.org/S4306421142,Very Large Data Bases,0
+VLDB,2006,https://openalex.org/W2136445928,The spatial skyline queries,269,https://openalex.org/S4306421142,Very Large Data Bases,0
+VLDB,2006,https://openalex.org/W2129388342,A middleware for fast and flexible sensor network deployment,249,https://openalex.org/S4306421142,Very Large Data Bases,0
+VLDB,2006,https://openalex.org/W2134780295,Continuous nearest neighbor monitoring in road networks,205,https://openalex.org/S4306421142,Very Large Data Bases,0
+VLDB,2006,https://openalex.org/W2112791883,LB_Keogh supports exact indexing of shapes under rotation invariance with arbitrary representations and distance measures,197,https://openalex.org/S4306421142,Very Large Data Bases,0
+VLDB,2006,https://openalex.org/W2098569470,Twig2Stack: bottom-up processing of generalized-tree-pattern queries over XML documents,188,https://openalex.org/S4306421142,Very Large Data Bases,0
+CVPR,2005,https://openalex.org/W2129689267,Combustion-derived nanoparticles: A review of their toxicology following inhalation exposure,927,https://openalex.org/S189275214,Particle and Fibre Toxicology,0
+CVPR,2005,https://openalex.org/W2128632965,Impact of tire debris on in vitro and in vivo systems,267,https://openalex.org/S189275214,Particle and Fibre Toxicology,0
+CVPR,2005,https://openalex.org/W2166431583,"Cytokine release from alveolar macrophages exposed to ambient particulate matter: Heterogeneity in relation to size, city and season",178,https://openalex.org/S189275214,Particle and Fibre Toxicology,0
+CVPR,2005,https://openalex.org/W2113860483,Carbon black nanoparticles induce type II epithelial cells to release chemotaxins for alveolar macrophages,123,https://openalex.org/S189275214,Particle and Fibre Toxicology,0
+CVPR,2005,https://openalex.org/W2131974662,Combustion of dried animal dung as biofuel results in the generation of highly redox active fine particulates,123,https://openalex.org/S189275214,Particle and Fibre Toxicology,0
+CVPR,2005,https://openalex.org/W2107052416,Effects of particulate matter on the pulmonary and vascular system: time course in spontaneously hypertensive rats,49,https://openalex.org/S189275214,Particle and Fibre Toxicology,0
+CVPR,2005,https://openalex.org/W2117087194,Ultrafine particles cause cytoskeletal dysfunctions in macrophages: role of intracellular calcium,70,https://openalex.org/S189275214,Particle and Fibre Toxicology,0
+CVPR,2005,https://openalex.org/W2114461027,The influence of hydrogen peroxide and histamine on lung permeability and translocation of iridium nanoparticles in the isolated perfused rat lung,69,https://openalex.org/S189275214,Particle and Fibre Toxicology,0
+CVPR,2005,https://openalex.org/W2102081877,ROS-mediated genotoxicity of asbestos-cement in mammalian lung cells in vitro,39,https://openalex.org/S189275214,Particle and Fibre Toxicology,0
+CVPR,2005,https://openalex.org/W2113608498,Exposure and risks from wearing asbestos mitts,9,https://openalex.org/S189275214,Particle and Fibre Toxicology,0
+IJCAI,2005,https://openalex.org/W57680428,Semi-supervised regression with co-training,243,https://openalex.org/S4306419999,International Joint Conference on Artificial Intelligence,0
+IJCAI,2005,https://openalex.org/W1513540105,A new approach to multiobjective A* search,101,https://openalex.org/S4306419999,International Joint Conference on Artificial Intelligence,0
+IJCAI,2005,https://openalex.org/W96215098,A model-theoretic counterpart of loop formulas,81,https://openalex.org/S4306419999,International Joint Conference on Artificial Intelligence,0
+IJCAI,2005,https://openalex.org/W105409620,Planning with loops,78,https://openalex.org/S4306419999,International Joint Conference on Artificial Intelligence,0
+IJCAI,2005,https://openalex.org/W2123657698,Self adaptive particle filter,77,https://openalex.org/S4306419999,International Joint Conference on Artificial Intelligence,0
+IJCAI,2005,https://openalex.org/W20974380,Limited discrepancy beam search,74,https://openalex.org/S4306419999,International Joint Conference on Artificial Intelligence,0
+IJCAI,2005,https://openalex.org/W136010251,Evolino: hybrid neuroevolution / optimal linear search for sequence learning,71,https://openalex.org/S4306419999,International Joint Conference on Artificial Intelligence,0
+IJCAI,2005,https://openalex.org/W203133358,Resolution in Max-SAT and its relation to local consistency in weighted CSPs,66,https://openalex.org/S4306419999,International Joint Conference on Artificial Intelligence,0
+IJCAI,2005,https://openalex.org/W1502122916,View learning for statistical relational learning: with an application to mammography,46,https://openalex.org/S4306419999,International Joint Conference on Artificial Intelligence,0
+IJCAI,2005,https://openalex.org/W58869493,Automation intelligence for the smart environment,44,https://openalex.org/S4306419999,International Joint Conference on Artificial Intelligence,0
+SIGMETRICS,2005,https://openalex.org/W2149863032,XORs in the Air: Practical Wireless Network Coding,2262,https://openalex.org/S62238642,IEEE/ACM Transactions on Networking,0
+SIGMETRICS,2005,https://openalex.org/W2129849999,Efficient Routing in Intermittently Connected Mobile Networks: The Single-Copy Case,1119,https://openalex.org/S62238642,IEEE/ACM Transactions on Networking,0
+SIGMETRICS,2005,https://openalex.org/W2118820208,Virus Spread in Networks,1040,https://openalex.org/S62238642,IEEE/ACM Transactions on Networking,0
+SIGMETRICS,2005,https://openalex.org/W2112030268,Z-MAC: A Hybrid MAC for Wireless Sensor Networks,834,https://openalex.org/S62238642,IEEE/ACM Transactions on Networking,0
+SIGMETRICS,2005,https://openalex.org/W4242656826,Efficient Routing in Intermittently Connected Mobile Networks: The Multiple-Copy Case,636,https://openalex.org/S62238642,IEEE/ACM Transactions on Networking,0
+SIGMETRICS,2005,https://openalex.org/W2120344179,Fairness and Optimal Stochastic Control for Heterogeneous Networks,443,https://openalex.org/S62238642,IEEE/ACM Transactions on Networking,0
+SIGMETRICS,2005,https://openalex.org/W2076424788,Characterization of Failures in an Operational IP Backbone Network,408,https://openalex.org/S62238642,IEEE/ACM Transactions on Networking,0
+SIGMETRICS,2005,https://openalex.org/W2153305401,SybilGuard: Defending Against Sybil Attacks via Social Networks,389,https://openalex.org/S62238642,IEEE/ACM Transactions on Networking,0
+SIGMETRICS,2005,https://openalex.org/W2170874246,Monitoring the Application-Layer DDoS Attacks for Popular Websites,268,https://openalex.org/S62238642,IEEE/ACM Transactions on Networking,0
+SIGMETRICS,2005,https://openalex.org/W2096411785,Traffic Modeling and Proportional Partial Caching for Peer-to-Peer Systems,263,https://openalex.org/S62238642,IEEE/ACM Transactions on Networking,0
+OSDI,2004,https://openalex.org/W2081357650,Inferring Internet denial-of-service activity,786,https://openalex.org/S193109227,ACM Transactions on Computer Systems,0
+OSDI,2004,https://openalex.org/W1964369900,Energy-aware lossless data compression,339,https://openalex.org/S193109227,ACM Transactions on Computer Systems,0
+OSDI,2004,https://openalex.org/W2124877509,Using model checking to find serious file system errors,304,https://openalex.org/S193109227,ACM Transactions on Computer Systems,0
+OSDI,2004,https://openalex.org/W1988302931,Energy-efficient CPU scheduling for multimedia applications,138,https://openalex.org/S193109227,ACM Transactions on Computer Systems,0
+OSDI,2004,https://openalex.org/W2089115820,On the performance of wide-area thin-client computing,115,https://openalex.org/S193109227,ACM Transactions on Computer Systems,0
+OSDI,2004,https://openalex.org/W2099105350,The costs and limits of availability for replicated services,71,https://openalex.org/S193109227,ACM Transactions on Computer Systems,0
+OSDI,2004,https://openalex.org/W2047418149,Speculative execution in a distributed file system,53,https://openalex.org/S193109227,ACM Transactions on Computer Systems,0
+OSDI,2004,https://openalex.org/W1979351188,Locking under Pfair scheduling,20,https://openalex.org/S193109227,ACM Transactions on Computer Systems,0
+OSDI,2004,https://openalex.org/W310700731,Performance analysis of TLS Web servers,38,https://openalex.org/S193109227,ACM Transactions on Computer Systems,0
+OSDI,2004,https://openalex.org/W2062581063,The Liberty Simulation Environment,36,https://openalex.org/S193109227,ACM Transactions on Computer Systems,0
+OSDI,2004,https://openalex.org/W1524673069,Using magpie for request extraction and workload modelling,575,https://openalex.org/S4306420647,Operating Systems Design and Implementation,0
+OSDI,2004,https://openalex.org/W135621892,Recovering Device Drivers (Awarded Best Paper,8,https://openalex.org/S4306420647,Operating Systems Design and Implementation,0
+SIGMETRICS,2004,https://openalex.org/W4246071789,Structural analysis of network traffic flows,172,https://openalex.org/S4210187660,ACM SIGMETRICS Performance Evaluation Review,0
+SIGMETRICS,2004,https://openalex.org/W2015659026,SimFlex,150,https://openalex.org/S4210187660,ACM SIGMETRICS Performance Evaluation Review,0
+SIGMETRICS,2004,https://openalex.org/W2005961863,Mambo,147,https://openalex.org/S4210187660,ACM SIGMETRICS Performance Evaluation Review,0
+SIGMETRICS,2004,https://openalex.org/W3006383271,Data streaming algorithms for efficient and accurate estimation of flow size distribution,105,https://openalex.org/S4210187660,ACM SIGMETRICS Performance Evaluation Review,0
+SIGMETRICS,2004,https://openalex.org/W2132383918,Performance aware tasking for environmentally powered sensor networks,97,https://openalex.org/S4210187660,ACM SIGMETRICS Performance Evaluation Review,0
+SIGMETRICS,2004,https://openalex.org/W2000102195,How to use SimPoint to pick simulation points,65,https://openalex.org/S4210187660,ACM SIGMETRICS Performance Evaluation Review,0
+SIGMETRICS,2004,https://openalex.org/W4236354651,Interposed proportional sharing for a storage service utility,54,https://openalex.org/S4210187660,ACM SIGMETRICS Performance Evaluation Review,0
+SIGMETRICS,2004,https://openalex.org/W2996776823,Myths and realities,50,https://openalex.org/S4210187660,ACM SIGMETRICS Performance Evaluation Review,0
+SIGMETRICS,2004,https://openalex.org/W2996764231,Multi-dimensional storage virtualization,35,https://openalex.org/S4210187660,ACM SIGMETRICS Performance Evaluation Review,0
+SIGMETRICS,2004,https://openalex.org/W2997172441,Cross-architecture performance predictions for scientific applications using parameterized models,33,https://openalex.org/S4210187660,ACM SIGMETRICS Performance Evaluation Review,0
+VLDB,2004,https://openalex.org/W1963797815,Recrystallization and Related Annealing Phenomena,7445,https://openalex.org/S4306463230,Elsevier eBooks,0
+VLDB,2004,https://openalex.org/W1600002860,Sensory Evaluation Practices,2780,https://openalex.org/S4306463230,Elsevier eBooks,0
+VLDB,2004,https://openalex.org/W1567730256,Handbook of Proteolytic Enzymes,2631,https://openalex.org/S4306463230,Elsevier eBooks,0
+VLDB,2004,https://openalex.org/W1976625337,Probability and Random Processes,2590,https://openalex.org/S4306463230,Elsevier eBooks,0
+VLDB,2004,https://openalex.org/W1487678510,Introduction to Optimum Design,2231,https://openalex.org/S4306463230,Elsevier eBooks,0
+VLDB,2004,https://openalex.org/W2082025849,Handbook of MRI Pulse Sequences,1629,https://openalex.org/S4306463230,Elsevier eBooks,0
+VLDB,2004,https://openalex.org/W1682076822,"Routing, Flow, and Capacity Design in Communication and Computer Networks",1028,https://openalex.org/S4306463230,Elsevier eBooks,0
+VLDB,2004,https://openalex.org/W1845137714,Combating Web Spam with TrustRank,1025,https://openalex.org/S4306463230,Elsevier eBooks,0
+VLDB,2004,https://openalex.org/W2585104456,Recrystallization Textures,976,https://openalex.org/S4306463230,Elsevier eBooks,0
+VLDB,2004,https://openalex.org/W3022152544,Veterinary Epidemiology,885,https://openalex.org/S4306463230,Elsevier eBooks,0
+IJCAI,2003,https://openalex.org/W2141465109,Learning Spectral Clustering,431,https://openalex.org/S7407050879,UC Berkeley,0
+IJCAI,2003,https://openalex.org/W1527236889,Coming of Age in America: The Misapplication of Sex-Offender Registration and Community-Notification Laws to Juveniles,52,https://openalex.org/S7407050879,UC Berkeley,0
+IJCAI,2003,https://openalex.org/W1557416312,Decisionmaking in the U.S. Circuit Courts of Appeals,33,https://openalex.org/S7407050879,UC Berkeley,0
+IJCAI,2003,https://openalex.org/W59437739,ARRIVE: Algorithm for Robust Routing in Volatile Environments,79,https://openalex.org/S7407050879,UC Berkeley,0
+IJCAI,2003,https://openalex.org/W194915367,Managing Personal Information Disclosure in Ubiquitous Computing Environments,55,https://openalex.org/S7407050879,UC Berkeley,0
+IJCAI,2003,https://openalex.org/W2163245285,The two-parameter generalization of Ewens' random partition structure,47,https://openalex.org/S7407050879,UC Berkeley,0
+IJCAI,2003,https://openalex.org/W1606628473,Lifestyle Discrimination in Employment,36,https://openalex.org/S7407050879,UC Berkeley,0
+IJCAI,2003,https://openalex.org/W3124375764,"""Risk Avoidance, Cultural Discrimination, and Environmental Justice for Indigenous Peoples""",31,https://openalex.org/S7407050879,UC Berkeley,0
+IJCAI,2003,https://openalex.org/W3081611901,Books with Voices : Paper Transcripts as a Tangible Interface to Oral Histories,27,https://openalex.org/S7407050879,UC Berkeley,0
+IJCAI,2003,https://openalex.org/W3122037672,The Efficiency of Controlling Corporate Self-Dealing: Theory Meets Reality,22,https://openalex.org/S7407050879,UC Berkeley,0
+AAAI,2002,https://openalex.org/W2148820580,FastSLAM: a factored solution to the simultaneous localization and mapping problem,2046,https://openalex.org/S4306420577,National Conference on Artificial Intelligence,0
+AAAI,2002,https://openalex.org/W2113858518,Content-boosted collaborative filtering for improved recommendations,1094,https://openalex.org/S4306420577,National Conference on Artificial Intelligence,0
+AAAI,2002,https://openalex.org/W2294319407,D*lite,392,https://openalex.org/S4306420577,National Conference on Artificial Intelligence,0
+AAAI,2002,https://openalex.org/W2036987424,Cluster ensembles: a knowledge reuse framework for combining partitionings,321,https://openalex.org/S4306420577,National Conference on Artificial Intelligence,0
+AAAI,2002,https://openalex.org/W2107872705,Experiences with a mobile robotic guide for the elderly,289,https://openalex.org/S4306420577,National Conference on Artificial Intelligence,0
+AAAI,2002,https://openalex.org/W2010225880,A POMDP formulation of preference elicitation problems,273,https://openalex.org/S4306420577,National Conference on Artificial Intelligence,0
+AAAI,2002,https://openalex.org/W2001737243,Representing and reasoning about mappings between domain models,227,https://openalex.org/S4306420577,National Conference on Artificial Intelligence,0
+AAAI,2002,https://openalex.org/W2035707461,Promptdiff: a fixed-point algorithm for comparing ontology versions,222,https://openalex.org/S4306420577,National Conference on Artificial Intelligence,0
+AAAI,2002,https://openalex.org/W2089561656,State abstraction for programmable reinforcement learning agents,214,https://openalex.org/S4306420577,National Conference on Artificial Intelligence,0
+AAAI,2002,https://openalex.org/W2085366587,Reinforcement learning of coordination in cooperative multi-agent systems,199,https://openalex.org/S4306420577,National Conference on Artificial Intelligence,0
+OSDI,2002,https://openalex.org/W2167396179,TAG,2718,https://openalex.org/S50071195,ACM SIGOPS Operating Systems Review,0
+OSDI,2002,https://openalex.org/W2143229717,Fine-grained network time synchronization using reference broadcasts,2391,https://openalex.org/S50071195,ACM SIGOPS Operating Systems Review,0
+OSDI,2002,https://openalex.org/W1970705443,An integrated experimental environment for distributed systems and networks,1309,https://openalex.org/S50071195,ACM SIGOPS Operating Systems Review,0
+OSDI,2002,https://openalex.org/W2142892618,ReVirt,802,https://openalex.org/S50071195,ACM SIGOPS Operating Systems Review,0
+OSDI,2002,https://openalex.org/W2121133177,Farsite,791,https://openalex.org/S50071195,ACM SIGOPS Operating Systems Review,0
+OSDI,2002,https://openalex.org/W2171957559,Secure routing for structured peer-to-peer overlay networks,750,https://openalex.org/S50071195,ACM SIGOPS Operating Systems Review,0
+OSDI,2002,https://openalex.org/W1972699782,An analysis of Internet content delivery systems,545,https://openalex.org/S50071195,ACM SIGOPS Operating Systems Review,0
+OSDI,2002,https://openalex.org/W2125530623,Scalability and accuracy in a large-scale network emulator,470,https://openalex.org/S50071195,ACM SIGOPS Operating Systems Review,0
+OSDI,2002,https://openalex.org/W2094224023,Optimizing the migration of virtual computers,409,https://openalex.org/S50071195,ACM SIGOPS Operating Systems Review,0
+OSDI,2002,https://openalex.org/W2157801087,The design and implementation of Zap,408,https://openalex.org/S50071195,ACM SIGOPS Operating Systems Review,0
+IJCAI,2001,https://openalex.org/W2106578604,Interval Estimation for a Binomial Proportion,3377,https://openalex.org/S12967704,Statistical Science,0
+IJCAI,2001,https://openalex.org/W2008703230,Optimal scaling for various Metropolis-Hastings algorithms,1095,https://openalex.org/S12967704,Statistical Science,0
+IJCAI,2001,https://openalex.org/W1973704753,Computer Intrusion: Detecting Masquerades,378,https://openalex.org/S12967704,Statistical Science,0
+IJCAI,2001,https://openalex.org/W1576649281,"Stochastic models and descriptive statistics for phylogenetic trees, from Yule to today",353,https://openalex.org/S12967704,Statistical Science,0
+IJCAI,2001,https://openalex.org/W2090373435,Nonparametric Regressin with Correlated Errors,273,https://openalex.org/S12967704,Statistical Science,0
+IJCAI,2001,https://openalex.org/W2001074797,Honest Exploration of Intractable Probability Distributions via Markov Chain Monte Carlo,256,https://openalex.org/S12967704,Statistical Science,0
+IJCAI,2001,https://openalex.org/W1569393825,Understanding the shape of the hazard rate: a process point of view (With comments and a rejoinder by the authors),220,https://openalex.org/S12967704,Statistical Science,0
+IJCAI,2001,https://openalex.org/W2005548917,Ordering and Improving the Performance of Monte Carlo Markov Chains,121,https://openalex.org/S12967704,Statistical Science,0
+IJCAI,2001,https://openalex.org/W1979378106,A General Projection Framework for Constrained Smoothing,171,https://openalex.org/S12967704,Statistical Science,0
+IJCAI,2001,https://openalex.org/W1817683437,Conditionally Specified Distributions: An Introduction (with comments and a rejoinder by the authors),131,https://openalex.org/S12967704,Statistical Science,0
+AAAI,2000,https://openalex.org/W2129608356,LT TTT - A Flexible Tokenisation Tool,94,https://openalex.org/S4306400321,Edinburgh Research Explorer (University of Edinburgh),0
+AAAI,2000,https://openalex.org/W1607688008,A probabilistic genre-independent model of pronominalization,15,https://openalex.org/S4306400321,Edinburgh Research Explorer (University of Edinburgh),0
+AAAI,2000,https://openalex.org/W2600312882,Supporting Constructive Learning with a Feedback Planner,22,https://openalex.org/S4306400321,Edinburgh Research Explorer (University of Edinburgh),0
+AAAI,2000,https://openalex.org/W1483059521,Translating with Scarce Resources,30,https://openalex.org/S4306400321,Edinburgh Research Explorer (University of Edinburgh),0
+AAAI,2000,https://openalex.org/W2143800553,The Automatic Interpretation of Nominalizations,21,https://openalex.org/S4306400321,Edinburgh Research Explorer (University of Edinburgh),0
+AAAI,2000,https://openalex.org/W2101258030,Learning and the Law: A Short History of Edinburgh Law School,2,https://openalex.org/S4306400321,Edinburgh Research Explorer (University of Edinburgh),0
+AAAI,2000,https://openalex.org/W2786126729,An Intelligent Tutoring System for Induction Proofs,2,https://openalex.org/S4306400321,Edinburgh Research Explorer (University of Edinburgh),0
+AAAI,2000,https://openalex.org/W2118465952,Digital Waveguide Networks as Multidimensional Wave Digital Filters,3,https://openalex.org/S4306400321,Edinburgh Research Explorer (University of Edinburgh),0
+AAAI,2000,https://openalex.org/W3205697159,Biomedical research misconduct,0,https://openalex.org/S4306400321,Edinburgh Research Explorer (University of Edinburgh),0
+AAAI,2000,https://openalex.org/W7115242483,How do you see CG?,0,https://openalex.org/S4306400321,Edinburgh Research Explorer (University of Edinburgh),0
+SIGIR,2000,https://openalex.org/W2107743791,Probabilistic Latent Semantic Indexing,4048,https://openalex.org/S6756005,ACM SIGIR Forum,0
+SIGIR,2000,https://openalex.org/W2085937320,An Algorithmic Framework for Performing Collaborative Filtering,2552,https://openalex.org/S6756005,ACM SIGIR Forum,0
+SIGIR,2000,https://openalex.org/W2093390569,A Language Modeling Approach to Information Retrieval,2534,https://openalex.org/S6756005,ACM SIGIR Forum,0
+SIGIR,2000,https://openalex.org/W2083305840,"The Use of MMR, Diversity-Based Reranking for Reordering Documents and Producing Summaries",2200,https://openalex.org/S6756005,ACM SIGIR Forum,0
+SIGIR,2000,https://openalex.org/W2136542423,A Study of Smoothing Methods for Language Models Applied to Ad Hoc Information Retrieval,1564,https://openalex.org/S6756005,ACM SIGIR Forum,0
+SIGIR,2000,https://openalex.org/W2169213601,Relevance-Based Language Models,1444,https://openalex.org/S6756005,ACM SIGIR Forum,0
+SIGIR,2000,https://openalex.org/W1996764654,Scatter/Gather,1422,https://openalex.org/S6756005,ACM SIGIR Forum,0
+SIGIR,2000,https://openalex.org/W1979459060,Quary Expansion Using Local and Global Document Analysis,1265,https://openalex.org/S6756005,ACM SIGIR Forum,0
+SIGIR,2000,https://openalex.org/W2000569744,Pivoted Document Length Normalization,857,https://openalex.org/S6756005,ACM SIGIR Forum,0
+SIGIR,2000,https://openalex.org/W2068905009,"Document Language Models, Query Models, and Risk Minimization for Information Retrieval",772,https://openalex.org/S6756005,ACM SIGIR Forum,0

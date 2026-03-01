@@ -4,44 +4,44 @@
     "source_name": "Proceedings of the AAAI Conference on Artificial Intelligence"
   },
   "CHI": {
-    "source_id": "https://openalex.org/S4210212669",
-    "source_name": "Journal of Science Communication"
+    "source_id": "https://openalex.org/S4363607743",
+    "source_name": "CHI Conference on Human Factors in Computing Systems"
   },
   "CVPR": {
-    "source_id": "https://openalex.org/S4210187442",
-    "source_name": "Reviews in Mineralogy and Geochemistry"
+    "source_id": "https://openalex.org/S4210176548",
+    "source_name": "IEEE Computer Society Conference on Computer Vision and Pattern Recognition"
   },
   "FOCS": {
-    "source_id": "https://openalex.org/S153560523",
-    "source_name": "SIAM Journal on Computing"
+    "source_id": null,
+    "source_name": "FOCS \u2014 skipped, no generic source in OpenAlex"
   },
   "ICCV": {
-    "source_id": "https://openalex.org/S25538012",
-    "source_name": "International Journal of Computer Vision"
+    "source_id": null,
+    "source_name": "ICCV \u2014 skipped, no generic source in OpenAlex"
   },
   "ICML": {
-    "source_id": "https://openalex.org/S4306400088",
-    "source_name": "UvA-DARE (University of Amsterdam)"
+    "source_id": null,
+    "source_name": "ICML \u2014 skipped, not found in OpenAlex"
   },
   "ICSE": {
-    "source_id": "https://openalex.org/S4306401590",
-    "source_name": "Technischen Universit\u00e4t Darmstadt"
+    "source_id": null,
+    "source_name": "ICSE \u2014 skipped, year-specific only"
   },
   "IJCAI": {
     "source_id": "https://openalex.org/S4306419999",
     "source_name": "International Joint Conference on Artificial Intelligence"
   },
   "INFOCOM": {
-    "source_id": "https://openalex.org/S62238642",
-    "source_name": "IEEE/ACM Transactions on Networking"
+    "source_id": null,
+    "source_name": "INFOCOM \u2014 skipped, year-specific only"
   },
   "MOBICOM": {
-    "source_id": "https://openalex.org/S4210227886",
-    "source_name": "GetMobile Mobile Computing and Communications"
+    "source_id": null,
+    "source_name": "MobiCom \u2014 skipped, not found"
   },
   "NSDI": {
-    "source_id": "https://openalex.org/S4210227886",
-    "source_name": "GetMobile Mobile Computing and Communications"
+    "source_id": null,
+    "source_name": "NSDI \u2014 skipped, not found"
   },
   "NeurIPS": {
     "source_id": "https://openalex.org/S4306420609",
@@ -52,36 +52,36 @@
     "source_name": "Operating Systems Design and Implementation"
   },
   "S&P": {
-    "source_id": "https://openalex.org/S103482838",
-    "source_name": "Communications of the ACM"
+    "source_id": "https://openalex.org/S4210233669",
+    "source_name": "IEEE Symposium on Security and Privacy"
   },
   "SIGCOMM": {
-    "source_id": "https://openalex.org/S66039016",
-    "source_name": "ACM SIGCOMM Computer Communication Review"
+    "source_id": null,
+    "source_name": "SIGCOMM \u2014 skipped, only newsletter found"
   },
   "SIGIR": {
-    "source_id": "https://openalex.org/S6756005",
-    "source_name": "ACM SIGIR Forum"
+    "source_id": "https://openalex.org/S4306418959",
+    "source_name": "International ACM SIGIR Conference"
   },
   "SIGMETRICS": {
     "source_id": "https://openalex.org/S4210187660",
     "source_name": "ACM SIGMETRICS Performance Evaluation Review"
   },
   "SIGMOD": {
-    "source_id": "https://openalex.org/S4306401019",
-    "source_name": "ePrints Soton (University of Southampton)"
+    "source_id": "https://openalex.org/S4393915683",
+    "source_name": "Proceedings - ACM-SIGMOD International Conference on Management of Data"
   },
   "SODA": {
-    "source_id": "https://openalex.org/S162708223",
-    "source_name": "Atmospheric chemistry and physics"
+    "source_id": "https://openalex.org/S4393916915",
+    "source_name": "Proceedings of the Annual ACM-SIAM Symposium on Discrete Algorithms"
   },
   "SOSP": {
-    "source_id": "https://openalex.org/S193109227",
-    "source_name": "ACM Transactions on Computer Systems"
+    "source_id": null,
+    "source_name": "SOSP \u2014 skipped, not found"
   },
   "STOC": {
-    "source_id": "https://openalex.org/S118992489",
-    "source_name": "Journal of the ACM"
+    "source_id": null,
+    "source_name": "STOC \u2014 skipped, not found"
   },
   "VLDB": {
     "source_id": "https://openalex.org/S4210226185",

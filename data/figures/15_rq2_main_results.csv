@@ -1,0 +1,7 @@
+subgroup,metric,award_median,nonaward_median,n_award,n_nonaward,p,effect_r
+all,lift_citations,1.773,1.0,936,1116,0.0,-0.185
+all,lift_works,1.696,1.286,936,1245,0.0,-0.194
+junior,lift_citations,1.773,2.115,936,169,0.8027,0.041
+junior,lift_works,1.696,1.4,936,283,0.0126,-0.088
+senior_nonaward_only,lift_citations,,0.939,0,947,,
+senior_nonaward_only,lift_works,,1.267,0,962,,

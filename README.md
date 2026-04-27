@@ -12,6 +12,7 @@
 
 
 [![OpenAlex](https://img.shields.io/badge/Data-OpenAlex-blue)](https://openalex.org/)
+[![Huang's Best Paper Awards in Computer Science](https://img.shields.io/badge/Data-Huang-red)](https://jeffhuang.com/best_paper_awards/)
 [![Python](https://img.shields.io/badge/Tools-Python%20%7C%20Pandas%20%7C%20scikit--learn-green)](https://python.org/)
 
 ---

@@ -21,6 +21,7 @@
 
 - **RQ1**: Is the career of a junior winner (career age ≤ 5 at award year) better than a matched senior co-author after the award — in terms of citations and publications?
 - **RQ2**: Is an award-winning paper actually better than non-award papers at the same venue and year — in terms of citation impact and disruption (CD index)?
+- **RQ3**: Are any differences consistent across venues and career stages, or concentrated in particular contexts?
 
 ---
 

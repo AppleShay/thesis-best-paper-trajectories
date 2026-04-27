@@ -31,3 +31,8 @@ Thumbs.db
 
 # Environment variables
 .env
+
+
+# Large data files - do not commit
+data/matched/citing_papers.csv
+data/matched/citing_papers_checkpoint.csv

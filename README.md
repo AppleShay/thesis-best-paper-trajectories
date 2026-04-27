@@ -6,6 +6,7 @@
 > *"Is the Best, the Best?"* — Do early-career best-paper awards predict distinct trajectories (productivity, citations), or merely reflect pre-existing excellence?
 
 [📄 Proposal](docs/thesis_proposal.pdf)
+[80% Thesis](docs/thesis_report_80.pdf)
 
 [![OpenAlex](https://img.shields.io/badge/Data-OpenAlex-blue)](https://openalex.org/)
 [![Python](https://img.shields.io/badge/Tools-Python%20%7C%20Pandas%20%7C%20scikit--learn-green)](https://python.org/)

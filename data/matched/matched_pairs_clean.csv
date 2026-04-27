@@ -1,604 +1,346 @@
-treated_id,treated_name,control_id,control_name,conference,award_year,treat_pos,ctrl_pos,match_dist,core_rank
-https://openalex.org/A5014823249,Jincheng Mei,https://openalex.org/A5026521600,Chenjun Xiao,AAAI,2018,2,1,0.0,A*
-https://openalex.org/A5069646529,Adhiguna Kuncoro,https://openalex.org/A5111222692,Chris Dyer,ACL,2018,3,2,1.0,Unranked
-https://openalex.org/A5032195981,Sang-Gyun An,https://openalex.org/A5010677076,Martin Müller,CHI,2018,2,3,0.0,A*
-https://openalex.org/A5075359884,Sylvia Simioni,https://openalex.org/A5001484153,Sudha Rao,CHI,2018,3,1,0.0,A*
-https://openalex.org/A5035195609,Sean Peacock,https://openalex.org/A5111222692,Chris Dyer,CHI,2018,1,2,0.0,A*
-https://openalex.org/A5061115418,Clara Crivellaro,https://openalex.org/A5111222692,Chris Dyer,CHI,2018,3,2,1.0,A*
-https://openalex.org/A5021296068,Lydia Michie,https://openalex.org/A5039799789,Jonathan Brennan,CHI,2018,1,4,0.0,A*
-https://openalex.org/A5084538652,Morgan Klaus Scheuerman,https://openalex.org/A5001484153,Sudha Rao,CHI,2018,2,1,0.0,A*
-https://openalex.org/A5034634435,Ari Schlesinger,https://openalex.org/A5111222692,Chris Dyer,CHI,2018,1,2,0.0,A*
-https://openalex.org/A5078903072,Robert B. Lull,https://openalex.org/A5001484153,Sudha Rao,CHI,2018,3,1,0.0,A*
-https://openalex.org/A5011438930,Jessica L. Feuston,https://openalex.org/A5012652561,Mark Díaz,CHI,2018,2,1,0.0,A*
-https://openalex.org/A5091847639,Caroline Edasis,https://openalex.org/A5109995935,Brian Musgrove,CHI,2018,3,2,0.0,A*
-https://openalex.org/A5075026385,Miro Mannino,https://openalex.org/A5029738364,Joon Hyub Lee,CHI,2018,1,3,0.0,A*
-https://openalex.org/A5086240513,Josh Andrés,https://openalex.org/A5020160332,Gun Lee,CHI,2018,3,4,0.0,A*
-https://openalex.org/A5109428307,Jen Liu,https://openalex.org/A5012652561,Mark Díaz,CHI,2018,1,1,0.0,A*
-https://openalex.org/A5103026409,Sharifa Sultana,https://openalex.org/A5109995935,Brian Musgrove,CHI,2018,1,2,0.0,A*
-https://openalex.org/A5091174431,Izabelle Janzen,https://openalex.org/A5029738364,Joon Hyub Lee,CHI,2018,2,3,0.0,A*
-https://openalex.org/A5011207998,Urmila Mahadev,https://openalex.org/A5020160332,Gun Lee,FOCS,2018,1,4,0.0,A*
-https://openalex.org/A5112345861,Khot Subhash,https://openalex.org/A5032452724,Kentaro Toyama,FOCS,2018,1,5,0.0,A*
-https://openalex.org/A5063520549,Dor Minzer,https://openalex.org/A5012652561,Mark Díaz,FOCS,2018,2,1,0.0,A*
-https://openalex.org/A5068145628,Christy A. Coghlan,https://openalex.org/A5109995935,Brian Musgrove,FSE,2018,2,2,0.0,Unranked
-https://openalex.org/A5023724495,Wensheng Dou,https://openalex.org/A5029738364,Joon Hyub Lee,FSE,2018,2,3,0.0,Unranked
-https://openalex.org/A5091720485,Anish Athalye,https://openalex.org/A5020160332,Gun Lee,ICML,2018,1,4,0.0,A*
-https://openalex.org/A5017596078,Lydia T. Liu,https://openalex.org/A5032452724,Kentaro Toyama,ICML,2018,1,5,0.0,A*
-https://openalex.org/A5102012317,Lingling Fan,https://openalex.org/A5012652561,Mark Díaz,ICSE,2018,1,1,0.0,A*
-https://openalex.org/A5071723330,Timo Rehfeld,https://openalex.org/A5109995935,Brian Musgrove,ICSE,2018,1,2,0.0,A*
-https://openalex.org/A5103226106,Leonardo Sousa,https://openalex.org/A5012652561,Mark Díaz,ICSE,2018,1,1,0.0,A*
-https://openalex.org/A5056334354,Rijnard van Tonder,https://openalex.org/A5109995935,Brian Musgrove,ICSE,2018,1,2,0.0,A*
-https://openalex.org/A5009835433,Calvin Loncaric,https://openalex.org/A5029738364,Joon Hyub Lee,ICSE,2018,1,3,0.0,A*
-https://openalex.org/A5082629071,Michael Rath,https://openalex.org/A5020160332,Gun Lee,ICSE,2018,1,4,0.0,A*
-https://openalex.org/A5032569584,Jacob Rendall,https://openalex.org/A5032452724,Kentaro Toyama,ICSE,2018,2,5,0.0,A*
-https://openalex.org/A5030456881,Chun Kai Ling,https://openalex.org/A5012652561,Mark Díaz,IJCAI,2018,1,1,0.0,A*
-https://openalex.org/A5011742954,Giannis Nikolentzos,https://openalex.org/A5109995935,Brian Musgrove,IJCAI,2018,1,2,0.0,A*
-https://openalex.org/A5064520344,Polykarpos Meladianos,https://openalex.org/A5029738364,Joon Hyub Lee,IJCAI,2018,2,3,0.0,A*
-https://openalex.org/A5058510425,Stratis Limnios,https://openalex.org/A5012652561,Mark Díaz,IJCAI,2018,3,1,0.0,A*
-https://openalex.org/A5100342798,Zihao Li,https://openalex.org/A5109995935,Brian Musgrove,INFOCOM,2018,3,2,0.0,A*
-https://openalex.org/A5082318381,Subhramoy Mohanti,https://openalex.org/A5029738364,Joon Hyub Lee,INFOCOM,2018,1,3,0.0,A*
-https://openalex.org/A5036229988,Elif Bozkaya,https://openalex.org/A5020160332,Gun Lee,INFOCOM,2018,2,4,0.0,A*
-https://openalex.org/A5052671825,Igor Kadota,https://openalex.org/A5032452724,Kentaro Toyama,INFOCOM,2018,1,5,0.0,A*
-https://openalex.org/A5025058751,Daniel Zügner,https://openalex.org/A5012652561,Mark Díaz,KDD,2018,1,1,0.0,Unranked
-https://openalex.org/A5014557575,Amir Akbarnejad,https://openalex.org/A5109995935,Brian Musgrove,KDD,2018,2,2,0.0,Unranked
-https://openalex.org/A5101558101,Mehrdad Moradi,https://openalex.org/A5029738364,Joon Hyub Lee,MOBICOM,2018,1,3,0.0,A*
-https://openalex.org/A5056747950,Kevin Scaman,https://openalex.org/A5020160332,Gun Lee,NeurIPS,2018,1,4,0.0,A*
-https://openalex.org/A5029262768,Ricky T. Q. Chen,https://openalex.org/A5032452724,Kentaro Toyama,NeurIPS,2018,1,5,0.0,A*
-https://openalex.org/A5039192820,Yulia Rubanova,https://openalex.org/A5012652561,Mark Díaz,NeurIPS,2018,2,1,0.0,A*
-https://openalex.org/A5027925889,Jesse Bettencourt,https://openalex.org/A5109995935,Brian Musgrove,NeurIPS,2018,3,2,0.0,A*
-https://openalex.org/A5100425893,Haoyu Zhang,https://openalex.org/A5029738364,Joon Hyub Lee,NSDI,2018,3,3,0.0,Unranked
-https://openalex.org/A5085945429,Xinyang Ge,https://openalex.org/A5012652561,Mark Díaz,OSDI,2018,2,1,0.0,A*
-https://openalex.org/A5060703788,Yizhou Shan,https://openalex.org/A5109995935,Brian Musgrove,OSDI,2018,1,2,0.0,A*
-https://openalex.org/A5071661999,Yutong Huang,https://openalex.org/A5012652561,Mark Díaz,OSDI,2018,2,1,0.0,A*
-https://openalex.org/A5110832647,Chandra Sekhar Maddila,https://openalex.org/A5109995935,Brian Musgrove,OSDI,2018,3,2,0.0,A*
-https://openalex.org/A5078512511,Itsaka Rakotonirina,https://openalex.org/A5029738364,Joon Hyub Lee,S&P,2018,3,3,0.0,A*
-https://openalex.org/A5081476292,Rocío Cañamares,https://openalex.org/A5020160332,Gun Lee,SIGIR,2018,1,4,0.0,A*
-https://openalex.org/A5015113627,Huanchen Zhang,https://openalex.org/A5012652561,Mark Díaz,SIGMOD,2018,1,1,0.0,A*
-https://openalex.org/A5090101869,Fulvio Di Lorenzo,https://openalex.org/A5109995935,Brian Musgrove,SODA,2018,2,2,0.0,A*
-https://openalex.org/A5021735130,David Porfirio,https://openalex.org/A5029738364,Joon Hyub Lee,UIST,2018,1,3,0.0,Unranked
-https://openalex.org/A5073533400,Allison Sauppé,https://openalex.org/A5012652561,Mark Díaz,UIST,2018,2,1,0.0,Unranked
-https://openalex.org/A5041654458,Alok Mysore,https://openalex.org/A5109995935,Brian Musgrove,UIST,2018,1,2,0.0,Unranked
-https://openalex.org/A5019954653,Patrick Parzer,https://openalex.org/A5029738364,Joon Hyub Lee,UIST,2018,1,3,0.0,Unranked
-https://openalex.org/A5061951606,Ryan Cotterell,https://openalex.org/A5012652561,Mark Díaz,ACL,2017,1,1,0.0,Unranked
-https://openalex.org/A5089731854,Sarah Webber,https://openalex.org/A5109995935,Brian Musgrove,CHI,2017,1,2,0.0,A*
-https://openalex.org/A5016617747,Sally Sherwen,https://openalex.org/A5012652561,Mark Díaz,CHI,2017,3,1,0.0,A*
-https://openalex.org/A5068345805,Viirj Kan,https://openalex.org/A5109995935,Brian Musgrove,CHI,2017,1,2,0.0,A*
-https://openalex.org/A5049567786,Emma Vargo,https://openalex.org/A5029738364,Joon Hyub Lee,CHI,2017,2,3,0.0,A*
-https://openalex.org/A5021981631,Noa Machover,https://openalex.org/A5020160332,Gun Lee,CHI,2017,3,4,0.0,A*
-https://openalex.org/A5008267619,Kuttimani Tamilmani,https://openalex.org/A5032452724,Kentaro Toyama,CHI,2017,2,5,0.0,A*
-https://openalex.org/A5074224778,Camille Cobb,https://openalex.org/A5012652561,Mark Díaz,CHI,2017,1,1,0.0,A*
-https://openalex.org/A5031825409,Samuel Sudar,https://openalex.org/A5109995935,Brian Musgrove,CHI,2017,2,2,0.0,A*
-https://openalex.org/A5014963962,Nicholas Reiter,https://openalex.org/A5029738364,Joon Hyub Lee,CHI,2017,3,3,0.0,A*
-https://openalex.org/A5024399465,Jan Gugenheimer,https://openalex.org/A5020160332,Gun Lee,CHI,2017,1,4,0.0,A*
-https://openalex.org/A5016957812,Evgeny Stemasov,https://openalex.org/A5032452724,Kentaro Toyama,CHI,2017,2,5,0.0,A*
-https://openalex.org/A5033203092,Julian Frommel,https://openalex.org/A5012652561,Mark Díaz,CHI,2017,3,1,0.0,A*
-https://openalex.org/A5056738154,José S Marcano Belisario,https://openalex.org/A5109995935,Brian Musgrove,CHI,2017,3,2,0.0,A*
-https://openalex.org/A5038365039,Rafael Lucas d'Oliveira,https://openalex.org/A5029738364,Joon Hyub Lee,CHI,2017,2,3,0.0,A*
-https://openalex.org/A5062258537,Alexandra To,https://openalex.org/A5020160332,Gun Lee,CHI,2017,3,4,0.0,A*
-https://openalex.org/A5044904792,Heishiro Toyoda,https://openalex.org/A5012652561,Mark Díaz,CHI,2017,2,1,0.0,A*
-https://openalex.org/A5064927835,Felicia Alfieri,https://openalex.org/A5109995935,Brian Musgrove,CHI,2017,2,2,0.0,A*
-https://openalex.org/A5076364930,Farnaz Jahanbakhsh,https://openalex.org/A5012652561,Mark Díaz,CHI,2017,1,1,0.0,A*
-https://openalex.org/A5072417908,Anastasiya Bavykina,https://openalex.org/A5109995935,Brian Musgrove,CHI,2017,2,2,0.0,A*
-https://openalex.org/A5049519805,Zhuojian Zhong,https://openalex.org/A5029738364,Joon Hyub Lee,CIKM,2017,3,3,0.0,Unranked
-https://openalex.org/A5101415694,Ashish Shrivastava,https://openalex.org/A5020160332,Gun Lee,CVPR,2017,1,4,0.0,A*
-https://openalex.org/A5033363730,Natasha Danas,https://openalex.org/A5032452724,Kentaro Toyama,FSE,2017,2,5,0.0,Unranked
-https://openalex.org/A5076388753,Dan Gopstein,https://openalex.org/A5012652561,Mark Díaz,FSE,2017,1,1,0.0,Unranked
-https://openalex.org/A5015586819,Jake Iannacone,https://openalex.org/A5109995935,Brian Musgrove,FSE,2017,2,2,0.0,Unranked
-https://openalex.org/A5021297302,Timothy Tunnell,https://openalex.org/A5029738364,Joon Hyub Lee,FSE,2017,3,3,0.0,Unranked
-https://openalex.org/A5038532934,Sainyam Galhotra,https://openalex.org/A5020160332,Gun Lee,FSE,2017,1,4,0.0,Unranked
-https://openalex.org/A5055321934,Gabriel Ferns,https://openalex.org/A5012652561,Mark Díaz,FSE,2017,2,1,0.0,Unranked
-https://openalex.org/A5101415638,Yuchi Tian,https://openalex.org/A5109995935,Brian Musgrove,FSE,2017,1,2,0.0,Unranked
-https://openalex.org/A5014407395,Georgia Gkioxari,https://openalex.org/A5029738364,Joon Hyub Lee,ICCV,2017,2,3,0.0,A*
-https://openalex.org/A5085762342,Davood Mazinanian,https://openalex.org/A5020160332,Gun Lee,ICSE,2017,2,4,0.0,A*
-https://openalex.org/A5028238692,Benjamin Clegg,https://openalex.org/A5012652561,Mark Díaz,ICSE,2017,3,1,0.0,A*
-https://openalex.org/A5024997852,Benjamin Floyd,https://openalex.org/A5109995935,Brian Musgrove,ICSE,2017,1,2,0.0,A*
-https://openalex.org/A5013623251,Tyler Santander,https://openalex.org/A5029738364,Joon Hyub Lee,ICSE,2017,2,3,0.0,A*
-https://openalex.org/A5081483504,August Shi,https://openalex.org/A5012652561,Mark Díaz,ICSE,2017,1,1,0.0,A*
-https://openalex.org/A5046120615,Konstantinos Poularakis,https://openalex.org/A5109995935,Brian Musgrove,INFOCOM,2017,1,2,0.0,A*
-https://openalex.org/A5008595840,Hongseok Namkoong,https://openalex.org/A5029738364,Joon Hyub Lee,NeurIPS,2017,1,3,0.0,A*
-https://openalex.org/A5008326572,Amanieu d'Antras,https://openalex.org/A5020160332,Gun Lee,PLDI,2017,1,4,0.0,Unranked
-https://openalex.org/A5070223708,Cosmin Gorgovan,https://openalex.org/A5012652561,Mark Díaz,PLDI,2017,2,1,0.0,Unranked
-https://openalex.org/A5078763719,Jeehoon Kang,https://openalex.org/A5109995935,Brian Musgrove,PLDI,2017,3,2,0.0,Unranked
-https://openalex.org/A5019918530,Luke Maurer,https://openalex.org/A5029738364,Joon Hyub Lee,PLDI,2017,1,3,0.0,Unranked
-https://openalex.org/A5020454182,Paul Downen,https://openalex.org/A5012652561,Mark Díaz,PLDI,2017,2,1,0.0,Unranked
-https://openalex.org/A5010565905,Andreas Haas,https://openalex.org/A5109995935,Brian Musgrove,PLDI,2017,1,2,0.0,Unranked
-https://openalex.org/A5018284688,Nadim Kobeissi,https://openalex.org/A5029738364,Joon Hyub Lee,S&P,2017,3,3,0.0,A*
-https://openalex.org/A5008674902,Anirudh Sivaraman,https://openalex.org/A5020160332,Gun Lee,SIGCOMM,2017,2,4,0.0,A*
-https://openalex.org/A5086057750,Vikram Nathan,https://openalex.org/A5100648252,Junqi Zhang,SIGCOMM,2017,3,1,0.0,A*
-https://openalex.org/A5044787871,Phelim Bradley,https://openalex.org/A5100668121,Yiqun Liu,SIGIR,2017,1,2,0.0,A*
-https://openalex.org/A5102759092,Cheng Tan,https://openalex.org/A5100760812,Shaoping Ma,SOSP,2017,1,3,0.0,A*
-https://openalex.org/A5007048525,Kexin Pei,https://openalex.org/A5111504451,Qi Tian,SOSP,2017,1,4,0.0,A*
-https://openalex.org/A5001875469,Nora S. Willett,https://openalex.org/A5023178110,Amir Zamir,UIST,2017,1,1,0.0,Unranked
-https://openalex.org/A5070661194,Avinash S. Nair,https://openalex.org/A5007556540,Alexander F. Sax,UIST,2017,2,2,0.0,Unranked
-https://openalex.org/A5010359061,Nave Frost,https://openalex.org/A5112905724,William Shen,VLDB,2017,2,3,0.0,A*
-https://openalex.org/A5088017068,Guni Sharon,https://openalex.org/A5065368881,Leonidas Guibas,AAAI,2016,1,4,0.0,A*
-https://openalex.org/A5091346638,Elkin Gutierrez,https://openalex.org/A5001594573,Jitendra Malik,ACL,2016,1,5,0.0,Unranked
-https://openalex.org/A5062650159,Kieran Hicks,https://openalex.org/A5103266587,Andreǐ A. Bulatov,CHI,2016,2,1,1.0,A*
-https://openalex.org/A5035414960,Michael R. Kalyn,https://openalex.org/A5103266587,Andreǐ A. Bulatov,CHI,2016,3,1,1.0,A*
-https://openalex.org/A5055844978,Teresa Almeida,https://openalex.org/A5007318528,Muli Safra,CHI,2016,1,3,1.0,A*
-https://openalex.org/A5048484850,Shiho Fukuhara,https://openalex.org/A5007318528,Muli Safra,CHI,2016,3,3,0.0,A*
-https://openalex.org/A5041783895,Alexander Jackson Graves,https://openalex.org/A5103266587,Andreǐ A. Bulatov,CHI,2016,1,1,1.0,A*
-https://openalex.org/A5000163896,Elisa D. Mekler,https://openalex.org/A5007318528,Muli Safra,CHI,2016,1,3,1.0,A*
-https://openalex.org/A5034805006,Daniel Schien,https://openalex.org/A5007318528,Muli Safra,CHI,2016,2,3,0.0,A*
-https://openalex.org/A5056394286,Kurt B. Oleson,https://openalex.org/A5007318528,Muli Safra,CHI,2016,2,3,1.0,A*
-https://openalex.org/A5059880425,Michael Xuelin Huang,https://openalex.org/A5001594573,Jitendra Malik,CHI,2016,1,5,1.0,A*
-https://openalex.org/A5043922248,Tiffany C.K. Kwok,https://openalex.org/A5013948143,James C. Davis,CHI,2016,2,1,0.0,A*
-https://openalex.org/A5035627325,Hyewon Suh,https://openalex.org/A5017792083,Meng Wu,CHI,2016,1,2,0.0,A*
-https://openalex.org/A5014842691,Nina Shahriaree,https://openalex.org/A5039701716,Francisco Servant,CHI,2016,2,3,0.0,A*
-https://openalex.org/A5014639509,Sruti Srinivasa Ragavan,https://openalex.org/A5065310265,Dongyoon Lee,CHI,2016,1,4,0.0,A*
-https://openalex.org/A5072109649,Sandeep Kaur Kuttal,https://openalex.org/A5013948143,James C. Davis,CHI,2016,2,1,0.0,A*
-https://openalex.org/A5015385005,Marta E. Cecchinato,https://openalex.org/A5017792083,Meng Wu,CHI,2016,1,2,0.0,A*
-https://openalex.org/A5082002320,Minsam Ko,https://openalex.org/A5039701716,Francisco Servant,CHI,2016,1,3,0.0,A*
-https://openalex.org/A5101776191,Seungwoo Choi,https://openalex.org/A5013948143,James C. Davis,CHI,2016,2,1,0.0,A*
-https://openalex.org/A5038894198,Stefan Heindorf,https://openalex.org/A5017792083,Meng Wu,CIKM,2016,1,2,0.0,Unranked
-https://openalex.org/A5057072967,Mihai Codoban,https://openalex.org/A5039701716,Francisco Servant,FSE,2016,3,3,0.0,Unranked
-https://openalex.org/A5018416139,Olga Liskin,https://openalex.org/A5013948143,James C. Davis,FSE,2016,2,1,0.0,Unranked
-https://openalex.org/A5047536715,Austin Z. Henley,https://openalex.org/A5017792083,Meng Wu,FSE,2016,2,2,0.0,Unranked
-https://openalex.org/A5002742929,Tahmid Nabi,https://openalex.org/A5039701716,Francisco Servant,FSE,2016,3,3,0.0,Unranked
-https://openalex.org/A5101822967,Danilo Silva,https://openalex.org/A5013948143,James C. Davis,FSE,2016,1,1,0.0,Unranked
-https://openalex.org/A5039776447,Aäron van den Oord,https://openalex.org/A5017792083,Meng Wu,ICML,2016,1,2,0.0,A*
-https://openalex.org/A5041869459,Christopher De,https://openalex.org/A5039701716,Francisco Servant,ICML,2016,1,3,0.0,A*
-https://openalex.org/A5030073319,Samir Hasan,https://openalex.org/A5065310265,Dongyoon Lee,ICSE,2016,1,4,0.0,A*
-https://openalex.org/A5048404082,Zachary King,https://openalex.org/A5100391567,Dong Wang,ICSE,2016,2,5,0.0,A*
-https://openalex.org/A5034330109,Magnus Madsen,https://openalex.org/A5013948143,James C. Davis,ICSE,2016,1,1,0.0,A*
-https://openalex.org/A5020000401,Eric F. Rizzi,https://openalex.org/A5017792083,Meng Wu,ICSE,2016,1,2,0.0,A*
-https://openalex.org/A5087342649,David Menendez,https://openalex.org/A5039701716,Francisco Servant,ICSE,2016,1,3,0.0,A*
-https://openalex.org/A5110418524,Francesco Rigoli,https://openalex.org/A5065310265,Dongyoon Lee,IJCAI,2016,3,4,0.0,A*
-https://openalex.org/A5065675832,Bryan Hooi,https://openalex.org/A5100391567,Dong Wang,KDD,2016,1,5,0.0,Unranked
-https://openalex.org/A5030516279,Bryce Kellogg,https://openalex.org/A5079904764,Pang Wei Koh,NSDI,2016,1,1,1.0,Unranked
-https://openalex.org/A5045162159,Helgi Sigurbjarnarson,https://openalex.org/A5034257647,Nicholas Carlini,OSDI,2016,1,2,0.0,A*
-https://openalex.org/A5055964348,James Bornholt,https://openalex.org/A5062174672,David Wagner,OSDI,2016,2,3,0.0,A*
-https://openalex.org/A5013809751,Kayvan Memarian,https://openalex.org/A5079904764,Pang Wei Koh,PLDI,2016,1,1,1.0,Unranked
-https://openalex.org/A5051217958,Justus Matthiesen,https://openalex.org/A5034257647,Nicholas Carlini,PLDI,2016,2,2,0.0,Unranked
-https://openalex.org/A5081440491,James Lingard,https://openalex.org/A5062174672,David Wagner,PLDI,2016,3,3,0.0,Unranked
-https://openalex.org/A5021229048,Alexander Spiegelman,https://openalex.org/A5039915143,Moritz Hardt,PLDI,2016,1,5,1.0,Unranked
-https://openalex.org/A5054069870,Guy Golan-Gueta,https://openalex.org/A5039915143,Moritz Hardt,PLDI,2016,2,5,0.0,Unranked
-https://openalex.org/A5014050315,Gustavo Guerra,https://openalex.org/A5100352782,Xinyu Wang,PLDI,2016,2,1,0.0,Unranked
-https://openalex.org/A5013744700,Nicholas Jacek,https://openalex.org/A5002119636,He Jiang,PLDI,2016,1,2,0.0,Unranked
-https://openalex.org/A5034538466,Mahmoud Abo Khamis,https://openalex.org/A5024116315,Willian Oizumi,PODS,2016,1,3,0.0,Unranked
-https://openalex.org/A5034738254,Deepak Vasisht,https://openalex.org/A5027812149,Simone Diniz Junqueira Barbosa,SIGCOMM,2016,1,4,0.0,A*
-https://openalex.org/A5061114394,Marco Mondelli,https://openalex.org/A5100355692,Yang Liu,STOC,2016,3,5,0.0,A*
-https://openalex.org/A5045073799,Eshan Chattopadhyay,https://openalex.org/A5100352782,Xinyu Wang,STOC,2016,1,1,0.0,A*
-https://openalex.org/A5101796605,Artem Dementyev,https://openalex.org/A5100352782,Xinyu Wang,UIST,2016,1,1,0.0,Unranked
-https://openalex.org/A5002723576,Hsin-Liu Kao,https://openalex.org/A5002119636,He Jiang,UIST,2016,2,2,0.0,Unranked
-https://openalex.org/A5041275294,Mathieu Le Goc,https://openalex.org/A5024116315,Willian Oizumi,UIST,2016,1,3,0.0,Unranked
-https://openalex.org/A5032788742,Ali Parsaei,https://openalex.org/A5027812149,Simone Diniz Junqueira Barbosa,UIST,2016,3,4,0.0,Unranked
-https://openalex.org/A5039125132,Gierad Laput,https://openalex.org/A5100355692,Yang Liu,UIST,2016,1,5,0.0,Unranked
-https://openalex.org/A5051203366,Emma Strubell,https://openalex.org/A5100352782,Xinyu Wang,ACL,2015,1,1,0.0,Unranked
-https://openalex.org/A5016501970,Luke Vilnis,https://openalex.org/A5002119636,He Jiang,ACL,2015,2,2,0.0,Unranked
-https://openalex.org/A5074887814,Kate Silverstein,https://openalex.org/A5100352782,Xinyu Wang,ACL,2015,3,1,0.0,Unranked
-https://openalex.org/A5088559756,Patrik Jonell,https://openalex.org/A5002119636,He Jiang,CHI,2015,2,2,0.0,A*
-https://openalex.org/A5013958366,Haythem Memmi,https://openalex.org/A5024116315,Willian Oizumi,CHI,2015,2,3,0.0,A*
-https://openalex.org/A5013050933,Justin Emge,https://openalex.org/A5027812149,Simone Diniz Junqueira Barbosa,CHI,2015,3,4,0.0,A*
-https://openalex.org/A5072922547,Aditya Vashistha,https://openalex.org/A5100352782,Xinyu Wang,CHI,2015,1,1,0.0,A*
-https://openalex.org/A5064547400,Tawfiq Ammari,https://openalex.org/A5002119636,He Jiang,CHI,2015,1,2,0.0,A*
-https://openalex.org/A5021777354,Sarita Schoenebeck,https://openalex.org/A5024116315,Willian Oizumi,CHI,2015,2,3,0.0,A*
-https://openalex.org/A5065073074,Seijin Cha,https://openalex.org/A5100352782,Xinyu Wang,CHI,2015,2,1,0.0,A*
-https://openalex.org/A5032530421,Pamela Wiśniewski,https://openalex.org/A5002119636,He Jiang,CHI,2015,1,2,0.0,A*
-https://openalex.org/A5000906180,Martin Weigel,https://openalex.org/A5024116315,Willian Oizumi,CHI,2015,1,3,0.0,A*
-https://openalex.org/A5103414046,Tong Lu,https://openalex.org/A5027812149,Simone Diniz Junqueira Barbosa,CHI,2015,2,4,0.0,A*
-https://openalex.org/A5087981305,Heather Faucett,https://openalex.org/A5100355692,Yang Liu,CHI,2015,2,5,0.0,A*
-https://openalex.org/A5017750168,Eric Brockmeyer,https://openalex.org/A5100352782,Xinyu Wang,CHI,2015,2,1,0.0,A*
-https://openalex.org/A5064398083,Abdullah Ali,https://openalex.org/A5002119636,He Jiang,CHI,2015,3,2,0.0,A*
-https://openalex.org/A5064335088,Alan R. Andrade,https://openalex.org/A5024116315,Willian Oizumi,CHI,2015,2,3,0.0,A*
-https://openalex.org/A5023724965,Ross Teviotdale,https://openalex.org/A5027812149,Simone Diniz Junqueira Barbosa,CHI,2015,3,4,0.0,A*
-https://openalex.org/A5019276791,Kateryna Tymoshenko,https://openalex.org/A5100355692,Yang Liu,CIKM,2015,1,5,0.0,Unranked
-https://openalex.org/A5001563585,Reza Matinnejad,https://openalex.org/A5101445828,Ke Wang,FSE,2015,1,1,0.0,Unranked
-https://openalex.org/A5039301553,Liang Gong,https://openalex.org/A5029568096,Xiaojun Wan,FSE,2015,3,2,0.0,Unranked
-https://openalex.org/A5069439324,Mario Linares‐Vásquez,https://openalex.org/A5101445828,Ke Wang,FSE,2015,1,1,0.0,Unranked
-https://openalex.org/A5056526226,Gabriele Bavota,https://openalex.org/A5029568096,Xiaojun Wan,FSE,2015,2,2,0.0,Unranked
-https://openalex.org/A5016486642,Carlos Eduardo Bernal Cárdenas,https://openalex.org/A5001529504,Chang Xu,FSE,2015,3,3,0.0,Unranked
-https://openalex.org/A5002052018,Ravi Mangal,https://openalex.org/A5101445828,Ke Wang,FSE,2015,1,1,0.0,Unranked
-https://openalex.org/A5090520110,Farnaz Behrang,https://openalex.org/A5029568096,Xiaojun Wan,FSE,2015,1,2,0.0,Unranked
-https://openalex.org/A5016750744,Janet Siegmund,https://openalex.org/A5001529504,Chang Xu,ICSE,2015,1,3,0.0,A*
-https://openalex.org/A5021806319,Michael Waterman,https://openalex.org/A5100730687,Yipeng Zhang,ICSE,2015,1,4,0.0,A*
-https://openalex.org/A5077191191,Abram L. Friesen,https://openalex.org/A5102861619,Jingfang Xu,IJCAI,2015,1,5,0.0,A*
-https://openalex.org/A5050433159,Kirthevasan Kandasamy,https://openalex.org/A5101445828,Ke Wang,IJCAI,2015,1,1,0.0,A*
-https://openalex.org/A5045181694,Xiaohan Kang,https://openalex.org/A5029568096,Xiaojun Wan,INFOCOM,2015,3,2,0.0,A*
-https://openalex.org/A5038820344,Salma Elmalaki,https://openalex.org/A5001529504,Chang Xu,MOBICOM,2015,1,3,0.0,A*
-https://openalex.org/A5103890688,Ananda Theertha Suresh,https://openalex.org/A5101445828,Ke Wang,NeurIPS,2015,2,1,0.0,A*
-https://openalex.org/A5022031348,Pavel Panchekha,https://openalex.org/A5029568096,Xiaojun Wan,PLDI,2015,1,2,0.0,Unranked
-https://openalex.org/A5088457102,Alex Sanchez-Stern,https://openalex.org/A5001529504,Chang Xu,PLDI,2015,2,3,0.0,Unranked
-https://openalex.org/A5008206932,Tom J. Ameloot,https://openalex.org/A5101445828,Ke Wang,PODS,2015,1,1,0.0,Unranked
-https://openalex.org/A5061584053,Gaetano Geck,https://openalex.org/A5029568096,Xiaojun Wan,PODS,2015,2,2,0.0,Unranked
-https://openalex.org/A5028459977,Bas Ketsman,https://openalex.org/A5001529504,Chang Xu,PODS,2015,3,3,0.0,Unranked
-https://openalex.org/A5042649150,Benjamin Beurdouche,https://openalex.org/A5100730687,Yipeng Zhang,S&P,2015,1,4,0.0,A*
-https://openalex.org/A5065703902,Olivier Tilmans,https://openalex.org/A5102861619,Jingfang Xu,SIGCOMM,2015,2,5,0.0,A*
-https://openalex.org/A5064699160,Peter Kairouz,https://openalex.org/A5101445828,Ke Wang,SIGMETRICS,2015,2,1,0.0,A*
-https://openalex.org/A5068471095,Junhao Gan,https://openalex.org/A5029568096,Xiaojun Wan,SIGMOD,2015,1,2,0.0,A*
-https://openalex.org/A5011277895,Jonathan Mace,https://openalex.org/A5001529504,Chang Xu,SOSP,2015,1,3,0.0,A*
-https://openalex.org/A5003124561,Ryan Roelke,https://openalex.org/A5100730687,Yipeng Zhang,SOSP,2015,2,4,0.0,A*
-https://openalex.org/A5010436566,Tej Chajed,https://openalex.org/A5100443178,Ting Chen,SOSP,2015,3,1,0.0,A*
-https://openalex.org/A5021833322,Anat Ganor,https://openalex.org/A5100673750,Yu-Xiao Zhu,STOC,2015,1,2,0.0,A*
-https://openalex.org/A5038687630,Sivakanth Gopi,https://openalex.org/A5085088065,M. Yousof Naderi,STOC,2015,2,3,0.0,A*
-https://openalex.org/A5058504215,Simon Olberding,https://openalex.org/A5048431501,Berk Canberk,UIST,2015,1,4,0.0,Unranked
-https://openalex.org/A5057575769,Sergio Soto Ortega,https://openalex.org/A5100634702,Xiaoqi Li,UIST,2015,2,5,0.0,Unranked
-https://openalex.org/A5015893090,Augusto Esteves,https://openalex.org/A5100443178,Ting Chen,UIST,2015,1,1,0.0,Unranked
-https://openalex.org/A5087672786,Eduardo Velloso,https://openalex.org/A5100673750,Yu-Xiao Zhu,UIST,2015,2,2,0.0,Unranked
-https://openalex.org/A5089708930,Siemen Baader,https://openalex.org/A5085088065,M. Yousof Naderi,UIST,2015,3,3,0.0,Unranked
-https://openalex.org/A5077463393,Juan David Hincapié-Ramos,https://openalex.org/A5048431501,Berk Canberk,CHI,2014,1,4,0.0,A*
-https://openalex.org/A5075318331,Paymahn Moghadasian,https://openalex.org/A5100634702,Xiaoqi Li,CHI,2014,3,5,0.0,A*
-https://openalex.org/A5109928774,Heidi Selmer Nielsen,https://openalex.org/A5100443178,Ting Chen,CHI,2014,1,1,0.0,A*
-https://openalex.org/A5082667645,Marius Pallisgaard Olsen,https://openalex.org/A5100673750,Yu-Xiao Zhu,CHI,2014,2,2,0.0,A*
-https://openalex.org/A5002616622,Christian Weichel,https://openalex.org/A5085088065,M. Yousof Naderi,CHI,2014,1,3,0.0,A*
-https://openalex.org/A5051803370,Ryan Baldini,https://openalex.org/A5025028660,Tom Hope,CHI,2014,2,1,1.0,A*
-https://openalex.org/A5029485566,Garnet Hertz,https://openalex.org/A5074504351,Stephan Günnemann,CHI,2014,2,3,1.0,A*
-https://openalex.org/A5024501566,Jeffrey M. Rzeszotarski,https://openalex.org/A5074504351,Stephan Günnemann,CHI,2014,1,3,0.0,A*
-https://openalex.org/A5000246567,Matthew L. Lee,https://openalex.org/A5100450015,Zhijun Li,CHI,2014,1,1,1.0,A*
-https://openalex.org/A5036031138,Rayoung Yang,https://openalex.org/A5018752163,Karthikeyan Sundaresan,CHI,2014,1,2,0.0,A*
-https://openalex.org/A5041066830,George D. Montañez,https://openalex.org/A5085678555,Eugene Chai,CIKM,2014,1,3,0.0,Unranked
-https://openalex.org/A5027563965,Klaus-Benedikt Schultis,https://openalex.org/A5103503444,Sampath Rangarajan,FSE,2014,1,4,0.0,Unranked
-https://openalex.org/A5080221214,Miltiadis Allamanis,https://openalex.org/A5012670041,Zeyu Mao,FSE,2014,1,5,0.0,Unranked
-https://openalex.org/A5100621292,Mingxing Zhang,https://openalex.org/A5086690493,Tyler Lu,FSE,2014,1,1,0.0,Unranked
-https://openalex.org/A5082120000,Darioush Jalali,https://openalex.org/A5010575626,Dale Schuurmans,FSE,2014,2,2,0.0,Unranked
-https://openalex.org/A5014292887,Laura Inozemtseva,https://openalex.org/A5036934218,Craig Boutilier,FSE,2014,3,3,0.0,Unranked
-https://openalex.org/A5010881756,Semih Okur,https://openalex.org/A5086690493,Tyler Lu,ICSE,2014,1,1,0.0,A*
-https://openalex.org/A5055201741,David L. Hartveld,https://openalex.org/A5010575626,Dale Schuurmans,ICSE,2014,2,2,0.0,A*
-https://openalex.org/A5084868951,Yepang Liu,https://openalex.org/A5036934218,Craig Boutilier,ICSE,2014,1,3,0.0,A*
-https://openalex.org/A5049839987,Thanassis Avgerinos,https://openalex.org/A5030409494,David Duvenaud,ICSE,2014,1,4,0.0,A*
-https://openalex.org/A5037888372,Alexandre Rebert,https://openalex.org/A5089076722,Abbas Mehrabian,ICSE,2014,2,5,0.0,A*
-https://openalex.org/A5080198395,Paige Rodeghero,https://openalex.org/A5086690493,Tyler Lu,ICSE,2014,1,1,0.0,A*
-https://openalex.org/A5071479045,Thiago de Alcântara César,https://openalex.org/A5010575626,Dale Schuurmans,ICSE,2014,2,2,0.0,A*
-https://openalex.org/A5047620436,Thomas Filipe,https://openalex.org/A5036934218,Craig Boutilier,ICSE,2014,3,3,0.0,A*
-https://openalex.org/A5033475627,Saba Alimadadi,https://openalex.org/A5030409494,David Duvenaud,ICSE,2014,1,4,0.0,A*
-https://openalex.org/A5081964141,Sheldon Sequeira,https://openalex.org/A5089076722,Abbas Mehrabian,ICSE,2014,2,5,0.0,A*
-https://openalex.org/A5087729117,Zizhong Cao,https://openalex.org/A5086690493,Tyler Lu,INFOCOM,2014,1,1,0.0,A*
-https://openalex.org/A5053182948,Aaron Q. Li,https://openalex.org/A5010575626,Dale Schuurmans,KDD,2014,1,2,0.0,Unranked
-https://openalex.org/A5081652219,Yekui Chen,https://openalex.org/A5036934218,Craig Boutilier,MOBICOM,2014,2,3,0.0,A*
-https://openalex.org/A5100631553,Wenqian Wang,https://openalex.org/A5030409494,David Duvenaud,NeurIPS,2014,2,4,0.0,A*
-https://openalex.org/A5026744189,Adam Belay,https://openalex.org/A5100641353,Xin Jin,OSDI,2014,1,1,0.0,A*
-https://openalex.org/A5000009841,Ana Klimovic,https://openalex.org/A5100693396,Xiaozhou Li,OSDI,2014,3,2,0.0,A*
-https://openalex.org/A5037461995,Mehrdad Afshari,https://openalex.org/A5100693396,Xiaozhou Li,PLDI,2014,2,2,1.0,Unranked
-https://openalex.org/A5090891852,Thomas Shull,https://openalex.org/A5013378091,Nate Foster,PLDI,2014,3,4,0.0,Unranked
-https://openalex.org/A5091819924,Marcin Andrychowicz,https://openalex.org/A5033355299,Jeongkeun Lee,S&P,2014,1,5,0.0,A*
-https://openalex.org/A5063317383,Daniel Malinowski,https://openalex.org/A5048777417,Ranjita Bhagwan,S&P,2014,3,1,0.0,A*
-https://openalex.org/A5074751039,Matthew K. Mukerjee,https://openalex.org/A5077585432,Rahul Kumar,SIGCOMM,2014,2,2,0.0,A*
-https://openalex.org/A5036144178,Tom Edsall,https://openalex.org/A5050964144,Baris Kasikci,SIGCOMM,2014,2,3,0.0,A*
-https://openalex.org/A5024980585,Yin Tat Lee,https://openalex.org/A5100741029,Yiying Zhang,SODA,2014,2,4,0.0,A*
-https://openalex.org/A5003378492,Sébastien Robaszkiewicz,https://openalex.org/A5100741029,Yiying Zhang,UIST,2014,2,4,1.0,Unranked
-https://openalex.org/A5039222883,Michael Wessely,https://openalex.org/A5048777417,Ranjita Bhagwan,UIST,2014,2,1,0.0,Unranked
-https://openalex.org/A5005397258,Felix Schuhknecht,https://openalex.org/A5077585432,Rahul Kumar,VLDB,2014,1,2,0.0,A*
-https://openalex.org/A5063997221,Uwe Jugel,https://openalex.org/A5050964144,Baris Kasikci,VLDB,2014,1,3,0.0,A*
-https://openalex.org/A5025737201,Amir Shaikhha,https://openalex.org/A5100741029,Yiying Zhang,VLDB,2014,1,4,0.0,A*
-https://openalex.org/A5034816930,Yannis Klonatos,https://openalex.org/A5048777417,Ranjita Bhagwan,VLDB,2014,2,1,0.0,A*
-https://openalex.org/A5050906094,André Nusser,https://openalex.org/A5077585432,Rahul Kumar,VLDB,2014,2,2,0.0,A*
-https://openalex.org/A5027517542,Sabine Storandt,https://openalex.org/A5050964144,Baris Kasikci,VLDB,2014,3,3,0.0,A*
-https://openalex.org/A5069747496,Ninh Pham,https://openalex.org/A5100741029,Yiying Zhang,WWW,2014,3,4,0.0,Unranked
-https://openalex.org/A5035284993,Gary Doran,https://openalex.org/A5004145814,He Zhu,AAAI,2013,1,1,0.0,A*
-https://openalex.org/A5055445718,Janardhan Rao Doppa,https://openalex.org/A5101995804,Ruben Martins,AAAI,2013,1,2,0.0,A*
-https://openalex.org/A5009585935,Haonan Yu,https://openalex.org/A5034957233,Suresh Jagannathan,ACL,2013,1,3,0.0,Unranked
-https://openalex.org/A5068799512,Nathalie Henry Riche,https://openalex.org/A5006424908,Işıl Dillig,CHI,2013,3,4,0.0,A*
-https://openalex.org/A5012186497,Stephen Fitchett,https://openalex.org/A5004145814,He Zhu,CHI,2013,1,1,0.0,A*
-https://openalex.org/A5076413226,Katharina Reinecke,https://openalex.org/A5101995804,Ruben Martins,CHI,2013,2,2,0.0,A*
-https://openalex.org/A5004988074,Spence Green,https://openalex.org/A5034957233,Suresh Jagannathan,CHI,2013,1,3,0.0,A*
-https://openalex.org/A5089242807,M. Six Silberman,https://openalex.org/A5004145814,He Zhu,CHI,2013,2,1,0.0,A*
-https://openalex.org/A5027407975,Ranjitha Kumar,https://openalex.org/A5101995804,Ruben Martins,CHI,2013,1,2,0.0,A*
-https://openalex.org/A5077783676,Arvind Satyanarayan,https://openalex.org/A5034957233,Suresh Jagannathan,CHI,2013,2,3,0.0,A*
-https://openalex.org/A5088912016,Bastian Kruck,https://openalex.org/A5048609852,Yufei Tao,CHI,2013,2,1,0.0,A*
-https://openalex.org/A5063521318,Mohamed Musthag,https://openalex.org/A5011387239,Stevens Le Blond,CHI,2013,1,1,0.0,A*
-https://openalex.org/A5088296218,Fransisca Endang Lestariningsih,https://openalex.org/A5065305058,Alejandro Cuevas,CHI,2013,3,2,0.0,A*
-https://openalex.org/A5015875478,Ilaria Bordino,https://openalex.org/A5089763199,Juan Ramón Troncoso-Pastoriza,CIKM,2013,1,3,0.0,Unranked
-https://openalex.org/A5041808447,Yelena Mejova,https://openalex.org/A5006799119,Matthew Luckie,CIKM,2013,2,4,1.0,Unranked
-https://openalex.org/A5091130856,Mark Segal,https://openalex.org/A5045962151,Bryan Ford,CVPR,2013,3,5,0.0,A*
-https://openalex.org/A5027328044,Vicente Ordóñez,https://openalex.org/A5011387239,Stevens Le Blond,ICCV,2013,1,1,0.0,A*
-https://openalex.org/A5089862531,Roi Livni,https://openalex.org/A5065305058,Alejandro Cuevas,ICML,2013,1,2,0.0,A*
-https://openalex.org/A5034150823,Felienne Hermans,https://openalex.org/A5089763199,Juan Ramón Troncoso-Pastoriza,ICSE,2013,1,3,0.0,A*
-https://openalex.org/A5022511801,B.M.W. Sedee,https://openalex.org/A5005275631,Amogh Dhamdhere,ICSE,2013,2,1,0.0,A*
-https://openalex.org/A5072756568,Dale Blue,https://openalex.org/A5112073231,David D. Clark,ICSE,2013,1,2,0.0,A*
-https://openalex.org/A5076258904,Rachel Tzoref-Brill,https://openalex.org/A5060437791,Alexander Gamero-Garrido,ICSE,2013,3,3,0.0,A*
-https://openalex.org/A5056378414,Weiyi Shang,https://openalex.org/A5006799119,Matthew Luckie,ICSE,2013,1,4,0.0,A*
-https://openalex.org/A5029665272,Daryl Posnett,https://openalex.org/A5084986707,Ricky K. P. Mok,ICSE,2013,1,5,0.0,A*
-https://openalex.org/A5000308912,Jaechang Nam,https://openalex.org/A5005275631,Amogh Dhamdhere,ICSE,2013,2,1,1.0,A*
-https://openalex.org/A5064825146,Elisha Rosensweig,https://openalex.org/A5052940596,Pablo Castells,INFOCOM,2013,1,2,0.0,A*
-https://openalex.org/A5035348123,Qifan Pu,https://openalex.org/A5052639125,Nicolas Gast,MOBICOM,2013,1,1,0.0,A*
-https://openalex.org/A5103356207,Sidhant Gupta,https://openalex.org/A5055823052,Benny Van Houdt,MOBICOM,2013,2,2,0.0,A*
-https://openalex.org/A5006723758,Tony Nowatzki,https://openalex.org/A5050218314,Hyeontaek Lim,PLDI,2013,1,2,1.0,Unranked
-https://openalex.org/A5002290345,Michael Sartin-Tarm,https://openalex.org/A5050218314,Hyeontaek Lim,PLDI,2013,2,2,0.0,Unranked
-https://openalex.org/A5044253018,Aleksandar Chakarov,https://openalex.org/A5046213289,Viktor Leis,PLDI,2013,2,3,0.0,Unranked
-https://openalex.org/A5020274673,Chinawat Isradisaikul,https://openalex.org/A5085479490,David G. Andersen,PLDI,2013,1,4,0.0,Unranked
-https://openalex.org/A5085711958,Szymon Toruńczyk,https://openalex.org/A5052885090,Michael Kaminsky,PODS,2013,3,5,0.0,Unranked
-https://openalex.org/A5085429060,Ben Mountjoy,https://openalex.org/A5034603892,Carlos Rodríguez‐Navarro,SODA,2013,3,1,0.0,A*
-https://openalex.org/A5103417248,Tathagata Das,https://openalex.org/A5025874799,Jacob Holm,SOSP,2013,2,2,0.0,A*
-https://openalex.org/A5056988727,Jifei Ou,https://openalex.org/A5004695759,Eva Rotenberg,UIST,2013,3,3,0.0,Unranked
-https://openalex.org/A5003218066,Marina Drosou,https://openalex.org/A5034603892,Carlos Rodríguez‐Navarro,VLDB,2013,1,1,0.0,A*
-https://openalex.org/A5011012964,Cristian Danescu-Niculescu-Mizil,https://openalex.org/A5025874799,Jacob Holm,WWW,2013,1,2,0.0,Unranked
-https://openalex.org/A5074393622,Suicheng Gu,https://openalex.org/A5004695759,Eva Rotenberg,AAAI,2012,1,3,0.0,A*
-https://openalex.org/A5007903730,Zhanying He,https://openalex.org/A5079186295,Cristian S. Calude,AAAI,2012,1,1,1.0,A*
-https://openalex.org/A5040024687,Niels Henze,https://openalex.org/A5101627589,Sanjay Jain,CHI,2012,1,2,1.0,A*
-https://openalex.org/A5060738906,Chi Thanh,https://openalex.org/A5009630097,Kathrin Probst,CHI,2012,1,3,1.0,A*
-https://openalex.org/A5006126917,Erin Friess,https://openalex.org/A5103014803,Inrak Choi,CHI,2012,1,1,1.0,A*
-https://openalex.org/A5083692181,Emilien Ghomi,https://openalex.org/A5060695800,Philip J. Guo,CHI,2012,1,2,0.0,A*
-https://openalex.org/A5091725659,Guillaume Faure,https://openalex.org/A5009630097,Kathrin Probst,CHI,2012,2,3,0.0,A*
-https://openalex.org/A5076116389,Bradley Edward Cossette,https://openalex.org/A5017344436,Bilge Mutlu,FSE,2012,1,4,0.0,Unranked
-https://openalex.org/A5067066896,Anoop Korattikara,https://openalex.org/A5103014803,Inrak Choi,ICML,2012,2,1,1.0,A*
-https://openalex.org/A5088410123,Mehdi Mirakhorli,https://openalex.org/A5060695800,Philip J. Guo,ICSE,2012,1,2,0.0,A*
-https://openalex.org/A5041608081,Mathias Schwarz,https://openalex.org/A5103014803,Inrak Choi,ICSE,2012,2,1,1.0,A*
-https://openalex.org/A5088473222,Will Dietz,https://openalex.org/A5060695800,Philip J. Guo,ICSE,2012,1,2,0.0,A*
-https://openalex.org/A5100432792,Peng Li,https://openalex.org/A5009630097,Kathrin Probst,ICSE,2012,2,3,0.0,A*
-https://openalex.org/A5063441997,Tobias Roehm,https://openalex.org/A5017344436,Bilge Mutlu,ICSE,2012,1,4,0.0,A*
-https://openalex.org/A5012643471,Rebecca Tiarks,https://openalex.org/A5020423438,Joanne Leong,ICSE,2012,2,5,0.0,A*
-https://openalex.org/A5097550878,Michais Famelis,https://openalex.org/A5083732107,Arindam Dey,ICSE,2012,1,1,0.0,A*
-https://openalex.org/A5084776885,Rick Salay,https://openalex.org/A5021195349,Mark Billinghurst,ICSE,2012,2,2,0.0,A*
-https://openalex.org/A5085243096,Carlee Joe‐Wong,https://openalex.org/A5010587031,Robert W. Lindeman,INFOCOM,2012,1,3,0.0,A*
-https://openalex.org/A5080702284,Soumya Sen,https://openalex.org/A5050639579,J. Edward Swan,INFOCOM,2012,2,4,0.0,A*
-https://openalex.org/A5015547365,Bilson Campana,https://openalex.org/A5013361951,Patrick Erñst,KDD,2012,2,1,0.0,Unranked
-https://openalex.org/A5028448553,Simon Gao,https://openalex.org/A5065988924,Amy Siu,MOBICOM,2012,3,2,0.0,A*
-https://openalex.org/A5041608911,Nosayba El-Sayed,https://openalex.org/A5088135366,Gerhard Weikum,SIGMETRICS,2012,1,3,0.0,A*
-https://openalex.org/A5034240273,Ioan Stefanovici,https://openalex.org/A5084822815,Russell J. Stewart,SIGMETRICS,2012,2,1,0.0,A*
-https://openalex.org/A5013339702,George Amvrosiadis,https://openalex.org/A5077149145,Robert C. Holte,SIGMETRICS,2012,3,2,1.0,A*
-https://openalex.org/A5014115669,Marek Krčál,https://openalex.org/A5084822815,Russell J. Stewart,SODA,2012,2,1,1.0,A*
-https://openalex.org/A5013551063,Kasper Green Larsen,https://openalex.org/A5052467896,Jason Eisner,STOC,2012,1,2,0.0,A*
-https://openalex.org/A5006688930,Sisil Mehta,https://openalex.org/A5014222815,Julie Williamson,UIST,2012,2,1,0.0,Unranked
-https://openalex.org/A5050138372,Albert Angel,https://openalex.org/A5041837927,Marcus Carter,VLDB,2012,1,2,0.0,A*
-https://openalex.org/A5013088936,Sebastián Conca,https://openalex.org/A5031323457,Marcus Foth,WWW,2012,2,3,0.0,Unranked
-https://openalex.org/A5109802420,George Katsirelos,https://openalex.org/A5064190255,Wally Smith,AAAI,2011,2,4,0.0,A*
-https://openalex.org/A5034897040,Nina Narodytska,https://openalex.org/A5048622877,Yogesh K. Dwivedi,AAAI,2011,3,5,0.0,A*
-https://openalex.org/A5063059225,Beth Gardner,https://openalex.org/A5014222815,Julie Williamson,AAAI,2011,3,1,0.0,A*
-https://openalex.org/A5021055773,Dipanjan Das,https://openalex.org/A5041837927,Marcus Carter,ACL,2011,1,2,0.0,Unranked
-https://openalex.org/A5091273829,Mathieu Nancel,https://openalex.org/A5031323457,Marcus Foth,CHI,2011,1,3,0.0,A*
-https://openalex.org/A5078932168,David Haslem,https://openalex.org/A5064190255,Wally Smith,CHI,2011,2,4,0.0,A*
-https://openalex.org/A5084307262,Gabe Cohn,https://openalex.org/A5048622877,Yogesh K. Dwivedi,CHI,2011,1,5,0.0,A*
-https://openalex.org/A5041613932,Louise Oram,https://openalex.org/A5014222815,Julie Williamson,CHI,2011,2,1,0.0,A*
-https://openalex.org/A5022201710,Yandong Liu,https://openalex.org/A5041837927,Marcus Carter,CHI,2011,3,2,0.0,A*
-https://openalex.org/A5065240151,Joanna Bergström,https://openalex.org/A5014222815,Julie Williamson,CHI,2011,2,1,0.0,A*
-https://openalex.org/A5088621320,Jiafeng Guo,https://openalex.org/A5041837927,Marcus Carter,CIKM,2011,1,2,0.0,Unranked
-https://openalex.org/A5056964458,Alex Kipman,https://openalex.org/A5031323457,Marcus Foth,CVPR,2011,3,3,0.0,A*
-https://openalex.org/A5017101724,Shayan Oveis Gharan,https://openalex.org/A5064190255,Wally Smith,FOCS,2011,1,4,0.0,A*
-https://openalex.org/A5061555046,Tobias Moemke,https://openalex.org/A5014222815,Julie Williamson,FOCS,2011,1,1,0.0,A*
-https://openalex.org/A5049191217,Roberto Lublinerman,https://openalex.org/A5041837927,Marcus Carter,FSE,2011,3,2,0.0,Unranked
-https://openalex.org/A5083739081,Antonio Filieri,https://openalex.org/A5031323457,Marcus Foth,ICSE,2011,1,3,0.0,A*
-https://openalex.org/A5031168005,Giordano Tamburrelli,https://openalex.org/A5064190255,Wally Smith,ICSE,2011,3,4,0.0,A*
-https://openalex.org/A5008490992,Matt Staats,https://openalex.org/A5014222815,Julie Williamson,ICSE,2011,1,1,0.0,A*
-https://openalex.org/A5004005620,Horatiu Dumitru,https://openalex.org/A5041837927,Marcus Carter,ICSE,2011,1,2,0.0,A*
-https://openalex.org/A5062838041,Marek Gibiec,https://openalex.org/A5031323457,Marcus Foth,ICSE,2011,2,3,0.0,A*
-https://openalex.org/A5082514679,Negar Hariri,https://openalex.org/A5064190255,Wally Smith,ICSE,2011,3,4,0.0,A*
-https://openalex.org/A5077061436,Annie W. Sokol,https://openalex.org/A5048622877,Yogesh K. Dwivedi,ICSE,2011,3,5,0.0,A*
-https://openalex.org/A5082856719,Yavor Nenov,https://openalex.org/A5014222815,Julie Williamson,IJCAI,2011,2,1,0.0,A*
-https://openalex.org/A5002186360,Simon Sidhom,https://openalex.org/A5041837927,Marcus Carter,MOBICOM,2011,2,2,0.0,A*
-https://openalex.org/A5000893188,Juan L. Reutter,https://openalex.org/A5031323457,Marcus Foth,PODS,2011,3,3,0.0,Unranked
-https://openalex.org/A5068150550,Haitham Hassanieh,https://openalex.org/A5064190255,Wally Smith,SIGCOMM,2011,2,4,0.0,A*
-https://openalex.org/A5108288895,Benjamin Ransford,https://openalex.org/A5048622877,Yogesh K. Dwivedi,SIGCOMM,2011,3,5,0.0,A*
-https://openalex.org/A5083740230,Dmitry Lagun,https://openalex.org/A5014222815,Julie Williamson,SIGIR,2011,3,1,0.0,A*
-https://openalex.org/A5023215207,Animashree Anandkumar,https://openalex.org/A5041837927,Marcus Carter,SIGMETRICS,2011,1,2,0.0,A*
-https://openalex.org/A5033603487,Carlos Tavares,https://openalex.org/A5031323457,Marcus Foth,SOSP,2011,3,3,0.0,A*
-https://openalex.org/A5033193597,Tyler Harter,https://openalex.org/A5064190255,Wally Smith,SOSP,2011,1,4,0.0,A*
-https://openalex.org/A5087880833,Chris Dragga,https://openalex.org/A5014222815,Julie Williamson,SOSP,2011,2,1,0.0,A*
-https://openalex.org/A5049011416,Thomas Dueholm Hansen,https://openalex.org/A5041837927,Marcus Carter,STOC,2011,2,2,0.0,A*
-https://openalex.org/A5032253873,Umar Farooq Minhas,https://openalex.org/A5031323457,Marcus Foth,VLDB,2011,1,3,0.0,A*
-https://openalex.org/A5103555848,Shriram Rajagopalan,https://openalex.org/A5064190255,Wally Smith,VLDB,2011,2,4,0.0,A*
-https://openalex.org/A5055793906,Brendan Cully,https://openalex.org/A5048622877,Yogesh K. Dwivedi,VLDB,2011,3,5,0.0,A*
-https://openalex.org/A5100423728,Beibei Li,https://openalex.org/A5014222815,Julie Williamson,WWW,2011,1,1,0.0,Unranked
-https://openalex.org/A5028755343,Ruoyun Huang,https://openalex.org/A5041837927,Marcus Carter,AAAI,2010,1,2,0.0,A*
-https://openalex.org/A5049201950,Giorgos Stoilos,https://openalex.org/A5031323457,Marcus Foth,AAAI,2010,1,3,0.0,A*
-https://openalex.org/A5031215802,Rehan Khan,https://openalex.org/A5014222815,Julie Williamson,CHI,2010,2,1,0.0,A*
-https://openalex.org/A5082520066,Deepti Chittamuru,https://openalex.org/A5041837927,Marcus Carter,CHI,2010,2,2,0.0,A*
-https://openalex.org/A5014246066,Frederik Rudeck,https://openalex.org/A5031323457,Marcus Foth,CHI,2010,3,3,0.0,A*
-https://openalex.org/A5109353454,Shaowen Bardzell,https://openalex.org/A5064190255,Wally Smith,CHI,2010,1,4,0.0,A*
-https://openalex.org/A5018395131,Prabhu Dutta Das,https://openalex.org/A5048622877,Yogesh K. Dwivedi,CHI,2010,3,5,0.0,A*
-https://openalex.org/A5067384837,Hrönn Brynjarsdóttir,https://openalex.org/A5014222815,Julie Williamson,CHI,2010,3,1,0.0,A*
-https://openalex.org/A5085818578,Gerard de Melo,https://openalex.org/A5041837927,Marcus Carter,CIKM,2010,1,2,0.0,Unranked
-https://openalex.org/A5006306262,Abhijith Kashyap,https://openalex.org/A5031323457,Marcus Foth,CIKM,2010,1,3,0.0,Unranked
-https://openalex.org/A5083631720,Barthélémy Dagenais,https://openalex.org/A5014222815,Julie Williamson,FSE,2010,1,1,0.0,Unranked
-https://openalex.org/A5030863830,Nishant A. Mehta,https://openalex.org/A5041837927,Marcus Carter,ICML,2010,1,2,0.0,A*
-https://openalex.org/A5000582109,Zibin Zheng,https://openalex.org/A5014222815,Julie Williamson,ICSE,2010,1,1,0.0,A*
-https://openalex.org/A5023884479,Jingwen Ou,https://openalex.org/A5041837927,Marcus Carter,ICSE,2010,2,2,0.0,A*
-https://openalex.org/A5051133116,Adam Czauderna,https://openalex.org/A5031323457,Marcus Foth,ICSE,2010,2,3,0.0,A*
-https://openalex.org/A5011785079,Qiusong Yang,https://openalex.org/A5064190255,Wally Smith,ICSE,2010,1,4,0.0,A*
-https://openalex.org/A5051155440,Tihomir Gvero,https://openalex.org/A5014222815,Julie Williamson,ICSE,2010,2,1,0.0,A*
-https://openalex.org/A5025340145,Vilas Jagannath,https://openalex.org/A5041837927,Marcus Carter,ICSE,2010,3,2,0.0,A*
-https://openalex.org/A5071597932,Kin-Wah Kwong,https://openalex.org/A5031323457,Marcus Foth,INFOCOM,2010,1,3,0.0,A*
-https://openalex.org/A5009660759,Dafna Shahaf,https://openalex.org/A5064190255,Wally Smith,KDD,2010,1,4,0.0,Unranked
-https://openalex.org/A5072515084,Justine Sherry,https://openalex.org/A5048622877,Yogesh K. Dwivedi,NSDI,2010,1,5,0.0,Unranked
-https://openalex.org/A5058555162,Shu-Chun Weng,https://openalex.org/A5014222815,Julie Williamson,OSDI,2010,2,1,0.0,A*
-https://openalex.org/A5066531106,Muli Ben-Yehuda,https://openalex.org/A5041837927,Marcus Carter,OSDI,2010,1,2,0.0,A*
-https://openalex.org/A5109135732,Jelani Nelson,https://openalex.org/A5031323457,Marcus Foth,PODS,2010,2,3,0.0,Unranked
-https://openalex.org/A5014539613,Ayman Jarrous,https://openalex.org/A5064190255,Wally Smith,S&P,2010,3,4,0.0,A*
-https://openalex.org/A5100687673,Binbin Chen,https://openalex.org/A5048622877,Yogesh K. Dwivedi,SIGCOMM,2010,1,5,0.0,A*
-https://openalex.org/A5071920857,Ziling Zhou,https://openalex.org/A5014222815,Julie Williamson,SIGCOMM,2010,2,1,0.0,A*
-https://openalex.org/A5041703865,Yuda Zhao,https://openalex.org/A5041837927,Marcus Carter,SIGCOMM,2010,3,2,0.0,A*
-https://openalex.org/A5041503751,Sarah Lilienthal,https://openalex.org/A5031323457,Marcus Foth,SIGMETRICS,2010,2,3,0.0,A*
-https://openalex.org/A5111985072,Nadathur Satish,https://openalex.org/A5014222815,Julie Williamson,SIGMOD,2010,3,1,0.0,A*
-https://openalex.org/A5081042997,Arash Asadpour,https://openalex.org/A5041837927,Marcus Carter,SODA,2010,1,2,0.0,A*
-https://openalex.org/A5075969007,Sarvagya Upadhyay,https://openalex.org/A5014222815,Julie Williamson,STOC,2010,3,1,0.0,A*
-https://openalex.org/A5023591555,Jarosław Byrka,https://openalex.org/A5041837927,Marcus Carter,STOC,2010,1,2,0.0,A*
-https://openalex.org/A5084269195,Chandrika Jayant,https://openalex.org/A5031323457,Marcus Foth,UIST,2010,2,3,0.0,Unranked
-https://openalex.org/A5051921091,Hanjie Ji,https://openalex.org/A5064190255,Wally Smith,UIST,2010,3,4,0.0,Unranked
-https://openalex.org/A5006980420,Shuai Ma,https://openalex.org/A5048622877,Yogesh K. Dwivedi,VLDB,2010,3,5,0.0,A*
-https://openalex.org/A5080877905,Steffen Rendle,https://openalex.org/A5014222815,Julie Williamson,WWW,2010,1,1,0.0,Unranked
-https://openalex.org/A5082540454,Christoph Freudenthaler,https://openalex.org/A5041837927,Marcus Carter,WWW,2010,2,2,0.0,Unranked
-https://openalex.org/A5001722321,Adam Pauls,https://openalex.org/A5031323457,Marcus Foth,ACL,2009,1,3,0.0,Unranked
-https://openalex.org/A5004854992,S. R. K. Branavan,https://openalex.org/A5064190255,Wally Smith,ACL,2009,1,4,0.0,Unranked
-https://openalex.org/A5053694765,Harr Chen,https://openalex.org/A5048622877,Yogesh K. Dwivedi,ACL,2009,2,5,0.0,Unranked
-https://openalex.org/A5083211235,Trevor J. Blank,https://openalex.org/A5014222815,Julie Williamson,CHI,2009,1,1,0.0,A*
-https://openalex.org/A5072031454,Jacob Burnim,https://openalex.org/A5041837927,Marcus Carter,FSE,2009,1,2,0.0,Unranked
-https://openalex.org/A5102141585,Nam H. Pham,https://openalex.org/A5031323457,Marcus Foth,FSE,2009,3,3,0.0,Unranked
-https://openalex.org/A5049280707,Chaitanya Desai,https://openalex.org/A5064190255,Wally Smith,ICCV,2009,1,4,0.0,A*
-https://openalex.org/A5054163834,Blake Shaw,https://openalex.org/A5048622877,Yogesh K. Dwivedi,ICML,2009,1,5,0.0,A*
-https://openalex.org/A5024034818,Chris Parnin,https://openalex.org/A5014222815,Julie Williamson,ICSE,2009,2,1,0.0,A*
-https://openalex.org/A5100735704,Di Wu,https://openalex.org/A5041837927,Marcus Carter,INFOCOM,2009,1,2,0.0,A*
-https://openalex.org/A5103031701,Vivek Shrivastava,https://openalex.org/A5031323457,Marcus Foth,MOBICOM,2009,1,3,0.0,A*
-https://openalex.org/A5112277360,Nabeel Ahmed,https://openalex.org/A5064190255,Wally Smith,MOBICOM,2009,2,4,0.0,A*
-https://openalex.org/A5001043287,Stephanie Tien Lee,https://openalex.org/A5048622877,Yogesh K. Dwivedi,PODS,2009,2,5,0.0,Unranked
-https://openalex.org/A5079503799,Gregory Valiant,https://openalex.org/A5100735881,Yan Zhuang,PODS,2009,3,1,0.0,Unranked
-https://openalex.org/A5023051798,Gregory Dardyk,https://openalex.org/A5100451576,Guoliang Li,S&P,2009,3,2,0.0,A*
-https://openalex.org/A5041937385,Thomas Moscibroda,https://openalex.org/A5027915931,Benno Stein,SIGCOMM,2009,3,3,1.0,A*
-https://openalex.org/A5005715220,Marianne van den Boomen,https://openalex.org/A5100951661,Jianhua Feng,SIGMETRICS,2009,1,4,0.0,A*
-https://openalex.org/A5069246862,Shubham Chopra,https://openalex.org/A5013240918,Gao Huang,SIGMOD,2009,2,1,0.0,A*
-https://openalex.org/A5001598240,Leonid Ryzhyk,https://openalex.org/A5100452089,Zhuang Liu,SOSP,2009,1,2,0.0,A*
-https://openalex.org/A5073935967,Robin A. Moser,https://openalex.org/A5109065097,Laurens van der Maaten,STOC,2009,1,3,0.0,A*
-https://openalex.org/A5110611660,Barna Saha,https://openalex.org/A5006380227,Kilian Q. Weinberger,VLDB,2009,2,4,0.0,A*
-https://openalex.org/A5015729451,Liad Wagman,https://openalex.org/A5013240918,Gao Huang,AAAI,2008,1,1,0.0,A*
-https://openalex.org/A5011891560,Felix Olorunfemi,https://openalex.org/A5100452089,Zhuang Liu,CHI,2008,1,2,0.0,A*
-https://openalex.org/A5049980911,Raheem Usman Adebimpe,https://openalex.org/A5109065097,Laurens van der Maaten,CHI,2008,2,3,0.0,A*
-https://openalex.org/A5046611715,Gilly Leshed,https://openalex.org/A5006380227,Kilian Q. Weinberger,CHI,2008,1,4,0.0,A*
-https://openalex.org/A5012802996,Theresa Velden,https://openalex.org/A5027119635,Wen-Da Wang,CHI,2008,2,5,0.0,A*
-https://openalex.org/A5077783791,Matthew B. Blaschko,https://openalex.org/A5103266587,Andreǐ A. Bulatov,CVPR,2008,2,1,0.0,A*
-https://openalex.org/A5068587315,Oliver J. Woodford,https://openalex.org/A5103266587,Andreǐ A. Bulatov,CVPR,2008,1,1,0.0,A*
-https://openalex.org/A5023279342,Dana Moshkovitz,https://openalex.org/A5103266587,Andreǐ A. Bulatov,FOCS,2008,1,1,0.0,A*
-https://openalex.org/A5113684638,Nicolas Bettenburg,https://openalex.org/A5100452089,Zhuang Liu,FSE,2008,1,2,1.0,Unranked
-https://openalex.org/A5048641532,Sascha Just,https://openalex.org/A5079753562,Tim Nelson,FSE,2008,2,1,0.0,Unranked
-https://openalex.org/A5069763558,Adrian Schröter,https://openalex.org/A5064541855,Baishakhi Ray,FSE,2008,3,2,0.0,Unranked
-https://openalex.org/A5101967307,Guoqing Xu,https://openalex.org/A5113712973,Daniel J. Dougherty,ICSE,2008,1,3,0.0,A*
-https://openalex.org/A5043431516,William N. Sumner,https://openalex.org/A5081289583,Darko Marinov,ICSE,2008,1,4,0.0,A*
-https://openalex.org/A5079075574,Ajitha Rajan,https://openalex.org/A5079753562,Tim Nelson,ICSE,2008,1,1,0.0,A*
-https://openalex.org/A5084552503,Joseph R. Ruthruff,https://openalex.org/A5064541855,Baishakhi Ray,ICSE,2008,1,2,0.0,A*
-https://openalex.org/A5022354495,Dattatraya Y. Gokhale,https://openalex.org/A5113712973,Daniel J. Dougherty,INFOCOM,2008,1,3,0.0,A*
-https://openalex.org/A5100368855,Xiang Zhang,https://openalex.org/A5081289583,Darko Marinov,KDD,2008,1,4,0.0,Unranked
-https://openalex.org/A5016327606,Geoffrey Lefebvre,https://openalex.org/A5019404521,Danny Dig,NSDI,2008,2,5,0.0,Unranked
-https://openalex.org/A5045165255,Ethan Katz-Bassett,https://openalex.org/A5079753562,Tim Nelson,NSDI,2008,2,1,0.0,Unranked
-https://openalex.org/A5053355200,Cristian Cadar,https://openalex.org/A5064541855,Baishakhi Ray,OSDI,2008,1,2,0.0,A*
-https://openalex.org/A5072236833,Dakarai Dunbar,https://openalex.org/A5113712973,Daniel J. Dougherty,OSDI,2008,2,3,0.0,A*
-https://openalex.org/A5060832606,Dennis Fetterly,https://openalex.org/A5081289583,Darko Marinov,OSDI,2008,3,4,0.0,A*
-https://openalex.org/A5052836807,Diwaker Gupta,https://openalex.org/A5019404521,Danny Dig,OSDI,2008,1,5,0.0,A*
-https://openalex.org/A5000107991,Michael Vrable,https://openalex.org/A5079753562,Tim Nelson,OSDI,2008,3,1,0.0,A*
-https://openalex.org/A5113577071,Atish Das Sarma,https://openalex.org/A5064541855,Baishakhi Ray,PODS,2008,1,2,0.0,Unranked
-https://openalex.org/A5058661031,Thomas S. Heydt-Benjamin,https://openalex.org/A5113712973,Daniel J. Dougherty,S&P,2008,2,3,0.0,A*
-https://openalex.org/A5050157577,Jagan Sankaranarayanan,https://openalex.org/A5079753562,Tim Nelson,SIGMOD,2008,2,1,0.0,A*
-https://openalex.org/A5080290452,Hsin-Tsang Lee,https://openalex.org/A5064541855,Baishakhi Ray,WWW,2008,1,2,0.0,Unranked
-https://openalex.org/A5105307360,Nathanael Chambers,https://openalex.org/A5113712973,Daniel J. Dougherty,AAAI,2007,2,3,0.0,A*
-https://openalex.org/A5036074668,Colin McMillen,https://openalex.org/A5079753562,Tim Nelson,AAAI,2007,1,1,0.0,A*
-https://openalex.org/A5077791792,Yuk Wah Wong,https://openalex.org/A5064541855,Baishakhi Ray,ACL,2007,1,2,0.0,Unranked
-https://openalex.org/A5028059312,Manas Mittal,https://openalex.org/A5113712973,Daniel J. Dougherty,CHI,2007,3,3,0.0,A*
-https://openalex.org/A5104070883,April Slayden Mitchell,https://openalex.org/A5079753562,Tim Nelson,CHI,2007,2,1,0.0,A*
-https://openalex.org/A5069459444,Alex Vorbau,https://openalex.org/A5064541855,Baishakhi Ray,CHI,2007,3,2,0.0,A*
-https://openalex.org/A5024737277,Chris Muffels,https://openalex.org/A5079904764,Pang Wei Koh,CHI,2007,2,1,1.0,A*
-https://openalex.org/A5023572731,Vaiva Kalnikaitė,https://openalex.org/A5025255782,Percy Liang,CHI,2007,1,2,1.0,A*
-https://openalex.org/A5020864276,Sebastian Moffatt,https://openalex.org/A5057866698,Piotr Dollár,CHI,2007,1,3,0.0,A*
-https://openalex.org/A5061394912,M. Aerts,https://openalex.org/A5049246408,Ross Girshick,CVPR,2007,2,4,0.0,A*
-https://openalex.org/A5057210065,A. C. Hack,https://openalex.org/A5079904764,Pang Wei Koh,CVPR,2007,3,1,0.0,A*
-https://openalex.org/A5023658938,Narayan Ramasubbu,https://openalex.org/A5025255782,Percy Liang,FSE,2007,1,2,0.0,Unranked
-https://openalex.org/A5075701279,Rajesh Krishna Balan,https://openalex.org/A5010875819,Davy Landman,FSE,2007,2,1,0.0,Unranked
-https://openalex.org/A5022177364,Christopher Kruegel,https://openalex.org/A5054753279,Alexander Serebrenik,FSE,2007,3,2,0.0,Unranked
-https://openalex.org/A5057086547,Alex Potanin,https://openalex.org/A5068536257,Shahriar Rostami,FSE,2007,2,3,0.0,Unranked
-https://openalex.org/A5090255963,Mahmood Ali,https://openalex.org/A5010875819,Davy Landman,FSE,2007,3,1,0.0,Unranked
-https://openalex.org/A5088203996,Jason V. Davis,https://openalex.org/A5054753279,Alexander Serebrenik,ICML,2007,1,2,0.0,A*
-https://openalex.org/A5049134079,Brian Kulis,https://openalex.org/A5010875819,Davy Landman,ICML,2007,2,1,0.0,A*
-https://openalex.org/A5101633144,Prateek Jain,https://openalex.org/A5054753279,Alexander Serebrenik,ICML,2007,3,2,0.0,A*
-https://openalex.org/A5019848726,Ekwa Duala-Ekoko,https://openalex.org/A5068536257,Shahriar Rostami,ICSE,2007,1,3,0.0,A*
-https://openalex.org/A5100695695,Sunghun Kim,https://openalex.org/A5079261847,Gordon Fraser,ICSE,2007,1,4,0.0,A*
-https://openalex.org/A5022905724,Mehrdad Sabetzadeh,https://openalex.org/A5010875819,Davy Landman,ICSE,2007,2,1,0.0,A*
-https://openalex.org/A5019170764,Adam Kieżun,https://openalex.org/A5054753279,Alexander Serebrenik,ICSE,2007,1,2,0.0,A*
-https://openalex.org/A5102785744,Maleeha Qazi,https://openalex.org/A5068536257,Shahriar Rostami,IJCAI,2007,1,3,0.0,A*
-https://openalex.org/A5025202709,Srujana Merugu,https://openalex.org/A5010875819,Davy Landman,KDD,2007,2,1,0.0,Unranked
-https://openalex.org/A5031711886,Frances Perry,https://openalex.org/A5054753279,Alexander Serebrenik,PLDI,2007,1,2,0.0,Unranked
-https://openalex.org/A5018151279,Lester Mackey,https://openalex.org/A5068536257,Shahriar Rostami,PLDI,2007,2,3,0.0,Unranked
-https://openalex.org/A5043706888,Mikhail Bilenko,https://openalex.org/A5010875819,Davy Landman,SIGIR,2007,2,1,0.0,A*
-https://openalex.org/A5103467344,Subramanian Arumugam,https://openalex.org/A5054753279,Alexander Serebrenik,SIGMOD,2007,2,2,0.0,A*
-https://openalex.org/A5022320149,Abhijit Pol,https://openalex.org/A5068536257,Shahriar Rostami,SIGMOD,2007,3,3,0.0,A*
-https://openalex.org/A5066623526,Ramakrishna Kotla,https://openalex.org/A5079261847,Gordon Fraser,SOSP,2007,1,4,0.0,A*
-https://openalex.org/A5046383149,Stephen Chong,https://openalex.org/A5008085180,Jacek Czerwonka,SOSP,2007,1,5,0.0,A*
-https://openalex.org/A5020572630,Jed Liu,https://openalex.org/A5080366682,Mark Kaminski,SOSP,2007,2,1,0.0,A*
-https://openalex.org/A5046685409,Sergey Yekhanin,https://openalex.org/A5023732514,Bernardo Cuenca Grau,STOC,2007,1,2,0.0,A*
-https://openalex.org/A5076861145,Alex Butler,https://openalex.org/A5071446856,Egor V. Kostylev,UIST,2007,3,3,0.0,Unranked
-https://openalex.org/A5049333271,Daniel J. Abadi,https://openalex.org/A5077636035,Boris Motik,VLDB,2007,1,4,0.0,A*
-https://openalex.org/A5027983493,Rion Snow,https://openalex.org/A5060350556,Ian Horrocks,ACL,2006,1,5,0.0,Unranked
-https://openalex.org/A5058733178,J. Luk,https://openalex.org/A5080366682,Mark Kaminski,CHI,2006,1,1,1.0,A*
-https://openalex.org/A5067442653,Jérôme Pasquero,https://openalex.org/A5023732514,Bernardo Cuenca Grau,CHI,2006,2,2,1.0,A*
-https://openalex.org/A5080542443,S. Little,https://openalex.org/A5005247877,Georgios Smaragdakis,CHI,2006,3,3,0.0,A*
-https://openalex.org/A5021697915,Nikos Ntarmos,https://openalex.org/A5014892027,Leandros Tassiulas,CIKM,2006,3,4,0.0,Unranked
-https://openalex.org/A5009682734,Derek Hoiem,https://openalex.org/A5025028660,Tom Hope,CVPR,2006,1,1,0.0,A*
-https://openalex.org/A5028750260,Bhargav S. Gulavani,https://openalex.org/A5003751225,Joel Chan,FSE,2006,1,2,0.0,Unranked
-https://openalex.org/A5008657833,Yamini Kannan,https://openalex.org/A5050656871,Aniket Kittur,FSE,2006,3,3,0.0,Unranked
-https://openalex.org/A5036361185,Fabian H. Sinz,https://openalex.org/A5014892027,Leandros Tassiulas,ICML,2006,2,4,1.0,A*
-https://openalex.org/A5101744869,Zhang Ji,https://openalex.org/A5100450015,Zhijun Li,ICSE,2006,1,1,0.0,A*
-https://openalex.org/A5038565477,John Anvik,https://openalex.org/A5038811034,Tian He,ICSE,2006,1,2,0.0,A*
-https://openalex.org/A5033307955,Lyndon Hiew,https://openalex.org/A5006744201,Noam Brown,ICSE,2006,2,1,0.0,A*
-https://openalex.org/A5031385754,Edmund B. Nightingale,https://openalex.org/A5023571961,Tüomas Sandholm,OSDI,2006,1,2,0.0,A*
-https://openalex.org/A5020883423,Kaushik Veeraraghavan,https://openalex.org/A5006744201,Noam Brown,OSDI,2006,2,1,0.0,A*
-https://openalex.org/A5053342250,Gil Zussman,https://openalex.org/A5023571961,Tüomas Sandholm,SIGMETRICS,2006,3,2,0.0,A*
-https://openalex.org/A5012667159,Timothy David Brody,https://openalex.org/A5006744201,Noam Brown,SIGMOD,2006,1,1,0.0,A*
-https://openalex.org/A5110176750,Soumyadeb Mitra,https://openalex.org/A5023571961,Tüomas Sandholm,VLDB,2006,1,2,0.0,A*
-https://openalex.org/A5037160778,Amy J. Ko,https://openalex.org/A5044512769,Zoltán Szabó,CHI,2005,2,3,0.0,A*
-https://openalex.org/A5103008611,Htet Htet Aung,https://openalex.org/A5012922872,Kenji Fukumizu,CHI,2005,3,4,0.0,A*
-https://openalex.org/A5002696075,Bhuvan Bamba,https://openalex.org/A5004160420,Arthur Gretton,CIKM,2005,3,5,0.0,Unranked
-https://openalex.org/A5006066917,Farzad Parvaresh,https://openalex.org/A5111539294,Muhammad Asim Jamshed,FOCS,2005,1,1,0.0,A*
-https://openalex.org/A5046598816,Yichen Xie,https://openalex.org/A5020815483,Y.S. Moon,FSE,2005,1,2,0.0,Unranked
-https://openalex.org/A5016315666,Brian Demsky,https://openalex.org/A5031987564,Donghwi Kim,ICSE,2005,1,3,0.0,A*
-https://openalex.org/A5007057846,Yvan Labiche,https://openalex.org/A5015247369,Dongsu Han,ICSE,2005,3,4,0.0,A*
-https://openalex.org/A5103412814,Andrew J. Ko,https://openalex.org/A5038456726,KyoungSoo Park,ICSE,2005,1,5,0.0,A*
-https://openalex.org/A5064241063,Chris Lattner,https://openalex.org/A5063696466,André Hernich,PLDI,2005,1,1,1.0,Unranked
-https://openalex.org/A5010786661,Armando Solar-Lezama,https://openalex.org/A5054382677,Andreas Rossberg,PLDI,2005,1,2,0.0,Unranked
-https://openalex.org/A5001159571,Rodric Rabbah,https://openalex.org/A5053098822,Jim Garside,PLDI,2005,2,3,0.0,Unranked
-https://openalex.org/A5007519378,Dirk Leinders,https://openalex.org/A5026069638,Mikel Luján,PODS,2005,1,4,0.0,Unranked
-https://openalex.org/A5090128483,Amitanand S. Aiyer,https://openalex.org/A5063696466,André Hernich,SOSP,2005,1,1,1.0,A*
-https://openalex.org/A5061077761,Allen Clement,https://openalex.org/A5054382677,Andreas Rossberg,SOSP,2005,3,2,0.0,A*
-https://openalex.org/A5049757296,Michael Bolin,https://openalex.org/A5053098822,Jim Garside,UIST,2005,1,3,0.0,Unranked
-https://openalex.org/A5083854355,Philip Rha,https://openalex.org/A5026069638,Mikel Luján,UIST,2005,3,4,0.0,Unranked
-https://openalex.org/A5043552468,Amol Ghoting,https://openalex.org/A5050585539,Derek Dreyer,VLDB,2005,1,5,0.0,A*
-https://openalex.org/A5068014041,Gregory Buehrer,https://openalex.org/A5063696466,André Hernich,VLDB,2005,2,1,1.0,A*
-https://openalex.org/A5088242464,Xiaohui Long,https://openalex.org/A5054382677,Andreas Rossberg,WWW,2005,1,2,0.0,Unranked
-https://openalex.org/A5098429303,Mary Pogue,https://openalex.org/A5053098822,Jim Garside,AAAI,2004,1,3,0.0,A*
-https://openalex.org/A5016270907,Julie Weeds,https://openalex.org/A5026069638,Mikel Luján,ACL,2004,3,4,0.0,Unranked
-https://openalex.org/A5075130969,Qiankun Zhao,https://openalex.org/A5063696466,André Hernich,CIKM,2004,1,1,1.0,Unranked
-https://openalex.org/A5024843495,Vlad Branzoi,https://openalex.org/A5054382677,Andreas Rossberg,CVPR,2004,2,2,0.0,A*
-https://openalex.org/A5067917669,Subhash Khot,https://openalex.org/A5053098822,Jim Garside,FOCS,2004,1,3,0.0,A*
-https://openalex.org/A5086684679,Benny Applebaum,https://openalex.org/A5026069638,Mikel Luján,FOCS,2004,1,4,0.0,A*
-https://openalex.org/A5005318859,Alexandru Sălcianu,https://openalex.org/A5050585539,Derek Dreyer,FSE,2004,2,5,0.0,Unranked
-https://openalex.org/A5022020843,Suhabe Bugrara,https://openalex.org/A5063696466,André Hernich,FSE,2004,3,1,0.0,Unranked
-https://openalex.org/A5100388576,Lu Zhang,https://openalex.org/A5034616829,Carsten Lutz,ICSE,2004,2,2,0.0,A*
-https://openalex.org/A5100411657,Yin Liu,https://openalex.org/A5034616829,Carsten Lutz,ICSE,2004,3,2,1.0,A*
-https://openalex.org/A5019272809,Parastoo Mohagheghi,https://openalex.org/A5010967150,Frank Wolter,ICSE,2004,1,4,0.0,A*
-https://openalex.org/A5054212955,Ole M. Killi,https://openalex.org/A5026297326,Karthikeyan Bhargavan,ICSE,2004,3,1,0.0,A*
-https://openalex.org/A5055811185,Gary Wassermann,https://openalex.org/A5004976322,Bruno Blanchet,ICSE,2004,1,2,0.0,A*
-https://openalex.org/A5061727878,Carl Gould,https://openalex.org/A5004976322,Bruno Blanchet,ICSE,2004,2,2,1.0,A*
-https://openalex.org/A5036568062,Johannes Henkel,https://openalex.org/A5089788947,Mark Handley,ICSE,2004,1,1,0.0,A*
-https://openalex.org/A5013022430,J. Mammen,https://openalex.org/A5013518229,Ratul Mahajan,INFOCOM,2004,2,2,1.0,A*
-https://openalex.org/A5112572279,Sugato Basu,https://openalex.org/A5000170074,Alexandru Agache,KDD,2004,1,3,0.0,Unranked
-https://openalex.org/A5006085341,Muthukaruppan Annamalai,https://openalex.org/A5112001300,Jitendra Padhye,OSDI,2004,2,4,1.0,A*
-https://openalex.org/A5056288677,Junfeng Yang,https://openalex.org/A5077257816,Andrew W. Moore,OSDI,2004,1,5,0.0,A*
-https://openalex.org/A5017775499,Paul Twohey,https://openalex.org/A5089788947,Mark Handley,OSDI,2004,2,1,0.0,A*
-https://openalex.org/A5101716412,Hui Fang,https://openalex.org/A5013518229,Ratul Mahajan,SIGIR,2004,1,2,1.0,A*
-https://openalex.org/A5100401500,Tao Tao,https://openalex.org/A5000170074,Alexandru Agache,SIGIR,2004,2,3,0.0,A*
-https://openalex.org/A5020404511,Thomas Bonald,https://openalex.org/A5112001300,Jitendra Padhye,SIGMETRICS,2004,1,4,1.0,A*
-https://openalex.org/A5005472808,Yuhan Cai,https://openalex.org/A5077257816,Andrew W. Moore,SIGMOD,2004,1,5,0.0,A*
-https://openalex.org/A5083735800,Daniel Wigdor,https://openalex.org/A5059100610,Yashar Moshfeghi,UIST,2004,2,1,1.0,Unranked
-https://openalex.org/A5082188602,Lakshmish Ramaswamy,https://openalex.org/A5045967404,Giuliano Casale,WWW,2004,1,1,0.0,Unranked
-https://openalex.org/A5110904945,LING LIU,https://openalex.org/A5070565287,Wenfei Fan,WWW,2004,3,1,0.0,Unranked
-https://openalex.org/A5051441682,Gabe Reinstein,https://openalex.org/A5001504785,Jingbo Xu,ACL,2003,2,2,0.0,Unranked
-https://openalex.org/A5069830330,Tom Stocky,https://openalex.org/A5071093153,Yinghui Wu,ACL,2003,3,3,0.0,Unranked
-https://openalex.org/A5089960673,Rob Fergus,https://openalex.org/A5032456107,Wenyuan Yu,CVPR,2003,1,4,0.0,A*
-https://openalex.org/A5025420692,Bo Brinkman,https://openalex.org/A5052885090,Michael Kaminsky,FOCS,2003,1,5,1.0,A*
-https://openalex.org/A5078041729,Stephen McCamant,https://openalex.org/A5034923438,Sergio Cabello,FSE,2003,1,1,0.0,Unranked
-https://openalex.org/A5084185098,Gregory M. Kapfhammer,https://openalex.org/A5034923438,Sergio Cabello,FSE,2003,1,1,1.0,Unranked
-https://openalex.org/A5064883489,Shubiao Li,https://openalex.org/A5070605476,Yinzhi Cao,FSE,2003,2,2,0.0,Unranked
-https://openalex.org/A5096892146,Fitzgibbon,https://openalex.org/A5101783316,Junfeng Yang,ICCV,2003,1,3,0.0,A*
-https://openalex.org/A5096865738,Wexler,https://openalex.org/A5016425387,Suman Jana,ICCV,2003,2,4,0.0,A*
-https://openalex.org/A5001760915,Zhuowen Tu,https://openalex.org/A5034923438,Sergio Cabello,ICCV,2003,1,1,1.0,A*
-https://openalex.org/A5003047938,Daniel Snow,https://openalex.org/A5070605476,Yinzhi Cao,ICCV,2003,3,2,0.0,A*
-https://openalex.org/A5026996875,Youtao Zhang,https://openalex.org/A5101783316,Junfeng Yang,ICSE,2003,3,3,0.0,A*
-https://openalex.org/A5026932942,Alex Groce,https://openalex.org/A5016425387,Suman Jana,ICSE,2003,3,4,0.0,A*
-https://openalex.org/A5069421748,Darse Billings,https://openalex.org/A5079186295,Cristian S. Calude,IJCAI,2003,1,1,0.0,A*
-https://openalex.org/A5064274071,David Kempe,https://openalex.org/A5079186295,Cristian S. Calude,KDD,2003,1,1,0.0,Unranked
-https://openalex.org/A5032089564,Srikanth Bellamkonda,https://openalex.org/A5101627589,Sanjay Jain,SIGMOD,2003,2,2,0.0,A*
-https://openalex.org/A5102725147,Petros Maniatis,https://openalex.org/A5109808768,Bakhadyr Khoussainov,SOSP,2003,1,3,0.0,A*
-https://openalex.org/A5112039412,Samuel T. King,https://openalex.org/A5100318444,Wei Li,SOSP,2003,1,4,0.0,A*
-https://openalex.org/A5087418634,Glen Jeh,https://openalex.org/A5085103227,Frank Stephan,WWW,2003,1,5,0.0,Unranked
-https://openalex.org/A5080942754,Boanerges Aleman-Meza,https://openalex.org/A5079186295,Cristian S. Calude,WWW,2003,1,1,0.0,Unranked
-https://openalex.org/A5010776606,Chris Halaschek,https://openalex.org/A5101627589,Sanjay Jain,WWW,2003,2,2,0.0,Unranked
-https://openalex.org/A5046457818,Franz Josef Och,https://openalex.org/A5103014803,Inrak Choi,ACL,2002,1,1,0.0,Unranked
-https://openalex.org/A5079123053,William Henry Bukowski,https://openalex.org/A5026024402,Heather Culbertson,FOCS,2002,1,2,0.0,A*
-https://openalex.org/A5014101817,Darya Chudova,https://openalex.org/A5022440000,Jovan Popović,KDD,2002,1,3,0.0,Unranked
-https://openalex.org/A5100388094,Yi Zhang,https://openalex.org/A5101571936,Changxi Zheng,SIGIR,2002,1,4,0.0,A*
-https://openalex.org/A5027569258,Ulrich Germann,https://openalex.org/A5103014803,Inrak Choi,ACL,2001,1,1,0.0,Unranked
-https://openalex.org/A5053233618,Michael Jahr,https://openalex.org/A5026024402,Heather Culbertson,ACL,2001,2,2,0.0,Unranked
-https://openalex.org/A5100462890,Jiwon Kim,https://openalex.org/A5022440000,Jovan Popović,ICCV,2001,2,3,0.0,A*
-https://openalex.org/A5012032862,Edwin M. Knorr,https://openalex.org/A5101571936,Changxi Zheng,KDD,2001,1,4,0.0,Unranked
-https://openalex.org/A5015424594,Amnon Lotem,https://openalex.org/A5039900558,Sean Follmer,PODS,2001,2,5,0.0,Unranked
-https://openalex.org/A5068395748,Vikas Khandelwal,https://openalex.org/A5103014803,Inrak Choi,SIGIR,2001,3,1,0.0,A*
-https://openalex.org/A5078245746,Eamonn Keogh,https://openalex.org/A5026024402,Heather Culbertson,SIGMOD,2001,1,2,0.0,A*
-https://openalex.org/A5041830534,Steve Zdancewic,https://openalex.org/A5022440000,Jovan Popović,SOSP,2001,1,3,0.0,A*
-https://openalex.org/A5069017863,Lantian Zheng,https://openalex.org/A5101571936,Changxi Zheng,SOSP,2001,2,4,0.0,A*
-https://openalex.org/A5111998286,Nathaniel Nystrom,https://openalex.org/A5103014803,Inrak Choi,SOSP,2001,3,1,1.0,A*
-https://openalex.org/A5084561739,Rodrigo Rodrigues,https://openalex.org/A5021195349,Mark Billinghurst,SOSP,2001,1,2,1.0,A*
-https://openalex.org/A5059491225,Miguel Castro,https://openalex.org/A5027907153,Amir Gilad,SOSP,2001,2,3,0.0,A*
-https://openalex.org/A5008167536,Chester Fitchett,https://openalex.org/A5077149145,Robert C. Holte,UIST,2001,2,2,1.0,Unranked
-https://openalex.org/A5102195798,Jian Yin,https://openalex.org/A5077149145,Robert C. Holte,WWW,2001,1,2,0.0,Unranked
-https://openalex.org/A5047278339,Finnegan Southey,https://openalex.org/A5041415709,Nathan Sturtevant,AAAI,2000,2,3,0.0,A*
-https://openalex.org/A5012751147,Dorin Comaniciu,https://openalex.org/A5011195666,Ariel Felner,CVPR,2000,1,4,0.0,A*
-https://openalex.org/A5017036718,András Veres,https://openalex.org/A5090215557,Roger Lévy,INFOCOM,2000,1,2,1.0,A*
-https://openalex.org/A5015797494,Miklós Boda,https://openalex.org/A5090215557,Roger Lévy,INFOCOM,2000,2,2,0.0,A*
-https://openalex.org/A5048534004,Benjamin Chelf,https://openalex.org/A5043344696,Benjamin K. Bergen,OSDI,2000,2,3,0.0,A*
-https://openalex.org/A5108791099,Andy Chou,https://openalex.org/A5071489089,Justin Matejka,OSDI,2000,3,1,0.0,A*
-https://openalex.org/A5086854307,Jaana Kekäläinen,https://openalex.org/A5035443322,Michael Glueck,SIGIR,2000,2,2,0.0,A*
-https://openalex.org/A5057889288,Hartmut Liefke,https://openalex.org/A5058485609,Tovi Grossman,SIGMOD,2000,1,3,0.0,A*
-https://openalex.org/A5101772780,Ravi Kumar,https://openalex.org/A5083432344,George Fitzmaurice,WWW,2000,2,4,0.0,Unranked
-https://openalex.org/A5061038699,Farzin Maghoul,https://openalex.org/A5071489089,Justin Matejka,WWW,2000,3,1,0.0,Unranked
+treated_id,treated_name,control_id,control_name,conference,award_year,treat_pos,ctrl_pos,match_dist
+https://openalex.org/A5014823249,Jincheng Mei,https://openalex.org/A5010677076,Martin Müller,AAAI,2018,2,3,1.0
+https://openalex.org/A5032195981,Sang-Gyun An,https://openalex.org/A5015615908,Kasper Hornbæk,CHI,2018,2,2,0.0
+https://openalex.org/A5075359884,Sylvia Simioni,https://openalex.org/A5083645031,Alan M. Wilson,CHI,2018,3,3,0.0
+https://openalex.org/A5035195609,Sean Peacock,https://openalex.org/A5040685721,Yongkwan Kim,CHI,2018,1,1,0.0
+https://openalex.org/A5011207998,Urmila Mahadev,https://openalex.org/A5013948143,James C. Davis,FOCS,2018,1,1,1.0
+https://openalex.org/A5063520549,Dor Minzer,https://openalex.org/A5007318528,Muli Safra,FOCS,2018,2,3,1.0
+https://openalex.org/A5068145628,Christy A. Coghlan,https://openalex.org/A5017792083,Meng Wu,FSE,2018,2,2,0.0
+https://openalex.org/A5091720485,Anish Athalye,https://openalex.org/A5029554720,Sarah Dean,ICML,2018,1,2,1.0
+https://openalex.org/A5102012317,Lingling Fan,https://openalex.org/A5100352782,Xinyu Wang,ICSE,2018,1,1,0.0
+https://openalex.org/A5032569584,Jacob Rendall,https://openalex.org/A5032068969,Michael D. Ernst,ICSE,2018,2,2,0.0
+https://openalex.org/A5030456881,Chun Kai Ling,https://openalex.org/A5100372201,Xue Li,IJCAI,2018,1,1,0.0
+https://openalex.org/A5064520344,Polykarpos Meladianos,https://openalex.org/A5060042752,Bo Du,IJCAI,2018,2,2,0.0
+https://openalex.org/A5058510425,Stratis Limnios,https://openalex.org/A5001529504,Chang Xu,IJCAI,2018,3,3,0.0
+https://openalex.org/A5100342798,Zihao Li,https://openalex.org/A5085088065,M. Yousof Naderi,INFOCOM,2018,3,3,0.0
+https://openalex.org/A5082318381,Subhramoy Mohanti,https://openalex.org/A5100443178,Ting Chen,INFOCOM,2018,1,1,0.0
+https://openalex.org/A5036229988,Elif Bozkaya,https://openalex.org/A5057128963,Abhishek Sinha,INFOCOM,2018,2,2,0.0
+https://openalex.org/A5025058751,Daniel Zügner,https://openalex.org/A5025028660,Tom Hope,KDD,2018,1,1,1.0
+https://openalex.org/A5014557575,Amir Akbarnejad,https://openalex.org/A5003751225,Joel Chan,KDD,2018,2,2,1.0
+https://openalex.org/A5101558101,Mehrdad Moradi,https://openalex.org/A5018752163,Karthikeyan Sundaresan,MOBICOM,2018,1,2,1.0
+https://openalex.org/A5056747950,Kevin Scaman,https://openalex.org/A5051338636,Hassan Ashtiani,NeurIPS,2018,1,1,0.0
+https://openalex.org/A5039192820,Yulia Rubanova,https://openalex.org/A5112193907,Shai Ben-David,NeurIPS,2018,2,2,0.0
+https://openalex.org/A5027925889,Jesse Bettencourt,https://openalex.org/A5021842384,Sébastien Bubeck,NeurIPS,2018,3,3,0.0
+https://openalex.org/A5100425893,Haoyu Zhang,https://openalex.org/A5085678555,Eugene Chai,NSDI,2018,3,3,1.0
+https://openalex.org/A5085945429,Xinyang Ge,https://openalex.org/A5077585432,Rahul Kumar,OSDI,2018,2,2,0.0
+https://openalex.org/A5060703788,Yizhou Shan,https://openalex.org/A5048777417,Ranjita Bhagwan,OSDI,2018,1,1,0.0
+https://openalex.org/A5110832647,Chandra Sekhar Maddila,https://openalex.org/A5020418881,Yilun Chen,OSDI,2018,3,3,0.0
+https://openalex.org/A5078512511,Itsaka Rakotonirina,https://openalex.org/A5089763199,Juan Ramón Troncoso-Pastoriza,S&P,2018,3,3,0.0
+https://openalex.org/A5081476292,Rocío Cañamares,https://openalex.org/A5005275631,Amogh Dhamdhere,SIGIR,2018,1,1,1.0
+https://openalex.org/A5015113627,Huanchen Zhang,https://openalex.org/A5034603892,Carlos Rodríguez‐Navarro,SIGMOD,2018,1,1,1.0
+https://openalex.org/A5090101869,Fulvio Di Lorenzo,https://openalex.org/A5025874799,Jacob Holm,SODA,2018,2,2,0.0
+https://openalex.org/A5021735130,David Porfirio,https://openalex.org/A5038972102,Dingzeyu Li,UIST,2018,1,1,1.0
+https://openalex.org/A5073533400,Allison Sauppé,https://openalex.org/A5060695800,Philip J. Guo,UIST,2018,2,2,0.0
+https://openalex.org/A5061951606,Ryan Cotterell,https://openalex.org/A5052467896,Jason Eisner,ACL,2017,1,2,1.0
+https://openalex.org/A5089731854,Sarah Webber,https://openalex.org/A5014222815,Julie Williamson,CHI,2017,1,1,0.0
+https://openalex.org/A5016617747,Sally Sherwen,https://openalex.org/A5031323457,Marcus Foth,CHI,2017,3,3,0.0
+https://openalex.org/A5049567786,Emma Vargo,https://openalex.org/A5041837927,Marcus Carter,CHI,2017,2,2,0.0
+https://openalex.org/A5049519805,Zhuojian Zhong,https://openalex.org/A5100760812,Shaoping Ma,CIKM,2017,3,3,1.0
+https://openalex.org/A5101415694,Ashish Shrivastava,https://openalex.org/A5013240918,Gao Huang,CVPR,2017,1,1,0.0
+https://openalex.org/A5033363730,Natasha Danas,https://openalex.org/A5091246530,Nicholas Nelson,FSE,2017,2,2,0.0
+https://openalex.org/A5076388753,Dan Gopstein,https://openalex.org/A5079753562,Tim Nelson,FSE,2017,1,1,0.0
+https://openalex.org/A5021297302,Timothy Tunnell,https://openalex.org/A5113712973,Daniel J. Dougherty,FSE,2017,3,3,0.0
+https://openalex.org/A5014407395,Georgia Gkioxari,https://openalex.org/A5100700361,Kaiming He,ICCV,2017,2,1,1.0
+https://openalex.org/A5085762342,Davood Mazinanian,https://openalex.org/A5054753279,Alexander Serebrenik,ICSE,2017,2,2,0.0
+https://openalex.org/A5028238692,Benjamin Clegg,https://openalex.org/A5074526787,Jurgen Vinju,ICSE,2017,3,3,0.0
+https://openalex.org/A5024997852,Benjamin Floyd,https://openalex.org/A5036986396,Rashina Hoda,ICSE,2017,1,1,0.0
+https://openalex.org/A5046120615,Konstantinos Poularakis,https://openalex.org/A5080366682,Mark Kaminski,INFOCOM,2017,1,1,1.0
+https://openalex.org/A5008595840,Hongseok Namkoong,https://openalex.org/A5072755496,Wittawat Jitkrittum,NeurIPS,2017,1,1,0.0
+https://openalex.org/A5008326572,Amanieu d'Antras,https://openalex.org/A5102734862,Ori Lahav,PLDI,2017,1,1,0.0
+https://openalex.org/A5070223708,Cosmin Gorgovan,https://openalex.org/A5023359178,Viktor Vafeiadis,PLDI,2017,2,2,0.0
+https://openalex.org/A5078763719,Jeehoon Kang,https://openalex.org/A5053098822,Jim Garside,PLDI,2017,3,3,0.0
+https://openalex.org/A5018284688,Nadim Kobeissi,https://openalex.org/A5004976322,Bruno Blanchet,S&P,2017,3,2,1.0
+https://openalex.org/A5008674902,Anirudh Sivaraman,https://openalex.org/A5008493066,Costin Raiciu,SIGCOMM,2017,2,2,0.0
+https://openalex.org/A5086057750,Vikram Nathan,https://openalex.org/A5014067492,Todd Millstein,SIGCOMM,2017,3,3,1.0
+https://openalex.org/A5044787871,Phelim Bradley,https://openalex.org/A5089788947,Mark Handley,SIGIR,2017,1,1,1.0
+https://openalex.org/A5102759092,Cheng Tan,https://openalex.org/A5100957970,Lingfan Yu,SOSP,2017,1,2,1.0
+https://openalex.org/A5070661194,Avinash S. Nair,https://openalex.org/A5018565806,Wilmot Li,UIST,2017,2,2,0.0
+https://openalex.org/A5010359061,Nave Frost,https://openalex.org/A5021195349,Mark Billinghurst,VLDB,2017,2,2,1.0
+https://openalex.org/A5088017068,Guni Sharon,https://openalex.org/A5077149145,Robert C. Holte,AAAI,2016,1,2,1.0
+https://openalex.org/A5091346638,Elkin Gutierrez,https://openalex.org/A5066273713,Kathrin Gerling,ACL,2016,1,1,1.0
+https://openalex.org/A5062650159,Kieran Hicks,https://openalex.org/A5035443322,Michael Glueck,CHI,2016,2,2,0.0
+https://openalex.org/A5035414960,Michael R. Kalyn,https://openalex.org/A5058485609,Tovi Grossman,CHI,2016,3,3,0.0
+https://openalex.org/A5038894198,Stefan Heindorf,https://openalex.org/A5100735881,Yan Zhuang,CIKM,2016,1,1,1.0
+https://openalex.org/A5057072967,Mihai Codoban,https://openalex.org/A5115883174,Lin Tan,FSE,2016,3,3,0.0
+https://openalex.org/A5018416139,Olga Liskin,https://openalex.org/A5088438387,Nikolaos Tsantalis,FSE,2016,2,2,0.0
+https://openalex.org/A5101822967,Danilo Silva,https://openalex.org/A5037117080,Jianjun Huang,FSE,2016,1,1,0.0
+https://openalex.org/A5039776447,Aäron van den Oord,https://openalex.org/A5100420915,Ziyu Wang,ICML,2016,1,1,0.0
+https://openalex.org/A5030073319,Samir Hasan,https://openalex.org/A5052125239,Marcello M. Bersani,ICSE,2016,1,1,0.0
+https://openalex.org/A5048404082,Zachary King,https://openalex.org/A5038017715,Domenico Bianculli,ICSE,2016,2,2,0.0
+https://openalex.org/A5110418524,Francesco Rigoli,https://openalex.org/A5011377871,Thomas H. B. FitzGerald,IJCAI,2016,3,2,1.0
+https://openalex.org/A5065675832,Bryan Hooi,https://openalex.org/A5100409661,Jia Liu,KDD,2016,1,1,1.0
+https://openalex.org/A5030516279,Bryce Kellogg,https://openalex.org/A5026925980,Dan R. K. Ports,NSDI,2016,1,1,1.0
+https://openalex.org/A5045162159,Helgi Sigurbjarnarson,https://openalex.org/A5036969978,Tomáš Petříček,OSDI,2016,1,1,1.0
+https://openalex.org/A5055964348,James Bornholt,https://openalex.org/A5084821901,Meng‐Chieh Chiu,OSDI,2016,2,2,1.0
+https://openalex.org/A5081440491,James Lingard,https://openalex.org/A5059238786,Idit Keidar,PLDI,2016,3,3,0.0
+https://openalex.org/A5034738254,Deepak Vasisht,https://openalex.org/A5075133765,Ryan Beckett,SIGCOMM,2016,1,1,0.0
+https://openalex.org/A5061114394,Marco Mondelli,https://openalex.org/A5101788564,Santhosh Kumar,STOC,2016,3,2,1.0
+https://openalex.org/A5045073799,Eshan Chattopadhyay,https://openalex.org/A5014978503,László Babai,STOC,2016,1,1,0.0
+https://openalex.org/A5101796605,Artem Dementyev,https://openalex.org/A5020423438,Joanne Leong,UIST,2016,1,1,0.0
+https://openalex.org/A5002723576,Hsin-Liu Kao,https://openalex.org/A5065221891,Lawrence H. Kim,UIST,2016,2,2,0.0
+https://openalex.org/A5032788742,Ali Parsaei,https://openalex.org/A5103014803,Inrak Choi,UIST,2016,3,3,0.0
+https://openalex.org/A5051203366,Emma Strubell,https://openalex.org/A5020500064,Yvette Graham,ACL,2015,1,1,0.0
+https://openalex.org/A5016501970,Luke Vilnis,https://openalex.org/A5090215557,Roger Lévy,ACL,2015,2,2,1.0
+https://openalex.org/A5074887814,Kate Silverstein,https://openalex.org/A5021336998,Gabriele Röger,ACL,2015,3,3,1.0
+https://openalex.org/A5088559756,Patrik Jonell,https://openalex.org/A5069787995,Niels Taatgen,CHI,2015,2,2,0.0
+https://openalex.org/A5013050933,Justin Emge,https://openalex.org/A5100461422,Na Wang,CHI,2015,3,3,0.0
+https://openalex.org/A5072922547,Aditya Vashistha,https://openalex.org/A5052549454,Pedro Lopes,CHI,2015,1,1,0.0
+https://openalex.org/A5019276791,Kateryna Tymoshenko,https://openalex.org/A5089605137,Matthew Kay,CIKM,2015,1,1,1.0
+https://openalex.org/A5001563585,Reza Matinnejad,https://openalex.org/A5052633187,Ermira Daka,FSE,2015,1,1,0.0
+https://openalex.org/A5039301553,Liang Gong,https://openalex.org/A5061605447,Thomas Zimmermann,FSE,2015,3,3,0.0
+https://openalex.org/A5056526226,Gabriele Bavota,https://openalex.org/A5101595466,José Campos,FSE,2015,2,2,0.0
+https://openalex.org/A5016750744,Janet Siegmund,https://openalex.org/A5020154435,Michele Tufano,ICSE,2015,1,1,0.0
+https://openalex.org/A5077191191,Abram L. Friesen,https://openalex.org/A5055199976,Jeff Schneider,IJCAI,2015,1,2,1.0
+https://openalex.org/A5045181694,Xiaohan Kang,https://openalex.org/A5013695358,Barnabás Póczos,INFOCOM,2015,3,3,1.0
+https://openalex.org/A5038820344,Salma Elmalaki,https://openalex.org/A5091197122,Lucas Wanner,MOBICOM,2015,1,2,1.0
+https://openalex.org/A5103890688,Ananda Theertha Suresh,https://openalex.org/A5036435487,Alekh Agarwal,NeurIPS,2015,2,2,0.0
+https://openalex.org/A5022031348,Pavel Panchekha,https://openalex.org/A5100722775,Danfeng Zhang,PLDI,2015,1,1,0.0
+https://openalex.org/A5088457102,Alex Sanchez-Stern,https://openalex.org/A5101697549,Andrew C. Myers,PLDI,2015,2,2,0.0
+https://openalex.org/A5028459977,Bas Ketsman,https://openalex.org/A5101839396,James R. Wilcox,PODS,2015,3,3,1.0
+https://openalex.org/A5042649150,Benjamin Beurdouche,https://openalex.org/A5026297326,Karthikeyan Bhargavan,S&P,2015,1,2,1.0
+https://openalex.org/A5064699160,Peter Kairouz,https://openalex.org/A5076026636,Giulia Fanti,SIGMETRICS,2015,2,1,1.0
+https://openalex.org/A5068471095,Junhao Gan,https://openalex.org/A5100383731,Ce Zhang,SIGMOD,2015,1,1,1.0
+https://openalex.org/A5011277895,Jonathan Mace,https://openalex.org/A5054417711,Haogang Chen,SOSP,2015,1,1,0.0
+https://openalex.org/A5003124561,Ryan Roelke,https://openalex.org/A5033897343,Daniel Ziegler,SOSP,2015,2,2,0.0
+https://openalex.org/A5010436566,Tej Chajed,https://openalex.org/A5036529548,Rodrigo Fonseca,SOSP,2015,3,3,0.0
+https://openalex.org/A5021833322,Anat Ganor,https://openalex.org/A5013053155,Zeev Dvir,STOC,2015,1,1,0.0
+https://openalex.org/A5038687630,Sivakanth Gopi,https://openalex.org/A5101701586,Prasad Raghavendra,STOC,2015,2,2,0.0
+https://openalex.org/A5058504215,Simon Olberding,https://openalex.org/A5063269254,Clemens Nylandsted Klokmose,UIST,2015,1,1,0.0
+https://openalex.org/A5057575769,Sergio Soto Ortega,https://openalex.org/A5034670941,James Eagan,UIST,2015,2,2,0.0
+https://openalex.org/A5089708930,Siemen Baader,https://openalex.org/A5050321930,Klaus Hildebrandt,UIST,2015,3,3,0.0
+https://openalex.org/A5077463393,Juan David Hincapié-Ramos,https://openalex.org/A5104268832,Stuart Taylor,CHI,2014,1,1,0.0
+https://openalex.org/A5075318331,Paymahn Moghadasian,https://openalex.org/A5020573877,Mikael B. Skov,CHI,2014,3,3,0.0
+https://openalex.org/A5082667645,Marius Pallisgaard Olsen,https://openalex.org/A5109343366,Xiang Guo,CHI,2014,2,2,0.0
+https://openalex.org/A5041066830,George D. Montañez,https://openalex.org/A5076259865,Ryen W. White,CIKM,2014,1,2,1.0
+https://openalex.org/A5027563965,Klaus-Benedikt Schultis,https://openalex.org/A5009530531,Annie T. T. Ying,FSE,2014,1,1,0.0
+https://openalex.org/A5082120000,Darioush Jalali,https://openalex.org/A5065530146,Christoph Elsner,FSE,2014,2,2,0.0
+https://openalex.org/A5014292887,Laura Inozemtseva,https://openalex.org/A5014327382,Daniel Lohmann,FSE,2014,3,3,0.0
+https://openalex.org/A5010881756,Semih Okur,https://openalex.org/A5052426710,Emerson Murphy-Hill,ICSE,2014,1,1,0.0
+https://openalex.org/A5055201741,David L. Hartveld,https://openalex.org/A5052203980,Chang Xu,ICSE,2014,2,2,0.0
+https://openalex.org/A5047620436,Thomas Filipe,https://openalex.org/A5034057959,Shing-Chi Cheung,ICSE,2014,3,3,0.0
+https://openalex.org/A5087729117,Zizhong Cao,https://openalex.org/A5051842127,Virag Shah,INFOCOM,2014,1,1,0.0
+https://openalex.org/A5100631553,Wenqian Wang,https://openalex.org/A5100741315,Ping Li,NeurIPS,2014,2,2,0.0
+https://openalex.org/A5026744189,Adam Belay,https://openalex.org/A5102251003,Simon Peter,OSDI,2014,1,1,0.0
+https://openalex.org/A5000009841,Ana Klimovic,https://openalex.org/A5089845483,Irene Zhang,OSDI,2014,3,3,0.0
+https://openalex.org/A5037461995,Mehrdad Afshari,https://openalex.org/A5056589829,Jiho Choi,PLDI,2014,2,2,0.0
+https://openalex.org/A5090891852,Thomas Shull,https://openalex.org/A5077610917,Zhendong Su,PLDI,2014,3,3,0.0
+https://openalex.org/A5091819924,Marcin Andrychowicz,https://openalex.org/A5048461894,Bryan Parno,S&P,2014,1,1,1.0
+https://openalex.org/A5063317383,Daniel Malinowski,https://openalex.org/A5044697595,Craig Gentry,S&P,2014,3,3,1.0
+https://openalex.org/A5074751039,Matthew K. Mukerjee,https://openalex.org/A5044769831,Aaron Parks,SIGCOMM,2014,2,2,1.0
+https://openalex.org/A5024980585,Yin Tat Lee,https://openalex.org/A5008952420,Thomas Rothvoß,SODA,2014,2,2,0.0
+https://openalex.org/A5003378492,Sébastien Robaszkiewicz,https://openalex.org/A5019041283,Michel Pahud,UIST,2014,2,2,0.0
+https://openalex.org/A5005397258,Felix Schuhknecht,https://openalex.org/A5077156448,Dawei Jiang,VLDB,2014,1,1,0.0
+https://openalex.org/A5034816930,Yannis Klonatos,https://openalex.org/A5079846990,Alekh Jindal,VLDB,2014,2,2,0.0
+https://openalex.org/A5027517542,Sabine Storandt,https://openalex.org/A5091334588,Jens Dittrich,VLDB,2014,3,3,0.0
+https://openalex.org/A5035284993,Gary Doran,https://openalex.org/A5055101678,Soumya Ray,AAAI,2013,1,2,1.0
+https://openalex.org/A5009585935,Haonan Yu,https://openalex.org/A5045403710,Jeffrey Bardzell,ACL,2013,1,1,1.0
+https://openalex.org/A5068799512,Nathalie Henry Riche,https://openalex.org/A5031744461,Leah Findlater,CHI,2013,3,3,0.0
+https://openalex.org/A5076413226,Katharina Reinecke,https://openalex.org/A5084751438,Laurie Buys,CHI,2013,2,2,0.0
+https://openalex.org/A5015875478,Ilaria Bordino,https://openalex.org/A5068043486,Hanghang Tong,CIKM,2013,1,1,1.0
+https://openalex.org/A5041808447,Yelena Mejova,https://openalex.org/A5024041563,Mark A. Ruzon,CIKM,2013,2,2,1.0
+https://openalex.org/A5091130856,Mark Segal,https://openalex.org/A5002597222,Mounia Lalmas,CVPR,2013,3,3,1.0
+https://openalex.org/A5027328044,Vicente Ordóñez,https://openalex.org/A5101542158,Jia Deng,ICCV,2013,1,2,1.0
+https://openalex.org/A5089862531,Roi Livni,https://openalex.org/A5000529247,Rishabh Iyer,ICML,2013,1,1,0.0
+https://openalex.org/A5034150823,Felienne Hermans,https://openalex.org/A5002599291,Marian Petre,ICSE,2013,1,1,0.0
+https://openalex.org/A5022511801,B.M.W. Sedee,https://openalex.org/A5085576468,Zhen Ming Jiang,ICSE,2013,2,2,0.0
+https://openalex.org/A5076258904,Rachel Tzoref-Brill,https://openalex.org/A5036744986,Prémkumar Dévanbu,ICSE,2013,3,3,0.0
+https://openalex.org/A5064825146,Elisha Rosensweig,https://openalex.org/A5102788874,Mark Wilson,INFOCOM,2013,1,1,1.0
+https://openalex.org/A5035348123,Qifan Pu,https://openalex.org/A5044160991,Lei Yang,MOBICOM,2013,1,1,1.0
+https://openalex.org/A5103356207,Sidhant Gupta,https://openalex.org/A5011077730,Shyamnath Gollakota,MOBICOM,2013,2,3,1.0
+https://openalex.org/A5006723758,Tony Nowatzki,https://openalex.org/A5103106502,Sriram Sankaranarayanan,PLDI,2013,1,1,0.0
+https://openalex.org/A5085711958,Szymon Toruńczyk,https://openalex.org/A5022264843,Frank Neven,PODS,2013,3,3,1.0
+https://openalex.org/A5085429060,Ben Mountjoy,https://openalex.org/A5039232562,Mikkel Thorup,SODA,2013,3,3,0.0
+https://openalex.org/A5103417248,Tathagata Das,https://openalex.org/A5109968020,M. Frans Kaashoek,SOSP,2013,2,2,0.0
+https://openalex.org/A5056988727,Jifei Ou,https://openalex.org/A5017415826,Jiro Tanaka,UIST,2013,3,3,0.0
+https://openalex.org/A5003218066,Marina Drosou,https://openalex.org/A5046815740,Christian Holz,VLDB,2013,1,1,1.0
+https://openalex.org/A5011012964,Cristian Danescu-Niculescu-Mizil,https://openalex.org/A5062318856,Michael Mitzenmacher,WWW,2013,1,1,1.0
+https://openalex.org/A5074393622,Suicheng Gu,https://openalex.org/A5031401811,Jessica Davies,AAAI,2012,1,1,1.0
+https://openalex.org/A5040024687,Niels Henze,https://openalex.org/A5074033455,Joey Scarr,CHI,2012,1,1,0.0
+https://openalex.org/A5091725659,Guillaume Faure,https://openalex.org/A5089009282,Enrico Rukzio,CHI,2012,2,2,0.0
+https://openalex.org/A5076116389,Bradley Edward Cossette,https://openalex.org/A5088791029,Emina Torlak,FSE,2012,1,1,0.0
+https://openalex.org/A5067066896,Anoop Korattikara,https://openalex.org/A5085699861,Stefanie Jegelka,ICML,2012,2,2,1.0
+https://openalex.org/A5088410123,Mehdi Mirakhorli,https://openalex.org/A5069411288,ThanhVu Nguyen,ICSE,2012,1,1,0.0
+https://openalex.org/A5041608081,Mathias Schwarz,https://openalex.org/A5020844039,Yonghee Shin,ICSE,2012,2,2,0.0
+https://openalex.org/A5085243096,Carlee Joe‐Wong,https://openalex.org/A5044070973,Thanawin Rakthanmanon,INFOCOM,2012,1,1,1.0
+https://openalex.org/A5080702284,Soumya Sen,https://openalex.org/A5034604991,Daniel Sadoc Menasché,INFOCOM,2012,2,2,1.0
+https://openalex.org/A5028448553,Simon Gao,https://openalex.org/A5025138797,Abdullah Mueen,MOBICOM,2012,3,3,1.0
+https://openalex.org/A5041608911,Nosayba El-Sayed,https://openalex.org/A5060287971,Barzan Mozafari,SIGMETRICS,2012,1,1,1.0
+https://openalex.org/A5034240273,Ioan Stefanovici,https://openalex.org/A5089579452,Avinatan Hassidim,SIGMETRICS,2012,2,2,1.0
+https://openalex.org/A5013339702,George Amvrosiadis,https://openalex.org/A5022068777,Jonathan A. Kelner,SIGMETRICS,2012,3,3,1.0
+https://openalex.org/A5014115669,Marek Krčál,https://openalex.org/A5032503782,Kai Zeng,SODA,2012,2,2,1.0
+https://openalex.org/A5013551063,Kasper Green Larsen,https://openalex.org/A5001781037,Samuel Fiorini,STOC,2012,1,1,0.0
+https://openalex.org/A5006688930,Sisil Mehta,https://openalex.org/A5050656871,Aniket Kittur,UIST,2012,2,2,0.0
+https://openalex.org/A5050138372,Albert Angel,https://openalex.org/A5072006037,Neel Joshi,VLDB,2012,1,1,1.0
+https://openalex.org/A5013088936,Sebastián Conca,https://openalex.org/A5073770532,Anindya Ghose,WWW,2012,2,2,1.0
+https://openalex.org/A5109802420,George Katsirelos,https://openalex.org/A5003040843,Andreas Krause,AAAI,2011,2,2,0.0
+https://openalex.org/A5091273829,Mathieu Nancel,https://openalex.org/A5065790866,Marshini Chetty,CHI,2011,1,1,0.0
+https://openalex.org/A5078932168,David Haslem,https://openalex.org/A5068413510,John Zimmerman,CHI,2011,2,2,0.0
+https://openalex.org/A5022201710,Yandong Liu,https://openalex.org/A5039879761,Shwetak Patel,CHI,2011,3,3,0.0
+https://openalex.org/A5056964458,Alex Kipman,https://openalex.org/A5111526267,Gu Xu,CVPR,2011,3,3,1.0
+https://openalex.org/A5017101724,Shayan Oveis Gharan,https://openalex.org/A5008689083,Nikhil Bansal,FOCS,2011,1,1,0.0
+https://openalex.org/A5049191217,Roberto Lublinerman,https://openalex.org/A5102985059,Yuanyuan Zhou,FSE,2011,3,3,0.0
+https://openalex.org/A5083739081,Antonio Filieri,https://openalex.org/A5057689302,Lucas C. Cordeiro,ICSE,2011,1,1,0.0
+https://openalex.org/A5031168005,Giordano Tamburrelli,https://openalex.org/A5110505437,Mats P. E. Heimdahl,ICSE,2011,3,3,0.0
+https://openalex.org/A5062838041,Marek Gibiec,https://openalex.org/A5100453049,Fang Liu,ICSE,2011,2,2,0.0
+https://openalex.org/A5082856719,Yavor Nenov,https://openalex.org/A5050903632,Vincent Conitzer,IJCAI,2011,2,2,0.0
+https://openalex.org/A5002186360,Simon Sidhom,https://openalex.org/A5053541912,Kang G. Shin,MOBICOM,2011,2,2,0.0
+https://openalex.org/A5000893188,Juan L. Reutter,https://openalex.org/A5102861589,David P. Woodruff,PODS,2011,3,3,1.0
+https://openalex.org/A5068150550,Haitham Hassanieh,https://openalex.org/A5079175103,Vyas Sekar,SIGCOMM,2011,2,2,1.0
+https://openalex.org/A5108288895,Benjamin Ransford,https://openalex.org/A5005554337,Matei Zaharia,SIGCOMM,2011,3,3,1.0
+https://openalex.org/A5083740230,Dmitry Lagun,https://openalex.org/A5032152448,Qi Guo,SIGIR,2011,3,2,1.0
+https://openalex.org/A5033603487,Carlos Tavares,https://openalex.org/A5109840870,Michael Vaughn,SOSP,2011,3,3,0.0
+https://openalex.org/A5033193597,Tyler Harter,https://openalex.org/A5065974086,Maged N. Kamel Boulos,SOSP,2011,1,1,0.0
+https://openalex.org/A5087880833,Chris Dragga,https://openalex.org/A5111498618,Steve Wheeler,SOSP,2011,2,2,0.0
+https://openalex.org/A5032253873,Umar Farooq Minhas,https://openalex.org/A5070565287,Wenfei Fan,VLDB,2011,1,1,1.0
+https://openalex.org/A5103555848,Shriram Rajagopalan,https://openalex.org/A5100387065,Jianzhong Li,VLDB,2011,2,2,1.0
+https://openalex.org/A5055793906,Brendan Cully,https://openalex.org/A5000416532,Ashraf Aboulnaga,VLDB,2011,3,4,1.0
+https://openalex.org/A5028755343,Ruoyun Huang,https://openalex.org/A5034370354,Matthew S. Gerber,AAAI,2010,1,1,1.0
+https://openalex.org/A5014246066,Frederik Rudeck,https://openalex.org/A5101560406,Anupam Jain,CHI,2010,3,3,0.0
+https://openalex.org/A5109353454,Shaowen Bardzell,https://openalex.org/A5040959667,Scott Bateman,CHI,2010,1,1,0.0
+https://openalex.org/A5085818578,Gerard de Melo,https://openalex.org/A5088135366,Gerhard Weikum,CIKM,2010,1,2,1.0
+https://openalex.org/A5083631720,Barthélémy Dagenais,https://openalex.org/A5078587812,Nishant Sinha,FSE,2010,1,1,0.0
+https://openalex.org/A5030863830,Nishant A. Mehta,https://openalex.org/A5005255629,Alexander Gray,ICML,2010,1,2,1.0
+https://openalex.org/A5000582109,Zibin Zheng,https://openalex.org/A5089828454,Thomas Fritz,ICSE,2010,1,1,0.0
+https://openalex.org/A5023884479,Jingwen Ou,https://openalex.org/A5069596903,Michael R. Lyu,ICSE,2010,2,2,0.0
+https://openalex.org/A5025340145,Vilas Jagannath,https://openalex.org/A5084524791,Gail C. Murphy,ICSE,2010,3,3,0.0
+https://openalex.org/A5071597932,Kin-Wah Kwong,https://openalex.org/A5019000951,Lixin Gao,INFOCOM,2010,1,2,1.0
+https://openalex.org/A5009660759,Dafna Shahaf,https://openalex.org/A5027819738,Peter D. Turney,KDD,2010,1,1,0.0
+https://openalex.org/A5072515084,Justine Sherry,https://openalex.org/A5069852764,Guohan Lu,NSDI,2010,1,1,1.0
+https://openalex.org/A5058555162,Shu-Chun Weng,https://openalex.org/A5105884694,Michael D. Day,OSDI,2010,2,2,0.0
+https://openalex.org/A5066531106,Muli Ben-Yehuda,https://openalex.org/A5010031675,Amittai Aviram,OSDI,2010,1,1,0.0
+https://openalex.org/A5014539613,Ayman Jarrous,https://openalex.org/A5089439033,Benny Pinkas,S&P,2010,3,2,1.0
+https://openalex.org/A5100687673,Binbin Chen,https://openalex.org/A5068276075,Margarita Osadchy,SIGCOMM,2010,1,1,1.0
+https://openalex.org/A5041703865,Yuda Zhao,https://openalex.org/A5114985944,Haifeng Yu,SIGCOMM,2010,3,4,1.0
+https://openalex.org/A5111985072,Nadathur Satish,https://openalex.org/A5017359920,D. Manjunath,SIGMOD,2010,3,3,1.0
+https://openalex.org/A5081042997,Arash Asadpour,https://openalex.org/A5101667271,Changkyu Kim,SODA,2010,1,1,1.0
+https://openalex.org/A5023591555,Jarosław Byrka,https://openalex.org/A5051676245,Rahul Jain,STOC,2010,1,1,0.0
+https://openalex.org/A5084269195,Chandrika Jayant,https://openalex.org/A5034276567,Fabrizio Grandoni,UIST,2010,2,2,1.0
+https://openalex.org/A5001722321,Adam Pauls,https://openalex.org/A5051693368,André F. T. Martins,ACL,2009,1,1,0.0
+https://openalex.org/A5053694765,Harr Chen,https://openalex.org/A5004921249,Dan Klein,ACL,2009,2,2,0.0
+https://openalex.org/A5072031454,Jacob Burnim,https://openalex.org/A5101874838,Dawei Qi,FSE,2009,1,1,0.0
+https://openalex.org/A5102141585,Nam H. Pham,https://openalex.org/A5084611756,Zhenkai Liang,FSE,2009,3,3,0.0
+https://openalex.org/A5054163834,Blake Shaw,https://openalex.org/A5068077704,Tony Jebara,ICML,2009,1,2,1.0
+https://openalex.org/A5100735704,Di Wu,https://openalex.org/A5035314009,Changhee Joo,INFOCOM,2009,1,1,1.0
+https://openalex.org/A5103031701,Vivek Shrivastava,https://openalex.org/A5113974966,Yehuda Koren,MOBICOM,2009,1,1,1.0
+https://openalex.org/A5112277360,Nabeel Ahmed,https://openalex.org/A5023962451,Shravan Rayanchu,MOBICOM,2009,2,3,1.0
+https://openalex.org/A5001043287,Stephanie Tien Lee,https://openalex.org/A5089709469,John Mellor‐Crummey,PODS,2009,2,2,1.0
+https://openalex.org/A5023051798,Gregory Dardyk,https://openalex.org/A5042532279,David Sehr,S&P,2009,3,2,1.0
+https://openalex.org/A5041937385,Thomas Moscibroda,https://openalex.org/A5112443217,Ranveer Chandra,SIGCOMM,2009,3,2,1.0
+https://openalex.org/A5005715220,Marianne van den Boomen,https://openalex.org/A5108079444,Ayalvadi Ganesh,SIGMETRICS,2009,1,1,1.0
+https://openalex.org/A5069246862,Shubham Chopra,https://openalex.org/A5059686266,Jatin Chhugani,SIGMOD,2009,2,2,1.0
+https://openalex.org/A5001598240,Leonid Ryzhyk,https://openalex.org/A5086535374,Chris Peikert,SOSP,2009,1,1,1.0
+https://openalex.org/A5015729451,Liad Wagman,https://openalex.org/A5033577488,Malte Helmert,AAAI,2008,1,1,0.0
+https://openalex.org/A5011891560,Felix Olorunfemi,https://openalex.org/A5086377685,Jacob O. Wobbrock,CHI,2008,1,1,0.0
+https://openalex.org/A5049980911,Raheem Usman Adebimpe,https://openalex.org/A5023381858,Edward Cutrell,CHI,2008,2,2,0.0
+https://openalex.org/A5077783791,Matthew B. Blaschko,https://openalex.org/A5001534492,Philip H. S. Torr,CVPR,2008,2,2,0.0
+https://openalex.org/A5068587315,Oliver J. Woodford,https://openalex.org/A5068085751,Christoph H. Lampert,CVPR,2008,1,1,0.0
+https://openalex.org/A5023279342,Dana Moshkovitz,https://openalex.org/A5041545934,Ran Raz,FOCS,2008,1,2,1.0
+https://openalex.org/A5113684638,Nicolas Bettenburg,https://openalex.org/A5009460574,Franco Raimondi,FSE,2008,1,1,0.0
+https://openalex.org/A5048641532,Sascha Just,https://openalex.org/A5043357999,James Skene,FSE,2008,2,2,0.0
+https://openalex.org/A5069763558,Adrian Schröter,https://openalex.org/A5109802122,Wolfgang Emmerich,FSE,2008,3,3,0.0
+https://openalex.org/A5101967307,Guoqing Xu,https://openalex.org/A5078263052,Shai Shalev‐Shwartz,ICSE,2008,1,1,1.0
+https://openalex.org/A5100368855,Xiang Zhang,https://openalex.org/A5049420901,Deepak Agarwal,KDD,2008,1,1,1.0
+https://openalex.org/A5016327606,Geoffrey Lefebvre,https://openalex.org/A5103478273,James W. Anderson,NSDI,2008,2,2,1.0
+https://openalex.org/A5053355200,Cristian Cadar,https://openalex.org/A5100444874,Yuan Yu,OSDI,2008,1,1,0.0
+https://openalex.org/A5072236833,Dakarai Dunbar,https://openalex.org/A5100319624,Sangmin Lee,OSDI,2008,2,2,0.0
+https://openalex.org/A5060832606,Dennis Fetterly,https://openalex.org/A5111537551,Dawson Engler,OSDI,2008,3,3,0.0
+https://openalex.org/A5113577071,Atish Das Sarma,https://openalex.org/A5041825861,Phokion G. Kolaitis,PODS,2008,1,1,1.0
+https://openalex.org/A5050157577,Jagan Sankaranarayanan,https://openalex.org/A5110209646,Uwe Röhm,SIGMOD,2008,2,2,0.0
+https://openalex.org/A5080290452,Hsin-Tsang Lee,https://openalex.org/A5071016611,Moses Charikar,WWW,2008,1,1,1.0
+https://openalex.org/A5105307360,Nathanael Chambers,https://openalex.org/A5088276691,Manuela Veloso,AAAI,2007,2,2,0.0
+https://openalex.org/A5036074668,Colin McMillen,https://openalex.org/A5090002679,James F. Allen,AAAI,2007,1,1,0.0
+https://openalex.org/A5077791792,Yuk Wah Wong,https://openalex.org/A5055522213,Daniel Vogel,ACL,2007,1,1,1.0
+https://openalex.org/A5028059312,Manas Mittal,https://openalex.org/A5010621134,Patrick Baudisch,CHI,2007,3,2,1.0
+https://openalex.org/A5061394912,M. Aerts,https://openalex.org/A5077436220,Alexei A. Efros,CVPR,2007,2,2,1.0
+https://openalex.org/A5057210065,A. C. Hack,https://openalex.org/A5075246991,Martial Hebert,CVPR,2007,3,3,1.0
+https://openalex.org/A5023658938,Narayan Ramasubbu,https://openalex.org/A5050855162,Mihai Christodorescu,FSE,2007,1,1,0.0
+https://openalex.org/A5075701279,Rajesh Krishna Balan,https://openalex.org/A5088826068,Somesh Jha,FSE,2007,2,2,0.0
+https://openalex.org/A5022177364,Christopher Kruegel,https://openalex.org/A5108192370,Gruia-Catalin Roman,FSE,2007,3,3,0.0
+https://openalex.org/A5088203996,Jason V. Davis,https://openalex.org/A5053915453,Ronan Collobert,ICML,2007,1,1,1.0
+https://openalex.org/A5049134079,Brian Kulis,https://openalex.org/A5010665785,P. Thomas Fletcher,ICML,2007,2,2,1.0
+https://openalex.org/A5101633144,Prateek Jain,https://openalex.org/A5076635608,Jason Weston,ICML,2007,3,3,1.0
+https://openalex.org/A5019848726,Ekwa Duala-Ekoko,https://openalex.org/A5074393374,Shiva Nejati,ICSE,2007,1,1,0.0
+https://openalex.org/A5022905724,Mehrdad Sabetzadeh,https://openalex.org/A5059244952,Martin P. Robillard,ICSE,2007,2,2,0.0
+https://openalex.org/A5102785744,Maleeha Qazi,https://openalex.org/A5033848427,Duc Nghia Pham,IJCAI,2007,1,1,0.0
+https://openalex.org/A5031711886,Frances Perry,https://openalex.org/A5074393511,Ben Hardekopf,PLDI,2007,1,1,0.0
+https://openalex.org/A5018151279,Lester Mackey,https://openalex.org/A5103038181,Calvin Lin,PLDI,2007,2,2,0.0
+https://openalex.org/A5103467344,Subramanian Arumugam,https://openalex.org/A5060789723,Atul Adya,SIGMOD,2007,2,2,0.0
+https://openalex.org/A5022320149,Abhijit Pol,https://openalex.org/A5108676493,Philip A. Bernstein,SIGMOD,2007,3,3,0.0
+https://openalex.org/A5066623526,Ramakrishna Kotla,https://openalex.org/A5019483717,Marcos K. Aguilera,SOSP,2007,1,1,0.0
+https://openalex.org/A5020572630,Jed Liu,https://openalex.org/A5079770095,Arif Merchant,SOSP,2007,2,2,0.0
+https://openalex.org/A5046685409,Sergey Yekhanin,https://openalex.org/A5052643589,Martin Fürer,STOC,2007,1,1,0.0
+https://openalex.org/A5076861145,Alex Butler,https://openalex.org/A5076189854,Michael S. Bernstein,UIST,2007,3,3,1.0
+https://openalex.org/A5049333271,Daniel J. Abadi,https://openalex.org/A5031564691,Steve Hodges,VLDB,2007,1,1,1.0
+https://openalex.org/A5067442653,Jérôme Pasquero,https://openalex.org/A5005887313,Brad A. Myers,CHI,2006,2,2,0.0
+https://openalex.org/A5021697915,Nikos Ntarmos,https://openalex.org/A5102113183,Matthias Bender,CIKM,2006,3,2,1.0
+https://openalex.org/A5028750260,Bhargav S. Gulavani,https://openalex.org/A5086757331,Matthew B. Dwyer,FSE,2006,1,1,0.0
+https://openalex.org/A5008657833,Yamini Kannan,https://openalex.org/A5025318877,Sebastian Elbaum,FSE,2006,3,3,0.0
+https://openalex.org/A5033307955,Lyndon Hiew,https://openalex.org/A5047852703,Betty H. C. Cheng,ICSE,2006,2,2,0.0
+https://openalex.org/A5031385754,Edmund B. Nightingale,https://openalex.org/A5005556081,Fay W. Chang,OSDI,2006,1,1,0.0
+https://openalex.org/A5020883423,Kaushik Veeraraghavan,https://openalex.org/A5043872671,Jay B. Dean,OSDI,2006,2,2,0.0
+https://openalex.org/A5053342250,Gil Zussman,https://openalex.org/A5037538509,Ramesh K. Sitaraman,SIGMETRICS,2006,3,3,1.0
+https://openalex.org/A5012667159,Timothy David Brody,https://openalex.org/A5036587377,Eytan Modiano,SIGMOD,2006,1,1,1.0
+https://openalex.org/A5110176750,Soumyadeb Mitra,https://openalex.org/A5111426489,Windsor W. Hsu,VLDB,2006,1,2,1.0
+https://openalex.org/A5037160778,Amy J. Ko,https://openalex.org/A5045188560,Allison Woodruff,CHI,2005,2,2,0.0
+https://openalex.org/A5103008611,Htet Htet Aung,https://openalex.org/A5031957633,Claire O’Malley,CHI,2005,3,3,0.0
+https://openalex.org/A5006066917,Farzad Parvaresh,https://openalex.org/A5111618543,Günter Oberdörster,FOCS,2005,1,1,1.0
+https://openalex.org/A5016315666,Brian Demsky,https://openalex.org/A5034123811,Reid Holmes,ICSE,2005,1,1,0.0
+https://openalex.org/A5064241063,Chris Lattner,https://openalex.org/A5059017058,Vikram Adve,PLDI,2005,1,2,1.0
+https://openalex.org/A5007519378,Dirk Leinders,https://openalex.org/A5011691423,Marcelo Arenas,PODS,2005,1,1,0.0
+https://openalex.org/A5090128483,Amitanand S. Aiyer,https://openalex.org/A5110237883,Manuel Costa,SOSP,2005,1,1,0.0
+https://openalex.org/A5061077761,Allen Clement,https://openalex.org/A5000977391,Jason Flinn,SOSP,2005,3,3,0.0
+https://openalex.org/A5049757296,Michael Bolin,https://openalex.org/A5034545287,Matthew J. Webber,UIST,2005,1,2,1.0
+https://openalex.org/A5043552468,Amol Ghoting,https://openalex.org/A5113637223,Amol Deshpande,VLDB,2005,1,1,1.0
+https://openalex.org/A5088242464,Xiaohui Long,https://openalex.org/A5074323303,Torsten Suel,WWW,2005,1,2,1.0
+https://openalex.org/A5098429303,Mary Pogue,https://openalex.org/A5011219888,Vincent Cicirello,AAAI,2004,1,1,1.0
+https://openalex.org/A5016270907,Julie Weeds,https://openalex.org/A5003705762,Rob Koeling,ACL,2004,3,2,1.0
+https://openalex.org/A5075130969,Qiankun Zhao,https://openalex.org/A5100836787,Prasan Roy,CIKM,2004,1,1,1.0
+https://openalex.org/A5024843495,Vlad Branzoi,https://openalex.org/A5061002947,Sourav S. Bhowmick,CVPR,2004,2,2,1.0
+https://openalex.org/A5067917669,Subhash Khot,https://openalex.org/A5081852077,Yuval Ishai,FOCS,2004,1,2,1.0
+https://openalex.org/A5005318859,Alexandru Sălcianu,https://openalex.org/A5046441603,Axel van Lamsweerde,FSE,2004,2,2,0.0
+https://openalex.org/A5022020843,Suhabe Bugrara,https://openalex.org/A5036104549,Eyal Kushilevitz,FSE,2004,3,3,1.0
+https://openalex.org/A5100388576,Lu Zhang,https://openalex.org/A5103963080,Richard N. Taylor,ICSE,2004,2,2,0.0
+https://openalex.org/A5019272809,Parastoo Mohagheghi,https://openalex.org/A5100712511,Wei Zhao,ICSE,2004,1,1,0.0
+https://openalex.org/A5013022430,J. Mammen,https://openalex.org/A5079870557,Milan Vojnović,INFOCOM,2004,2,2,1.0
+https://openalex.org/A5112572279,Sugato Basu,https://openalex.org/A5078716556,Abbas El Gamal,KDD,2004,1,1,1.0
+https://openalex.org/A5006085341,Muthukaruppan Annamalai,https://openalex.org/A5072740120,Michael M. Swift,OSDI,2004,2,1,1.0
+https://openalex.org/A5101716412,Hui Fang,https://openalex.org/A5007866098,Ian Ruthven,SIGIR,2004,1,1,1.0
+https://openalex.org/A5100401500,Tao Tao,https://openalex.org/A5028518494,ChengXiang Zhai,SIGIR,2004,2,3,1.0
+https://openalex.org/A5020404511,Thomas Bonald,https://openalex.org/A5007698196,Laurent Massoulié,SIGMETRICS,2004,1,1,1.0
+https://openalex.org/A5005472808,Yuhan Cai,https://openalex.org/A5113567130,Raymond T. Ng,SIGMOD,2004,1,2,1.0
+https://openalex.org/A5082188602,Lakshmish Ramaswamy,https://openalex.org/A5102744844,Arun Iyengar,WWW,2004,1,2,1.0
+https://openalex.org/A5110904945,LING LIU,https://openalex.org/A5055430403,I. Budak Arpinar,WWW,2004,3,3,1.0
+https://openalex.org/A5051441682,Gabe Reinstein,https://openalex.org/A5046006076,Christopher D. Manning,ACL,2003,2,2,0.0
+https://openalex.org/A5069830330,Tom Stocky,https://openalex.org/A5109964078,Justine Cassell,ACL,2003,3,4,1.0
+https://openalex.org/A5089960673,Rob Fergus,https://openalex.org/A5026825380,Pietro Perona,CVPR,2003,1,2,1.0
+https://openalex.org/A5025420692,Bo Brinkman,https://openalex.org/A5103266587,Andreǐ A. Bulatov,FOCS,2003,1,1,1.0
+https://openalex.org/A5078041729,Stephen McCamant,https://openalex.org/A5113533321,Stan Jarzabek,FSE,2003,1,1,0.0
+https://openalex.org/A5064883489,Shubiao Li,https://openalex.org/A5047746948,Mary Lou Soffa,FSE,2003,2,2,0.0
+https://openalex.org/A5096892146,Fitzgibbon,https://openalex.org/A5042310818,Paul Viola,ICCV,2003,1,1,0.0
+https://openalex.org/A5096865738,Wexler,https://openalex.org/A5074843339,Xiang-Rong Chen,ICCV,2003,2,2,0.0
+https://openalex.org/A5003047938,Daniel Snow,https://openalex.org/A5086706224,Alan Yuille,ICCV,2003,3,3,0.0
+https://openalex.org/A5026996875,Youtao Zhang,https://openalex.org/A5110048758,E. M. Clarke,ICSE,2003,3,2,1.0
+https://openalex.org/A5069421748,Darse Billings,https://openalex.org/A5081289768,Mark A. Paskin,IJCAI,2003,1,1,0.0
+https://openalex.org/A5064274071,David Kempe,https://openalex.org/A5055710645,Jon Kleinberg,KDD,2003,1,2,1.0
+https://openalex.org/A5087418634,Glen Jeh,https://openalex.org/A5068028533,David Scott,WWW,2003,1,1,1.0
+https://openalex.org/A5010776606,Chris Halaschek,https://openalex.org/A5010857944,Jennifer Widom,WWW,2003,2,2,0.0
+https://openalex.org/A5046457818,Franz Josef Och,https://openalex.org/A5038153180,Yukiko Nakano,ACL,2002,1,1,1.0
+https://openalex.org/A5014101817,Darya Chudova,https://openalex.org/A5012311701,Peter Marbach,KDD,2002,1,1,1.0
+https://openalex.org/A5027569258,Ulrich Germann,https://openalex.org/A5005380528,Eugene Charniak,ACL,2001,1,1,0.0
+https://openalex.org/A5053233618,Michael Jahr,https://openalex.org/A5106821597,Kevin Knight,ACL,2001,2,3,1.0
+https://openalex.org/A5100462890,Jiwon Kim,https://openalex.org/A5101657518,Andrew Blake,ICCV,2001,2,2,0.0
+https://openalex.org/A5012032862,Edwin M. Knorr,https://openalex.org/A5064857767,Andrew T. Campbell,KDD,2001,1,1,1.0
+https://openalex.org/A5015424594,Amnon Lotem,https://openalex.org/A5101903922,Christoph Koch,PODS,2001,2,2,1.0
+https://openalex.org/A5068395748,Vikas Khandelwal,https://openalex.org/A5111929449,Thomas P. Minka,SIGIR,2001,3,3,1.0
+https://openalex.org/A5078245746,Eamonn Keogh,https://openalex.org/A5113509258,Kaushik Chakrabarti,SIGMOD,2001,1,2,1.0
+https://openalex.org/A5069017863,Lantian Zheng,https://openalex.org/A5087649192,Barbara Liskov,SOSP,2001,2,3,1.0
+https://openalex.org/A5008167536,Chester Fitchett,https://openalex.org/A5103114181,Saul Greenberg,UIST,2001,2,1,1.0
+https://openalex.org/A5102195798,Jian Yin,https://openalex.org/A5048612724,Lorenzo Alvisi,WWW,2001,1,2,1.0
+https://openalex.org/A5047278339,Finnegan Southey,https://openalex.org/A5005020376,Daniel Marcu,AAAI,2000,2,2,0.0
+https://openalex.org/A5012751147,Dorin Comaniciu,https://openalex.org/A5076349670,W. Brand,CVPR,2000,1,1,1.0
+https://openalex.org/A5015797494,Miklós Boda,https://openalex.org/A5109860022,Mischa Schwartz,INFOCOM,2000,2,2,1.0
+https://openalex.org/A5048534004,Benjamin Chelf,https://openalex.org/A5029055674,Evelyn Duesterwald,OSDI,2000,2,2,1.0
+https://openalex.org/A5108791099,Andy Chou,https://openalex.org/A5070068025,Sanjeev Banerjia,OSDI,2000,3,3,1.0
+https://openalex.org/A5086854307,Jaana Kekäläinen,https://openalex.org/A5075937808,Rahul Gupta,SIGIR,2000,2,2,1.0
+https://openalex.org/A5057889288,Hartmut Liefke,https://openalex.org/A5048204602,Dan Suciu,SIGMOD,2000,1,2,1.0
+https://openalex.org/A5061038699,Farzin Maghoul,https://openalex.org/A5078491738,Prabhakar Raghavan,WWW,2000,3,4,1.0

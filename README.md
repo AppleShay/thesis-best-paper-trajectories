@@ -3,12 +3,14 @@
 **Master Thesis** | Uppsala University | Spring 2026
 **Student**: Shaheryar (AppleShay) | **Supervisors**: [Georgios Panayiotou](https://www.uu.se/kontakt-och-organisation/personal?query=N20-1603) & [Davide Vega](https://davidevega.eu/) | **Subject Reviewer**: [Arjun Menon](https://www.uu.se/kontakt-och-organisation/personal?query=N26-77)
 
-> *"Is the Best, the Best?"* — Do early-career best-paper awards predict distinct trajectories (productivity, citations), or merely reflect pre-existing excellence?
+> *"Is the Best, the Best?"* — Do early-career best-paper awards predict distinct trajectories (productivity, citations, disruption), or merely reflect pre-existing excellence?
 
 ## 📄 Thesis Significant Milestones
 [Proposal](docs/thesis_proposal.pdf)
 
 [80% Thesis](docs/thesis_report_80.pdf)
+
+[Second Draft](docs/thesis_second_draft.pdf)
 
 
 [![OpenAlex](https://img.shields.io/badge/Data-OpenAlex-blue)](https://openalex.org/)
@@ -19,9 +21,9 @@
 
 ## 🔬 Research Questions
 
-- **RQ1**: Is the career of a junior winner (career age ≤ 5 at award year) better than a matched senior co-author after the award — in terms of citations and publications?
-- **RQ2**: Is an award-winning paper actually better than non-award papers at the same venue and year — in terms of citation impact and disruption (CD index)?
-- **RQ3**: Are any differences consistent across venues and career stages, or concentrated in particular contexts?
+- **RQ1**: Do the publication and citation trajectories of junior awardees (career age ≤ 5 at award year) differ from those of matched non-awardees from the same conferences and years — and if so, in which direction?
+- **RQ2**: Do awardees and controls diverge in how **disruptive** their subsequent work is, as measured by the CD5 index (citation-based indicator of whether papers redirect or consolidate the literature)?
+- **RQ3**: Are any such differences consistent across venues, or concentrated in particular contexts — specifically, do effects on junior awardees vary across venue prestige tiers as measured by the CORE ranking system?
 
 ---
 
@@ -29,15 +31,18 @@
 
 | Milestone | Detail |
 |-----------|--------|
-| Awards corpus | 1,506 cleaned award records, 22 conferences, 2000–2018 |
-| OpenAlex match rate | >95% via multi-step ID resolution (SemanticScholar → DOI → OpenAlex) |
-| Junior winners identified | 603 (career age ≤ 5 at award year) |
-| Matched control pairs | 603 junior–senior pairs (exact: conference + year + author position) |
-| Author-year observations | 8,760 (±5-year trajectories for treated + controls) |
+| Awards corpus | 890 matched award records from 22 A* conferences, 2000–2018 |
+| OpenAlex match rate | 97.6% (890/912) via multi-step ID resolution (SemanticScholar → DOI → OpenAlex fuzzy match) |
+| Junior winners identified | 603 (career age ≤ 5 at award year, first three authorship positions) |
+| Matched control pairs | 603 junior–senior within-paper pairs |
+| Valid pairs for paired tests | 358 (both members have valid pre- and post-award activity) |
+| Author-year observations | 8,877 (±5-year trajectories for treated + controls) |
 | CORE rankings | All 22 conferences are A* (CORE 2023) |
-| RQ1 key finding | Juniors show a sharp, temporary citation spike at award year (~3× controls); no lasting publication gap |
-| RQ2 key finding | Award papers receive significantly more citations than venue-year matched non-award papers; CD index suggests award papers are more disruptive |
-| Citation network | Backward (cited BY award papers) + forward (citing award papers) datasets collected and analysed |
+| CD5 coverage | 811 award papers (≥10 citers within 5-year window) |
+| RQ1 key finding | Junior awardees show a sharp citation spike at award year (~3× baseline); publication lift is significantly higher for senior controls (p=0.0007); citation lift shows no significant group difference (p=0.6455) |
+| RQ1 within-paper finding | Junior authors: median citation lift 1.62, publication lift 1.65; senior co-authors on same papers: 0.93 and 1.27 — both differences significant (p<0.001) |
+| RQ2 key finding | No significant difference in CD5 trajectories between awardees and matched controls; both groups remain consolidating throughout |
+| RQ3 key finding | Lift effect holds broadly across CORE tiers (A* vs. non-A*); no significant difference between groups (citation lift p=0.34, publication lift p=0.32) |
 
 ---
 
@@ -61,12 +66,13 @@
 | `07_junior_eda` | Trajectory plots, EDA — citation & publication trends ±5 years |
 | `08_control_matching` | 1:1 matched control group construction |
 | `09_did_analysis` | Difference-in-differences (DiD) — citations and publications |
-| `10_core_rankings` | CORE 2023 join, quality validation, h-index removal |
+| `10_core_rankings` | CORE 2023 join, quality validation |
 | `11_lift_analysis` | Citation lift ratio (award year vs. baseline) |
 | `13_forest_plot` | Forest plot of DiD estimates by conference |
 | `14_within_paper_junior_vs_senior` | Within-paper comparison: junior vs. senior co-authors on same award paper |
 | `17_heterogeneity_analysis` | Heterogeneity: subgroup DiD by field, position, career stage |
 | `23_survival_analysis` | Survival analysis — time to "hit paper" after award |
+| `30_lift_by_core_tier` | Citation & publication lift stratified by CORE prestige tier (A* vs. non-A*) |
 
 ### Phase 3 — RQ2: Award Paper Quality
 
@@ -78,13 +84,14 @@
 | `18_top5_hitpapers` | Top-5% "hit paper" rate comparison: award vs. non-award |
 | `19_self_citationshare` | Self-citation share analysis for award papers |
 
-### Phase 4 — Disruption (CD Index)
+### Phase 4 — Disruption (CD Index) — RQ2
 
 | Notebook | Description |
 |----------|-------------|
-| `20_cd_index` | CD index computation for award and matched non-award papers |
+| `20_cd_index` | CD5 index computation for award and matched non-award papers |
 | `21_cd_research` | Background research and CD index validation |
 | `22_cd_std_analysis` | Standardised CD index analysis and visualisation |
+| `29_cd5_trajectory_analysis` | Author-level CD5 trajectory analysis (±5 years around award) |
 
 ### Phase 5 — Citation Network Analysis
 
@@ -94,6 +101,15 @@
 | `25_cited_papers_eda` | EDA on backward citation network — field, year, venue distributions |
 | `26_citing_papers_collection` | Collect papers *citing* award papers (forward links via OpenAlex `cited_by`) |
 | `27_citation_network_analysis` | Full citation network analysis: year dist, field dist, connector papers, citation lag heatmap, topic shift heatmap |
+
+### Phase 6 — Self-Citation & Panel Analysis
+
+| Notebook | Description |
+|----------|-------------|
+| `28_author_paper_panel` | Author-paper panel dataset construction for regression analyses |
+| `31_junior_self_cites_awardpaper` | Junior authors' self-citations to their own award paper post-award |
+| `32_junior_self_cites_analysis` | Full analysis of junior self-citation patterns and career implications |
+| `33_allauthors_self_cites_awardpaper` | All-author (junior + senior) self-citation analysis on award papers |
 
 ---
 
@@ -117,11 +133,11 @@ thesis-best-paper-trajectories/
 │       ├── award_to_citing_edges.csv           # Award → citing paper edges
 │       └── award_papers_field.csv              # OpenAlex field cache for award papers
 │
-├── figures/                        # All output figures (p01_*.png … p27_*.png)
+├── figures/                        # All output figures (p01_*.png … p33_*.png)
 │
-├── notebooks/                      # 01–27 analysis pipeline (see above)
+├── notebooks/                      # 01–33 analysis pipeline (see above)
 │
-├── docs/                           # Proposal, thesis draft, meeting notes, timeline
+├── docs/                           # Proposal, thesis drafts, meeting notes, timeline
 │
 ├── src/                            # Shared utility functions
 │

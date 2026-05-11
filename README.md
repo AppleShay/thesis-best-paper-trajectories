@@ -10,7 +10,7 @@
 
 [80% Thesis](docs/thesis_report_80.pdf)
 
-[Second Draft](docs/thesis_second_draft.pdf)
+[100% Final Draft](docs/thesis_second_draft.pdf)
 
 
 [![OpenAlex](https://img.shields.io/badge/Data-OpenAlex-blue)](https://openalex.org/)

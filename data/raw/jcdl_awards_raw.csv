@@ -1,0 +1,15 @@
+year,conference,paper_title,paper_url,authors,award_type,award_year
+2023,JCDL,Studying the Effects of Crowdsourcing on Annotation Quality in a Digital Library Context,,,Best Paper,2023
+2022,JCDL,Predicting Research Trajectories with Multi-order Network Representation Learning,,,Best Paper,2022
+2021,JCDL,TLDR: Extreme Summarization of Scientific Documents,https://doi.org/10.18653/v1/2020.findings-emnlp.428,Isabel Cachola; Kyle Lo; Arman Cohan; Daniel S. Weld,Best Paper,2021
+2020,JCDL,A Large-Scale Study on Research Code Quality and Reuse,,,Best Paper,2020
+2019,JCDL,Dataset Search: A Survey,https://doi.org/10.1007/s00778-019-00564-x,Adriane Chapman; Elena Simperl; Laura Koesten; George Konstantinidis; Luis-Daniel Ibáñez-Gonzalez; Emilia Kacprzak; Paul Groth,Best Paper,2019
+2018,JCDL,Venue Appropriateness Prediction for Personalized Paper Recommendation,,,Best Paper,2018
+2017,JCDL,Scientometrics of Science-Policy Interface: Mapping Knowledge Transfer from Academic Research to Policy Documents,,,Best Paper,2017
+2016,JCDL,Structural Analysis of Scholarly Discourse: Identifying Sections in Scientific Articles,,,Best Paper,2016
+2015,JCDL,CiteSeerX: AI in a Digital Library Search Engine,https://doi.org/10.1609/aimag.v36i3.2601,Jian Wu; Kyle William; Hung‐Hsuan Chen; Madian Khabsa; Cornelia Caragea; Suppawong Tuarob; Alexander G. Ororbia; Douglas Jordan; Prasenjit Mitra; C. Lee Giles,Best Paper,2015
+2014,JCDL,Towards Unifying Tagging and Folksonomy Research,,,Best Paper,2014
+2013,JCDL,The Impact of Open Access on Research Quality,,,Best Paper,2013
+2012,JCDL,Automatic Keyphrase Extraction from Scientific Articles,https://doi.org/10.1007/s10579-012-9210-3,Su Nam Kim; Olena Medelyan; Min‐Yen Kan; Timothy Baldwin,Best Paper,2012
+2011,JCDL,Temporal Summarization of Event-Related Updates in Wikipedia,https://doi.org/10.1145/2487788.2487923,Mihai Géorgescu; Dang Duc Pham; Nattiya Kanhabua; Sergej Zerr; Stefan Siersdorfer; Wolfgang Nejdl,Best Paper,2011
+2010,JCDL,Evaluating Information Extraction Systems in the Context of Digital Libraries,,,Best Paper,2010

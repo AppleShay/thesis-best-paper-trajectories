@@ -1,0 +1,52 @@
+year,conference,paper_title,paper_url,authors,award_type,award_year
+2011,ICWSM,Political Polarization on Twitter,,"Michael Connover, Jacob Ratkiewicz, Matthew Francisco, Bruno GonÃ§alves, Filippo Menczer, Alessandro Flammini",Test of Time,2021
+2010,ICWSM,Measuring User Influence in Twitter: The Million Follower Fallacy,,"Meeyoung Cha, Hamed Haddadi, Fabricio Benevenuto, and Krishna P. Gummadi",Test of Time,2020
+2009,ICWSM,Gephi: An Open Source Software for Exploring and Manipulating Networks,,"Mathieu Bastian, Sebastien Heymann, Mathieu Jacomy",Test of Time,2019
+2007,ICWSM,Personality Impressions Based on Facebook Profiles,,"Samuel D. Gosling, Sam Gaddis, Simine Vazire",Test of Time,2018
+2018,ICWSM,Wikipedian Self-Governance in Action: Motivating the Policy Lens,,"Ivan Beschastnikh, Travis Kriplean, DavidW. McDonald",Test of Time,2018
+2021,ICWSM,Political Polarization in Online News Consumption,,"Kiran Garimella, Tim Smith, Rebecca Weiss, Robert West",Best Paper,2021
+2021,ICWSM,"Which Node Attribute Prediction Task Are We Solving? Within-Network, Across-Network, or Across-Layer Tasks",,"Kristen M. Altenburger, Johan Ugander",Best Paper,2021
+2021,ICWSM,The Effect of Moderation on Online Mental Health Conversations,,"David Wadden, Tal August, Qisheng Li, Tim Althoff",Best Paper,2021
+2021,ICWSM,"Political Bias and Factualness in News Sharing across more than 100,000 Online Communities",,"Galen Weld, Maria Glenski, Tim Althoff",Best Paper,2021
+2020,ICWSM,An Experimental Study of Structural Diversity in Social Networks,,"Jessica Su, Krishna Kamath, Aneesh Sharma, Johan Ugander, Sharad Goel",Best Paper,2020
+2020,ICWSM,Gravity of Location-Based Service: Analyzing the Effects for Mobility Pattern and Location Prediction,,"Keiichi Ochiai, Yusuke Fukazawa, Wataru Yamada, Hiroyuki Manabe, Yutaka Matsuo",Best Paper,2020
+2020,ICWSM,Quasi-Experimental Designs for Assessing Response on Social Media to Policy Changes,,"Yijun Tian, Rumi Chunara",Best Paper,2020
+2020,ICWSM,Behind the Mask: A Computational Study of Anonymous' Presence on Twitter,,"Keenan Jones, Jason R. C. Nurse, Shujun Li",Best Paper,2020
+2020,ICWSM,Minimizing Interference and Selection Bias in Network Experiment Design,,"Zahra Fatemi, Elena Zheleva",Best Paper,2020
+2020,ICWSM,A Quantitative Approach to Understanding Online Antisemitism,,"Savvas Zannettou, Joel Finkelstein, Barry Bradlyn, Jeremy Blackburn",Best Paper,2020
+2020,ICWSM,Influence Maximization Using Influence and Susceptibility Embeddings,,"George Panagopoulos, Fragkiskos D. Malliaros, Michalis Vazirgianis",Best Paper,2020
+2020,ICWSM,"Aggressive, Repetitive, Intentional, Visible, and Imbalanced: Refining Representations for Cyberbullying Classification",,"Caleb Ziems, Ymir Vigfusson, Fred Morstatter",Best Paper,2020
+2020,ICWSM,Disturbed YouTube for Kids: Characterizing and Detecting Inappropriate Videos Targeting Young Children,,"Kostantinos Papadamou, Antonis Papasavva, Savvas Zannettou, Jeremy Blackburn, Nicolas Kourtellis, Ilias Leontiadis, Gianluca Stringhini, Michael Sirivianos",Best Paper,2020
+2019,ICWSM,"Smart, Responsible, and Upper Caste Only: Measuring Caste Attitudes through Large-Scale Analysis of Matrimonial Profile",,"Ashwin Rajadesingan, Ramaswami Mahalingam, David Jurgens",Best Paper,2019
+2019,ICWSM,"Eliciting New Wikipedia Users' Interests via Automatically Mined Questionnaires: For a Warm Welcome, Not a Cold Start",,"Ramtin Yazdanian, Leila Zia, Jonathan T Morgan, Bahodir Mansurov, Robert West",Best Paper,2019
+2019,ICWSM,A Social Media Study on the Effects of Psychiatric Medication Use,,"Koustuv Saha, Benjamin Sugar, John Torous, Bruno Abrahao, Emre Kiciman, Munmun De Choudhury",Best Paper,2019
+2019,ICWSM,Bias Misperceived: The Role of Partisanship and Misinformation in YouTube Comment Moderation,,"Shan Jiang, Ronald E Robertson, Christo Wilson",Best Paper,2019
+2018,ICWSM,The_Tower_of_Babel.jpg: Diversity of Visual Encyclopedic Knowledge Across Wikipedia Language Editions,,"Shiqing He, Allen Yilun Lin, Eytan Adar, Brent Hecht",Best Paper,2018
+2017,ICWSM,The Language of Social Support in Social Media and its Effect on Suicidal Ideation Risk,,"Munmun de Choudhury, Emre Kiciman",Best Paper,2017
+2016,ICWSM,Social Media Participation in an Activist Movement for Racial Equality,,"Munmun de Choudhury, Shagun Jhaver, Benjamin Sugar, Ingmar Weber",Best Paper,2016
+2015,ICWSM,Like Partying? Your Face Says It All. Predicting the Ambiance of Places with Profile Pictures,,"Miriam Redi, Daniele Quercia, Lindsay T. Graham, Samuel D. Gosling",Best Paper,2015
+2014,ICWSM,When Politicians Talk: Assessing Online Conversational Practices of Political Parties on Twitter,,"Haiko Lietz, Claudia Wagner, Arnim Bleier, Markus Strohmaier",Best Paper,2014
+2013,ICWSM,Booming Up the Long Tails: Discovering Potentially Contributive Users in Community-Based Question Answering Services,,"Juyup Sung, Jae-Gil Lee, Uichin Lee",Best Paper,2013
+2012,ICWSM,The Livehoods Project: Utilizing Social Media to Understand the Dynamics of a City,,"Justin Cranshaw, Raz Schwartz, Jason Hong, and Norman Sadeh",Best Paper,2012
+2012,ICWSM,The Emergence of Conventions in Online Social Networks,,"Farshad Kooti, Haeryun Yang, Meeyoung Cha, Krishna P. Gummadi, Winter A. Mason",Best Paper,2012
+2011,ICWSM,4chan and /b/: An Analysis of Anonymity and Ephemerality in a Large Online Community,,"Michael Bernstein, AndrÃ©s Monroy-HernÃ¡ndez, Drew Harry, Paul AndrÃ©, Katrina Panovich, Gregory G Vargas",Best Paper,2011
+2010,ICWSM,ePluribus : Ethnicity on Social Networks,,"Jonathan Chang, Itamar Rosenn, Lars Backstrom, Cameron Marlow",Best Paper,2010
+2010,ICWSM,The Social Dynamics of Economic Activity in a Virtual World,,"Eytan Bakshy, Matthew Simmons, David Huffaker, ChunYuen Teng, Lada Adamic",Best Paper,2010
+2009,ICWSM,Gesundheit! Modeling Contagion Through Facebook News Feed,,"Eric Sun, Itamar Rosenn, Cameron Marlow, Thomas Lento",Best Paper,2009
+2009,ICWSM,"Motivational, Structural and Tenure Factors that Impact Online Community Photo Sharing",,"Oded Nov, Mor Naaman, Chen Ye",Best Paper,2009
+2008,ICWSM,Wikipedian Self-Governance in Action: Motivating the Policy Lens,,"Ivan Beschastnikh, Travis Kriplean, DavidW. McDonald",Best Paper,2008
+2007,ICWSM,TagAssist: Automatic Tag Suggestion for Blog Posts,,"Sanjay Sood, Sara Owsley, Kristian Hammond and Larry Birnbaum",Best Paper,2007
+2023,JCDL,Studying the Effects of Crowdsourcing on Annotation Quality in a Digital Library Context,,,Best Paper,2023
+2022,JCDL,Predicting Research Trajectories with Multi-order Network Representation Learning,,,Best Paper,2022
+2021,JCDL,TLDR: Extreme Summarization of Scientific Documents,https://doi.org/10.18653/v1/2020.findings-emnlp.428,Isabel Cachola; Kyle Lo; Arman Cohan; Daniel S. Weld,Best Paper,2021
+2020,JCDL,A Large-Scale Study on Research Code Quality and Reuse,,,Best Paper,2020
+2019,JCDL,Dataset Search: A Survey,https://doi.org/10.1007/s00778-019-00564-x,Adriane Chapman; Elena Simperl; Laura Koesten; George Konstantinidis; Luis-Daniel Ibáñez-Gonzalez; Emilia Kacprzak; Paul Groth,Best Paper,2019
+2018,JCDL,Venue Appropriateness Prediction for Personalized Paper Recommendation,,,Best Paper,2018
+2017,JCDL,Scientometrics of Science-Policy Interface: Mapping Knowledge Transfer from Academic Research to Policy Documents,,,Best Paper,2017
+2016,JCDL,Structural Analysis of Scholarly Discourse: Identifying Sections in Scientific Articles,,,Best Paper,2016
+2015,JCDL,CiteSeerX: AI in a Digital Library Search Engine,https://doi.org/10.1609/aimag.v36i3.2601,Jian Wu; Kyle William; Hung‐Hsuan Chen; Madian Khabsa; Cornelia Caragea; Suppawong Tuarob; Alexander G. Ororbia; Douglas Jordan; Prasenjit Mitra; C. Lee Giles,Best Paper,2015
+2014,JCDL,Towards Unifying Tagging and Folksonomy Research,,,Best Paper,2014
+2013,JCDL,The Impact of Open Access on Research Quality,,,Best Paper,2013
+2012,JCDL,Automatic Keyphrase Extraction from Scientific Articles,https://doi.org/10.1007/s10579-012-9210-3,Su Nam Kim; Olena Medelyan; Min‐Yen Kan; Timothy Baldwin,Best Paper,2012
+2011,JCDL,Temporal Summarization of Event-Related Updates in Wikipedia,https://doi.org/10.1145/2487788.2487923,Mihai Géorgescu; Dang Duc Pham; Nattiya Kanhabua; Sergej Zerr; Stefan Siersdorfer; Wolfgang Nejdl,Best Paper,2011
+2010,JCDL,Evaluating Information Extraction Systems in the Context of Digital Libraries,,,Best Paper,2010

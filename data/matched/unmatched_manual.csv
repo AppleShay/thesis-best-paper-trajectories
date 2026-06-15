@@ -3,7 +3,6 @@ year,conference,paper_title
 2016,OSDI,Ryoan: A Distributed Sandbox for Untrusted Computation on Secret Data
 2016,OSDI,Early Detection of Configuration Errors to Reduce Failure Damage
 2015,CHI,"""I always assumed that I wasn't really that close to [her]"": Reasoning about Invisible Algorithms in News Feeds"
-2014,NSDI,Software Dataplane Verification
 2013,CHI,At Home with Agents: Exploring Attitudes Towards Future Smart Energy Infrastructures
 2013,IJCAI,Bayesian Optimization in High Dimensions via Random Embeddings
 2012,CHI,Communitysourcing: Engaging Local Crowds to Perform Expert Work Via Physical Kiosks
@@ -21,3 +20,4 @@ year,conference,paper_title
 2008,SIGCOMM,ZigZag Decoding: Combating Hidden Terminals in Wireless Networks
 2005,FOCS,"The Unique Games Conjecture, Integrality Gap for Cut Problems and Embeddability of Negative Type Metrics into L1"
 2005,SOSP,Rx: treating bugs as allergies - a safe method to survive software failures
+2001,JCDL,Building a hypertextual digital library in the humanities: a case study on London

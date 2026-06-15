@@ -1,0 +1,603 @@
+award_id,conference,award_year,paper_title,openalex_id,author_id,author_name,author_position,is_corresponding,career_age,pub_count_at_award,institutions,countries,match_route
+1,AAAI,2018,,https://openalex.org/W2788603415,https://openalex.org/A5014823249,Jincheng Mei,2,False,4,29,University of Alberta,CA,SS→DOI→OA
+2,ACL,2018,,https://openalex.org/W2798397965,https://openalex.org/A5069646529,Adhiguna Kuncoro,3,False,2,38,Google (United States); Cornell University; Center for Applied Linguistics,US; US; US,SS→DOI→OA
+5,CHI,2018,,https://openalex.org/W4255717503,https://openalex.org/A5032195981,Sang-Gyun An,2,False,1,8,Korea Advanced Institute of Science and Technology,KR,SS→DOI→OA
+9,CHI,2018,,https://openalex.org/W2796063124,https://openalex.org/A5075359884,Sylvia Simioni,3,False,0,2,University of Michigan–Ann Arbor,US,SS→DOI→OA
+10,CHI,2018,,https://openalex.org/W2796122895,https://openalex.org/A5035195609,Sean Peacock,1,True,2,16,Newcastle University,GB,SS→DOI→OA
+10,CHI,2018,,https://openalex.org/W2796122895,https://openalex.org/A5061115418,Clara Crivellaro,3,False,4,59,Newcastle University,GB,SS→DOI→OA
+12,CHI,2018,,https://openalex.org/W2795736453,https://openalex.org/A5021296068,Lydia Michie,1,True,0,2,Newcastle University,GB,GS→title→OA
+13,CHI,2018,,https://openalex.org/W2795908329,https://openalex.org/A5084538652,Morgan Klaus Scheuerman,2,False,1,50,"University of Maryland, Baltimore County",US,SS→DOI→OA
+15,CHI,2018,,https://openalex.org/W2787712888,https://openalex.org/A5063697388,Martin Porcheron,1,True,5,57,University of Nottingham,GB,SS→DOI→OA
+17,CHI,2018,,https://openalex.org/W2795389852,https://openalex.org/A5034634435,Ari Schlesinger,1,True,1,6,Georgia Institute of Technology,US,SS→DOI→OA
+20,CHI,2018,,https://openalex.org/W2807472134,https://openalex.org/A5078903072,Robert B. Lull,3,False,4,22,,,SS→title→OA
+21,CHI,2018,,https://openalex.org/W2795429875,https://openalex.org/A5011438930,Jessica L. Feuston,2,False,4,21,Northwestern University,US,SS→DOI→OA
+21,CHI,2018,,https://openalex.org/W2795429875,https://openalex.org/A5091847639,Caroline Edasis,3,False,2,5,Mather LifeWays,US,SS→DOI→OA
+22,CHI,2018,,https://openalex.org/W2795442664,https://openalex.org/A5075026385,Miro Mannino,1,True,0,13,,,SS→DOI→OA
+24,CHI,2018,,https://openalex.org/W2795552328,https://openalex.org/A5086240513,Josh Andrés,3,False,3,82,RMIT University,AU,SS→DOI→OA
+26,CHI,2018,,https://openalex.org/W2795651511,https://openalex.org/A5109428307,Jen Liu,1,True,1,20,University of Colorado Boulder,US,SS→DOI→OA
+27,CHI,2018,,https://openalex.org/W2796034586,https://openalex.org/A5103026409,Sharifa Sultana,1,True,0,67,Cornell University,US,SS→DOI→OA
+28,CHI,2018,,https://openalex.org/W2795953912,https://openalex.org/A5091174431,Izabelle Janzen,2,False,2,5,University of British Columbia,CA,SS→DOI→OA
+32,FOCS,2018,,https://openalex.org/W2963124215,https://openalex.org/A5011207998,Urmila Mahadev,1,True,4,12,"University of California, Berkeley",US,SS→DOI→OA
+33,FOCS,2018,,https://openalex.org/W2787022562,https://openalex.org/A5112345861,Khot Subhash,1,True,0,1,New York University,US,SS→DOI→OA
+33,FOCS,2018,,https://openalex.org/W2787022562,https://openalex.org/A5063520549,Dor Minzer,2,False,3,111,Tel Aviv University,IL,SS→DOI→OA
+35,FSE,2018,,https://openalex.org/W2899462170,https://openalex.org/A5068145628,Christy A. Coghlan,2,False,0,7,Virginia Tech,US,GS→title→OA
+39,FSE,2018,,https://openalex.org/W2899510293,https://openalex.org/A5023724495,Wensheng Dou,2,False,4,88,University of Chinese Academy of Sciences; Institute of Software,CN; CN,SS→DOI→OA
+41,ICML,2018,,https://openalex.org/W2787708942,https://openalex.org/A5091720485,Anish Athalye,1,True,5,22,Massachusetts Institute of Technology,US,SS→title→OA
+42,ICML,2018,,https://openalex.org/W2790697880,https://openalex.org/A5017596078,Lydia T. Liu,1,True,2,33,"University of California, Berkeley",US,SS→DOI→OA
+42,ICML,2018,,https://openalex.org/W2790697880,https://openalex.org/A5047182302,Esther Rolf,3,False,4,59,"University of California, Berkeley",US,SS→DOI→OA
+43,ICSE,2018,,https://openalex.org/W2784669118,https://openalex.org/A5102012317,Lingling Fan,1,True,2,63,East China Normal University,CN,SS→DOI→OA
+44,ICSE,2018,,https://openalex.org/W2799943342,https://openalex.org/A5071723330,Timo Rehfeld,1,True,2,13,,,GS→title→OA
+45,ICSE,2018,,https://openalex.org/W2794694213,https://openalex.org/A5103226106,Leonardo Sousa,1,True,5,32,Pontifical Catholic University of Rio de Janeiro,BR,SS→DOI→OA
+46,ICSE,2018,,https://openalex.org/W2795338679,https://openalex.org/A5056334354,Rijnard van Tonder,1,True,5,25,Carnegie Mellon University,US,SS→DOI→OA
+48,ICSE,2018,,https://openalex.org/W2794901250,https://openalex.org/A5009835433,Calvin Loncaric,1,True,3,11,University of Washington,US,SS→DOI→OA
+49,ICSE,2018,,https://openalex.org/W2964064835,https://openalex.org/A5082629071,Michael Rath,1,True,1,102,Technische Universität Ilmenau,DE,SS→DOI→OA
+49,ICSE,2018,,https://openalex.org/W2964064835,https://openalex.org/A5032569584,Jacob Rendall,2,False,3,6,University of Notre Dame,US,SS→DOI→OA
+55,IJCAI,2018,,https://openalex.org/W2800007566,https://openalex.org/A5030456881,Chun Kai Ling,1,True,3,50,Carnegie Mellon University,US,SS→DOI→OA
+57,IJCAI,2018,,https://openalex.org/W2808551187,https://openalex.org/A5011742954,Giannis Nikolentzos,1,True,3,76,École Polytechnique,FR,SS→DOI→OA
+57,IJCAI,2018,,https://openalex.org/W2808551187,https://openalex.org/A5064520344,Polykarpos Meladianos,2,False,3,19,Athens University of Economics and Business,GR,SS→DOI→OA
+57,IJCAI,2018,,https://openalex.org/W2808551187,https://openalex.org/A5058510425,Stratis Limnios,3,False,0,14,École Polytechnique,FR,SS→DOI→OA
+58,INFOCOM,2018,,https://openalex.org/W2792261072,https://openalex.org/A5100342798,Zihao Li,3,False,1,91,University of Electronic Science and Technology of China,CN,SS→DOI→OA
+59,INFOCOM,2018,,https://openalex.org/W2789643397,https://openalex.org/A5082318381,Subhramoy Mohanti,1,True,2,24,Northeastern University,US,SS→DOI→OA
+59,INFOCOM,2018,,https://openalex.org/W2789643397,https://openalex.org/A5036229988,Elif Bozkaya,2,False,4,54,Istanbul Technical University,TR,SS→DOI→OA
+60,INFOCOM,2018,,https://openalex.org/W2791487310,https://openalex.org/A5052671825,Igor Kadota,1,True,5,77,Decision Systems (United States),US,SS→DOI→OA
+61,KDD,2018,,https://openalex.org/W2803831897,https://openalex.org/A5025058751,Daniel Zügner,1,True,3,43,Technical University of Munich,DE,SS→DOI→OA
+61,KDD,2018,,https://openalex.org/W2803831897,https://openalex.org/A5014557575,Amir Akbarnejad,2,False,0,16,Technical University of Munich,DE,SS→DOI→OA
+62,MOBICOM,2018,,https://openalex.org/W2963620539,https://openalex.org/A5101558101,Mehrdad Moradi,1,True,4,12,University of Michigan–Ann Arbor,US,SS→DOI→OA
+64,NeurIPS,2018,,https://openalex.org/W2807548807,https://openalex.org/A5056747950,Kevin Scaman,1,True,4,57,Huawei Technologies (China),CN,GS→title→OA
+66,NeurIPS,2018,,https://openalex.org/W2808746463,https://openalex.org/A5029262768,Ricky T. Q. Chen,1,True,0,46,University of Toronto; Vector Institute,CA; CA,GS→title→OA
+66,NeurIPS,2018,,https://openalex.org/W2808746463,https://openalex.org/A5039192820,Yulia Rubanova,2,False,1,36,University of Toronto; Vector Institute,CA; CA,GS→title→OA
+66,NeurIPS,2018,,https://openalex.org/W2808746463,https://openalex.org/A5027925889,Jesse Bettencourt,3,False,4,13,University of Toronto; Vector Institute,CA; CA,GS→title→OA
+67,OSDI,2018,,https://openalex.org/W2897044322,https://openalex.org/A5085945429,Xinyang Ge,2,False,4,40,Microsoft Research (United Kingdom),GB,SS→title→OA
+68,OSDI,2018,,https://openalex.org/W2899396876,https://openalex.org/A5060703788,Yizhou Shan,1,True,1,40,Purdue University West Lafayette,US,SS→title→OA
+68,OSDI,2018,,https://openalex.org/W2899396876,https://openalex.org/A5071661999,Yutong Huang,2,False,1,11,Purdue University West Lafayette,US,SS→title→OA
+69,OSDI,2018,,https://openalex.org/W2898817152,https://openalex.org/A5110832647,Chandra Sekhar Maddila,3,False,0,3,Microsoft Research (India),IN,SS→title→OA
+75,S&P,2018,,https://openalex.org/W2787222284,https://openalex.org/A5078512511,Itsaka Rakotonirina,3,False,2,23,Laboratoire Lorrain de Recherche en Informatique et ses Applications,FR,SS→DOI→OA
+77,SIGIR,2018,,https://openalex.org/W2799048248,https://openalex.org/A5081476292,Rocío Cañamares,1,True,4,10,Universidad Autónoma de Madrid,ES,SS→DOI→OA
+79,SIGMOD,2018,,https://openalex.org/W2798891709,https://openalex.org/A5015113627,Huanchen Zhang,1,True,2,26,Carnegie Mellon University,US,GS→title→OA
+80,SODA,2018,,https://openalex.org/W2793481095,https://openalex.org/A5090101869,Fulvio Di Lorenzo,2,True,4,35,Universidad de Granada,ES,SS→title→OA
+83,UIST,2018,,https://openalex.org/W2896381102,https://openalex.org/A5021735130,David Porfirio,1,True,4,30,University of Wisconsin–Madison,US,SS→DOI→OA
+83,UIST,2018,,https://openalex.org/W2896381102,https://openalex.org/A5073533400,Allison Sauppé,2,False,4,18,University of Wisconsin–La Crosse,US,SS→DOI→OA
+84,UIST,2018,,https://openalex.org/W2896806675,https://openalex.org/A5041654458,Alok Mysore,1,True,3,6,"University of California, San Diego",US,SS→DOI→OA
+85,UIST,2018,,https://openalex.org/W2897456565,https://openalex.org/A5019954653,Patrick Parzer,1,True,4,9,University of Applied Sciences Upper Austria,AT,SS→DOI→OA
+89,ACL,2017,,https://openalex.org/W2611715906,https://openalex.org/A5061951606,Ryan Cotterell,1,True,4,460,Johns Hopkins University,US,SS→title→OA
+90,CHI,2017,,https://openalex.org/W2610214088,https://openalex.org/A5089731854,Sarah Webber,1,True,4,51,University of Melbourne,AU,SS→DOI→OA
+90,CHI,2017,,https://openalex.org/W2610214088,https://openalex.org/A5016617747,Sally Sherwen,3,False,3,49,Zoos Victoria,AU,SS→DOI→OA
+91,CHI,2017,,https://openalex.org/W4300093098,https://openalex.org/A5068345805,Viirj Kan,1,True,2,11,Massachusetts Institute of Technology,US,SS→DOI→OA
+91,CHI,2017,,https://openalex.org/W4300093098,https://openalex.org/A5049567786,Emma Vargo,2,False,1,23,Massachusetts Institute of Technology,US,SS→DOI→OA
+91,CHI,2017,,https://openalex.org/W4300093098,https://openalex.org/A5021981631,Noa Machover,3,False,1,3,Massachusetts Institute of Technology,US,SS→DOI→OA
+95,CHI,2017,,https://openalex.org/W2767327746,https://openalex.org/A5008267619,Kuttimani Tamilmani,2,False,3,24,Swansea University,GB,GS→title→OA
+96,CHI,2017,,https://openalex.org/W2778244123,https://openalex.org/A5074224778,Camille Cobb,1,False,5,24,University of Washington,US,GS→title→OA
+96,CHI,2017,,https://openalex.org/W2778244123,https://openalex.org/A5031825409,Samuel Sudar,2,True,5,13,University of Washington,US,GS→title→OA
+97,CHI,2017,,https://openalex.org/W2611579020,https://openalex.org/A5024399465,Jan Gugenheimer,1,True,4,105,Universität Ulm,DE,SS→DOI→OA
+97,CHI,2017,,https://openalex.org/W2611579020,https://openalex.org/A5016957812,Evgeny Stemasov,2,False,0,22,Universität Ulm,DE,SS→DOI→OA
+97,CHI,2017,,https://openalex.org/W2611579020,https://openalex.org/A5033203092,Julian Frommel,3,False,3,88,Universität Ulm,DE,SS→DOI→OA
+100,CHI,2017,,https://openalex.org/W2611667142,https://openalex.org/A5056738154,José S Marcano Belisario,3,False,5,29,Imperial College London,GB,SS→DOI→OA
+103,CHI,2017,,https://openalex.org/W2610874624,https://openalex.org/A5038365039,Rafael Lucas d'Oliveira,2,False,0,2,Universidade Estadual de Campinas (UNICAMP),BR,SS→DOI→OA
+105,CHI,2017,,https://openalex.org/W2610281177,https://openalex.org/A5062258537,Alexandra To,3,False,3,50,Carnegie Mellon University,US,SS→DOI→OA
+108,CHI,2017,,https://openalex.org/W2558581619,https://openalex.org/A5044904792,Heishiro Toyoda,2,False,2,24,,,SS→DOI→OA
+109,CHI,2017,,https://openalex.org/W2610414453,https://openalex.org/A5064927835,Felicia Alfieri,2,False,0,2,Carnegie Mellon University,US,SS→DOI→OA
+110,CHI,2017,,https://openalex.org/W2610850748,https://openalex.org/A5076364930,Farnaz Jahanbakhsh,1,True,0,29,University of Illinois Urbana-Champaign,US,SS→DOI→OA
+111,CHI,2017,,https://openalex.org/W2603410158,https://openalex.org/A5072417908,Anastasiya Bavykina,2,False,2,52,Institute of Catalysis and Petrochemistry; Delft University of Technology,RU; NL,GS→title→OA
+112,CIKM,2017,,https://openalex.org/W2767692092,https://openalex.org/A5049519805,Zhuojian Zhong,3,False,1,2,Tsinghua University,CN,SS→DOI→OA
+114,CVPR,2017,,https://openalex.org/W2567101557,https://openalex.org/A5101415694,Ashish Shrivastava,1,True,0,5,Apple (Germany),DE,SS→DOI→OA
+118,FSE,2017,,https://openalex.org/W2741400146,https://openalex.org/A5033363730,Natasha Danas,2,False,0,7,John Brown University,US,GS→title→OA
+119,FSE,2017,,https://openalex.org/W2741643261,https://openalex.org/A5076388753,Dan Gopstein,1,True,2,13,New York University,US,SS→DOI→OA
+119,FSE,2017,,https://openalex.org/W2741643261,https://openalex.org/A5015586819,Jake Iannacone,2,False,0,1,New York University,US,SS→DOI→OA
+120,FSE,2017,,https://openalex.org/W2740295334,https://openalex.org/A5021297302,Timothy Tunnell,3,False,1,3,University of Illinois Urbana-Champaign,US,SS→DOI→OA
+122,FSE,2017,,https://openalex.org/W2730550703,https://openalex.org/A5038532934,Sainyam Galhotra,1,True,3,80,University of Massachusetts Amherst,US,SS→DOI→OA
+123,FSE,2017,,https://openalex.org/W2741221537,https://openalex.org/A5055321934,Gabriel Ferns,2,False,0,2,University of Wisconsin–Madison,US,SS→DOI→OA
+124,FSE,2017,,https://openalex.org/W2741422284,https://openalex.org/A5101415638,Yuchi Tian,1,True,4,48,University of Virginia,US,SS→DOI→OA
+125,ICCV,2017,,https://openalex.org/W2963150697,https://openalex.org/A5014407395,Georgia Gkioxari,2,False,4,91,Meta (Israel),IL,SS→title→OA
+127,ICSE,2017,,https://openalex.org/W2620436109,https://openalex.org/A5085762342,Davood Mazinanian,2,False,3,24,Concordia University,CA,SS→DOI→OA
+129,ICSE,2017,,https://openalex.org/W2616911398,https://openalex.org/A5028238692,Benjamin Clegg,3,False,0,8,University of Sheffield,GB,SS→DOI→OA
+130,ICSE,2017,,https://openalex.org/W2616911396,https://openalex.org/A5024997852,Benjamin Floyd,1,True,0,49,University of Virginia,US,SS→DOI→OA
+130,ICSE,2017,,https://openalex.org/W2616911396,https://openalex.org/A5013623251,Tyler Santander,2,False,2,57,University of Virginia,US,SS→DOI→OA
+132,ICSE,2017,,https://openalex.org/W2590575400,https://openalex.org/A5081483504,August Shi,1,True,3,72,University of Illinois Urbana-Champaign,US,SS→DOI→OA
+134,INFOCOM,2017,,https://openalex.org/W2761021290,https://openalex.org/A5046120615,Konstantinos Poularakis,1,True,5,69,Yale University,US,SS→DOI→OA
+137,NeurIPS,2017,,https://openalex.org/W2612780607,https://openalex.org/A5006744201,Noam Brown,1,True,3,50,,,GS→title→OA
+138,NeurIPS,2017,,https://openalex.org/W2944407464,https://openalex.org/A5008595840,Hongseok Namkoong,1,True,1,77,Stanford University,US,GS→title→OA
+140,PLDI,2017,,https://openalex.org/W2731280337,https://openalex.org/A5008326572,Amanieu d'Antras,1,True,2,8,University of Manchester,GB,SS→title→OA
+140,PLDI,2017,,https://openalex.org/W2731280337,https://openalex.org/A5070223708,Cosmin Gorgovan,2,False,2,15,University of Manchester,GB,SS→title→OA
+141,PLDI,2017,,https://openalex.org/W2626631502,https://openalex.org/A5078763719,Jeehoon Kang,3,False,5,57,Seoul National University,KR,SS→DOI→OA
+142,PLDI,2017,,https://openalex.org/W2562114628,https://openalex.org/A5019918530,Luke Maurer,1,True,5,10,University of Oregon,US,SS→DOI→OA
+142,PLDI,2017,,https://openalex.org/W2562114628,https://openalex.org/A5020454182,Paul Downen,2,False,5,43,University of Oregon,US,SS→DOI→OA
+143,PLDI,2017,,https://openalex.org/W2625141509,https://openalex.org/A5010565905,Andreas Haas,1,True,0,3,,,SS→title→OA
+145,S&P,2017,,https://openalex.org/W2618267215,https://openalex.org/A5018284688,Nadim Kobeissi,3,False,4,25,Institut national de recherche en informatique et en automatique; CryptoExperts (France),FR; FR,SS→DOI→OA
+147,SIGCOMM,2017,,https://openalex.org/W2743093301,https://openalex.org/A5008674902,Anirudh Sivaraman,2,False,5,76,,,SS→DOI→OA
+147,SIGCOMM,2017,,https://openalex.org/W2743093301,https://openalex.org/A5086057750,Vikram Nathan,3,False,1,4,,,SS→DOI→OA
+148,SIGIR,2017,,https://openalex.org/W2970128991,https://openalex.org/A5044787871,Phelim Bradley,1,True,2,2,,,SS→title→OA
+152,SOSP,2017,,https://openalex.org/W2760356198,https://openalex.org/A5102759092,Cheng Tan,1,True,5,42,Courant Institute of Mathematical Sciences,US,SS→DOI→OA
+153,SOSP,2017,,https://openalex.org/W2909865272,https://openalex.org/A5007048525,Kexin Pei,1,True,3,36,Columbia University,US,SS→DOI→OA
+157,UIST,2017,,https://openalex.org/W2765855860,https://openalex.org/A5001875469,Nora S. Willett,1,True,1,9,Princeton University,US,SS→DOI→OA
+159,UIST,2017,,https://openalex.org/W2739069594,https://openalex.org/A5070661194,Avinash S. Nair,2,False,0,1,Columbia University,US,SS→DOI→OA
+160,VLDB,2017,,https://openalex.org/W2583856578,https://openalex.org/A5010359061,Nave Frost,2,False,1,24,Tel Aviv University,IL,SS→DOI→OA
+161,AAAI,2016,,https://openalex.org/W2555956881,https://openalex.org/A5088017068,Guni Sharon,1,True,5,73,University of Alberta,CA,SS→DOI→OA
+162,ACL,2016,,https://openalex.org/W2515120005,https://openalex.org/A5091346638,Elkin Gutierrez,1,True,4,10,UC San Diego Health System,US,SS→DOI→OA
+164,CHI,2016,,https://openalex.org/W2225313775,https://openalex.org/A5062650159,Kieran Hicks,2,False,2,24,University of Lincoln,GB,SS→DOI→OA
+164,CHI,2016,,https://openalex.org/W2225313775,https://openalex.org/A5035414960,Michael R. Kalyn,3,False,5,11,University of Lincoln,GB,SS→DOI→OA
+167,CHI,2016,,https://openalex.org/W2402642969,https://openalex.org/A5055844978,Teresa Almeida,1,True,2,50,Newcastle University,GB,SS→DOI→OA
+168,CHI,2016,,https://openalex.org/W2405564622,https://openalex.org/A5048484850,Shiho Fukuhara,3,False,0,3,Google (United States),US,SS→DOI→OA
+169,CHI,2016,,https://openalex.org/W2582468434,https://openalex.org/A5041783895,Alexander Jackson Graves,1,True,0,1,,,GS→title→OA
+170,CHI,2016,,https://openalex.org/W2351491323,https://openalex.org/A5000163896,Elisa D. Mekler,1,True,4,108,University of Basel,CH,SS→DOI→OA
+176,CHI,2016,,https://openalex.org/W2408438722,https://openalex.org/A5034805006,Daniel Schien,2,False,5,64,University of Bristol,GB,SS→DOI→OA
+178,CHI,2016,,https://openalex.org/W2402939184,https://openalex.org/A5056394286,Kurt B. Oleson,2,False,0,2,Tufts University,US,SS→title→OA
+180,CHI,2016,,https://openalex.org/W2396533648,https://openalex.org/A5059880425,Michael Xuelin Huang,1,True,4,44,Hong Kong Polytechnic University,HK,SS→DOI→OA
+180,CHI,2016,,https://openalex.org/W2396533648,https://openalex.org/A5043922248,Tiffany C.K. Kwok,2,False,2,14,Hong Kong Polytechnic University,HK,SS→DOI→OA
+181,CHI,2016,,https://openalex.org/W2394670422,https://openalex.org/A5035627325,Hyewon Suh,1,True,4,19,University of Washington,US,SS→DOI→OA
+181,CHI,2016,,https://openalex.org/W2394670422,https://openalex.org/A5014842691,Nina Shahriaree,2,False,0,1,University of Washington,US,SS→DOI→OA
+182,CHI,2016,,https://openalex.org/W2400341429,https://openalex.org/A5014639509,Sruti Srinivasa Ragavan,1,True,3,29,Oregon State University,US,SS→DOI→OA
+182,CHI,2016,,https://openalex.org/W2400341429,https://openalex.org/A5072109649,Sandeep Kaur Kuttal,2,False,5,48,University of Tulsa; Oregon State University,US; US,SS→DOI→OA
+183,CHI,2016,,https://openalex.org/W2396662988,https://openalex.org/A5015385005,Marta E. Cecchinato,1,True,4,52,University College London,GB,SS→DOI→OA
+185,CHI,2016,,https://openalex.org/W2398012670,https://openalex.org/A5082002320,Minsam Ko,1,True,5,68,Korea Advanced Institute of Science and Technology,KR,SS→DOI→OA
+185,CHI,2016,,https://openalex.org/W2398012670,https://openalex.org/A5101776191,Seungwoo Choi,2,False,2,24,Korea Advanced Institute of Science and Technology,KR,SS→DOI→OA
+186,CIKM,2016,,https://openalex.org/W2537475616,https://openalex.org/A5038894198,Stefan Heindorf,1,True,4,68,Paderborn University,DE,SS→DOI→OA
+190,FSE,2016,,https://openalex.org/W2548627465,https://openalex.org/A5057072967,Mihai Codoban,3,False,5,10,Microsoft (United States),US,SS→DOI→OA
+192,FSE,2016,,https://openalex.org/W2546949415,https://openalex.org/A5018416139,Olga Liskin,2,False,5,20,Leibniz University Hannover,DE,SS→DOI→OA
+193,FSE,2016,,https://openalex.org/W2546851909,https://openalex.org/A5047536715,Austin Z. Henley,2,False,2,56,University of Memphis,US,SS→DOI→OA
+193,FSE,2016,,https://openalex.org/W2546851909,https://openalex.org/A5002742929,Tahmid Nabi,3,False,1,4,Oregon State University,US,SS→DOI→OA
+196,FSE,2016,,https://openalex.org/W2476494490,https://openalex.org/A5101822967,Danilo Silva,1,True,2,13,Universidade Federal de Minas Gerais,BR,SS→DOI→OA
+198,ICML,2016,,https://openalex.org/W2953318193,https://openalex.org/A5039776447,Aäron van den Oord,1,True,4,73,DeepMind (United Kingdom); Google (United States),GB; US,SS→title→OA
+199,ICML,2016,,https://openalex.org/W2949816416,https://openalex.org/A5041869459,Christopher De,1,True,2,150,Stanford University,US,SS→title→OA
+201,ICSE,2016,,https://openalex.org/W2344496621,https://openalex.org/A5030073319,Samir Hasan,1,True,0,3,Auburn University,US,SS→DOI→OA
+201,ICSE,2016,,https://openalex.org/W2344496621,https://openalex.org/A5048404082,Zachary King,2,False,0,2,Auburn University,US,SS→DOI→OA
+202,ICSE,2016,,https://openalex.org/W2393286498,https://openalex.org/A5034330109,Magnus Madsen,1,True,5,52,University of Waterloo,CA,SS→title→OA
+205,ICSE,2016,,https://openalex.org/W2367183013,https://openalex.org/A5020000401,Eric F. Rizzi,1,True,2,5,GrammaTech (United States),US,SS→DOI→OA
+206,ICSE,2016,,https://openalex.org/W2381207137,https://openalex.org/A5087342649,David Menendez,1,True,4,13,Rutgers Sexual and Reproductive Health and Rights,NL,SS→DOI→OA
+209,IJCAI,2016,,https://openalex.org/W2552810632,https://openalex.org/A5110418524,Francesco Rigoli,3,True,5,17,,,SS→title→OA
+211,KDD,2016,,https://openalex.org/W2348679751,https://openalex.org/A5065675832,Bryan Hooi,1,True,2,279,Carnegie Mellon University,US,SS→DOI→OA
+213,OSDI,2016,,https://openalex.org/W2576393274,https://openalex.org/A5045162159,Helgi Sigurbjarnarson,1,True,2,7,University of Washington,US,SS→title→OA
+213,OSDI,2016,,https://openalex.org/W2576393274,https://openalex.org/A5055964348,James Bornholt,2,False,4,44,University of Washington,US,SS→title→OA
+214,PLDI,2016,,https://openalex.org/W2414762192,https://openalex.org/A5013809751,Kayvan Memarian,1,True,4,28,University of Cambridge,GB,SS→DOI→OA
+214,PLDI,2016,,https://openalex.org/W2414762192,https://openalex.org/A5051217958,Justus Matthiesen,2,False,1,4,University of Cambridge,GB,SS→DOI→OA
+214,PLDI,2016,,https://openalex.org/W2414762192,https://openalex.org/A5081440491,James Lingard,3,False,0,3,University of Cambridge,GB,SS→DOI→OA
+215,PLDI,2016,,https://openalex.org/W2413028252,https://openalex.org/A5021229048,Alexander Spiegelman,1,True,1,85,Technion – Israel Institute of Technology,IL,SS→DOI→OA
+215,PLDI,2016,,https://openalex.org/W2413028252,https://openalex.org/A5054069870,Guy Golan-Gueta,2,False,5,28,,,SS→DOI→OA
+216,PLDI,2016,,https://openalex.org/W2386500332,https://openalex.org/A5014050315,Gustavo Guerra,2,False,0,4,Microsoft (United Kingdom),GB,SS→DOI→OA
+217,PLDI,2016,,https://openalex.org/W2408975894,https://openalex.org/A5013744700,Nicholas Jacek,1,True,3,7,University of Massachusetts Amherst,US,SS→DOI→OA
+218,PODS,2016,,https://openalex.org/W2963560792,https://openalex.org/A5034538466,Mahmoud Abo Khamis,1,True,2,74,,,SS→DOI→OA
+221,SIGCOMM,2016,,https://openalex.org/W2488265751,https://openalex.org/A5034738254,Deepak Vasisht,1,True,2,83,Moscow Institute of Thermal Technology,RU,SS→DOI→OA
+222,SIGCOMM,2016,,https://openalex.org/W2950280161,https://openalex.org/A5030516279,Bryce Kellogg,3,False,2,26,University of Washington,US,SS→title→OA
+228,STOC,2016,,https://openalex.org/W2963024133,https://openalex.org/A5061114394,Marco Mondelli,3,False,5,138,École Polytechnique Fédérale de Lausanne,CH,SS→title→OA
+229,STOC,2016,,https://openalex.org/W2397754814,https://openalex.org/A5045073799,Eshan Chattopadhyay,1,True,4,57,Cornell University,US,SS→DOI→OA
+231,UIST,2016,,https://openalex.org/W2537074996,https://openalex.org/A5101796605,Artem Dementyev,1,True,3,33,Massachusetts Institute of Technology,US,SS→DOI→OA
+231,UIST,2016,,https://openalex.org/W2537074996,https://openalex.org/A5002723576,Hsin-Liu Kao,2,False,5,82,Massachusetts Institute of Technology,US,SS→DOI→OA
+232,UIST,2016,,https://openalex.org/W2533619018,https://openalex.org/A5041275294,Mathieu Le Goc,1,True,4,24,Université Paris-Saclay; Université Paris-Sud,FR; FR,SS→DOI→OA
+232,UIST,2016,,https://openalex.org/W2533619018,https://openalex.org/A5032788742,Ali Parsaei,3,False,0,4,Stanford University,US,SS→DOI→OA
+234,UIST,2016,,https://openalex.org/W2538172027,https://openalex.org/A5039125132,Gierad Laput,1,True,4,56,Carnegie Mellon University,US,SS→DOI→OA
+238,ACL,2015,,https://openalex.org/W2137231986,https://openalex.org/A5051203366,Emma Strubell,1,True,3,135,Amherst College; University of Massachusetts Amherst,US; US,SS→DOI→OA
+238,ACL,2015,,https://openalex.org/W2137231986,https://openalex.org/A5016501970,Luke Vilnis,2,False,2,34,Amherst College; University of Massachusetts Amherst,US; US,SS→DOI→OA
+238,ACL,2015,,https://openalex.org/W2137231986,https://openalex.org/A5074887814,Kate Silverstein,3,False,2,7,Amherst College; University of Massachusetts Amherst,US; US,SS→DOI→OA
+240,CHI,2015,,https://openalex.org/W1974329625,https://openalex.org/A5088559756,Patrik Jonell,2,False,3,64,Hasso Plattner Institute,DE,SS→DOI→OA
+241,CHI,2015,,https://openalex.org/W2077940530,https://openalex.org/A5013958366,Haythem Memmi,2,False,2,3,Montana Technological University,US,SS→DOI→OA
+241,CHI,2015,,https://openalex.org/W2077940530,https://openalex.org/A5013050933,Justin Emge,3,False,1,2,Montana Technological University,US,SS→DOI→OA
+245,CHI,2015,,https://openalex.org/W2114469472,https://openalex.org/A5072922547,Aditya Vashistha,1,True,5,115,University of Washington,US,SS→DOI→OA
+246,CHI,2015,,https://openalex.org/W2171206549,https://openalex.org/A5064547400,Tawfiq Ammari,1,True,2,55,University of Michigan–Ann Arbor,US,SS→DOI→OA
+246,CHI,2015,,https://openalex.org/W2171206549,https://openalex.org/A5021777354,Sarita Schoenebeck,2,False,2,82,University of Michigan–Ann Arbor,US,SS→DOI→OA
+247,CHI,2015,,https://openalex.org/W2071865879,https://openalex.org/A5065073074,Seijin Cha,2,False,0,6,Korea Advanced Institute of Science and Technology,KR,SS→DOI→OA
+249,CHI,2015,,https://openalex.org/W1972988737,https://openalex.org/A5032530421,Pamela Wiśniewski,1,True,4,311,Pennsylvania State University,US,SS→DOI→OA
+252,CHI,2015,,https://openalex.org/W2163444123,https://openalex.org/A5000906180,Martin Weigel,1,True,5,29,Max Planck Institute for Informatics,DE,SS→DOI→OA
+252,CHI,2015,,https://openalex.org/W2163444123,https://openalex.org/A5103414046,Tong Lu,2,False,2,20,Carnegie Mellon University,US,SS→DOI→OA
+253,CHI,2015,,https://openalex.org/W2040372247,https://openalex.org/A5087981305,Heather Faucett,2,False,1,9,"University of California, Irvine",US,SS→DOI→OA
+255,CHI,2015,,https://openalex.org/W2193303691,https://openalex.org/A5017750168,Eric Brockmeyer,2,False,3,15,Walt Disney (United States),US,SS→DOI→OA
+258,CHI,2015,,https://openalex.org/W2071620178,https://openalex.org/A5064398083,Abdullah Ali,3,False,0,24,"University of Maryland, Baltimore County",US,SS→DOI→OA
+259,CHI,2015,,https://openalex.org/W1964639420,https://openalex.org/A5064335088,Alan R. Andrade,2,False,0,5,University of Dundee,GB,SS→DOI→OA
+259,CHI,2015,,https://openalex.org/W1964639420,https://openalex.org/A5023724965,Ross Teviotdale,3,False,0,3,University of Dundee,GB,SS→DOI→OA
+260,CIKM,2015,,https://openalex.org/W2068176125,https://openalex.org/A5019276791,Kateryna Tymoshenko,1,True,5,26,University of Trento,IT,SS→DOI→OA
+264,FSE,2015,,https://openalex.org/W2053553342,https://openalex.org/A5001563585,Reza Matinnejad,1,True,4,12,University of Luxembourg,LU,SS→DOI→OA
+265,FSE,2015,,https://openalex.org/W2136601052,https://openalex.org/A5039301553,Liang Gong,3,False,4,40,"University of California, Berkeley",US,SS→DOI→OA
+267,FSE,2015,,https://openalex.org/W2063535228,https://openalex.org/A5069439324,Mario Linares‐Vásquez,1,True,4,139,William & Mary,US,SS→DOI→OA
+267,FSE,2015,,https://openalex.org/W2063535228,https://openalex.org/A5056526226,Gabriele Bavota,2,False,5,336,Free University of Bozen-Bolzano,IT,SS→DOI→OA
+267,FSE,2015,,https://openalex.org/W2063535228,https://openalex.org/A5016486642,Carlos Eduardo Bernal Cárdenas,3,False,0,1,William & Mary,US,SS→DOI→OA
+269,FSE,2015,,https://openalex.org/W2079877139,https://openalex.org/A5002052018,Ravi Mangal,1,True,1,53,Atlanta Technical College; Georgia Institute of Technology,US; US,SS→DOI→OA
+270,FSE,2015,,https://openalex.org/W2027701108,https://openalex.org/A5090520110,Farnaz Behrang,1,True,4,17,Georgia Institute of Technology; Atlanta Technical College,US; US,SS→DOI→OA
+274,ICSE,2015,,https://openalex.org/W4239863959,https://openalex.org/A5016750744,Janet Siegmund,1,True,3,67,University of Passau,DE,SS→title→OA
+275,ICSE,2015,,https://openalex.org/W4238398178,https://openalex.org/A5021806319,Michael Waterman,1,True,3,10,,,SS→DOI→OA
+280,IJCAI,2015,,https://openalex.org/W2399956932,https://openalex.org/A5077191191,Abram L. Friesen,1,True,5,23,Seattle University; University of Washington,US; US,SS→title→OA
+281,IJCAI,2015,,https://openalex.org/W2497473102,https://openalex.org/A5050433159,Kirthevasan Kandasamy,1,True,3,78,Carnegie Mellon University,US,SS→title→OA
+282,INFOCOM,2015,,https://openalex.org/W1591399774,https://openalex.org/A5045181694,Xiaohan Kang,3,False,5,29,Arizona State University,US,SS→title→OA
+284,MOBICOM,2015,,https://openalex.org/W2538862502,https://openalex.org/A5038820344,Salma Elmalaki,1,True,2,47,"University of California, Los Angeles",US,SS→DOI→OA
+285,NeurIPS,2015,,https://openalex.org/W2187207766,https://openalex.org/A5103890688,Ananda Theertha Suresh,2,False,5,140,"University of California, San Diego",US,GS→title→OA
+287,PLDI,2015,,https://openalex.org/W2061091230,https://openalex.org/A5022031348,Pavel Panchekha,1,True,2,78,University of Washington,US,SS→DOI→OA
+287,PLDI,2015,,https://openalex.org/W2061091230,https://openalex.org/A5088457102,Alex Sanchez-Stern,2,False,0,18,University of Washington,US,SS→DOI→OA
+290,PODS,2015,,https://openalex.org/W2070021346,https://openalex.org/A5008206932,Tom J. Ameloot,1,True,4,26,Transnational University Limburg; Hasselt University,BE; BE,SS→title→OA
+290,PODS,2015,,https://openalex.org/W2070021346,https://openalex.org/A5061584053,Gaetano Geck,2,False,2,14,TU Dortmund University,DE,SS→title→OA
+290,PODS,2015,,https://openalex.org/W2070021346,https://openalex.org/A5028459977,Bas Ketsman,3,False,2,52,Hasselt University; Transnational University Limburg,BE; BE,SS→title→OA
+291,S&P,2015,,https://openalex.org/W2580339477,https://openalex.org/A5042649150,Benjamin Beurdouche,1,True,1,22,Institut national de recherche en informatique et en automatique; State Key Laboratory of Cryptology,FR; CN,SS→DOI→OA
+293,SIGCOMM,2015,,https://openalex.org/W2094739364,https://openalex.org/A5065703902,Olivier Tilmans,2,False,1,13,UCLouvain,BE,SS→DOI→OA
+295,SIGMETRICS,2015,,https://openalex.org/W3212975581,https://openalex.org/A5064699160,Peter Kairouz,2,False,3,147,University of Illinois Urbana-Champaign,US,SS→DOI→OA
+296,SIGMOD,2015,,https://openalex.org/W2092799168,https://openalex.org/A5068471095,Junhao Gan,1,True,3,42,Chinese University of Hong Kong,CN,SS→DOI→OA
+298,SOSP,2015,,https://openalex.org/W2902547091,https://openalex.org/A5011277895,Jonathan Mace,1,True,5,36,Max Planck Institute for Software Systems,DE,SS→DOI→OA
+298,SOSP,2015,,https://openalex.org/W2902547091,https://openalex.org/A5003124561,Ryan Roelke,2,False,0,4,John Brown University,US,SS→DOI→OA
+299,SOSP,2015,,https://openalex.org/W2073742357,https://openalex.org/A5010436566,Tej Chajed,3,False,2,25,,,SS→title→OA
+301,STOC,2015,,https://openalex.org/W2082224527,https://openalex.org/A5021833322,Anat Ganor,1,True,5,17,Weizmann Institute of Science,IL,SS→DOI→OA
+303,STOC,2015,,https://openalex.org/W2033498419,https://openalex.org/A5038687630,Sivakanth Gopi,2,False,3,81,Princeton University,US,SS→DOI→OA
+304,UIST,2015,,https://openalex.org/W2197150605,https://openalex.org/A5058504215,Simon Olberding,1,True,5,25,Max Planck Institute for Informatics,DE,SS→DOI→OA
+304,UIST,2015,,https://openalex.org/W2197150605,https://openalex.org/A5057575769,Sergio Soto Ortega,2,False,0,1,Max Planck Institute for Informatics,DE,SS→DOI→OA
+305,UIST,2015,,https://openalex.org/W2176017127,https://openalex.org/A5015893090,Augusto Esteves,1,True,5,82,Lancaster University,GB,SS→DOI→OA
+305,UIST,2015,,https://openalex.org/W2176017127,https://openalex.org/A5087672786,Eduardo Velloso,2,False,5,186,Lancaster University,GB,SS→DOI→OA
+306,UIST,2015,,https://openalex.org/W2271345687,https://openalex.org/A5089708930,Siemen Baader,3,False,0,3,Aarhus University,DK,SS→DOI→OA
+311,CHI,2014,,https://openalex.org/W2137864660,https://openalex.org/A5077463393,Juan David Hincapié-Ramos,1,True,4,22,University of Manitoba,CA,SS→DOI→OA
+311,CHI,2014,,https://openalex.org/W2137864660,https://openalex.org/A5075318331,Paymahn Moghadasian,3,False,2,3,University of Manitoba,CA,SS→DOI→OA
+312,CHI,2014,,https://openalex.org/W2005511465,https://openalex.org/A5109928774,Heidi Selmer Nielsen,1,True,0,2,Aalborg University,DK,SS→title→OA
+312,CHI,2014,,https://openalex.org/W2005511465,https://openalex.org/A5082667645,Marius Pallisgaard Olsen,2,False,0,5,Aalborg University,DK,SS→title→OA
+315,CHI,2014,,https://openalex.org/W2094690640,https://openalex.org/A5002616622,Christian Weichel,1,True,4,16,Lancaster University,GB,SS→DOI→OA
+316,CHI,2014,,https://openalex.org/W2155058526,https://openalex.org/A5051803370,Ryan Baldini,2,False,2,16,"University of California, Davis",US,GS→title→OA
+317,CHI,2014,,https://openalex.org/W2125898659,https://openalex.org/A5029485566,Garnet Hertz,2,False,5,20,"University of California, Irvine",US,SS→DOI→OA
+319,CHI,2014,,https://openalex.org/W2140006089,https://openalex.org/A5024501566,Jeffrey M. Rzeszotarski,1,True,4,44,Microsoft (United States); Carnegie Mellon University,US; US,SS→DOI→OA
+322,CHI,2014,,https://openalex.org/W2047781873,https://openalex.org/A5000246567,Matthew L. Lee,1,True,0,2,Philips (United States); Philips (Finland),US; FI,SS→title→OA
+327,CHI,2014,,https://openalex.org/W2106612861,https://openalex.org/A5036031138,Rayoung Yang,1,True,3,15,University of Michigan–Ann Arbor,US,SS→DOI→OA
+328,CIKM,2014,,https://openalex.org/W2061985103,https://openalex.org/A5041066830,George D. Montañez,1,True,4,46,Carnegie Mellon University,US,SS→title→OA
+331,FSE,2014,,https://openalex.org/W2158356994,https://openalex.org/A5027563965,Klaus-Benedikt Schultis,1,True,1,7,Siemens (Germany),DE,SS→DOI→OA
+333,FSE,2014,,https://openalex.org/W2140609933,https://openalex.org/A5080221214,Miltiadis Allamanis,1,True,3,89,University of Edinburgh,GB,SS→title→OA
+334,FSE,2014,,https://openalex.org/W2041235686,https://openalex.org/A5100621292,Mingxing Zhang,1,True,0,12,Tsinghua University,CN,SS→DOI→OA
+336,FSE,2014,,https://openalex.org/W2135937266,https://openalex.org/A5082120000,Darioush Jalali,2,False,1,5,University of Washington,US,SS→DOI→OA
+336,FSE,2014,,https://openalex.org/W2135937266,https://openalex.org/A5014292887,Laura Inozemtseva,3,False,2,11,University of Waterloo,CA,SS→DOI→OA
+338,ICSE,2014,,https://openalex.org/W2056659466,https://openalex.org/A5010881756,Semih Okur,1,True,3,12,University of Illinois Urbana-Champaign,US,SS→DOI→OA
+338,ICSE,2014,,https://openalex.org/W2056659466,https://openalex.org/A5055201741,David L. Hartveld,2,False,0,2,Delft University of Technology,NL,SS→DOI→OA
+339,ICSE,2014,,https://openalex.org/W2095839586,https://openalex.org/A5084868951,Yepang Liu,1,True,2,177,Hong Kong University of Science and Technology; University of Hong Kong,HK; HK,SS→DOI→OA
+342,ICSE,2014,,https://openalex.org/W1970005004,https://openalex.org/A5049839987,Thanassis Avgerinos,1,True,5,16,Carnegie Mellon University,US,SS→DOI→OA
+342,ICSE,2014,,https://openalex.org/W1970005004,https://openalex.org/A5037888372,Alexandre Rebert,2,False,2,5,Carnegie Mellon University,US,SS→DOI→OA
+343,ICSE,2014,,https://openalex.org/W2113610359,https://openalex.org/A5080198395,Paige Rodeghero,1,True,0,62,University of Notre Dame,US,SS→DOI→OA
+344,ICSE,2014,,https://openalex.org/W2086186328,https://openalex.org/A5071479045,Thiago de Alcântara César,2,False,0,2,Universidade Federal do Rio Grande do Norte,BR,SS→DOI→OA
+344,ICSE,2014,,https://openalex.org/W2086186328,https://openalex.org/A5047620436,Thomas Filipe,3,False,0,2,Universidade Federal do Rio Grande do Norte,BR,SS→DOI→OA
+345,ICSE,2014,,https://openalex.org/W2090907135,https://openalex.org/A5033475627,Saba Alimadadi,1,True,4,19,University of British Columbia,CA,SS→DOI→OA
+345,ICSE,2014,,https://openalex.org/W2090907135,https://openalex.org/A5081964141,Sheldon Sequeira,2,False,4,5,University of British Columbia,CA,SS→DOI→OA
+347,INFOCOM,2014,,https://openalex.org/W2421692426,https://openalex.org/A5087729117,Zizhong Cao,1,True,3,11,New York University,US,SS→DOI→OA
+349,KDD,2014,,https://openalex.org/W2052261215,https://openalex.org/A5053182948,Aaron Q. Li,1,True,0,2,Carnegie Mellon University,US,SS→DOI→OA
+350,MOBICOM,2014,,https://openalex.org/W2069973845,https://openalex.org/A5081652219,Yekui Chen,2,False,0,11,Tsinghua University,CN,SS→DOI→OA
+352,NeurIPS,2014,,https://openalex.org/W2170892587,https://openalex.org/A5100631553,Wenqian Wang,2,False,4,62,Northwestern University,US,GS→title→OA
+355,OSDI,2014,,https://openalex.org/W2169414316,https://openalex.org/A5026744189,Adam Belay,1,True,5,38,Stanford University,US,SS→title→OA
+355,OSDI,2014,,https://openalex.org/W2169414316,https://openalex.org/A5000009841,Ana Klimovic,3,False,1,71,Stanford University,US,SS→title→OA
+356,PLDI,2014,,https://openalex.org/W2170737051,https://openalex.org/A5037461995,Mehrdad Afshari,2,False,2,6,"University of California, Davis",US,SS→DOI→OA
+357,PLDI,2014,,https://openalex.org/W2057510141,https://openalex.org/A5090891852,Thomas Shull,3,False,0,18,University of Illinois Urbana-Champaign,US,SS→DOI→OA
+360,S&P,2014,,https://openalex.org/W2302922559,https://openalex.org/A5091819924,Marcin Andrychowicz,1,True,2,41,University of Warsaw,PL,SS→DOI→OA
+360,S&P,2014,,https://openalex.org/W2302922559,https://openalex.org/A5063317383,Daniel Malinowski,3,False,1,16,University of Warsaw,PL,SS→DOI→OA
+361,SIGCOMM,2014,,https://openalex.org/W4240983449,https://openalex.org/A5074751039,Matthew K. Mukerjee,2,False,4,20,Carnegie Mellon University,US,SS→DOI→OA
+362,SIGCOMM,2014,,https://openalex.org/W4254522945,https://openalex.org/A5036144178,Tom Edsall,2,False,2,13,Cisco Systems (United States),US,SS→DOI→OA
+367,SODA,2014,,https://openalex.org/W2278710066,https://openalex.org/A5024980585,Yin Tat Lee,2,False,1,195,Massachusetts Institute of Technology,US,SS→DOI→OA
+370,UIST,2014,,https://openalex.org/W2028953510,https://openalex.org/A5003378492,Sébastien Robaszkiewicz,2,False,3,7,Stanford University,US,SS→DOI→OA
+371,UIST,2014,,https://openalex.org/W2144575742,https://openalex.org/A5039222883,Michael Wessely,2,False,0,42,Max Planck Institute for Informatics,DE,SS→DOI→OA
+372,VLDB,2014,,https://openalex.org/W2243512312,https://openalex.org/A5005397258,Felix Schuhknecht,1,True,1,80,Saarland University,DE,SS→DOI→OA
+374,VLDB,2014,,https://openalex.org/W2294510862,https://openalex.org/A5063997221,Uwe Jugel,1,True,5,16,Roland Ernst Stiftung,DE,SS→title→OA
+375,VLDB,2014,,https://openalex.org/W2797202077,https://openalex.org/A5025737201,Amir Shaikhha,1,True,1,69,École Polytechnique Fédérale de Lausanne,CH,SS→DOI→OA
+375,VLDB,2014,,https://openalex.org/W2797202077,https://openalex.org/A5034816930,Yannis Klonatos,2,False,4,12,École Polytechnique Fédérale de Lausanne,CH,SS→DOI→OA
+376,VLDB,2014,,https://openalex.org/W3009330983,https://openalex.org/A5050906094,André Nusser,2,False,1,53,University of Stuttgart,DE,SS→DOI→OA
+376,VLDB,2014,,https://openalex.org/W3009330983,https://openalex.org/A5027517542,Sabine Storandt,3,True,3,124,University of Freiburg,DE,SS→DOI→OA
+377,WWW,2014,,https://openalex.org/W2060170830,https://openalex.org/A5069747496,Ninh Pham,3,False,4,28,IT University of Copenhagen,DK,SS→DOI→OA
+378,AAAI,2013,,https://openalex.org/W2186424956,https://openalex.org/A5035284993,Gary Doran,1,True,0,112,Case Western Reserve University,US,GS→title→OA
+379,AAAI,2013,,https://openalex.org/W2215753997,https://openalex.org/A5055445718,Janardhan Rao Doppa,1,True,4,228,Oregon State University,US,SS→DOI→OA
+380,ACL,2013,,https://openalex.org/W2136985729,https://openalex.org/A5009585935,Haonan Yu,1,True,3,65,Purdue University West Lafayette,US,SS→title→OA
+381,CHI,2013,,https://openalex.org/W2052209137,https://openalex.org/A5068799512,Nathalie Henry Riche,3,False,4,112,Microsoft (United States),US,SS→title→OA
+385,CHI,2013,,https://openalex.org/W2128640376,https://openalex.org/A5012186497,Stephen Fitchett,1,True,4,11,University of Canterbury,NZ,SS→DOI→OA
+386,CHI,2013,,https://openalex.org/W4241693488,https://openalex.org/A5076413226,Katharina Reinecke,2,False,5,18,Harvard University Press,US,SS→DOI→OA
+387,CHI,2013,,https://openalex.org/W1986345088,https://openalex.org/A5004988074,Spence Green,1,True,4,30,Palo Alto University; Stanford University,US; US,SS→DOI→OA
+389,CHI,2013,,https://openalex.org/W2147603330,https://openalex.org/A5089242807,M. Six Silberman,2,False,3,54,Bureau of Economic Analysis,US,SS→DOI→OA
+391,CHI,2013,,https://openalex.org/W2007644286,https://openalex.org/A5027407975,Ranjitha Kumar,1,True,4,50,Stanford University; Palo Alto University,US; US,SS→DOI→OA
+391,CHI,2013,,https://openalex.org/W2007644286,https://openalex.org/A5077783676,Arvind Satyanarayan,2,False,1,102,Palo Alto University; Stanford University,US; US,SS→DOI→OA
+392,CHI,2013,,https://openalex.org/W4243991703,https://openalex.org/A5088912016,Bastian Kruck,2,False,0,12,Hasso Plattner Institute,DE,SS→DOI→OA
+393,CHI,2013,,https://openalex.org/W2056225838,https://openalex.org/A5063521318,Mohamed Musthag,1,True,2,4,University of Massachusetts Amherst,US,SS→DOI→OA
+394,CHI,2013,,https://openalex.org/W1997652918,https://openalex.org/A5088296218,Fransisca Endang Lestariningsih,3,False,0,20,,,SS→title→OA
+398,CIKM,2013,,https://openalex.org/W2003513631,https://openalex.org/A5015875478,Ilaria Bordino,1,True,5,40,Yahoo (Spain),ES,SS→DOI→OA
+398,CIKM,2013,,https://openalex.org/W2003513631,https://openalex.org/A5041808447,Yelena Mejova,2,False,5,161,Yahoo (Spain),ES,SS→DOI→OA
+399,CVPR,2013,,https://openalex.org/W2337673916,https://openalex.org/A5091130856,Mark Segal,3,False,0,2,Google (United States),US,SS→title→OA
+402,ICCV,2013,,https://openalex.org/W2135166986,https://openalex.org/A5027328044,Vicente Ordóñez,1,True,4,152,University of North Carolina at Chapel Hill,US,SS→DOI→OA
+404,ICML,2013,,https://openalex.org/W108223363,https://openalex.org/A5089862531,Roi Livni,1,True,4,77,Hebrew University of Jerusalem,IL,SS→title→OA
+405,ICSE,2013,,https://openalex.org/W4213086105,https://openalex.org/A5034150823,Felienne Hermans,1,True,4,145,Delft University of Technology,NL,SS→DOI→OA
+405,ICSE,2013,,https://openalex.org/W4213086105,https://openalex.org/A5022511801,B.M.W. Sedee,2,False,4,4,Delft University of Technology,NL,SS→DOI→OA
+406,ICSE,2013,,https://openalex.org/W4239177305,https://openalex.org/A5072756568,Dale Blue,1,True,4,7,Poughkeepsie Public Library District,US,SS→DOI→OA
+406,ICSE,2013,,https://openalex.org/W4239177305,https://openalex.org/A5076258904,Rachel Tzoref-Brill,3,False,4,38,IBM Research - Haifa,IL,SS→DOI→OA
+407,ICSE,2013,,https://openalex.org/W4237335675,https://openalex.org/A5056378414,Weiyi Shang,1,True,4,162,Queen's University,CA,SS→DOI→OA
+409,ICSE,2013,,https://openalex.org/W4246552097,https://openalex.org/A5029665272,Daryl Posnett,1,True,3,23,"University of California, Davis",US,SS→DOI→OA
+410,ICSE,2013,,https://openalex.org/W4255632703,https://openalex.org/A5000308912,Jaechang Nam,2,False,4,33,Hong Kong University of Science and Technology; University of Hong Kong,HK; HK,SS→title→OA
+412,INFOCOM,2013,,https://openalex.org/W1974066983,https://openalex.org/A5064825146,Elisha Rosensweig,1,True,4,16,University of Massachusetts Amherst,US,SS→DOI→OA
+414,MOBICOM,2013,,https://openalex.org/W2141336889,https://openalex.org/A5035348123,Qifan Pu,1,True,1,20,University of Washington,US,SS→DOI→OA
+414,MOBICOM,2013,,https://openalex.org/W2141336889,https://openalex.org/A5103356207,Sidhant Gupta,2,False,3,42,University of Washington,US,SS→DOI→OA
+418,PLDI,2013,,https://openalex.org/W2157216158,https://openalex.org/A5006723758,Tony Nowatzki,1,True,1,80,University of Wisconsin–Madison,US,SS→DOI→OA
+418,PLDI,2013,,https://openalex.org/W2157216158,https://openalex.org/A5002290345,Michael Sartin-Tarm,2,False,0,4,University of Wisconsin–Madison,US,SS→DOI→OA
+420,PLDI,2013,,https://openalex.org/W2048025009,https://openalex.org/A5044253018,Aleksandar Chakarov,2,False,4,20,University of Colorado Boulder,US,SS→DOI→OA
+421,PLDI,2013,,https://openalex.org/W2063553958,https://openalex.org/A5020274673,Chinawat Isradisaikul,1,True,4,8,Cornell University,US,SS→DOI→OA
+422,PODS,2013,,https://openalex.org/W2046261894,https://openalex.org/A5085711958,Szymon Toruńczyk,3,False,4,72,University of Warsaw,PL,SS→DOI→OA
+429,SODA,2013,,https://openalex.org/W4238411931,https://openalex.org/A5085429060,Ben Mountjoy,3,False,0,2,,,SS→DOI→OA
+432,SOSP,2013,,https://openalex.org/W1976821017,https://openalex.org/A5103417248,Tathagata Das,2,False,5,33,"University of California, Berkeley",US,GS→title→OA
+435,UIST,2013,,https://openalex.org/W2150549828,https://openalex.org/A5056988727,Jifei Ou,3,False,1,29,Massachusetts Institute of Technology,US,SS→DOI→OA
+438,VLDB,2013,,https://openalex.org/W2033201131,https://openalex.org/A5003218066,Marina Drosou,1,True,5,22,University of Ioannina,GR,SS→DOI→OA
+439,WWW,2013,,https://openalex.org/W2127411301,https://openalex.org/A5011012964,Cristian Danescu-Niculescu-Mizil,1,True,4,111,Stanford University,US,SS→DOI→OA
+440,AAAI,2012,,https://openalex.org/W2293636571,https://openalex.org/A5074393622,Suicheng Gu,1,True,5,29,Temple University; Temple College,US; US,SS→DOI→OA
+441,AAAI,2012,,https://openalex.org/W1512874001,https://openalex.org/A5007903730,Zhanying He,1,True,0,7,Zhejiang University,CN,SS→DOI→OA
+446,CHI,2012,,https://openalex.org/W2166132393,https://openalex.org/A5060738906,Chi Thanh,1,True,0,49,University of Bristol,GB,SS→title→OA
+450,CHI,2012,,https://openalex.org/W2047883041,https://openalex.org/A5006126917,Erin Friess,1,True,5,29,University of North Texas,US,SS→title→OA
+451,CHI,2012,,https://openalex.org/W1974923332,https://openalex.org/A5083692181,Emilien Ghomi,1,True,2,10,Laboratoire de Recherche en Informatique; Université Paris-Sud; Centre National de la Recherche Scientifique,FR; FR; FR,SS→DOI→OA
+451,CHI,2012,,https://openalex.org/W1974923332,https://openalex.org/A5091725659,Guillaume Faure,2,False,3,7,Laboratoire de Recherche en Informatique; Centre National de la Recherche Scientifique; Université Paris-Sud,FR; FR; FR,SS→DOI→OA
+458,FSE,2012,,https://openalex.org/W2148787816,https://openalex.org/A5076116389,Bradley Edward Cossette,1,True,0,3,University of Calgary,CA,SS→DOI→OA
+461,ICML,2012,,https://openalex.org/W2161340280,https://openalex.org/A5067066896,Anoop Korattikara,2,False,1,19,"University of California, Irvine; UC Irvine Health",US; US,SS→title→OA
+463,ICSE,2012,,https://openalex.org/W3146113246,https://openalex.org/A5088410123,Mehdi Mirakhorli,1,True,5,131,DePaul University,US,SS→DOI→OA
+465,ICSE,2012,,https://openalex.org/W3161167621,https://openalex.org/A5041608081,Mathias Schwarz,2,False,3,10,Aarhus University,DK,SS→DOI→OA
+466,ICSE,2012,,https://openalex.org/W3142903977,https://openalex.org/A5088473222,Will Dietz,1,True,0,9,University of Illinois Urbana-Champaign,US,SS→DOI→OA
+466,ICSE,2012,,https://openalex.org/W3142903977,https://openalex.org/A5100432792,Peng Li,2,False,0,41,University of Utah,US,SS→DOI→OA
+467,ICSE,2012,,https://openalex.org/W2112351052,https://openalex.org/A5063441997,Tobias Roehm,1,True,1,24,,,SS→title→OA
+467,ICSE,2012,,https://openalex.org/W2112351052,https://openalex.org/A5012643471,Rebecca Tiarks,2,False,3,11,University of Bremen,DE,SS→title→OA
+468,ICSE,2012,,https://openalex.org/W3149109633,https://openalex.org/A5097550878,Michais Famelis,1,True,0,1,University of Toronto,CA,SS→DOI→OA
+468,ICSE,2012,,https://openalex.org/W3149109633,https://openalex.org/A5084776885,Rick Salay,2,False,5,105,University of Toronto,CA,SS→DOI→OA
+469,INFOCOM,2012,,https://openalex.org/W1969844906,https://openalex.org/A5085243096,Carlee Joe‐Wong,1,True,1,248,Princeton University,US,SS→title→OA
+469,INFOCOM,2012,,https://openalex.org/W1969844906,https://openalex.org/A5080702284,Soumya Sen,2,False,5,177,Princeton University,US,SS→title→OA
+470,KDD,2012,,https://openalex.org/W2099302229,https://openalex.org/A5015547365,Bilson Campana,2,False,2,23,"University of California, Riverside",US,SS→DOI→OA
+471,MOBICOM,2012,,https://openalex.org/W2154346544,https://openalex.org/A5028448553,Simon Gao,3,False,0,2,"Rutgers, The State University of New Jersey",US,SS→DOI→OA
+477,SIGMETRICS,2012,,https://openalex.org/W2101221989,https://openalex.org/A5041608911,Nosayba El-Sayed,1,True,4,24,University of Toronto,CA,SS→DOI→OA
+477,SIGMETRICS,2012,,https://openalex.org/W2101221989,https://openalex.org/A5034240273,Ioan Stefanovici,2,False,0,25,University of Toronto,CA,SS→DOI→OA
+477,SIGMETRICS,2012,,https://openalex.org/W2101221989,https://openalex.org/A5013339702,George Amvrosiadis,3,False,0,48,University of Toronto,CA,SS→DOI→OA
+481,STOC,2012,,https://openalex.org/W1988508518,https://openalex.org/A5013551063,Kasper Green Larsen,1,True,2,180,Aarhus University,DK,SS→DOI→OA
+482,UIST,2012,,https://openalex.org/W2010127311,https://openalex.org/A5006688930,Sisil Mehta,2,False,3,3,Georgia Institute of Technology,US,SS→DOI→OA
+484,VLDB,2012,,https://openalex.org/W2953102514,https://openalex.org/A5050138372,Albert Angel,1,True,4,10,Google (Switzerland),CH,SS→DOI→OA
+485,WWW,2012,,https://openalex.org/W1982139456,https://openalex.org/A5013088936,Sebastián Conca,2,False,0,2,,,SS→title→OA
+486,AAAI,2011,,https://openalex.org/W57159709,https://openalex.org/A5034897040,Nina Narodytska,3,False,4,159,UNSW Sydney; Data61,AU; AU,SS→DOI→OA
+487,AAAI,2011,,https://openalex.org/W1768003445,https://openalex.org/A5062606021,Daniel Golovin,1,True,5,55,California Institute of Technology,US,SS→DOI→OA
+488,ACL,2011,,https://openalex.org/W2142523187,https://openalex.org/A5021055773,Dipanjan Das,1,True,5,141,Carnegie Mellon University,US,SS→title→OA
+490,CHI,2011,,https://openalex.org/W2022815033,https://openalex.org/A5091273829,Mathieu Nancel,1,True,3,42,Institut national de recherche en informatique et en automatique; Centre National de la Recherche Scientifique; Université Paris-Sud,FR; FR; FR,SS→DOI→OA
+491,CHI,2011,,https://openalex.org/W2153391061,https://openalex.org/A5078932168,David Haslem,2,False,1,2,,,SS→DOI→OA
+493,CHI,2011,,https://openalex.org/W2105697580,https://openalex.org/A5084307262,Gabe Cohn,1,True,2,17,University of Washington; Microsoft (United States),US; US,SS→DOI→OA
+494,CHI,2011,,https://openalex.org/W2081964782,https://openalex.org/A5041613932,Louise Oram,2,False,0,12,University of British Columbia Hospital; University of British Columbia,CA; CA,SS→DOI→OA
+497,CHI,2011,,https://openalex.org/W2097331574,https://openalex.org/A5022201710,Yandong Liu,3,False,4,51,Carnegie Mellon University,US,SS→DOI→OA
+500,CHI,2011,,https://openalex.org/W1986692274,https://openalex.org/A5065240151,Joanna Bergström,2,False,3,53,Aalto University; University of Helsinki,FI; FI,SS→DOI→OA
+501,CIKM,2011,,https://openalex.org/W1989813731,https://openalex.org/A5088621320,Jiafeng Guo,1,True,5,417,Chinese Academy of Sciences; Institute of Computing Technology,CN; CN,SS→DOI→OA
+502,CVPR,2011,,https://openalex.org/W2060280062,https://openalex.org/A5056964458,Alex Kipman,3,False,0,5,,,SS→DOI→OA
+503,FOCS,2011,,https://openalex.org/W2038652993,https://openalex.org/A5017101724,Shayan Oveis Gharan,1,True,4,128,Stanford University,US,SS→DOI→OA
+504,FOCS,2011,,https://openalex.org/W2136400551,https://openalex.org/A5061555046,Tobias Moemke,1,True,0,2,KTH Royal Institute of Technology,SE,SS→DOI→OA
+506,FSE,2011,,https://openalex.org/W2107220315,https://openalex.org/A5049191217,Roberto Lublinerman,3,False,5,26,Pennsylvania State University,US,SS→DOI→OA
+511,ICSE,2011,,https://openalex.org/W2111765806,https://openalex.org/A5083739081,Antonio Filieri,1,True,1,90,Politecnico di Milano,IT,SS→DOI→OA
+511,ICSE,2011,,https://openalex.org/W2111765806,https://openalex.org/A5031168005,Giordano Tamburrelli,3,False,3,45,Politecnico di Milano,IT,SS→DOI→OA
+513,ICSE,2011,,https://openalex.org/W2106860490,https://openalex.org/A5008490992,Matt Staats,1,True,3,35,University of Minnesota,US,SS→DOI→OA
+514,ICSE,2011,,https://openalex.org/W2116907335,https://openalex.org/A5004005620,Horatiu Dumitru,1,True,2,3,DePaul University,US,SS→title→OA
+514,ICSE,2011,,https://openalex.org/W2116907335,https://openalex.org/A5062838041,Marek Gibiec,2,False,1,5,DePaul University,US,SS→title→OA
+514,ICSE,2011,,https://openalex.org/W2116907335,https://openalex.org/A5082514679,Negar Hariri,3,False,2,24,DePaul University,US,SS→title→OA
+515,ICSE,2011,,https://openalex.org/W2792443233,https://openalex.org/A5077061436,Annie W. Sokol,3,False,1,5,United States Department of Commerce; Information Technology Laboratory; National Institute of Standards and Technology,US; US; US,GS→title→OA
+517,IJCAI,2011,,https://openalex.org/W2148552911,https://openalex.org/A5082856719,Yavor Nenov,2,False,3,43,University of Manchester,GB,SS→title→OA
+521,MOBICOM,2011,,https://openalex.org/W2126541908,https://openalex.org/A5002186360,Simon Sidhom,2,False,0,4,Stevens Institute of Technology,US,SS→DOI→OA
+523,PODS,2011,,https://openalex.org/W2095609152,https://openalex.org/A5000893188,Juan L. Reutter,3,False,2,110,University of Edinburgh,GB,SS→DOI→OA
+524,SIGCOMM,2011,,https://openalex.org/W1982170863,https://openalex.org/A5068150550,Haitham Hassanieh,2,False,3,98,Massachusetts Institute of Technology,US,SS→DOI→OA
+524,SIGCOMM,2011,,https://openalex.org/W1982170863,https://openalex.org/A5108288895,Benjamin Ransford,3,False,3,30,University of Massachusetts Amherst,US,SS→DOI→OA
+525,SIGIR,2011,,https://openalex.org/W2008251177,https://openalex.org/A5083740230,Dmitry Lagun,3,False,1,51,Emory University,US,SS→DOI→OA
+526,SIGMETRICS,2011,,https://openalex.org/W2136110891,https://openalex.org/A5023215207,Animashree Anandkumar,1,True,5,230,"University of California, Irvine",US,SS→DOI→OA
+529,SOSP,2011,,https://openalex.org/W2097379719,https://openalex.org/A5033603487,Carlos Tavares,3,False,3,10,Instituto de Engenharia de Sistemas e Computadores Investigação e Desenvolvimento,PT,SS→title→OA
+530,SOSP,2011,,https://openalex.org/W2080332495,https://openalex.org/A5033193597,Tyler Harter,1,True,0,11,University of Wisconsin–Madison,US,SS→DOI→OA
+530,SOSP,2011,,https://openalex.org/W2080332495,https://openalex.org/A5087880833,Chris Dragga,2,False,0,9,University of Wisconsin–Madison,US,SS→DOI→OA
+532,STOC,2011,,https://openalex.org/W2109237987,https://openalex.org/A5049011416,Thomas Dueholm Hansen,2,False,3,49,Aarhus University,DK,SS→DOI→OA
+534,VLDB,2011,,https://openalex.org/W4230948688,https://openalex.org/A5032253873,Umar Farooq Minhas,1,True,3,51,University of Waterloo,CA,SS→DOI→OA
+534,VLDB,2011,,https://openalex.org/W4230948688,https://openalex.org/A5055793906,Brendan Cully,3,False,5,23,University of British Columbia,CA,SS→DOI→OA
+535,WWW,2011,,https://openalex.org/W2164173709,https://openalex.org/A5100423728,Beibei Li,1,True,4,151,New York University,US,SS→DOI→OA
+536,AAAI,2010,,https://openalex.org/W1538864647,https://openalex.org/A5028755343,Ruoyun Huang,1,True,3,27,Washington University in St. Louis,US,SS→DOI→OA
+537,AAAI,2010,,https://openalex.org/W2468755302,https://openalex.org/A5049201950,Giorgos Stoilos,1,True,5,94,University of Oxford,GB,GS→title→OA
+539,CHI,2010,,https://openalex.org/W2124318441,https://openalex.org/A5031215802,Rehan Khan,2,False,0,7,Google (United States),US,SS→DOI→OA
+543,CHI,2010,,https://openalex.org/W2142869276,https://openalex.org/A5082520066,Deepti Chittamuru,2,False,0,36,"University of California, Berkeley; Berkeley College",US; US,GS→title→OA
+544,CHI,2010,,https://openalex.org/W2129146498,https://openalex.org/A5014246066,Frederik Rudeck,3,False,0,4,Hasso Plattner Institute,DE,SS→DOI→OA
+545,CHI,2010,,https://openalex.org/W2140420369,https://openalex.org/A5109353454,Shaowen Bardzell,1,True,2,36,Indiana University Bloomington,US,SS→DOI→OA
+547,CHI,2010,,https://openalex.org/W2119698661,https://openalex.org/A5018395131,Prabhu Dutta Das,3,False,0,1,Dhirubhai Ambani Institute of Information and Communication Technology,IN,SS→DOI→OA
+548,CHI,2010,,https://openalex.org/W2104113460,https://openalex.org/A5067384837,Hrönn Brynjarsdóttir,3,False,4,8,Ithaca College,US,SS→DOI→OA
+551,CIKM,2010,,https://openalex.org/W1965442176,https://openalex.org/A5085818578,Gerard de Melo,1,True,3,349,Max Planck Institute for Informatics,DE,SS→DOI→OA
+552,CIKM,2010,,https://openalex.org/W1982304915,https://openalex.org/A5006306262,Abhijith Kashyap,1,True,1,12,"University at Buffalo, State University of New York",US,SS→DOI→OA
+559,FSE,2010,,https://openalex.org/W2166271660,https://openalex.org/A5083631720,Barthélémy Dagenais,1,True,4,24,McGill University,CA,SS→DOI→OA
+560,ICML,2010,,https://openalex.org/W1515884010,https://openalex.org/A5030863830,Nishant A. Mehta,1,True,1,50,,,SS→title→OA
+561,ICSE,2010,,https://openalex.org/W2169970157,https://openalex.org/A5000582109,Zibin Zheng,1,True,4,616,Chinese University of Hong Kong,CN,SS→DOI→OA
+562,ICSE,2010,,https://openalex.org/W2127190390,https://openalex.org/A5023884479,Jingwen Ou,2,False,1,4,University of British Columbia,CA,SS→DOI→OA
+563,ICSE,2010,,https://openalex.org/W2122987719,https://openalex.org/A5051133116,Adam Czauderna,2,False,0,13,DePaul University,US,SS→DOI→OA
+564,ICSE,2010,,https://openalex.org/W2109039735,https://openalex.org/A5011785079,Qiusong Yang,1,True,5,45,Institute of Software,CN,SS→title→OA
+565,ICSE,2010,,https://openalex.org/W2118155805,https://openalex.org/A5051155440,Tihomir Gvero,2,False,2,19,École Polytechnique Fédérale de Lausanne,CH,SS→DOI→OA
+565,ICSE,2010,,https://openalex.org/W2118155805,https://openalex.org/A5025340145,Vilas Jagannath,3,False,1,16,University of Illinois Urbana-Champaign; University of Illinois System,US; US,SS→DOI→OA
+566,INFOCOM,2010,,https://openalex.org/W2155444758,https://openalex.org/A5071597932,Kin-Wah Kwong,1,True,3,13,California University of Pennsylvania,US,SS→title→OA
+567,KDD,2010,,https://openalex.org/W1968532429,https://openalex.org/A5009660759,Dafna Shahaf,1,True,4,109,Carnegie Mellon University,US,SS→title→OA
+569,OSDI,2010,,https://openalex.org/W2145467766,https://openalex.org/A5058555162,Shu-Chun Weng,2,False,3,18,Yale University,US,SS→title→OA
+570,OSDI,2010,,https://openalex.org/W1893312510,https://openalex.org/A5066531106,Muli Ben-Yehuda,1,True,4,57,IBM (United States),US,SS→title→OA
+572,PODS,2010,,https://openalex.org/W2103126020,https://openalex.org/A5109135732,Jelani Nelson,2,False,5,126,,,SS→DOI→OA
+573,S&P,2010,,https://openalex.org/W1985225657,https://openalex.org/A5014539613,Ayman Jarrous,3,False,1,5,University of Haifa,IL,SS→DOI→OA
+574,SIGCOMM,2010,,https://openalex.org/W3138585045,https://openalex.org/A5100687673,Binbin Chen,1,True,4,283,National University of Singapore,SG,SS→DOI→OA
+574,SIGCOMM,2010,,https://openalex.org/W3138585045,https://openalex.org/A5071920857,Ziling Zhou,2,False,0,8,National University of Singapore,SG,SS→DOI→OA
+574,SIGCOMM,2010,,https://openalex.org/W3138585045,https://openalex.org/A5041703865,Yuda Zhao,3,False,0,15,National University of Singapore,SG,SS→DOI→OA
+576,SIGMETRICS,2010,,https://openalex.org/W2152475116,https://openalex.org/A5041503751,Sarah Lilienthal,2,False,0,5,University of Cambridge,GB,SS→DOI→OA
+577,SIGMOD,2010,,https://openalex.org/W2151224499,https://openalex.org/A5111985072,Nadathur Satish,3,False,5,72,Intel (United States),US,SS→DOI→OA
+578,SODA,2010,,https://openalex.org/W1480355964,https://openalex.org/A5081042997,Arash Asadpour,1,True,3,25,,,SS→title→OA
+579,STOC,2010,,https://openalex.org/W2912359042,https://openalex.org/A5075969007,Sarvagya Upadhyay,3,False,4,33,University of Waterloo,CA,SS→DOI→OA
+580,STOC,2010,,https://openalex.org/W1991055327,https://openalex.org/A5023591555,Jarosław Byrka,1,True,5,97,École Polytechnique Fédérale de Lausanne,CH,SS→DOI→OA
+581,UIST,2010,,https://openalex.org/W2090048052,https://openalex.org/A5084269195,Chandrika Jayant,2,False,3,10,University of Washington,US,SS→title→OA
+581,UIST,2010,,https://openalex.org/W2090048052,https://openalex.org/A5051921091,Hanjie Ji,3,False,0,4,University of Rochester,US,SS→title→OA
+582,VLDB,2010,,https://openalex.org/W3000214033,https://openalex.org/A5006980420,Shuai Ma,3,True,3,141,Beihang University,CN,SS→DOI→OA
+583,WWW,2010,,https://openalex.org/W2171279286,https://openalex.org/A5080877905,Steffen Rendle,1,True,4,85,Osaka Research Institute of Industrial Science and Technology; Osaka University,JP; JP,SS→title→OA
+583,WWW,2010,,https://openalex.org/W2171279286,https://openalex.org/A5082540454,Christoph Freudenthaler,2,False,0,31,University of Hildesheim,DE,SS→title→OA
+584,ACL,2009,,https://openalex.org/W2150114207,https://openalex.org/A5001722321,Adam Pauls,1,True,4,35,"University of California, Berkeley",US,SS→title→OA
+585,ACL,2009,,https://openalex.org/W2122223050,https://openalex.org/A5004854992,S. R. K. Branavan,1,True,2,13,Massachusetts Institute of Technology,US,SS→title→OA
+585,ACL,2009,,https://openalex.org/W2122223050,https://openalex.org/A5053694765,Harr Chen,2,False,5,18,Massachusetts Institute of Technology,US,SS→title→OA
+590,CHI,2009,,https://openalex.org/W2114197969,https://openalex.org/A5083211235,Trevor J. Blank,1,True,2,43,,,GS→title→OA
+595,FSE,2009,,https://openalex.org/W2073961002,https://openalex.org/A5072031454,Jacob Burnim,1,True,1,24,"University of California, Berkeley",US,SS→DOI→OA
+597,FSE,2009,,https://openalex.org/W2059215200,https://openalex.org/A5102141585,Nam H. Pham,3,False,2,22,Iowa State University,US,SS→title→OA
+598,ICCV,2009,,https://openalex.org/W2142037471,https://openalex.org/A5049280707,Chaitanya Desai,1,True,1,14,"University of California, Irvine",US,SS→title→OA
+599,ICML,2009,,https://openalex.org/W2084809122,https://openalex.org/A5054163834,Blake Shaw,1,True,5,33,Columbia University,US,SS→title→OA
+602,ICSE,2009,,https://openalex.org/W2098664130,https://openalex.org/A5024034818,Chris Parnin,2,False,3,140,Georgia Institute of Technology,US,SS→title→OA
+607,INFOCOM,2009,,https://openalex.org/W2163609156,https://openalex.org/A5100735704,Di Wu,1,True,5,323,SUNY Polytechnic Institute,US,SS→DOI→OA
+609,MOBICOM,2009,,https://openalex.org/W2135573205,https://openalex.org/A5103031701,Vivek Shrivastava,1,True,4,71,University of Wisconsin–Madison,US,SS→DOI→OA
+609,MOBICOM,2009,,https://openalex.org/W2135573205,https://openalex.org/A5112277360,Nabeel Ahmed,2,False,4,34,University of Waterloo,CA,SS→DOI→OA
+611,PODS,2009,,https://openalex.org/W2041829641,https://openalex.org/A5001043287,Stephanie Tien Lee,2,False,2,3,University of Oxford,GB,SS→title→OA
+611,PODS,2009,,https://openalex.org/W2041829641,https://openalex.org/A5079503799,Gregory Valiant,3,False,1,154,"University of California, Berkeley; Berkeley College",US; US,SS→title→OA
+612,S&P,2009,,https://openalex.org/W2105842205,https://openalex.org/A5023051798,Gregory Dardyk,3,False,0,3,Google (United States),US,SS→DOI→OA
+613,SIGCOMM,2009,,https://openalex.org/W2150957281,https://openalex.org/A5041937385,Thomas Moscibroda,3,False,5,194,Microsoft (United States),US,SS→DOI→OA
+615,SIGMETRICS,2009,,https://openalex.org/W2109992755,https://openalex.org/A5005715220,Marianne van den Boomen,1,True,3,7,,,SS→title→OA
+616,SIGMOD,2009,,https://openalex.org/W2126354234,https://openalex.org/A5069246862,Shubham Chopra,2,False,0,2,,,SS→title→OA
+618,SOSP,2009,,https://openalex.org/W2137888380,https://openalex.org/A5001598240,Leonid Ryzhyk,1,True,2,57,,,SS→title→OA
+619,STOC,2009,,https://openalex.org/W2019883273,https://openalex.org/A5073935967,Robin A. Moser,1,True,1,18,ETH Zurich,CH,GS→title→OA
+624,AAAI,2008,,https://openalex.org/W192051504,https://openalex.org/A5015729451,Liad Wagman,1,True,0,111,Duke University,US,SS→title→OA
+629,CHI,2008,,https://openalex.org/W2094064671,https://openalex.org/A5011891560,Felix Olorunfemi,1,True,1,35,,,SS→title→OA
+629,CHI,2008,,https://openalex.org/W2094064671,https://openalex.org/A5049980911,Raheem Usman Adebimpe,2,False,2,5,,,SS→title→OA
+631,CHI,2008,,https://openalex.org/W2053078227,https://openalex.org/A5046611715,Gilly Leshed,1,True,3,64,Cornell University,US,SS→DOI→OA
+631,CHI,2008,,https://openalex.org/W2053078227,https://openalex.org/A5012802996,Theresa Velden,2,False,5,39,Cornell University,US,SS→DOI→OA
+636,CVPR,2008,,https://openalex.org/W2113201641,https://openalex.org/A5077783791,Matthew B. Blaschko,2,False,4,251,Max Planck Institute for Biological Cybernetics,DE,SS→title→OA
+637,CVPR,2008,,https://openalex.org/W2111559961,https://openalex.org/A5068587315,Oliver J. Woodford,1,True,3,42,University of Oxford,GB,SS→DOI→OA
+638,FOCS,2008,,https://openalex.org/W1497086998,https://openalex.org/A5023279342,Dana Moshkovitz,1,True,2,56,Weizmann Institute of Science,IL,SS→title→OA
+640,FSE,2008,,https://openalex.org/W2160517961,https://openalex.org/A5113684638,Nicolas Bettenburg,1,True,2,33,Saarland University,DE,SS→title→OA
+640,FSE,2008,,https://openalex.org/W2160517961,https://openalex.org/A5048641532,Sascha Just,2,False,1,16,Saarland University,DE,SS→title→OA
+640,FSE,2008,,https://openalex.org/W2160517961,https://openalex.org/A5069763558,Adrian Schröter,3,False,2,25,University of Victoria,CA,SS→title→OA
+643,ICSE,2008,,https://openalex.org/W2154843497,https://openalex.org/A5101967307,Guoqing Xu,1,True,4,136,The Ohio State University,US,SS→title→OA
+644,ICSE,2008,,https://openalex.org/W1790484086,https://openalex.org/A5043431516,William N. Sumner,1,True,0,39,,,GS→title→OA
+645,ICSE,2008,,https://openalex.org/W2136043644,https://openalex.org/A5079075574,Ajitha Rajan,1,True,2,214,University of Minnesota,US,GS→title→OA
+646,ICSE,2008,,https://openalex.org/W2130243914,https://openalex.org/A5084552503,Joseph R. Ruthruff,1,True,5,30,University of Nebraska–Lincoln,US,SS→DOI→OA
+648,INFOCOM,2008,,https://openalex.org/W2133795371,https://openalex.org/A5022354495,Dattatraya Y. Gokhale,1,True,2,3,Indian Institute of Technology Bombay,IN,SS→DOI→OA
+650,KDD,2008,,https://openalex.org/W2118556950,https://openalex.org/A5100368855,Xiang Zhang,1,True,2,70,University of North Carolina at Chapel Hill,US,SS→DOI→OA
+652,OSDI,2008,,https://openalex.org/W1710734607,https://openalex.org/A5053355200,Cristian Cadar,1,True,5,113,Stanford University,US,SS→title→OA
+652,OSDI,2008,,https://openalex.org/W1710734607,https://openalex.org/A5072236833,Dakarai Dunbar,2,False,-16,4,Stanford University,US,SS→title→OA
+653,OSDI,2008,,https://openalex.org/W1493893823,https://openalex.org/A5060832606,Dennis Fetterly,3,False,5,32,Microsoft Research (India),IN,SS→title→OA
+654,OSDI,2008,,https://openalex.org/W2013592197,https://openalex.org/A5052836807,Diwaker Gupta,1,True,4,16,ASTER,CA,SS→DOI→OA
+654,OSDI,2008,,https://openalex.org/W2013592197,https://openalex.org/A5000107991,Michael Vrable,3,False,3,16,"University of California, San Diego",US,SS→DOI→OA
+655,PODS,2008,,https://openalex.org/W1967172267,https://openalex.org/A5113577071,Atish Das Sarma,1,True,4,72,Georgia Institute of Technology,US,SS→DOI→OA
+656,S&P,2008,,https://openalex.org/W2143472559,https://openalex.org/A5016115127,Daniel Halperin,1,True,1,38,University of Washington,US,SS→title→OA
+656,S&P,2008,,https://openalex.org/W2143472559,https://openalex.org/A5058661031,Thomas S. Heydt-Benjamin,2,False,2,11,University of Massachusetts Amherst,US,SS→title→OA
+660,SIGMOD,2008,,https://openalex.org/W2171901130,https://openalex.org/A5050157577,Jagan Sankaranarayanan,2,False,5,60,"University of Maryland, College Park",US,SS→DOI→OA
+666,WWW,2008,,https://openalex.org/W2145990704,https://openalex.org/A5080290452,Hsin-Tsang Lee,1,True,0,6,Texas A&M University,US,SS→DOI→OA
+667,AAAI,2007,,https://openalex.org/W2146447174,https://openalex.org/A5105307360,Nathanael Chambers,2,False,3,68,Stanford University,US,SS→title→OA
+668,AAAI,2007,,https://openalex.org/W1902527071,https://openalex.org/A5036074668,Colin McMillen,1,True,5,19,Laboratoire d'Informatique de Paris-Nord; Carnegie Mellon University,FR; US,SS→title→OA
+669,ACL,2007,,https://openalex.org/W2121465811,https://openalex.org/A5077791792,Yuk Wah Wong,1,True,4,12,The University of Texas at Austin,US,SS→title→OA
+670,CHI,2007,,https://openalex.org/W2117601224,https://openalex.org/A5028059312,Manas Mittal,3,False,0,5,,,SS→DOI→OA
+671,CHI,2007,,https://openalex.org/W2006550435,https://openalex.org/A5104070883,April Slayden Mitchell,2,False,0,7,Hewlett-Packard (United States),US,SS→DOI→OA
+671,CHI,2007,,https://openalex.org/W2006550435,https://openalex.org/A5069459444,Alex Vorbau,3,False,3,7,Hewlett-Packard (United States),US,SS→DOI→OA
+672,CHI,2007,,https://openalex.org/W2152312062,https://openalex.org/A5024737277,Chris Muffels,2,False,1,3,MDS Associates (United States),US,SS→title→OA
+674,CHI,2007,,https://openalex.org/W2057359302,https://openalex.org/A5023572731,Vaiva Kalnikaitė,1,True,0,40,University of Sheffield,GB,SS→DOI→OA
+675,CHI,2007,,https://openalex.org/W3172402307,https://openalex.org/A5020864276,Sebastian Moffatt,1,True,0,9,,,GS→title→OA
+677,CVPR,2007,,https://openalex.org/W2082546838,https://openalex.org/A5061394912,M. Aerts,2,False,0,7,ETH Zurich,CH,SS→title→OA
+677,CVPR,2007,,https://openalex.org/W2082546838,https://openalex.org/A5057210065,A. C. Hack,3,False,4,24,ETH Zurich,CH,SS→title→OA
+679,FSE,2007,,https://openalex.org/W2163643791,https://openalex.org/A5023658938,Narayan Ramasubbu,1,True,4,71,Singapore Management University,SG,SS→DOI→OA
+679,FSE,2007,,https://openalex.org/W2163643791,https://openalex.org/A5075701279,Rajesh Krishna Balan,2,False,5,172,Singapore Management University,SG,SS→DOI→OA
+680,FSE,2007,,https://openalex.org/W2042454716,https://openalex.org/A5022177364,Christopher Kruegel,3,False,5,336,University of Applied Sciences Technikum Wien,AT,SS→DOI→OA
+682,FSE,2007,,https://openalex.org/W2137956345,https://openalex.org/A5057086547,Alex Potanin,2,False,5,103,Victoria University of Wellington,NZ,SS→DOI→OA
+682,FSE,2007,,https://openalex.org/W2137956345,https://openalex.org/A5090255963,Mahmood Ali,3,False,0,9,Massachusetts Institute of Technology,US,SS→DOI→OA
+684,ICML,2007,,https://openalex.org/W2169495281,https://openalex.org/A5088203996,Jason V. Davis,1,True,3,15,The University of Texas at Austin,US,SS→DOI→OA
+684,ICML,2007,,https://openalex.org/W2169495281,https://openalex.org/A5049134079,Brian Kulis,2,False,4,100,The University of Texas at Austin,US,SS→DOI→OA
+684,ICML,2007,,https://openalex.org/W2169495281,https://openalex.org/A5101633144,Prateek Jain,3,False,4,193,The University of Texas at Austin,US,SS→DOI→OA
+685,ICSE,2007,,https://openalex.org/W2145544369,https://openalex.org/A5019848726,Ekwa Duala-Ekoko,1,True,1,14,McGill University,CA,SS→DOI→OA
+686,ICSE,2007,,https://openalex.org/W2151553346,https://openalex.org/A5100695695,Sunghun Kim,1,True,4,55,Massachusetts Institute of Technology,US,SS→DOI→OA
+687,ICSE,2007,,https://openalex.org/W2152846401,https://openalex.org/A5022905724,Mehrdad Sabetzadeh,2,False,3,174,University of Toronto,CA,SS→DOI→OA
+688,ICSE,2007,,https://openalex.org/W2115694885,https://openalex.org/A5019170764,Adam Kieżun,1,True,4,87,Massachusetts Institute of Technology,US,SS→DOI→OA
+689,IJCAI,2007,,https://openalex.org/W110738662,https://openalex.org/A5102785744,Maleeha Qazi,1,True,4,13,Siemens (Germany),DE,SS→title→OA
+693,KDD,2007,,https://openalex.org/W2056932183,https://openalex.org/A5025202709,Srujana Merugu,2,False,5,49,Yahoo (Spain),ES,SS→DOI→OA
+694,PLDI,2007,,https://openalex.org/W2071286129,https://openalex.org/A5031711886,Frances Perry,1,True,1,11,Princeton University,US,SS→title→OA
+694,PLDI,2007,,https://openalex.org/W2071286129,https://openalex.org/A5018151279,Lester Mackey,2,False,1,411,Princeton University,US,SS→title→OA
+697,SIGIR,2007,,https://openalex.org/W2149156280,https://openalex.org/A5043706888,Mikhail Bilenko,2,False,5,35,Microsoft (Finland),FI,SS→DOI→OA
+698,SIGMETRICS,2007,,https://openalex.org/W2066262685,https://openalex.org/A5073854516,Matthew Wachs,2,False,2,27,Carnegie Mellon University,US,SS→DOI→OA
+698,SIGMETRICS,2007,,https://openalex.org/W2066262685,https://openalex.org/A5049066620,Raja R. Sambasivan,3,False,2,35,Carnegie Mellon University,US,SS→DOI→OA
+700,SIGMOD,2007,,https://openalex.org/W2035801804,https://openalex.org/A5103467344,Subramanian Arumugam,2,False,5,34,University of Florida,US,SS→title→OA
+700,SIGMOD,2007,,https://openalex.org/W2035801804,https://openalex.org/A5022320149,Abhijit Pol,3,False,3,10,University of Florida,US,SS→title→OA
+702,SOSP,2007,,https://openalex.org/W2038345682,https://openalex.org/A5066623526,Ramakrishna Kotla,1,True,5,22,Microsoft (United States); Silicon Valley Community Foundation,US; US,SS→DOI→OA
+703,SOSP,2007,,https://openalex.org/W2166510103,https://openalex.org/A5046383149,Stephen Chong,1,True,4,121,Cornell University,US,SS→title→OA
+703,SOSP,2007,,https://openalex.org/W2166510103,https://openalex.org/A5020572630,Jed Liu,2,False,5,26,Cornell University,US,SS→title→OA
+705,STOC,2007,,https://openalex.org/W1998698985,https://openalex.org/A5046685409,Sergey Yekhanin,1,True,5,101,Massachusetts Institute of Technology; IIT@MIT,US; US,SS→DOI→OA
+706,UIST,2007,,https://openalex.org/W2140280838,https://openalex.org/A5076861145,Alex Butler,3,False,1,17,Microsoft Research (United Kingdom),GB,SS→DOI→OA
+707,VLDB,2007,,https://openalex.org/W2140613126,https://openalex.org/A5049333271,Daniel J. Abadi,1,True,5,98,Moscow Institute of Thermal Technology,RU,SS→title→OA
+709,AAAI,2006,,https://openalex.org/W1607840088,https://openalex.org/A5108339374,Bart Selman,3,False,-13,1,Cornell University,US,SS→title→OA
+711,ACL,2006,,https://openalex.org/W2144108169,https://openalex.org/A5027983493,Rion Snow,1,True,2,11,Stanford University,US,SS→DOI→OA
+714,CHI,2006,,https://openalex.org/W2118755902,https://openalex.org/A5058733178,J. Luk,1,True,0,5,University of British Columbia,CA,SS→DOI→OA
+714,CHI,2006,,https://openalex.org/W2118755902,https://openalex.org/A5067442653,Jérôme Pasquero,2,False,3,14,McGill University,CA,SS→DOI→OA
+714,CHI,2006,,https://openalex.org/W2118755902,https://openalex.org/A5080542443,S. Little,3,False,0,3,University of British Columbia,CA,SS→DOI→OA
+715,CIKM,2006,,https://openalex.org/W2044983364,https://openalex.org/A5021697915,Nikos Ntarmos,3,False,3,59,Research Academic Computer Technology Institute; University of Patras,GR; GR,SS→DOI→OA
+716,CVPR,2006,,https://openalex.org/W2146352414,https://openalex.org/A5009682734,Derek Hoiem,1,True,2,184,Carnegie Mellon University,US,SS→DOI→OA
+719,FSE,2006,,https://openalex.org/W2107794009,https://openalex.org/A5028750260,Bhargav S. Gulavani,1,True,0,16,Indian Institute of Technology Bombay,IN,SS→DOI→OA
+719,FSE,2006,,https://openalex.org/W2107794009,https://openalex.org/A5008657833,Yamini Kannan,3,False,0,2,Microsoft Research (India); Microsoft (United States),IN; US,SS→DOI→OA
+720,ICML,2006,,https://openalex.org/W2162152253,https://openalex.org/A5036361185,Fabian H. Sinz,2,False,2,109,Max Planck Institute for Biological Cybernetics,DE,SS→title→OA
+721,ICSE,2006,,https://openalex.org/W2071616717,https://openalex.org/A5101744869,Zhang Ji,1,True,4,44,Michigan State University,US,SS→title→OA
+722,ICSE,2006,,https://openalex.org/W2079317829,https://openalex.org/A5038565477,John Anvik,1,True,5,47,University of British Columbia,CA,SS→DOI→OA
+722,ICSE,2006,,https://openalex.org/W2079317829,https://openalex.org/A5033307955,Lyndon Hiew,2,False,1,3,University of British Columbia,CA,SS→DOI→OA
+725,OSDI,2006,,https://openalex.org/W2058535975,https://openalex.org/A5031385754,Edmund B. Nightingale,1,True,3,34,University of Michigan–Ann Arbor,US,SS→DOI→OA
+725,OSDI,2006,,https://openalex.org/W2058535975,https://openalex.org/A5020883423,Kaushik Veeraraghavan,2,False,0,34,University of Michigan–Ann Arbor,US,SS→DOI→OA
+729,SIGMETRICS,2006,,https://openalex.org/W4214714086,https://openalex.org/A5053342250,Gil Zussman,3,False,4,296,Massachusetts Institute of Technology,US,SS→DOI→OA
+730,SIGMOD,2006,,https://openalex.org/W118378920,https://openalex.org/A5012667159,Timothy David Brody,1,True,0,1,,,SS→title→OA
+733,VLDB,2006,,https://openalex.org/W2146081216,https://openalex.org/A5110176750,Soumyadeb Mitra,1,True,1,17,University of Illinois Urbana-Champaign,US,SS→title→OA
+739,CHI,2005,,https://openalex.org/W2153282521,https://openalex.org/A5037160778,Amy J. Ko,2,False,4,201,Carnegie Mellon University,US,SS→DOI→OA
+739,CHI,2005,,https://openalex.org/W2153282521,https://openalex.org/A5103008611,Htet Htet Aung,3,False,2,38,Carnegie Mellon University,US,SS→DOI→OA
+741,CIKM,2005,,https://openalex.org/W1965605976,https://openalex.org/A5002696075,Bhuvan Bamba,3,False,1,32,IBM Research - India; IBM (United States),IN; US,SS→DOI→OA
+743,FOCS,2005,,https://openalex.org/W2133589924,https://openalex.org/A5006066917,Farzad Parvaresh,1,True,2,81,"University of California, Berkeley; University of California, San Diego",US; US,SS→DOI→OA
+745,FSE,2005,,https://openalex.org/W2166140339,https://openalex.org/A5046598816,Yichen Xie,1,True,5,80,Stanford University,US,SS→title→OA
+749,ICSE,2005,,https://openalex.org/W2170239024,https://openalex.org/A5016315666,Brian Demsky,1,True,4,95,Massachusetts Institute of Technology,US,SS→DOI→OA
+751,ICSE,2005,,https://openalex.org/W2013711971,https://openalex.org/A5007057846,Yvan Labiche,3,False,5,170,Carleton University,CA,SS→DOI→OA
+752,ICSE,2005,,https://openalex.org/W4239049496,https://openalex.org/A5103412814,Andrew J. Ko,1,True,5,46,Carnegie Mellon University,US,GS→title→OA
+758,PLDI,2005,,https://openalex.org/W4236944756,https://openalex.org/A5064241063,Chris Lattner,1,True,3,29,University of Illinois Urbana-Champaign,US,SS→DOI→OA
+759,PLDI,2005,,https://openalex.org/W4245234767,https://openalex.org/A5010786661,Armando Solar-Lezama,1,True,0,231,"University of California, Berkeley",US,SS→DOI→OA
+759,PLDI,2005,,https://openalex.org/W4245234767,https://openalex.org/A5001159571,Rodric Rabbah,2,False,4,76,Massachusetts Institute of Technology,US,SS→DOI→OA
+760,PODS,2005,,https://openalex.org/W2111421966,https://openalex.org/A5007519378,Dirk Leinders,1,True,2,19,Hasselt University,BE,SS→title→OA
+764,SOSP,2005,,https://openalex.org/W2099323800,https://openalex.org/A5090128483,Amitanand S. Aiyer,1,True,0,16,The University of Texas at Austin,US,SS→title→OA
+764,SOSP,2005,,https://openalex.org/W2099323800,https://openalex.org/A5061077761,Allen Clement,3,False,5,43,The University of Texas at Austin,US,SS→title→OA
+768,UIST,2005,,https://openalex.org/W2042616792,https://openalex.org/A5049757296,Michael Bolin,1,True,0,9,IIT@MIT; Massachusetts Institute of Technology,US; US,SS→DOI→OA
+768,UIST,2005,,https://openalex.org/W2042616792,https://openalex.org/A5083854355,Philip Rha,3,False,0,2,IIT@MIT; Massachusetts Institute of Technology,US; US,SS→DOI→OA
+769,VLDB,2005,,https://openalex.org/W2135552269,https://openalex.org/A5043552468,Amol Ghoting,1,True,4,97,The Ohio State University,US,SS→title→OA
+769,VLDB,2005,,https://openalex.org/W2135552269,https://openalex.org/A5068014041,Gregory Buehrer,2,False,0,20,The Ohio State University,US,SS→title→OA
+770,WWW,2005,,https://openalex.org/W1977841655,https://openalex.org/A5088242464,Xiaohui Long,1,True,2,7,New York University,US,SS→title→OA
+771,AAAI,2004,,https://openalex.org/W2753424512,https://openalex.org/A5098429303,Mary Pogue,1,True,0,1,Louisiana State University Agricultural Center,US,SS→title→OA
+772,ACL,2004,,https://openalex.org/W2121147707,https://openalex.org/A5016270907,Julie Weeds,3,False,1,63,University of Sussex,GB,SS→title→OA
+773,CIKM,2004,,https://openalex.org/W2026168616,https://openalex.org/A5075130969,Qiankun Zhao,1,True,1,60,Nanyang Technological University,SG,SS→DOI→OA
+774,CVPR,2004,,https://openalex.org/W2101305476,https://openalex.org/A5024843495,Vlad Branzoi,2,False,1,16,Columbia University,US,SS→title→OA
+775,FOCS,2004,,https://openalex.org/W2163375015,https://openalex.org/A5067917669,Subhash Khot,1,True,4,205,Georgia Institute of Technology,US,SS→title→OA
+776,FOCS,2004,,https://openalex.org/W1984459117,https://openalex.org/A5086684679,Benny Applebaum,1,True,0,118,Technion – Israel Institute of Technology,IL,SS→DOI→OA
+777,FSE,2004,,https://openalex.org/W2149612550,https://openalex.org/A5005318859,Alexandru Sălcianu,2,False,3,15,Massachusetts Institute of Technology,US,GS→title→OA
+777,FSE,2004,,https://openalex.org/W2149612550,https://openalex.org/A5022020843,Suhabe Bugrara,3,False,0,8,Massachusetts Institute of Technology,US,GS→title→OA
+779,ICSE,2004,,https://openalex.org/W2041853131,https://openalex.org/A5100388576,Lu Zhang,2,False,3,230,Peking University,CN,SS→DOI→OA
+779,ICSE,2004,,https://openalex.org/W2041853131,https://openalex.org/A5100411657,Yin Liu,3,False,2,50,Rensselaer Polytechnic Institute,US,SS→DOI→OA
+780,ICSE,2004,,https://openalex.org/W4244325127,https://openalex.org/A5019272809,Parastoo Mohagheghi,1,True,3,65,NTNU Samfunnsforskning; Simula Research Laboratory,NO; NO,SS→title→OA
+780,ICSE,2004,,https://openalex.org/W4244325127,https://openalex.org/A5054212955,Ole M. Killi,3,False,0,1,NTNU Samfunnsforskning,NO,SS→title→OA
+781,ICSE,2004,,https://openalex.org/W2003751975,https://openalex.org/A5055811185,Gary Wassermann,1,True,-2,18,"University of California, Davis",US,SS→DOI→OA
+781,ICSE,2004,,https://openalex.org/W2003751975,https://openalex.org/A5061727878,Carl Gould,2,False,0,3,"University of California, Davis",US,SS→DOI→OA
+782,ICSE,2004,,https://openalex.org/W4240473828,https://openalex.org/A5036568062,Johannes Henkel,1,True,3,17,University of Colorado Boulder,US,SS→title→OA
+784,INFOCOM,2004,,https://openalex.org/W2161725792,https://openalex.org/A5013022430,J. Mammen,2,False,0,11,Stanford University,US,SS→DOI→OA
+785,KDD,2004,,https://openalex.org/W2139956879,https://openalex.org/A5112572279,Sugato Basu,1,True,3,68,The University of Texas at Austin,US,SS→DOI→OA
+786,OSDI,2004,,https://openalex.org/W2116283852,https://openalex.org/A5006085341,Muthukaruppan Annamalai,2,False,1,7,University of Washington,US,SS→DOI→OA
+787,OSDI,2004,,https://openalex.org/W146360823,https://openalex.org/A5056288677,Junfeng Yang,1,True,3,93,,,SS→title→OA
+787,OSDI,2004,,https://openalex.org/W146360823,https://openalex.org/A5017775499,Paul Twohey,2,False,0,4,,,SS→title→OA
+790,SIGIR,2004,,https://openalex.org/W2134557008,https://openalex.org/A5101716412,Hui Fang,1,True,1,257,University of Illinois Urbana-Champaign,US,SS→DOI→OA
+790,SIGIR,2004,,https://openalex.org/W2134557008,https://openalex.org/A5100401500,Tao Tao,2,False,0,101,University of Illinois Urbana-Champaign,US,SS→DOI→OA
+791,SIGMETRICS,2004,,https://openalex.org/W2116790783,https://openalex.org/A5020404511,Thomas Bonald,1,True,5,235,Orange (France),FR,SS→title→OA
+792,SIGMOD,2004,,https://openalex.org/W1993855803,https://openalex.org/A5005472808,Yuhan Cai,1,True,0,52,University of British Columbia,CA,SS→DOI→OA
+795,UIST,2004,,https://openalex.org/W1989450868,https://openalex.org/A5083735800,Daniel Wigdor,2,False,2,204,University of Toronto,CA,SS→title→OA
+798,WWW,2004,,https://openalex.org/W2064716575,https://openalex.org/A5082188602,Lakshmish Ramaswamy,1,True,1,148,Georgia Institute of Technology; Atlanta Technical College,US; US,SS→DOI→OA
+798,WWW,2004,,https://openalex.org/W2064716575,https://openalex.org/A5110904945,LING LIU,3,False,4,66,Atlanta Technical College; Georgia Institute of Technology,US; US,SS→DOI→OA
+799,ACL,2003,,https://openalex.org/W2113272343,https://openalex.org/A5051441682,Gabe Reinstein,2,False,0,1,,,SS→DOI→OA
+799,ACL,2003,,https://openalex.org/W2113272343,https://openalex.org/A5069830330,Tom Stocky,3,False,4,7,,,SS→DOI→OA
+801,CVPR,2003,,https://openalex.org/W2154422044,https://openalex.org/A5089960673,Rob Fergus,1,True,0,176,University of Oxford,GB,SS→DOI→OA
+802,FOCS,2003,,https://openalex.org/W2149463264,https://openalex.org/A5025420692,Bo Brinkman,1,True,1,34,Miami University,US,SS→DOI→OA
+803,FSE,2003,,https://openalex.org/W2121376435,https://openalex.org/A5078041729,Stephen McCamant,1,True,1,93,Massachusetts Institute of Technology,US,GS→title→OA
+804,FSE,2003,,https://openalex.org/W2131467114,https://openalex.org/A5084185098,Gregory M. Kapfhammer,1,True,1,84,University of Pittsburgh,US,SS→title→OA
+805,FSE,2003,,https://openalex.org/W2142038400,https://openalex.org/A5064883489,Shubiao Li,2,False,0,21,Xi'an Jiaotong University,CN,GS→title→OA
+806,ICCV,2003,,https://openalex.org/W2066763472,https://openalex.org/A5096892146,Fitzgibbon,1,True,0,1,University of Oxford; Science Oxford,GB; GB,SS→title→OA
+806,ICCV,2003,,https://openalex.org/W2066763472,https://openalex.org/A5096865738,Wexler,2,False,0,1,Weizmann Institute of Science,IL,SS→title→OA
+807,ICCV,2003,,https://openalex.org/W2056860348,https://openalex.org/A5001760915,Zhuowen Tu,1,True,5,314,"University of California, Los Angeles",US,SS→DOI→OA
+808,ICCV,2003,,https://openalex.org/W1992825118,https://openalex.org/A5003047938,Daniel Snow,3,False,5,5,Mitsubishi Electric (United States),US,SS→DOI→OA
+809,ICSE,2003,,https://openalex.org/W2160510992,https://openalex.org/A5026996875,Youtao Zhang,3,False,3,314,The University of Texas at Dallas,US,SS→title→OA
+810,ICSE,2003,,https://openalex.org/W4243167850,https://openalex.org/A5084751293,Sagar Chaki,1,True,2,137,Carnegie Mellon University,US,SS→title→OA
+810,ICSE,2003,,https://openalex.org/W4243167850,https://openalex.org/A5026932942,Alex Groce,3,False,2,191,Carnegie Mellon University,US,SS→title→OA
+812,IJCAI,2003,,https://openalex.org/W1664963465,https://openalex.org/A5069421748,Darse Billings,1,True,5,22,University of Alberta,CA,SS→title→OA
+814,KDD,2003,,https://openalex.org/W2061820396,https://openalex.org/A5064274071,David Kempe,1,True,4,187,Cornell University,US,SS→DOI→OA
+818,SIGMOD,2003,,https://openalex.org/W2102951036,https://openalex.org/A5032089564,Srikanth Bellamkonda,2,False,0,23,,,SS→DOI→OA
+820,SOSP,2003,,https://openalex.org/W2144552569,https://openalex.org/A5102725147,Petros Maniatis,1,True,4,117,Intel (United States),US,SS→title→OA
+821,SOSP,2003,,https://openalex.org/W2295705535,https://openalex.org/A5112039412,Samuel T. King,1,True,3,84,University of Michigan–Ann Arbor,US,SS→title→OA
+825,WWW,2003,,https://openalex.org/W2069153192,https://openalex.org/A5087418634,Glen Jeh,1,True,1,8,Stanford University,US,SS→DOI→OA
+826,WWW,2003,,https://openalex.org/W2099003704,https://openalex.org/A5080942754,Boanerges Aleman-Meza,1,True,0,57,University of Georgia,US,SS→title→OA
+826,WWW,2003,,https://openalex.org/W2099003704,https://openalex.org/A5010776606,Chris Halaschek,2,False,0,6,University of Georgia,US,SS→title→OA
+828,ACL,2002,,https://openalex.org/W2154124206,https://openalex.org/A5046457818,Franz Josef Och,1,True,4,70,FH Aachen,DE,SS→DOI→OA
+829,FOCS,2002,,https://openalex.org/W2787952106,https://openalex.org/A5079123053,William Henry Bukowski,1,True,0,1,,,SS→title→OA
+834,KDD,2002,,https://openalex.org/W2045747317,https://openalex.org/A5014101817,Darya Chudova,1,True,4,151,"University of California, Irvine",US,SS→DOI→OA
+837,SIGIR,2002,,https://openalex.org/W1981825277,https://openalex.org/A5100388094,Yi Zhang,1,True,1,83,Carnegie Mellon University,US,SS→DOI→OA
+840,ACL,2001,,https://openalex.org/W2139403546,https://openalex.org/A5027569258,Ulrich Germann,1,True,3,74,University of Southern California; Marina Del Rey Hospital,US; US,SS→DOI→OA
+840,ACL,2001,,https://openalex.org/W2139403546,https://openalex.org/A5053233618,Michael Jahr,2,False,1,5,Stanford University,US,SS→DOI→OA
+844,ICCV,2001,,https://openalex.org/W2148162135,https://openalex.org/A5100462890,Jiwon Kim,2,False,-1,64,,,SS→DOI→OA
+847,KDD,2001,,https://openalex.org/W2009144907,https://openalex.org/A5012032862,Edwin M. Knorr,1,True,5,22,University of British Columbia,CA,SS→DOI→OA
+848,PODS,2001,,https://openalex.org/W2134206624,https://openalex.org/A5015424594,Amnon Lotem,2,False,3,14,"University of Maryland, College Park",US,SS→DOI→OA
+849,SIGIR,2001,,https://openalex.org/W2094661073,https://openalex.org/A5068395748,Vikas Khandelwal,3,False,1,3,University of Massachusetts Amherst,US,SS→title→OA
+850,SIGMOD,2001,,https://openalex.org/W2163336863,https://openalex.org/A5078245746,Eamonn Keogh,1,True,4,405,"University of California, Irvine",US,SS→DOI→OA
+851,SOSP,2001,,https://openalex.org/W2100857937,https://openalex.org/A5041830534,Steve Zdancewic,1,True,2,173,Cornell University,US,SS→DOI→OA
+851,SOSP,2001,,https://openalex.org/W2100857937,https://openalex.org/A5069017863,Lantian Zheng,2,False,0,19,Cornell University,US,SS→DOI→OA
+851,SOSP,2001,,https://openalex.org/W2100857937,https://openalex.org/A5111998286,Nathaniel Nystrom,3,False,3,48,Cornell University,US,SS→DOI→OA
+852,SOSP,2001,,https://openalex.org/W2053903896,https://openalex.org/A5084561739,Rodrigo Rodrigues,1,True,0,116,,,SS→DOI→OA
+852,SOSP,2001,,https://openalex.org/W2053903896,https://openalex.org/A5059491225,Miguel Castro,2,False,5,171,Microsoft Research (United Kingdom); Microsoft (United States),GB; US,SS→DOI→OA
+853,UIST,2001,,https://openalex.org/W1994547327,https://openalex.org/A5008167536,Chester Fitchett,2,False,0,3,University of Calgary,CA,SS→DOI→OA
+854,VLDB,2001,,https://openalex.org/W2130642985,https://openalex.org/A5031319715,Anastassia Ailamaki,1,True,4,95,Carnegie Mellon University,US,SS→title→OA
+855,WWW,2001,,https://openalex.org/W1985727586,https://openalex.org/A5102195798,Jian Yin,1,True,2,33,The University of Texas at Austin,US,SS→DOI→OA
+859,AAAI,2000,,https://openalex.org/W2103552898,https://openalex.org/A5047278339,Finnegan Southey,2,False,2,28,University of Waterloo,CA,GS→title→OA
+860,CVPR,2000,,https://openalex.org/W2159128898,https://openalex.org/A5012751147,Dorin Comaniciu,1,True,4,427,Siemens (United States),US,SS→DOI→OA
+861,INFOCOM,2000,,https://openalex.org/W2110416206,https://openalex.org/A5017036718,András Veres,1,True,2,47,Ericsson (Sweden); Ericsson (Hungary),SE; HU,SS→DOI→OA
+861,INFOCOM,2000,,https://openalex.org/W2110416206,https://openalex.org/A5015797494,Miklós Boda,2,False,4,9,Ericsson (Sweden),SE,SS→DOI→OA
+863,OSDI,2000,,https://openalex.org/W4235785239,https://openalex.org/A5048534004,Benjamin Chelf,2,False,0,21,,,SS→DOI→OA
+863,OSDI,2000,,https://openalex.org/W4235785239,https://openalex.org/A5108791099,Andy Chou,3,False,1,33,,,SS→DOI→OA
+866,SIGIR,2000,,https://openalex.org/W1985554184,https://openalex.org/A5086854307,Jaana Kekäläinen,2,False,2,53,Tampere University; Tampere University,FI; FI,SS→DOI→OA
+867,SIGMOD,2000,,https://openalex.org/W4235095233,https://openalex.org/A5057889288,Hartmut Liefke,1,True,2,9,University of Pennsylvania,US,SS→DOI→OA
+869,WWW,2000,,https://openalex.org/W2175110005,https://openalex.org/A5101772780,Ravi Kumar,2,True,0,24,IBM Research - Almaden,US,SS→DOI→OA
+869,WWW,2000,,https://openalex.org/W2175110005,https://openalex.org/A5061038699,Farzin Maghoul,3,False,0,12,,,SS→DOI→OA

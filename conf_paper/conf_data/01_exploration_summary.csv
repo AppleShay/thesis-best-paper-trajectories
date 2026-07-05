@@ -1,0 +1,9 @@
+,0
+total_papers,925
+year_min,2000
+year_max,2018
+n_conferences,31
+n_missing_openalex_id,22
+n_duplicate_openalex_id_rows,0
+total_author_paper_pairs,3202
+papers_with_missing_author_ids,14

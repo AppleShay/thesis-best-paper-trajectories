@@ -1,0 +1,32 @@
+conference,source_id,source_name,status
+AAAI,https://openalex.org/S4210191458,Proceedings of the AAAI Conference on Artificial Intelligence,RESOLVED
+ACL,https://openalex.org/S4363608652,Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers),RESOLVED
+CHI,https://openalex.org/S4363607743,CHI Conference on Human Factors in Computing Systems,RESOLVED
+CIKM,https://openalex.org/S4306418063,Conference on Information and Knowledge Management,RESOLVED
+CVPR,https://openalex.org/S4363607701,2022 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR),RESOLVED
+FOCS,https://openalex.org/S4363607389,2022 IEEE 63rd Annual Symposium on Foundations of Computer Science (FOCS),RESOLVED
+FSE,,,UNRESOLVED
+ICCV,https://openalex.org/S4363607764,2021 IEEE/CVF International Conference on Computer Vision (ICCV),RESOLVED
+ICML,https://openalex.org/S4306419644,International Conference on Machine Learning,RESOLVED
+ICSE,https://openalex.org/S4306419842,International Conference on Software Engineering,RESOLVED
+ICWSM,https://openalex.org/S4363608822,Proceedings of the International AAAI Conference on Web and Social Media,RESOLVED
+IJCAI,https://openalex.org/S4306419999,International Joint Conference on Artificial Intelligence,RESOLVED
+INFOCOM,https://openalex.org/S4363607980,IEEE INFOCOM 2022 - IEEE Conference on Computer Communications,RESOLVED
+JCDL,https://openalex.org/S4306417562,ACM/IEEE Joint Conference on Digital Libraries,RESOLVED
+KDD,https://openalex.org/S4306420424,Knowledge Discovery and Data Mining,RESOLVED
+MOBICOM,https://openalex.org/S4363608994,Proceedings of the 28th Annual International Conference on Mobile Computing And Networking,RESOLVED
+NeurIPS,https://openalex.org/S4306420609,Neural Information Processing Systems,RESOLVED
+OSDI,https://openalex.org/S4306420647,Operating Systems Design and Implementation,RESOLVED
+PLDI,https://openalex.org/S4306420747,Programming Language Design and Implementation,RESOLVED
+PODS,https://openalex.org/S4306420993,Symposium on Principles of Database Systems,RESOLVED
+S&P,https://openalex.org/S4363606603,2022 IEEE Symposium on Security and Privacy (SP),RESOLVED
+SIGCOMM,https://openalex.org/S4306417580,ACM Special Interest Group on Data Communication,RESOLVED
+SIGIR,https://openalex.org/S4363608773,Proceedings of the 45th International ACM SIGIR Conference on Research and Development in Information Retrieval,RESOLVED
+SIGMETRICS,,,UNRESOLVED
+SIGMOD,https://openalex.org/S4393915683,Proceedings - ACM-SIGMOD International Conference on Management of Data,RESOLVED
+SODA,https://openalex.org/S4306420974,Symposium on Discrete Algorithms,RESOLVED
+SOSP,https://openalex.org/S4306420989,Symposium on Operating Systems Principles,RESOLVED
+STOC,https://openalex.org/S4306421003,Symposium on the Theory of Computing,RESOLVED
+UIST,,,UNRESOLVED
+VLDB,https://openalex.org/S4306421142,Very Large Data Bases,RESOLVED
+WWW,https://openalex.org/S4363608152,Alternate track papers & posters of the 13th international conference on World Wide Web - WWW Alt. '04,RESOLVED

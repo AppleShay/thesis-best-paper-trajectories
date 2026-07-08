@@ -1,0 +1,7 @@
+metric,test,n_junior,n_senior,stat,p_value
+pub_lift,Junior vs Senior lift (Mann-Whitney),760.0,1940.0,756406.0,0.2914482223743925
+citation_lift,Junior vs Senior lift (Mann-Whitney),760.0,1940.0,838900.0,2.3667593968415726e-08
+pubs_per_year,Junior before vs after (Wilcoxon),,,35436.5,4.2810634746142625e-49
+cites_per_year,Junior before vs after (Wilcoxon),,,64616.0,4.453856347526452e-23
+pubs_per_year,Senior before vs after (Wilcoxon),,,576750.5,5.621288055276453e-35
+cites_per_year,Senior before vs after (Wilcoxon),,,897639.0,0.35318887034544677

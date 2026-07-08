@@ -1,0 +1,2242 @@
+{
+  "AAAI|2000": {
+    "source_id": "https://openalex.org/S4306420577",
+    "source_name": "National Conference on Artificial Intelligence",
+    "n_votes": 3
+  },
+  "AAAI|2002": {
+    "source_id": "https://openalex.org/S4306420577",
+    "source_name": "National Conference on Artificial Intelligence",
+    "n_votes": 1
+  },
+  "AAAI|2004": {
+    "source_id": null,
+    "source_name": null,
+    "n_votes": 0
+  },
+  "AAAI|2005": {
+    "source_id": "https://openalex.org/S4306420577",
+    "source_name": "National Conference on Artificial Intelligence",
+    "n_votes": 1
+  },
+  "AAAI|2006": {
+    "source_id": "https://openalex.org/S4306420577",
+    "source_name": "National Conference on Artificial Intelligence",
+    "n_votes": 2
+  },
+  "AAAI|2007": {
+    "source_id": "https://openalex.org/S4306420577",
+    "source_name": "National Conference on Artificial Intelligence",
+    "n_votes": 2
+  },
+  "AAAI|2008": {
+    "source_id": "https://openalex.org/S4306420577",
+    "source_name": "National Conference on Artificial Intelligence",
+    "n_votes": 2
+  },
+  "AAAI|2010": {
+    "source_id": "https://openalex.org/S4210191458",
+    "source_name": "Proceedings of the AAAI Conference on Artificial Intelligence",
+    "n_votes": 2
+  },
+  "AAAI|2011": {
+    "source_id": "https://openalex.org/S4210191458",
+    "source_name": "Proceedings of the AAAI Conference on Artificial Intelligence",
+    "n_votes": 2
+  },
+  "AAAI|2012": {
+    "source_id": "https://openalex.org/S4210191458",
+    "source_name": "Proceedings of the AAAI Conference on Artificial Intelligence",
+    "n_votes": 2
+  },
+  "AAAI|2013": {
+    "source_id": "https://openalex.org/S4210191458",
+    "source_name": "Proceedings of the AAAI Conference on Artificial Intelligence",
+    "n_votes": 2
+  },
+  "AAAI|2014": {
+    "source_id": "https://openalex.org/S4306462769",
+    "source_name": "ACM eBooks",
+    "n_votes": 1
+  },
+  "AAAI|2015": {
+    "source_id": "https://openalex.org/S4210191458",
+    "source_name": "Proceedings of the AAAI Conference on Artificial Intelligence",
+    "n_votes": 1
+  },
+  "AAAI|2016": {
+    "source_id": "https://openalex.org/S7407053046",
+    "source_name": "University of Alberta Library",
+    "n_votes": 1
+  },
+  "AAAI|2017": {
+    "source_id": "https://openalex.org/S4210191458",
+    "source_name": "Proceedings of the AAAI Conference on Artificial Intelligence",
+    "n_votes": 1
+  },
+  "AAAI|2018": {
+    "source_id": "https://openalex.org/S4210191458",
+    "source_name": "Proceedings of the AAAI Conference on Artificial Intelligence",
+    "n_votes": 1
+  },
+  "ACL|2001": {
+    "source_id": null,
+    "source_name": null,
+    "n_votes": 0
+  },
+  "ACL|2002": {
+    "source_id": null,
+    "source_name": null,
+    "n_votes": 0
+  },
+  "ACL|2003": {
+    "source_id": null,
+    "source_name": null,
+    "n_votes": 0
+  },
+  "ACL|2004": {
+    "source_id": null,
+    "source_name": null,
+    "n_votes": 0
+  },
+  "ACL|2005": {
+    "source_id": null,
+    "source_name": null,
+    "n_votes": 0
+  },
+  "ACL|2006": {
+    "source_id": null,
+    "source_name": null,
+    "n_votes": 0
+  },
+  "ACL|2007": {
+    "source_id": "https://openalex.org/S4306420508",
+    "source_name": "Meeting of the Association for Computational Linguistics",
+    "n_votes": 1
+  },
+  "ACL|2008": {
+    "source_id": "https://openalex.org/S4306420508",
+    "source_name": "Meeting of the Association for Computational Linguistics",
+    "n_votes": 2
+  },
+  "ACL|2009": {
+    "source_id": null,
+    "source_name": null,
+    "n_votes": 0
+  },
+  "ACL|2010": {
+    "source_id": "https://openalex.org/S4306420508",
+    "source_name": "Meeting of the Association for Computational Linguistics",
+    "n_votes": 1
+  },
+  "ACL|2011": {
+    "source_id": "https://openalex.org/S4306420508",
+    "source_name": "Meeting of the Association for Computational Linguistics",
+    "n_votes": 1
+  },
+  "ACL|2012": {
+    "source_id": "https://openalex.org/S4306420508",
+    "source_name": "Meeting of the Association for Computational Linguistics",
+    "n_votes": 1
+  },
+  "ACL|2013": {
+    "source_id": "https://openalex.org/S4306420508",
+    "source_name": "Meeting of the Association for Computational Linguistics",
+    "n_votes": 1
+  },
+  "ACL|2014": {
+    "source_id": null,
+    "source_name": null,
+    "n_votes": 0
+  },
+  "ACL|2015": {
+    "source_id": null,
+    "source_name": null,
+    "n_votes": 0
+  },
+  "ACL|2016": {
+    "source_id": null,
+    "source_name": null,
+    "n_votes": 0
+  },
+  "ACL|2017": {
+    "source_id": null,
+    "source_name": null,
+    "n_votes": 0
+  },
+  "ACL|2018": {
+    "source_id": "https://openalex.org/S186219999",
+    "source_name": "Natural Language Semantics",
+    "n_votes": 1
+  },
+  "CHI|2005": {
+    "source_id": null,
+    "source_name": null,
+    "n_votes": 0
+  },
+  "CHI|2006": {
+    "source_id": null,
+    "source_name": null,
+    "n_votes": 0
+  },
+  "CHI|2007": {
+    "source_id": "https://openalex.org/S53579087",
+    "source_name": "Ground Water",
+    "n_votes": 1
+  },
+  "CHI|2008": {
+    "source_id": "https://openalex.org/S1535467",
+    "source_name": "African Research Review",
+    "n_votes": 1
+  },
+  "CHI|2009": {
+    "source_id": "https://openalex.org/S4377196327",
+    "source_name": "Digital Commons - USU (Utah State University)",
+    "n_votes": 1
+  },
+  "CHI|2010": {
+    "source_id": null,
+    "source_name": null,
+    "n_votes": 0
+  },
+  "CHI|2011": {
+    "source_id": null,
+    "source_name": null,
+    "n_votes": 0
+  },
+  "CHI|2012": {
+    "source_id": null,
+    "source_name": null,
+    "n_votes": 0
+  },
+  "CHI|2013": {
+    "source_id": null,
+    "source_name": null,
+    "n_votes": 0
+  },
+  "CHI|2014": {
+    "source_id": null,
+    "source_name": null,
+    "n_votes": 0
+  },
+  "CHI|2015": {
+    "source_id": null,
+    "source_name": null,
+    "n_votes": 0
+  },
+  "CHI|2016": {
+    "source_id": null,
+    "source_name": null,
+    "n_votes": 0
+  },
+  "CHI|2017": {
+    "source_id": null,
+    "source_name": null,
+    "n_votes": 0
+  },
+  "CHI|2018": {
+    "source_id": "https://openalex.org/S2737936280",
+    "source_name": "Palgrave Communications",
+    "n_votes": 1
+  },
+  "CIKM|2004": {
+    "source_id": null,
+    "source_name": null,
+    "n_votes": 0
+  },
+  "CIKM|2005": {
+    "source_id": null,
+    "source_name": null,
+    "n_votes": 0
+  },
+  "CIKM|2006": {
+    "source_id": null,
+    "source_name": null,
+    "n_votes": 0
+  },
+  "CIKM|2007": {
+    "source_id": null,
+    "source_name": null,
+    "n_votes": 0
+  },
+  "CIKM|2008": {
+    "source_id": null,
+    "source_name": null,
+    "n_votes": 0
+  },
+  "CIKM|2009": {
+    "source_id": null,
+    "source_name": null,
+    "n_votes": 0
+  },
+  "CIKM|2010": {
+    "source_id": null,
+    "source_name": null,
+    "n_votes": 0
+  },
+  "CIKM|2011": {
+    "source_id": null,
+    "source_name": null,
+    "n_votes": 0
+  },
+  "CIKM|2012": {
+    "source_id": null,
+    "source_name": null,
+    "n_votes": 0
+  },
+  "CIKM|2013": {
+    "source_id": null,
+    "source_name": null,
+    "n_votes": 0
+  },
+  "CIKM|2014": {
+    "source_id": null,
+    "source_name": null,
+    "n_votes": 0
+  },
+  "CIKM|2015": {
+    "source_id": null,
+    "source_name": null,
+    "n_votes": 0
+  },
+  "CIKM|2016": {
+    "source_id": null,
+    "source_name": null,
+    "n_votes": 0
+  },
+  "CIKM|2017": {
+    "source_id": null,
+    "source_name": null,
+    "n_votes": 0
+  },
+  "CIKM|2018": {
+    "source_id": null,
+    "source_name": null,
+    "n_votes": 0
+  },
+  "CVPR|2000": {
+    "source_id": null,
+    "source_name": null,
+    "n_votes": 0
+  },
+  "CVPR|2001": {
+    "source_id": null,
+    "source_name": null,
+    "n_votes": 0
+  },
+  "CVPR|2003": {
+    "source_id": null,
+    "source_name": null,
+    "n_votes": 0
+  },
+  "CVPR|2004": {
+    "source_id": null,
+    "source_name": null,
+    "n_votes": 0
+  },
+  "CVPR|2005": {
+    "source_id": "https://openalex.org/S189275214",
+    "source_name": "Particle and Fibre Toxicology",
+    "n_votes": 1
+  },
+  "CVPR|2006": {
+    "source_id": "https://openalex.org/S25538012",
+    "source_name": "International Journal of Computer Vision",
+    "n_votes": 1
+  },
+  "CVPR|2007": {
+    "source_id": "https://openalex.org/S4210187442",
+    "source_name": "Reviews in Mineralogy and Geochemistry",
+    "n_votes": 1
+  },
+  "CVPR|2008": {
+    "source_id": null,
+    "source_name": null,
+    "n_votes": 0
+  },
+  "CVPR|2009": {
+    "source_id": "https://openalex.org/S4363607795",
+    "source_name": "2009 IEEE Conference on Computer Vision and Pattern Recognition",
+    "n_votes": 1
+  },
+  "CVPR|2010": {
+    "source_id": null,
+    "source_name": null,
+    "n_votes": 0
+  },
+  "CVPR|2011": {
+    "source_id": "https://openalex.org/S103482838",
+    "source_name": "Communications of the ACM",
+    "n_votes": 1
+  },
+  "CVPR|2012": {
+    "source_id": "https://openalex.org/S25538012",
+    "source_name": "International Journal of Computer Vision",
+    "n_votes": 1
+  },
+  "CVPR|2013": {
+    "source_id": null,
+    "source_name": null,
+    "n_votes": 0
+  },
+  "CVPR|2014": {
+    "source_id": null,
+    "source_name": null,
+    "n_votes": 0
+  },
+  "CVPR|2015": {
+    "source_id": null,
+    "source_name": null,
+    "n_votes": 0
+  },
+  "CVPR|2016": {
+    "source_id": null,
+    "source_name": null,
+    "n_votes": 0
+  },
+  "CVPR|2017": {
+    "source_id": null,
+    "source_name": null,
+    "n_votes": 0
+  },
+  "CVPR|2018": {
+    "source_id": null,
+    "source_name": null,
+    "n_votes": 0
+  },
+  "FOCS|2002": {
+    "source_id": "https://openalex.org/S4306402519",
+    "source_name": "ThinkTech (Texas Tech University)",
+    "n_votes": 1
+  },
+  "FOCS|2003": {
+    "source_id": "https://openalex.org/S118992489",
+    "source_name": "Journal of the ACM",
+    "n_votes": 1
+  },
+  "FOCS|2004": {
+    "source_id": "https://openalex.org/S153560523",
+    "source_name": "SIAM Journal on Computing",
+    "n_votes": 1
+  },
+  "FOCS|2005": {
+    "source_id": null,
+    "source_name": null,
+    "n_votes": 0
+  },
+  "FOCS|2006": {
+    "source_id": null,
+    "source_name": null,
+    "n_votes": 0
+  },
+  "FOCS|2007": {
+    "source_id": null,
+    "source_name": null,
+    "n_votes": 0
+  },
+  "FOCS|2008": {
+    "source_id": null,
+    "source_name": null,
+    "n_votes": 0
+  },
+  "FOCS|2010": {
+    "source_id": "https://openalex.org/S118992489",
+    "source_name": "Journal of the ACM",
+    "n_votes": 1
+  },
+  "FOCS|2011": {
+    "source_id": "https://openalex.org/S118992489",
+    "source_name": "Journal of the ACM",
+    "n_votes": 1
+  },
+  "FOCS|2012": {
+    "source_id": null,
+    "source_name": null,
+    "n_votes": 0
+  },
+  "FOCS|2013": {
+    "source_id": null,
+    "source_name": null,
+    "n_votes": 0
+  },
+  "FOCS|2014": {
+    "source_id": null,
+    "source_name": null,
+    "n_votes": 0
+  },
+  "FOCS|2015": {
+    "source_id": "https://openalex.org/S118992489",
+    "source_name": "Journal of the ACM",
+    "n_votes": 1
+  },
+  "FOCS|2016": {
+    "source_id": "https://openalex.org/S118992489",
+    "source_name": "Journal of the ACM",
+    "n_votes": 1
+  },
+  "FOCS|2017": {
+    "source_id": null,
+    "source_name": null,
+    "n_votes": 0
+  },
+  "FOCS|2018": {
+    "source_id": "https://openalex.org/S118992489",
+    "source_name": "Journal of the ACM",
+    "n_votes": 1
+  },
+  "FSE|2002": {
+    "source_id": null,
+    "source_name": null,
+    "n_votes": 0
+  },
+  "FSE|2003": {
+    "source_id": null,
+    "source_name": null,
+    "n_votes": 0
+  },
+  "FSE|2004": {
+    "source_id": null,
+    "source_name": null,
+    "n_votes": 0
+  },
+  "FSE|2005": {
+    "source_id": null,
+    "source_name": null,
+    "n_votes": 0
+  },
+  "FSE|2006": {
+    "source_id": null,
+    "source_name": null,
+    "n_votes": 0
+  },
+  "FSE|2007": {
+    "source_id": null,
+    "source_name": null,
+    "n_votes": 0
+  },
+  "FSE|2008": {
+    "source_id": null,
+    "source_name": null,
+    "n_votes": 0
+  },
+  "FSE|2009": {
+    "source_id": null,
+    "source_name": null,
+    "n_votes": 0
+  },
+  "FSE|2010": {
+    "source_id": null,
+    "source_name": null,
+    "n_votes": 0
+  },
+  "FSE|2011": {
+    "source_id": null,
+    "source_name": null,
+    "n_votes": 0
+  },
+  "FSE|2012": {
+    "source_id": null,
+    "source_name": null,
+    "n_votes": 0
+  },
+  "FSE|2014": {
+    "source_id": null,
+    "source_name": null,
+    "n_votes": 0
+  },
+  "FSE|2015": {
+    "source_id": null,
+    "source_name": null,
+    "n_votes": 0
+  },
+  "FSE|2016": {
+    "source_id": null,
+    "source_name": null,
+    "n_votes": 0
+  },
+  "FSE|2017": {
+    "source_id": null,
+    "source_name": null,
+    "n_votes": 0
+  },
+  "FSE|2018": {
+    "source_id": null,
+    "source_name": null,
+    "n_votes": 0
+  },
+  "ICCV|2001": {
+    "source_id": "https://openalex.org/S25538012",
+    "source_name": "International Journal of Computer Vision",
+    "n_votes": 1
+  },
+  "ICCV|2003": {
+    "source_id": "https://openalex.org/S25538012",
+    "source_name": "International Journal of Computer Vision",
+    "n_votes": 2
+  },
+  "ICCV|2005": {
+    "source_id": "https://openalex.org/S25538012",
+    "source_name": "International Journal of Computer Vision",
+    "n_votes": 1
+  },
+  "ICCV|2007": {
+    "source_id": "https://openalex.org/S25538012",
+    "source_name": "International Journal of Computer Vision",
+    "n_votes": 1
+  },
+  "ICCV|2009": {
+    "source_id": null,
+    "source_name": null,
+    "n_votes": 0
+  },
+  "ICCV|2011": {
+    "source_id": null,
+    "source_name": null,
+    "n_votes": 0
+  },
+  "ICCV|2013": {
+    "source_id": null,
+    "source_name": null,
+    "n_votes": 0
+  },
+  "ICCV|2015": {
+    "source_id": null,
+    "source_name": null,
+    "n_votes": 0
+  },
+  "ICCV|2017": {
+    "source_id": null,
+    "source_name": null,
+    "n_votes": 0
+  },
+  "ICML|2005": {
+    "source_id": null,
+    "source_name": null,
+    "n_votes": 0
+  },
+  "ICML|2006": {
+    "source_id": null,
+    "source_name": null,
+    "n_votes": 0
+  },
+  "ICML|2007": {
+    "source_id": null,
+    "source_name": null,
+    "n_votes": 0
+  },
+  "ICML|2008": {
+    "source_id": null,
+    "source_name": null,
+    "n_votes": 0
+  },
+  "ICML|2009": {
+    "source_id": null,
+    "source_name": null,
+    "n_votes": 0
+  },
+  "ICML|2010": {
+    "source_id": "https://openalex.org/S4306400194",
+    "source_name": "arXiv (Cornell University)",
+    "n_votes": 1
+  },
+  "ICML|2011": {
+    "source_id": "https://openalex.org/S4306400194",
+    "source_name": "arXiv (Cornell University)",
+    "n_votes": 1
+  },
+  "ICML|2012": {
+    "source_id": "https://openalex.org/S4306400088",
+    "source_name": "UvA-DARE (University of Amsterdam)",
+    "n_votes": 1
+  },
+  "ICML|2013": {
+    "source_id": "https://openalex.org/S4306400194",
+    "source_name": "arXiv (Cornell University)",
+    "n_votes": 1
+  },
+  "ICML|2014": {
+    "source_id": "https://openalex.org/S4306419644",
+    "source_name": "International Conference on Machine Learning",
+    "n_votes": 1
+  },
+  "ICML|2015": {
+    "source_id": "https://openalex.org/S4306400194",
+    "source_name": "arXiv (Cornell University)",
+    "n_votes": 2
+  },
+  "ICML|2016": {
+    "source_id": "https://openalex.org/S4306400194",
+    "source_name": "arXiv (Cornell University)",
+    "n_votes": 3
+  },
+  "ICML|2017": {
+    "source_id": "https://openalex.org/S4306400194",
+    "source_name": "arXiv (Cornell University)",
+    "n_votes": 1
+  },
+  "ICML|2018": {
+    "source_id": "https://openalex.org/S4306400194",
+    "source_name": "arXiv (Cornell University)",
+    "n_votes": 2
+  },
+  "ICSE|2003": {
+    "source_id": "https://openalex.org/S4306419842",
+    "source_name": "International Conference on Software Engineering",
+    "n_votes": 2
+  },
+  "ICSE|2004": {
+    "source_id": "https://openalex.org/S142627899",
+    "source_name": "ACM Transactions on Software Engineering and Methodology",
+    "n_votes": 3
+  },
+  "ICSE|2005": {
+    "source_id": "https://openalex.org/S4363608887",
+    "source_name": "Proceedings. 27th International Conference on Software Engineering, 2005. ICSE 2005.",
+    "n_votes": 1
+  },
+  "ICSE|2006": {
+    "source_id": null,
+    "source_name": null,
+    "n_votes": 0
+  },
+  "ICSE|2007": {
+    "source_id": "https://openalex.org/S4210203175",
+    "source_name": "Proceedings/Proceedings - International Conference on Software Engineering",
+    "n_votes": 3
+  },
+  "ICSE|2008": {
+    "source_id": "https://openalex.org/S4377196310",
+    "source_name": "Purdue e-Pubs (Purdue University System)",
+    "n_votes": 1
+  },
+  "ICSE|2009": {
+    "source_id": null,
+    "source_name": null,
+    "n_votes": 0
+  },
+  "ICSE|2010": {
+    "source_id": null,
+    "source_name": null,
+    "n_votes": 0
+  },
+  "ICSE|2011": {
+    "source_id": null,
+    "source_name": null,
+    "n_votes": 0
+  },
+  "ICSE|2012": {
+    "source_id": "https://openalex.org/S142627899",
+    "source_name": "ACM Transactions on Software Engineering and Methodology",
+    "n_votes": 1
+  },
+  "ICSE|2013": {
+    "source_id": "https://openalex.org/S4363607951",
+    "source_name": "2013 35th International Conference on Software Engineering (ICSE)",
+    "n_votes": 3
+  },
+  "ICSE|2014": {
+    "source_id": null,
+    "source_name": null,
+    "n_votes": 0
+  },
+  "ICSE|2015": {
+    "source_id": "https://openalex.org/S4363607868",
+    "source_name": "2015 IEEE/ACM 37th IEEE International Conference on Software Engineering",
+    "n_votes": 3
+  },
+  "ICSE|2016": {
+    "source_id": null,
+    "source_name": null,
+    "n_votes": 0
+  },
+  "ICSE|2017": {
+    "source_id": null,
+    "source_name": null,
+    "n_votes": 0
+  },
+  "ICSE|2018": {
+    "source_id": "https://openalex.org/S4306401590",
+    "source_name": "Technischen Universit\u00e4t Darmstadt",
+    "n_votes": 1
+  },
+  "ICWSM|2007": {
+    "source_id": "https://openalex.org/S4306419920",
+    "source_name": "International Conference on Weblogs and Social Media",
+    "n_votes": 1
+  },
+  "ICWSM|2008": {
+    "source_id": "https://openalex.org/S4387284482",
+    "source_name": "Proceedings of the International AAAI Conference on Web and Social Media",
+    "n_votes": 1
+  },
+  "ICWSM|2009": {
+    "source_id": "https://openalex.org/S4387284482",
+    "source_name": "Proceedings of the International AAAI Conference on Web and Social Media",
+    "n_votes": 2
+  },
+  "ICWSM|2010": {
+    "source_id": "https://openalex.org/S4387284482",
+    "source_name": "Proceedings of the International AAAI Conference on Web and Social Media",
+    "n_votes": 2
+  },
+  "ICWSM|2011": {
+    "source_id": "https://openalex.org/S4387284482",
+    "source_name": "Proceedings of the International AAAI Conference on Web and Social Media",
+    "n_votes": 1
+  },
+  "ICWSM|2012": {
+    "source_id": "https://openalex.org/S4387284482",
+    "source_name": "Proceedings of the International AAAI Conference on Web and Social Media",
+    "n_votes": 2
+  },
+  "ICWSM|2013": {
+    "source_id": "https://openalex.org/S4387284482",
+    "source_name": "Proceedings of the International AAAI Conference on Web and Social Media",
+    "n_votes": 1
+  },
+  "ICWSM|2014": {
+    "source_id": "https://openalex.org/S4387284482",
+    "source_name": "Proceedings of the International AAAI Conference on Web and Social Media",
+    "n_votes": 1
+  },
+  "ICWSM|2015": {
+    "source_id": "https://openalex.org/S4387284482",
+    "source_name": "Proceedings of the International AAAI Conference on Web and Social Media",
+    "n_votes": 1
+  },
+  "ICWSM|2016": {
+    "source_id": "https://openalex.org/S4387284482",
+    "source_name": "Proceedings of the International AAAI Conference on Web and Social Media",
+    "n_votes": 1
+  },
+  "ICWSM|2017": {
+    "source_id": "https://openalex.org/S4387284482",
+    "source_name": "Proceedings of the International AAAI Conference on Web and Social Media",
+    "n_votes": 1
+  },
+  "ICWSM|2018": {
+    "source_id": "https://openalex.org/S4387284482",
+    "source_name": "Proceedings of the International AAAI Conference on Web and Social Media",
+    "n_votes": 1
+  },
+  "IJCAI|2001": {
+    "source_id": "https://openalex.org/S12967704",
+    "source_name": "Statistical Science",
+    "n_votes": 1
+  },
+  "IJCAI|2003": {
+    "source_id": "https://openalex.org/S7407050879",
+    "source_name": "UC Berkeley",
+    "n_votes": 2
+  },
+  "IJCAI|2005": {
+    "source_id": "https://openalex.org/S4306419999",
+    "source_name": "International Joint Conference on Artificial Intelligence",
+    "n_votes": 2
+  },
+  "IJCAI|2007": {
+    "source_id": "https://openalex.org/S4306419999",
+    "source_name": "International Joint Conference on Artificial Intelligence",
+    "n_votes": 2
+  },
+  "IJCAI|2009": {
+    "source_id": "https://openalex.org/S4306402636",
+    "source_name": "Oxford University Research Archive (ORA) (University of Oxford)",
+    "n_votes": 1
+  },
+  "IJCAI|2011": {
+    "source_id": "https://openalex.org/S139930977",
+    "source_name": "Journal of Artificial Intelligence Research",
+    "n_votes": 2
+  },
+  "IJCAI|2013": {
+    "source_id": "https://openalex.org/S4306400906",
+    "source_name": "Research Repository (Delft University of Technology)",
+    "n_votes": 1
+  },
+  "IJCAI|2015": {
+    "source_id": "https://openalex.org/S4306419999",
+    "source_name": "International Joint Conference on Artificial Intelligence",
+    "n_votes": 2
+  },
+  "IJCAI|2016": {
+    "source_id": "https://openalex.org/S207023548",
+    "source_name": "Neural Computation",
+    "n_votes": 1
+  },
+  "IJCAI|2017": {
+    "source_id": null,
+    "source_name": null,
+    "n_votes": 0
+  },
+  "IJCAI|2018": {
+    "source_id": null,
+    "source_name": null,
+    "n_votes": 0
+  },
+  "INFOCOM|2000": {
+    "source_id": null,
+    "source_name": null,
+    "n_votes": 0
+  },
+  "INFOCOM|2001": {
+    "source_id": "https://openalex.org/S66039016",
+    "source_name": "ACM SIGCOMM Computer Communication Review",
+    "n_votes": 1
+  },
+  "INFOCOM|2002": {
+    "source_id": null,
+    "source_name": null,
+    "n_votes": 0
+  },
+  "INFOCOM|2003": {
+    "source_id": null,
+    "source_name": null,
+    "n_votes": 0
+  },
+  "INFOCOM|2004": {
+    "source_id": null,
+    "source_name": null,
+    "n_votes": 0
+  },
+  "INFOCOM|2005": {
+    "source_id": null,
+    "source_name": null,
+    "n_votes": 0
+  },
+  "INFOCOM|2006": {
+    "source_id": "https://openalex.org/S62238642",
+    "source_name": "IEEE/ACM Transactions on Networking",
+    "n_votes": 1
+  },
+  "INFOCOM|2007": {
+    "source_id": null,
+    "source_name": null,
+    "n_votes": 0
+  },
+  "INFOCOM|2008": {
+    "source_id": "https://openalex.org/S62238642",
+    "source_name": "IEEE/ACM Transactions on Networking",
+    "n_votes": 1
+  },
+  "INFOCOM|2009": {
+    "source_id": null,
+    "source_name": null,
+    "n_votes": 0
+  },
+  "INFOCOM|2010": {
+    "source_id": null,
+    "source_name": null,
+    "n_votes": 0
+  },
+  "INFOCOM|2011": {
+    "source_id": null,
+    "source_name": null,
+    "n_votes": 0
+  },
+  "INFOCOM|2012": {
+    "source_id": null,
+    "source_name": null,
+    "n_votes": 0
+  },
+  "INFOCOM|2013": {
+    "source_id": null,
+    "source_name": null,
+    "n_votes": 0
+  },
+  "INFOCOM|2014": {
+    "source_id": "https://openalex.org/S62238642",
+    "source_name": "IEEE/ACM Transactions on Networking",
+    "n_votes": 1
+  },
+  "INFOCOM|2015": {
+    "source_id": null,
+    "source_name": null,
+    "n_votes": 0
+  },
+  "INFOCOM|2016": {
+    "source_id": null,
+    "source_name": null,
+    "n_votes": 0
+  },
+  "INFOCOM|2017": {
+    "source_id": null,
+    "source_name": null,
+    "n_votes": 0
+  },
+  "INFOCOM|2018": {
+    "source_id": null,
+    "source_name": null,
+    "n_votes": 0
+  },
+  "JCDL|2000": {
+    "source_id": null,
+    "source_name": null,
+    "n_votes": 0
+  },
+  "JCDL|2002": {
+    "source_id": null,
+    "source_name": null,
+    "n_votes": 0
+  },
+  "JCDL|2003": {
+    "source_id": "https://openalex.org/S4306417562",
+    "source_name": "ACM/IEEE Joint Conference on Digital Libraries",
+    "n_votes": 1
+  },
+  "JCDL|2004": {
+    "source_id": null,
+    "source_name": null,
+    "n_votes": 0
+  },
+  "JCDL|2005": {
+    "source_id": null,
+    "source_name": null,
+    "n_votes": 0
+  },
+  "JCDL|2006": {
+    "source_id": null,
+    "source_name": null,
+    "n_votes": 0
+  },
+  "JCDL|2007": {
+    "source_id": null,
+    "source_name": null,
+    "n_votes": 0
+  },
+  "JCDL|2008": {
+    "source_id": null,
+    "source_name": null,
+    "n_votes": 0
+  },
+  "JCDL|2009": {
+    "source_id": null,
+    "source_name": null,
+    "n_votes": 0
+  },
+  "JCDL|2010": {
+    "source_id": null,
+    "source_name": null,
+    "n_votes": 0
+  },
+  "JCDL|2011": {
+    "source_id": null,
+    "source_name": null,
+    "n_votes": 0
+  },
+  "JCDL|2012": {
+    "source_id": null,
+    "source_name": null,
+    "n_votes": 0
+  },
+  "JCDL|2013": {
+    "source_id": null,
+    "source_name": null,
+    "n_votes": 0
+  },
+  "JCDL|2014": {
+    "source_id": null,
+    "source_name": null,
+    "n_votes": 0
+  },
+  "JCDL|2015": {
+    "source_id": null,
+    "source_name": null,
+    "n_votes": 0
+  },
+  "JCDL|2016": {
+    "source_id": null,
+    "source_name": null,
+    "n_votes": 0
+  },
+  "JCDL|2017": {
+    "source_id": null,
+    "source_name": null,
+    "n_votes": 0
+  },
+  "JCDL|2018": {
+    "source_id": null,
+    "source_name": null,
+    "n_votes": 0
+  },
+  "KDD|2000": {
+    "source_id": null,
+    "source_name": null,
+    "n_votes": 0
+  },
+  "KDD|2001": {
+    "source_id": null,
+    "source_name": null,
+    "n_votes": 0
+  },
+  "KDD|2002": {
+    "source_id": null,
+    "source_name": null,
+    "n_votes": 0
+  },
+  "KDD|2003": {
+    "source_id": null,
+    "source_name": null,
+    "n_votes": 0
+  },
+  "KDD|2004": {
+    "source_id": null,
+    "source_name": null,
+    "n_votes": 0
+  },
+  "KDD|2005": {
+    "source_id": "https://openalex.org/S19474917",
+    "source_name": "Internet Mathematics",
+    "n_votes": 1
+  },
+  "KDD|2006": {
+    "source_id": null,
+    "source_name": null,
+    "n_votes": 0
+  },
+  "KDD|2007": {
+    "source_id": null,
+    "source_name": null,
+    "n_votes": 0
+  },
+  "KDD|2008": {
+    "source_id": null,
+    "source_name": null,
+    "n_votes": 0
+  },
+  "KDD|2009": {
+    "source_id": null,
+    "source_name": null,
+    "n_votes": 0
+  },
+  "KDD|2010": {
+    "source_id": "https://openalex.org/S139930977",
+    "source_name": "Journal of Artificial Intelligence Research",
+    "n_votes": 1
+  },
+  "KDD|2011": {
+    "source_id": null,
+    "source_name": null,
+    "n_votes": 0
+  },
+  "KDD|2012": {
+    "source_id": null,
+    "source_name": null,
+    "n_votes": 0
+  },
+  "KDD|2013": {
+    "source_id": null,
+    "source_name": null,
+    "n_votes": 0
+  },
+  "KDD|2014": {
+    "source_id": null,
+    "source_name": null,
+    "n_votes": 0
+  },
+  "KDD|2015": {
+    "source_id": null,
+    "source_name": null,
+    "n_votes": 0
+  },
+  "KDD|2016": {
+    "source_id": null,
+    "source_name": null,
+    "n_votes": 0
+  },
+  "KDD|2017": {
+    "source_id": null,
+    "source_name": null,
+    "n_votes": 0
+  },
+  "KDD|2018": {
+    "source_id": null,
+    "source_name": null,
+    "n_votes": 0
+  },
+  "MOBICOM|2008": {
+    "source_id": null,
+    "source_name": null,
+    "n_votes": 0
+  },
+  "MOBICOM|2009": {
+    "source_id": null,
+    "source_name": null,
+    "n_votes": 0
+  },
+  "MOBICOM|2011": {
+    "source_id": null,
+    "source_name": null,
+    "n_votes": 0
+  },
+  "MOBICOM|2012": {
+    "source_id": null,
+    "source_name": null,
+    "n_votes": 0
+  },
+  "MOBICOM|2013": {
+    "source_id": null,
+    "source_name": null,
+    "n_votes": 0
+  },
+  "MOBICOM|2014": {
+    "source_id": null,
+    "source_name": null,
+    "n_votes": 0
+  },
+  "MOBICOM|2015": {
+    "source_id": "https://openalex.org/S4210227886",
+    "source_name": "GetMobile Mobile Computing and Communications",
+    "n_votes": 1
+  },
+  "MOBICOM|2017": {
+    "source_id": null,
+    "source_name": null,
+    "n_votes": 0
+  },
+  "MOBICOM|2018": {
+    "source_id": "https://openalex.org/S4210227886",
+    "source_name": "GetMobile Mobile Computing and Communications",
+    "n_votes": 1
+  },
+  "NeurIPS|2013": {
+    "source_id": "https://openalex.org/S4306400194",
+    "source_name": "arXiv (Cornell University)",
+    "n_votes": 3
+  },
+  "NeurIPS|2014": {
+    "source_id": "https://openalex.org/S4306400194",
+    "source_name": "arXiv (Cornell University)",
+    "n_votes": 2
+  },
+  "NeurIPS|2015": {
+    "source_id": "https://openalex.org/S4306420609",
+    "source_name": "Neural Information Processing Systems",
+    "n_votes": 2
+  },
+  "NeurIPS|2016": {
+    "source_id": null,
+    "source_name": null,
+    "n_votes": 0
+  },
+  "NeurIPS|2017": {
+    "source_id": "https://openalex.org/S4306400194",
+    "source_name": "arXiv (Cornell University)",
+    "n_votes": 3
+  },
+  "NeurIPS|2018": {
+    "source_id": "https://openalex.org/S4306420609",
+    "source_name": "Neural Information Processing Systems",
+    "n_votes": 3
+  },
+  "OSDI|2000": {
+    "source_id": null,
+    "source_name": null,
+    "n_votes": 0
+  },
+  "OSDI|2002": {
+    "source_id": "https://openalex.org/S50071195",
+    "source_name": "ACM SIGOPS Operating Systems Review",
+    "n_votes": 1
+  },
+  "OSDI|2004": {
+    "source_id": "https://openalex.org/S193109227",
+    "source_name": "ACM Transactions on Computer Systems",
+    "n_votes": 2
+  },
+  "OSDI|2006": {
+    "source_id": "https://openalex.org/S193109227",
+    "source_name": "ACM Transactions on Computer Systems",
+    "n_votes": 2
+  },
+  "OSDI|2008": {
+    "source_id": "https://openalex.org/S4306420647",
+    "source_name": "Operating Systems Design and Implementation",
+    "n_votes": 3
+  },
+  "OSDI|2010": {
+    "source_id": "https://openalex.org/S4306420647",
+    "source_name": "Operating Systems Design and Implementation",
+    "n_votes": 2
+  },
+  "OSDI|2012": {
+    "source_id": null,
+    "source_name": null,
+    "n_votes": 0
+  },
+  "OSDI|2014": {
+    "source_id": "https://openalex.org/S193109227",
+    "source_name": "ACM Transactions on Computer Systems",
+    "n_votes": 3
+  },
+  "OSDI|2016": {
+    "source_id": "https://openalex.org/S4306420647",
+    "source_name": "Operating Systems Design and Implementation",
+    "n_votes": 1
+  },
+  "OSDI|2018": {
+    "source_id": "https://openalex.org/S4306420647",
+    "source_name": "Operating Systems Design and Implementation",
+    "n_votes": 3
+  },
+  "PLDI|2000": {
+    "source_id": null,
+    "source_name": null,
+    "n_votes": 0
+  },
+  "PLDI|2003": {
+    "source_id": "https://openalex.org/S148324379",
+    "source_name": "ACM SIGPLAN Notices",
+    "n_votes": 1
+  },
+  "PLDI|2004": {
+    "source_id": null,
+    "source_name": null,
+    "n_votes": 0
+  },
+  "PLDI|2005": {
+    "source_id": null,
+    "source_name": null,
+    "n_votes": 0
+  },
+  "PLDI|2007": {
+    "source_id": null,
+    "source_name": null,
+    "n_votes": 0
+  },
+  "PLDI|2009": {
+    "source_id": null,
+    "source_name": null,
+    "n_votes": 0
+  },
+  "PLDI|2010": {
+    "source_id": null,
+    "source_name": null,
+    "n_votes": 0
+  },
+  "PLDI|2011": {
+    "source_id": "https://openalex.org/S148324379",
+    "source_name": "ACM SIGPLAN Notices",
+    "n_votes": 1
+  },
+  "PLDI|2012": {
+    "source_id": null,
+    "source_name": null,
+    "n_votes": 0
+  },
+  "PLDI|2013": {
+    "source_id": "https://openalex.org/S4306401796",
+    "source_name": "Rare & Special e-Zone (The Hong Kong University of Science and Technology)",
+    "n_votes": 1
+  },
+  "PLDI|2014": {
+    "source_id": null,
+    "source_name": null,
+    "n_votes": 0
+  },
+  "PLDI|2015": {
+    "source_id": null,
+    "source_name": null,
+    "n_votes": 0
+  },
+  "PLDI|2016": {
+    "source_id": null,
+    "source_name": null,
+    "n_votes": 0
+  },
+  "PLDI|2017": {
+    "source_id": null,
+    "source_name": null,
+    "n_votes": 0
+  },
+  "PLDI|2018": {
+    "source_id": null,
+    "source_name": null,
+    "n_votes": 0
+  },
+  "PODS|2000": {
+    "source_id": null,
+    "source_name": null,
+    "n_votes": 0
+  },
+  "PODS|2001": {
+    "source_id": null,
+    "source_name": null,
+    "n_votes": 0
+  },
+  "PODS|2002": {
+    "source_id": null,
+    "source_name": null,
+    "n_votes": 0
+  },
+  "PODS|2003": {
+    "source_id": null,
+    "source_name": null,
+    "n_votes": 0
+  },
+  "PODS|2004": {
+    "source_id": null,
+    "source_name": null,
+    "n_votes": 0
+  },
+  "PODS|2005": {
+    "source_id": null,
+    "source_name": null,
+    "n_votes": 0
+  },
+  "PODS|2006": {
+    "source_id": "https://openalex.org/S118992489",
+    "source_name": "Journal of the ACM",
+    "n_votes": 1
+  },
+  "PODS|2007": {
+    "source_id": "https://openalex.org/S4306419648",
+    "source_name": "International Conference on Management of Data",
+    "n_votes": 1
+  },
+  "PODS|2008": {
+    "source_id": null,
+    "source_name": null,
+    "n_votes": 0
+  },
+  "PODS|2009": {
+    "source_id": null,
+    "source_name": null,
+    "n_votes": 0
+  },
+  "PODS|2010": {
+    "source_id": null,
+    "source_name": null,
+    "n_votes": 0
+  },
+  "PODS|2011": {
+    "source_id": null,
+    "source_name": null,
+    "n_votes": 0
+  },
+  "PODS|2012": {
+    "source_id": "https://openalex.org/S103870658",
+    "source_name": "PLoS Genetics",
+    "n_votes": 1
+  },
+  "PODS|2013": {
+    "source_id": null,
+    "source_name": null,
+    "n_votes": 0
+  },
+  "PODS|2014": {
+    "source_id": "https://openalex.org/S90119964",
+    "source_name": "ACM Transactions on Database Systems",
+    "n_votes": 1
+  },
+  "PODS|2015": {
+    "source_id": null,
+    "source_name": null,
+    "n_votes": 0
+  },
+  "PODS|2016": {
+    "source_id": null,
+    "source_name": null,
+    "n_votes": 0
+  },
+  "PODS|2017": {
+    "source_id": null,
+    "source_name": null,
+    "n_votes": 0
+  },
+  "PODS|2018": {
+    "source_id": null,
+    "source_name": null,
+    "n_votes": 0
+  },
+  "S&P|2008": {
+    "source_id": "https://openalex.org/S4210233669",
+    "source_name": "Proceedings - IEEE Symposium on Security and Privacy/Proceedings of the ... IEEE Symposium on Security and Privacy",
+    "n_votes": 1
+  },
+  "S&P|2009": {
+    "source_id": "https://openalex.org/S103482838",
+    "source_name": "Communications of the ACM",
+    "n_votes": 1
+  },
+  "S&P|2010": {
+    "source_id": null,
+    "source_name": null,
+    "n_votes": 0
+  },
+  "S&P|2013": {
+    "source_id": "https://openalex.org/S103482838",
+    "source_name": "Communications of the ACM",
+    "n_votes": 1
+  },
+  "S&P|2014": {
+    "source_id": "https://openalex.org/S103482838",
+    "source_name": "Communications of the ACM",
+    "n_votes": 1
+  },
+  "S&P|2015": {
+    "source_id": "https://openalex.org/S103482838",
+    "source_name": "Communications of the ACM",
+    "n_votes": 1
+  },
+  "S&P|2016": {
+    "source_id": null,
+    "source_name": null,
+    "n_votes": 0
+  },
+  "S&P|2017": {
+    "source_id": null,
+    "source_name": null,
+    "n_votes": 0
+  },
+  "S&P|2018": {
+    "source_id": null,
+    "source_name": null,
+    "n_votes": 0
+  },
+  "SIGCOMM|2009": {
+    "source_id": null,
+    "source_name": null,
+    "n_votes": 0
+  },
+  "SIGCOMM|2010": {
+    "source_id": "https://openalex.org/S66039016",
+    "source_name": "ACM SIGCOMM Computer Communication Review",
+    "n_votes": 1
+  },
+  "SIGCOMM|2011": {
+    "source_id": null,
+    "source_name": null,
+    "n_votes": 0
+  },
+  "SIGCOMM|2012": {
+    "source_id": null,
+    "source_name": null,
+    "n_votes": 0
+  },
+  "SIGCOMM|2013": {
+    "source_id": null,
+    "source_name": null,
+    "n_votes": 0
+  },
+  "SIGCOMM|2014": {
+    "source_id": "https://openalex.org/S66039016",
+    "source_name": "ACM SIGCOMM Computer Communication Review",
+    "n_votes": 2
+  },
+  "SIGCOMM|2015": {
+    "source_id": null,
+    "source_name": null,
+    "n_votes": 0
+  },
+  "SIGCOMM|2016": {
+    "source_id": "https://openalex.org/S66039016",
+    "source_name": "ACM SIGCOMM Computer Communication Review",
+    "n_votes": 2
+  },
+  "SIGCOMM|2017": {
+    "source_id": null,
+    "source_name": null,
+    "n_votes": 0
+  },
+  "SIGCOMM|2018": {
+    "source_id": null,
+    "source_name": null,
+    "n_votes": 0
+  },
+  "SIGIR|2000": {
+    "source_id": "https://openalex.org/S6756005",
+    "source_name": "ACM SIGIR Forum",
+    "n_votes": 1
+  },
+  "SIGIR|2001": {
+    "source_id": null,
+    "source_name": null,
+    "n_votes": 0
+  },
+  "SIGIR|2002": {
+    "source_id": null,
+    "source_name": null,
+    "n_votes": 0
+  },
+  "SIGIR|2003": {
+    "source_id": null,
+    "source_name": null,
+    "n_votes": 0
+  },
+  "SIGIR|2004": {
+    "source_id": null,
+    "source_name": null,
+    "n_votes": 0
+  },
+  "SIGIR|2005": {
+    "source_id": null,
+    "source_name": null,
+    "n_votes": 0
+  },
+  "SIGIR|2006": {
+    "source_id": null,
+    "source_name": null,
+    "n_votes": 0
+  },
+  "SIGIR|2007": {
+    "source_id": null,
+    "source_name": null,
+    "n_votes": 0
+  },
+  "SIGIR|2008": {
+    "source_id": null,
+    "source_name": null,
+    "n_votes": 0
+  },
+  "SIGIR|2009": {
+    "source_id": null,
+    "source_name": null,
+    "n_votes": 0
+  },
+  "SIGIR|2010": {
+    "source_id": null,
+    "source_name": null,
+    "n_votes": 0
+  },
+  "SIGIR|2011": {
+    "source_id": null,
+    "source_name": null,
+    "n_votes": 0
+  },
+  "SIGIR|2012": {
+    "source_id": null,
+    "source_name": null,
+    "n_votes": 0
+  },
+  "SIGIR|2013": {
+    "source_id": null,
+    "source_name": null,
+    "n_votes": 0
+  },
+  "SIGIR|2014": {
+    "source_id": null,
+    "source_name": null,
+    "n_votes": 0
+  },
+  "SIGIR|2015": {
+    "source_id": null,
+    "source_name": null,
+    "n_votes": 0
+  },
+  "SIGIR|2016": {
+    "source_id": null,
+    "source_name": null,
+    "n_votes": 0
+  },
+  "SIGIR|2017": {
+    "source_id": "https://openalex.org/S4306402636",
+    "source_name": "Oxford University Research Archive (ORA) (University of Oxford)",
+    "n_votes": 1
+  },
+  "SIGIR|2018": {
+    "source_id": null,
+    "source_name": null,
+    "n_votes": 0
+  },
+  "SIGMETRICS|2004": {
+    "source_id": "https://openalex.org/S4210187660",
+    "source_name": "ACM SIGMETRICS Performance Evaluation Review",
+    "n_votes": 1
+  },
+  "SIGMETRICS|2005": {
+    "source_id": "https://openalex.org/S62238642",
+    "source_name": "IEEE/ACM Transactions on Networking",
+    "n_votes": 1
+  },
+  "SIGMETRICS|2006": {
+    "source_id": null,
+    "source_name": null,
+    "n_votes": 0
+  },
+  "SIGMETRICS|2007": {
+    "source_id": null,
+    "source_name": null,
+    "n_votes": 0
+  },
+  "SIGMETRICS|2008": {
+    "source_id": null,
+    "source_name": null,
+    "n_votes": 0
+  },
+  "SIGMETRICS|2009": {
+    "source_id": "https://openalex.org/S4306462833",
+    "source_name": "Amsterdam University Press eBooks",
+    "n_votes": 1
+  },
+  "SIGMETRICS|2010": {
+    "source_id": null,
+    "source_name": null,
+    "n_votes": 0
+  },
+  "SIGMETRICS|2011": {
+    "source_id": null,
+    "source_name": null,
+    "n_votes": 0
+  },
+  "SIGMETRICS|2012": {
+    "source_id": null,
+    "source_name": null,
+    "n_votes": 0
+  },
+  "SIGMETRICS|2013": {
+    "source_id": null,
+    "source_name": null,
+    "n_votes": 0
+  },
+  "SIGMETRICS|2014": {
+    "source_id": null,
+    "source_name": null,
+    "n_votes": 0
+  },
+  "SIGMETRICS|2015": {
+    "source_id": "https://openalex.org/S4210187660",
+    "source_name": "ACM SIGMETRICS Performance Evaluation Review",
+    "n_votes": 1
+  },
+  "SIGMETRICS|2016": {
+    "source_id": null,
+    "source_name": null,
+    "n_votes": 0
+  },
+  "SIGMETRICS|2017": {
+    "source_id": null,
+    "source_name": null,
+    "n_votes": 0
+  },
+  "SIGMETRICS|2018": {
+    "source_id": "https://openalex.org/S4210193547",
+    "source_name": "Proceedings of the ACM on Measurement and Analysis of Computing Systems",
+    "n_votes": 1
+  },
+  "SIGMOD|2000": {
+    "source_id": null,
+    "source_name": null,
+    "n_votes": 0
+  },
+  "SIGMOD|2001": {
+    "source_id": null,
+    "source_name": null,
+    "n_votes": 0
+  },
+  "SIGMOD|2003": {
+    "source_id": null,
+    "source_name": null,
+    "n_votes": 0
+  },
+  "SIGMOD|2004": {
+    "source_id": null,
+    "source_name": null,
+    "n_votes": 0
+  },
+  "SIGMOD|2006": {
+    "source_id": "https://openalex.org/S4306401019",
+    "source_name": "ePrints Soton (University of Southampton)",
+    "n_votes": 1
+  },
+  "SIGMOD|2007": {
+    "source_id": null,
+    "source_name": null,
+    "n_votes": 0
+  },
+  "SIGMOD|2008": {
+    "source_id": "https://openalex.org/S90119964",
+    "source_name": "ACM Transactions on Database Systems",
+    "n_votes": 1
+  },
+  "SIGMOD|2009": {
+    "source_id": null,
+    "source_name": null,
+    "n_votes": 0
+  },
+  "SIGMOD|2010": {
+    "source_id": null,
+    "source_name": null,
+    "n_votes": 0
+  },
+  "SIGMOD|2011": {
+    "source_id": null,
+    "source_name": null,
+    "n_votes": 0
+  },
+  "SIGMOD|2012": {
+    "source_id": null,
+    "source_name": null,
+    "n_votes": 0
+  },
+  "SIGMOD|2013": {
+    "source_id": null,
+    "source_name": null,
+    "n_votes": 0
+  },
+  "SIGMOD|2014": {
+    "source_id": null,
+    "source_name": null,
+    "n_votes": 0
+  },
+  "SIGMOD|2015": {
+    "source_id": null,
+    "source_name": null,
+    "n_votes": 0
+  },
+  "SIGMOD|2016": {
+    "source_id": null,
+    "source_name": null,
+    "n_votes": 0
+  },
+  "SIGMOD|2017": {
+    "source_id": null,
+    "source_name": null,
+    "n_votes": 0
+  },
+  "SIGMOD|2018": {
+    "source_id": null,
+    "source_name": null,
+    "n_votes": 0
+  },
+  "SODA|2009": {
+    "source_id": "https://openalex.org/S4306420974",
+    "source_name": "Symposium on Discrete Algorithms",
+    "n_votes": 1
+  },
+  "SODA|2010": {
+    "source_id": null,
+    "source_name": null,
+    "n_votes": 0
+  },
+  "SODA|2011": {
+    "source_id": "https://openalex.org/S137348503",
+    "source_name": "ACM Transactions on Algorithms",
+    "n_votes": 1
+  },
+  "SODA|2012": {
+    "source_id": "https://openalex.org/S118992489",
+    "source_name": "Journal of the ACM",
+    "n_votes": 1
+  },
+  "SODA|2013": {
+    "source_id": null,
+    "source_name": null,
+    "n_votes": 0
+  },
+  "SODA|2014": {
+    "source_id": "https://openalex.org/S118992489",
+    "source_name": "Journal of the ACM",
+    "n_votes": 1
+  },
+  "SODA|2015": {
+    "source_id": null,
+    "source_name": null,
+    "n_votes": 0
+  },
+  "SODA|2016": {
+    "source_id": "https://openalex.org/S137348503",
+    "source_name": "ACM Transactions on Algorithms",
+    "n_votes": 1
+  },
+  "SODA|2017": {
+    "source_id": "https://openalex.org/S4306420974",
+    "source_name": "Symposium on Discrete Algorithms",
+    "n_votes": 1
+  },
+  "SODA|2018": {
+    "source_id": "https://openalex.org/S162708223",
+    "source_name": "Atmospheric chemistry and physics",
+    "n_votes": 2
+  },
+  "SOSP|2001": {
+    "source_id": null,
+    "source_name": null,
+    "n_votes": 0
+  },
+  "SOSP|2003": {
+    "source_id": "https://openalex.org/S50071195",
+    "source_name": "ACM SIGOPS Operating Systems Review",
+    "n_votes": 2
+  },
+  "SOSP|2005": {
+    "source_id": "https://openalex.org/S50071195",
+    "source_name": "ACM SIGOPS Operating Systems Review",
+    "n_votes": 2
+  },
+  "SOSP|2007": {
+    "source_id": "https://openalex.org/S193109227",
+    "source_name": "ACM Transactions on Computer Systems",
+    "n_votes": 1
+  },
+  "SOSP|2009": {
+    "source_id": "https://openalex.org/S4377196481",
+    "source_name": "UNSWorks (UNSW Sydney)",
+    "n_votes": 1
+  },
+  "SOSP|2011": {
+    "source_id": "https://openalex.org/S162176842",
+    "source_name": "BioMedical Engineering OnLine",
+    "n_votes": 2
+  },
+  "SOSP|2013": {
+    "source_id": null,
+    "source_name": null,
+    "n_votes": 0
+  },
+  "SOSP|2015": {
+    "source_id": "https://openalex.org/S193109227",
+    "source_name": "ACM Transactions on Computer Systems",
+    "n_votes": 1
+  },
+  "SOSP|2017": {
+    "source_id": "https://openalex.org/S4210227886",
+    "source_name": "GetMobile Mobile Computing and Communications",
+    "n_votes": 1
+  },
+  "STOC|2003": {
+    "source_id": null,
+    "source_name": null,
+    "n_votes": 0
+  },
+  "STOC|2004": {
+    "source_id": null,
+    "source_name": null,
+    "n_votes": 0
+  },
+  "STOC|2005": {
+    "source_id": null,
+    "source_name": null,
+    "n_votes": 0
+  },
+  "STOC|2006": {
+    "source_id": null,
+    "source_name": null,
+    "n_votes": 0
+  },
+  "STOC|2007": {
+    "source_id": "https://openalex.org/S118992489",
+    "source_name": "Journal of the ACM",
+    "n_votes": 1
+  },
+  "STOC|2008": {
+    "source_id": null,
+    "source_name": null,
+    "n_votes": 0
+  },
+  "STOC|2009": {
+    "source_id": null,
+    "source_name": null,
+    "n_votes": 0
+  },
+  "STOC|2010": {
+    "source_id": null,
+    "source_name": null,
+    "n_votes": 0
+  },
+  "STOC|2011": {
+    "source_id": null,
+    "source_name": null,
+    "n_votes": 0
+  },
+  "STOC|2012": {
+    "source_id": null,
+    "source_name": null,
+    "n_votes": 0
+  },
+  "STOC|2013": {
+    "source_id": "https://openalex.org/S118992489",
+    "source_name": "Journal of the ACM",
+    "n_votes": 1
+  },
+  "STOC|2014": {
+    "source_id": null,
+    "source_name": null,
+    "n_votes": 0
+  },
+  "STOC|2015": {
+    "source_id": null,
+    "source_name": null,
+    "n_votes": 0
+  },
+  "STOC|2016": {
+    "source_id": null,
+    "source_name": null,
+    "n_votes": 0
+  },
+  "STOC|2017": {
+    "source_id": null,
+    "source_name": null,
+    "n_votes": 0
+  },
+  "STOC|2018": {
+    "source_id": null,
+    "source_name": null,
+    "n_votes": 0
+  },
+  "UIST|2000": {
+    "source_id": null,
+    "source_name": null,
+    "n_votes": 0
+  },
+  "UIST|2001": {
+    "source_id": null,
+    "source_name": null,
+    "n_votes": 0
+  },
+  "UIST|2002": {
+    "source_id": null,
+    "source_name": null,
+    "n_votes": 0
+  },
+  "UIST|2003": {
+    "source_id": null,
+    "source_name": null,
+    "n_votes": 0
+  },
+  "UIST|2004": {
+    "source_id": "https://openalex.org/S137146891",
+    "source_name": "Laboratory Investigation",
+    "n_votes": 1
+  },
+  "UIST|2005": {
+    "source_id": null,
+    "source_name": null,
+    "n_votes": 0
+  },
+  "UIST|2006": {
+    "source_id": null,
+    "source_name": null,
+    "n_votes": 0
+  },
+  "UIST|2007": {
+    "source_id": null,
+    "source_name": null,
+    "n_votes": 0
+  },
+  "UIST|2008": {
+    "source_id": null,
+    "source_name": null,
+    "n_votes": 0
+  },
+  "UIST|2009": {
+    "source_id": null,
+    "source_name": null,
+    "n_votes": 0
+  },
+  "UIST|2010": {
+    "source_id": null,
+    "source_name": null,
+    "n_votes": 0
+  },
+  "UIST|2011": {
+    "source_id": null,
+    "source_name": null,
+    "n_votes": 0
+  },
+  "UIST|2012": {
+    "source_id": null,
+    "source_name": null,
+    "n_votes": 0
+  },
+  "UIST|2013": {
+    "source_id": null,
+    "source_name": null,
+    "n_votes": 0
+  },
+  "UIST|2014": {
+    "source_id": null,
+    "source_name": null,
+    "n_votes": 0
+  },
+  "UIST|2015": {
+    "source_id": null,
+    "source_name": null,
+    "n_votes": 0
+  },
+  "UIST|2016": {
+    "source_id": null,
+    "source_name": null,
+    "n_votes": 0
+  },
+  "UIST|2017": {
+    "source_id": null,
+    "source_name": null,
+    "n_votes": 0
+  },
+  "UIST|2018": {
+    "source_id": null,
+    "source_name": null,
+    "n_votes": 0
+  },
+  "VLDB|2001": {
+    "source_id": "https://openalex.org/S4306421142",
+    "source_name": "Very Large Data Bases",
+    "n_votes": 1
+  },
+  "VLDB|2004": {
+    "source_id": "https://openalex.org/S4306463230",
+    "source_name": "Elsevier eBooks",
+    "n_votes": 1
+  },
+  "VLDB|2005": {
+    "source_id": "https://openalex.org/S4306421142",
+    "source_name": "Very Large Data Bases",
+    "n_votes": 1
+  },
+  "VLDB|2006": {
+    "source_id": "https://openalex.org/S4306421142",
+    "source_name": "Very Large Data Bases",
+    "n_votes": 1
+  },
+  "VLDB|2007": {
+    "source_id": null,
+    "source_name": null,
+    "n_votes": 0
+  },
+  "VLDB|2008": {
+    "source_id": "https://openalex.org/S106296714",
+    "source_name": "Lecture notes in computer science",
+    "n_votes": 2
+  },
+  "VLDB|2009": {
+    "source_id": "https://openalex.org/S78926909",
+    "source_name": "The VLDB Journal",
+    "n_votes": 1
+  },
+  "VLDB|2010": {
+    "source_id": "https://openalex.org/S78926909",
+    "source_name": "The VLDB Journal",
+    "n_votes": 1
+  },
+  "VLDB|2011": {
+    "source_id": "https://openalex.org/S78926909",
+    "source_name": "The VLDB Journal",
+    "n_votes": 1
+  },
+  "VLDB|2012": {
+    "source_id": "https://openalex.org/S78926909",
+    "source_name": "The VLDB Journal",
+    "n_votes": 1
+  },
+  "VLDB|2013": {
+    "source_id": "https://openalex.org/S4210226185",
+    "source_name": "Proceedings of the VLDB Endowment",
+    "n_votes": 1
+  },
+  "VLDB|2014": {
+    "source_id": "https://openalex.org/S4210226185",
+    "source_name": "Proceedings of the VLDB Endowment",
+    "n_votes": 3
+  },
+  "VLDB|2015": {
+    "source_id": "https://openalex.org/S4210226185",
+    "source_name": "Proceedings of the VLDB Endowment",
+    "n_votes": 1
+  },
+  "VLDB|2016": {
+    "source_id": "https://openalex.org/S78926909",
+    "source_name": "The VLDB Journal",
+    "n_votes": 1
+  },
+  "VLDB|2017": {
+    "source_id": "https://openalex.org/S4210226185",
+    "source_name": "Proceedings of the VLDB Endowment",
+    "n_votes": 1
+  },
+  "VLDB|2018": {
+    "source_id": "https://openalex.org/S2595095599",
+    "source_name": "Frontiers in Robotics and AI",
+    "n_votes": 1
+  },
+  "WWW|2000": {
+    "source_id": "https://openalex.org/S63392143",
+    "source_name": "Computer Networks",
+    "n_votes": 1
+  },
+  "WWW|2001": {
+    "source_id": null,
+    "source_name": null,
+    "n_votes": 0
+  },
+  "WWW|2002": {
+    "source_id": null,
+    "source_name": null,
+    "n_votes": 0
+  },
+  "WWW|2003": {
+    "source_id": "https://openalex.org/S2737205702",
+    "source_name": "Journal of Bioresource Management",
+    "n_votes": 1
+  },
+  "WWW|2004": {
+    "source_id": null,
+    "source_name": null,
+    "n_votes": 0
+  },
+  "WWW|2005": {
+    "source_id": null,
+    "source_name": null,
+    "n_votes": 0
+  },
+  "WWW|2006": {
+    "source_id": null,
+    "source_name": null,
+    "n_votes": 0
+  },
+  "WWW|2007": {
+    "source_id": "https://openalex.org/S103482838",
+    "source_name": "Communications of the ACM",
+    "n_votes": 1
+  },
+  "WWW|2008": {
+    "source_id": null,
+    "source_name": null,
+    "n_votes": 0
+  },
+  "WWW|2009": {
+    "source_id": null,
+    "source_name": null,
+    "n_votes": 0
+  },
+  "WWW|2010": {
+    "source_id": null,
+    "source_name": null,
+    "n_votes": 0
+  },
+  "WWW|2011": {
+    "source_id": null,
+    "source_name": null,
+    "n_votes": 0
+  },
+  "WWW|2012": {
+    "source_id": null,
+    "source_name": null,
+    "n_votes": 0
+  },
+  "WWW|2013": {
+    "source_id": null,
+    "source_name": null,
+    "n_votes": 0
+  },
+  "WWW|2014": {
+    "source_id": null,
+    "source_name": null,
+    "n_votes": 0
+  },
+  "WWW|2015": {
+    "source_id": null,
+    "source_name": null,
+    "n_votes": 0
+  },
+  "WWW|2016": {
+    "source_id": null,
+    "source_name": null,
+    "n_votes": 0
+  },
+  "WWW|2018": {
+    "source_id": null,
+    "source_name": null,
+    "n_votes": 0
+  }
+}

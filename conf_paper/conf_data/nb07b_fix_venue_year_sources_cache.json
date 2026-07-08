@@ -1,0 +1,3586 @@
+{
+  "AAAI|2000": {
+    "source_id": "https://openalex.org/S4306420577",
+    "source_name": "National Conference on Artificial Intelligence",
+    "source_type": "conference",
+    "tier_used": 1,
+    "n_votes": 3,
+    "match_score": null
+  },
+  "AAAI|2002": {
+    "source_id": "https://openalex.org/S4306420577",
+    "source_name": "National Conference on Artificial Intelligence",
+    "source_type": "conference",
+    "tier_used": 1,
+    "n_votes": 1,
+    "match_score": null
+  },
+  "AAAI|2004": {
+    "source_id": "https://openalex.org/S4210169993",
+    "source_name": "Civil War Book Review",
+    "source_type": "journal",
+    "tier_used": 1,
+    "n_votes": 1,
+    "match_score": null
+  },
+  "AAAI|2005": {
+    "source_id": "https://openalex.org/S4306420577",
+    "source_name": "National Conference on Artificial Intelligence",
+    "source_type": "conference",
+    "tier_used": 1,
+    "n_votes": 1,
+    "match_score": null
+  },
+  "AAAI|2006": {
+    "source_id": "https://openalex.org/S4306420577",
+    "source_name": "National Conference on Artificial Intelligence",
+    "source_type": "conference",
+    "tier_used": 1,
+    "n_votes": 2,
+    "match_score": null
+  },
+  "AAAI|2007": {
+    "source_id": "https://openalex.org/S4306420577",
+    "source_name": "National Conference on Artificial Intelligence",
+    "source_type": "conference",
+    "tier_used": 1,
+    "n_votes": 2,
+    "match_score": null
+  },
+  "AAAI|2008": {
+    "source_id": "https://openalex.org/S4306420577",
+    "source_name": "National Conference on Artificial Intelligence",
+    "source_type": "conference",
+    "tier_used": 1,
+    "n_votes": 2,
+    "match_score": null
+  },
+  "AAAI|2010": {
+    "source_id": "https://openalex.org/S4210191458",
+    "source_name": "Proceedings of the AAAI Conference on Artificial Intelligence",
+    "source_type": "conference",
+    "tier_used": 1,
+    "n_votes": 2,
+    "match_score": null
+  },
+  "AAAI|2011": {
+    "source_id": "https://openalex.org/S4210191458",
+    "source_name": "Proceedings of the AAAI Conference on Artificial Intelligence",
+    "source_type": "conference",
+    "tier_used": 1,
+    "n_votes": 2,
+    "match_score": null
+  },
+  "AAAI|2012": {
+    "source_id": "https://openalex.org/S4210191458",
+    "source_name": "Proceedings of the AAAI Conference on Artificial Intelligence",
+    "source_type": "conference",
+    "tier_used": 1,
+    "n_votes": 2,
+    "match_score": null
+  },
+  "AAAI|2013": {
+    "source_id": "https://openalex.org/S4210191458",
+    "source_name": "Proceedings of the AAAI Conference on Artificial Intelligence",
+    "source_type": "conference",
+    "tier_used": 1,
+    "n_votes": 2,
+    "match_score": null
+  },
+  "AAAI|2014": {
+    "source_id": "https://openalex.org/S4306462769",
+    "source_name": "ACM eBooks",
+    "source_type": "ebook platform",
+    "tier_used": 1,
+    "n_votes": 1,
+    "match_score": null
+  },
+  "AAAI|2015": {
+    "source_id": "https://openalex.org/S4210191458",
+    "source_name": "Proceedings of the AAAI Conference on Artificial Intelligence",
+    "source_type": "conference",
+    "tier_used": 1,
+    "n_votes": 1,
+    "match_score": null
+  },
+  "AAAI|2016": {
+    "source_id": "https://openalex.org/S7407053046",
+    "source_name": "University of Alberta Library",
+    "source_type": "repository",
+    "tier_used": 1,
+    "n_votes": 1,
+    "match_score": null
+  },
+  "AAAI|2017": {
+    "source_id": "https://openalex.org/S4210191458",
+    "source_name": "Proceedings of the AAAI Conference on Artificial Intelligence",
+    "source_type": "conference",
+    "tier_used": 1,
+    "n_votes": 1,
+    "match_score": null
+  },
+  "AAAI|2018": {
+    "source_id": "https://openalex.org/S4210191458",
+    "source_name": "Proceedings of the AAAI Conference on Artificial Intelligence",
+    "source_type": "conference",
+    "tier_used": 1,
+    "n_votes": 1,
+    "match_score": null
+  },
+  "ACL|2001": {
+    "source_id": "https://openalex.org/S4406923043",
+    "source_name": "Defense Technical Information Center (DTIC)",
+    "source_type": "repository",
+    "tier_used": 1,
+    "n_votes": 1,
+    "match_score": null
+  },
+  "ACL|2002": {
+    "source_id": "https://openalex.org/S4306401362",
+    "source_name": "RWTH Publications (RWTH Aachen)",
+    "source_type": "repository",
+    "tier_used": 1,
+    "n_votes": 1,
+    "match_score": null
+  },
+  "ACL|2004": {
+    "source_id": "https://openalex.org/S4377196282",
+    "source_name": "Figshare",
+    "source_type": "repository",
+    "tier_used": 1,
+    "n_votes": 1,
+    "match_score": null
+  },
+  "ACL|2007": {
+    "source_id": "https://openalex.org/S4306420508",
+    "source_name": "Meeting of the Association for Computational Linguistics",
+    "source_type": "conference",
+    "tier_used": 1,
+    "n_votes": 1,
+    "match_score": null
+  },
+  "ACL|2008": {
+    "source_id": "https://openalex.org/S4306420508",
+    "source_name": "Meeting of the Association for Computational Linguistics",
+    "source_type": "conference",
+    "tier_used": 1,
+    "n_votes": 2,
+    "match_score": null
+  },
+  "ACL|2009": {
+    "source_id": "https://openalex.org/S4306400425",
+    "source_name": "DSpace@MIT (Massachusetts Institute of Technology)",
+    "source_type": "repository",
+    "tier_used": 1,
+    "n_votes": 1,
+    "match_score": null
+  },
+  "ACL|2010": {
+    "source_id": "https://openalex.org/S4306420508",
+    "source_name": "Meeting of the Association for Computational Linguistics",
+    "source_type": "conference",
+    "tier_used": 1,
+    "n_votes": 1,
+    "match_score": null
+  },
+  "ACL|2011": {
+    "source_id": "https://openalex.org/S4306420508",
+    "source_name": "Meeting of the Association for Computational Linguistics",
+    "source_type": "conference",
+    "tier_used": 1,
+    "n_votes": 1,
+    "match_score": null
+  },
+  "ACL|2012": {
+    "source_id": "https://openalex.org/S4306420508",
+    "source_name": "Meeting of the Association for Computational Linguistics",
+    "source_type": "conference",
+    "tier_used": 1,
+    "n_votes": 1,
+    "match_score": null
+  },
+  "ACL|2013": {
+    "source_id": "https://openalex.org/S4306420508",
+    "source_name": "Meeting of the Association for Computational Linguistics",
+    "source_type": "conference",
+    "tier_used": 1,
+    "n_votes": 1,
+    "match_score": null
+  },
+  "ACL|2017": {
+    "source_id": "https://openalex.org/S4306400194",
+    "source_name": "arXiv (Cornell University)",
+    "source_type": "repository",
+    "tier_used": 1,
+    "n_votes": 1,
+    "match_score": null
+  },
+  "ACL|2018": {
+    "source_id": "https://openalex.org/S4306400194",
+    "source_name": "arXiv (Cornell University)",
+    "source_type": "repository",
+    "tier_used": 1,
+    "n_votes": 2,
+    "match_score": null
+  },
+  "CHI|2005": {
+    "source_id": "https://openalex.org/S4306400188",
+    "source_name": "Durham Research Online (Durham University)",
+    "source_type": "repository",
+    "tier_used": 1,
+    "n_votes": 1,
+    "match_score": null
+  },
+  "CHI|2006": {
+    "source_id": "https://openalex.org/S4306402512",
+    "source_name": "HAL (Le Centre pour la Communication Scientifique Directe)",
+    "source_type": "repository",
+    "tier_used": 1,
+    "n_votes": 1,
+    "match_score": null
+  },
+  "CHI|2007": {
+    "source_id": "https://openalex.org/S53579087",
+    "source_name": "Ground Water",
+    "source_type": "journal",
+    "tier_used": 1,
+    "n_votes": 1,
+    "match_score": null
+  },
+  "CHI|2008": {
+    "source_id": "https://openalex.org/S1535467",
+    "source_name": "African Research Review",
+    "source_type": "journal",
+    "tier_used": 1,
+    "n_votes": 1,
+    "match_score": null
+  },
+  "CHI|2009": {
+    "source_id": "https://openalex.org/S4306401998",
+    "source_name": "Open Research Exeter (University of Exeter)",
+    "source_type": "repository",
+    "tier_used": 1,
+    "n_votes": 1,
+    "match_score": null
+  },
+  "CHI|2010": {
+    "source_id": "https://openalex.org/S4306400194",
+    "source_name": "arXiv (Cornell University)",
+    "source_type": "repository",
+    "tier_used": 1,
+    "n_votes": 1,
+    "match_score": null
+  },
+  "CHI|2011": {
+    "source_id": "https://openalex.org/S4306402512",
+    "source_name": "HAL (Le Centre pour la Communication Scientifique Directe)",
+    "source_type": "repository",
+    "tier_used": 1,
+    "n_votes": 1,
+    "match_score": null
+  },
+  "CHI|2012": {
+    "source_id": "https://openalex.org/S4306401916",
+    "source_name": "Lancaster EPrints (Lancaster University)",
+    "source_type": "repository",
+    "tier_used": 1,
+    "n_votes": 2,
+    "match_score": null
+  },
+  "CHI|2013": {
+    "source_id": "https://openalex.org/S4306402512",
+    "source_name": "HAL (Le Centre pour la Communication Scientifique Directe)",
+    "source_type": "repository",
+    "tier_used": 1,
+    "n_votes": 1,
+    "match_score": null
+  },
+  "CHI|2014": {
+    "source_id": "https://openalex.org/S4306401731",
+    "source_name": "VBN Forskningsportal (Aalborg Universitet)",
+    "source_type": "repository",
+    "tier_used": 1,
+    "n_votes": 1,
+    "match_score": null
+  },
+  "CHI|2015": {
+    "source_id": "https://openalex.org/S4306400230",
+    "source_name": "St Andrews Research Repository (St Andrews Research Repository)",
+    "source_type": "repository",
+    "tier_used": 1,
+    "n_votes": 2,
+    "match_score": null
+  },
+  "CHI|2016": {
+    "source_id": "https://openalex.org/S4306400766",
+    "source_name": "Cork Open Research Archive (University College Cork)",
+    "source_type": "repository",
+    "tier_used": 1,
+    "n_votes": 1,
+    "match_score": null
+  },
+  "CHI|2017": {
+    "source_id": "https://openalex.org/S4306400194",
+    "source_name": "arXiv (Cornell University)",
+    "source_type": "repository",
+    "tier_used": 1,
+    "n_votes": 2,
+    "match_score": null
+  },
+  "CIKM|2008": {
+    "source_id": "https://openalex.org/S4306400944",
+    "source_name": "Research Commons (University of Waikato)",
+    "source_type": "repository",
+    "tier_used": 1,
+    "n_votes": 1,
+    "match_score": null
+  },
+  "CIKM|2010": {
+    "source_id": "https://openalex.org/S4406922265",
+    "source_name": "Max Planck Institute for Plasma Physics",
+    "source_type": "repository",
+    "tier_used": 1,
+    "n_votes": 1,
+    "match_score": null
+  },
+  "CIKM|2012": {
+    "source_id": "https://openalex.org/S4306400792",
+    "source_name": "University of North Texas Digital Library (University of North Texas)",
+    "source_type": "repository",
+    "tier_used": 1,
+    "n_votes": 1,
+    "match_score": null
+  },
+  "CIKM|2015": {
+    "source_id": "https://openalex.org/S4306401913",
+    "source_name": "Institutional Research Information System (Universit\u00e0 degli Studi di Trento)",
+    "source_type": "repository",
+    "tier_used": 1,
+    "n_votes": 1,
+    "match_score": null
+  },
+  "CVPR|2003": {
+    "source_id": "https://openalex.org/S4306402161",
+    "source_name": "CaltechAUTHORS (California Institute of Technology)",
+    "source_type": "repository",
+    "tier_used": 1,
+    "n_votes": 1,
+    "match_score": null
+  },
+  "CVPR|2005": {
+    "source_id": "https://openalex.org/S189275214",
+    "source_name": "Particle and Fibre Toxicology",
+    "source_type": "journal",
+    "tier_used": 1,
+    "n_votes": 1,
+    "match_score": null
+  },
+  "CVPR|2006": {
+    "source_id": "https://openalex.org/S25538012",
+    "source_name": "International Journal of Computer Vision",
+    "source_type": "journal",
+    "tier_used": 1,
+    "n_votes": 1,
+    "match_score": null
+  },
+  "CVPR|2007": {
+    "source_id": "https://openalex.org/S4210187442",
+    "source_name": "Reviews in Mineralogy and Geochemistry",
+    "source_type": "journal",
+    "tier_used": 1,
+    "n_votes": 1,
+    "match_score": null
+  },
+  "CVPR|2008": {
+    "source_id": "https://openalex.org/S4406922265",
+    "source_name": "Max Planck Institute for Plasma Physics",
+    "source_type": "repository",
+    "tier_used": 1,
+    "n_votes": 1,
+    "match_score": null
+  },
+  "CVPR|2009": {
+    "source_id": "https://openalex.org/S4363607795",
+    "source_name": "2009 IEEE Conference on Computer Vision and Pattern Recognition",
+    "source_type": "conference",
+    "tier_used": 1,
+    "n_votes": 1,
+    "match_score": null
+  },
+  "CVPR|2010": {
+    "source_id": "https://openalex.org/S4306402607",
+    "source_name": "QUT ePrints (Queensland University of Technology)",
+    "source_type": "repository",
+    "tier_used": 1,
+    "n_votes": 1,
+    "match_score": null
+  },
+  "CVPR|2011": {
+    "source_id": "https://openalex.org/S103482838",
+    "source_name": "Communications of the ACM",
+    "source_type": "journal",
+    "tier_used": 1,
+    "n_votes": 1,
+    "match_score": null
+  },
+  "CVPR|2012": {
+    "source_id": "https://openalex.org/S25538012",
+    "source_name": "International Journal of Computer Vision",
+    "source_type": "journal",
+    "tier_used": 1,
+    "n_votes": 1,
+    "match_score": null
+  },
+  "CVPR|2016": {
+    "source_id": "https://openalex.org/S4306402641",
+    "source_name": "LA Referencia (Red Federada de Repositorios Institucionales de Publicaciones Cient\u00edficas)",
+    "source_type": "repository",
+    "tier_used": 1,
+    "n_votes": 1,
+    "match_score": null
+  },
+  "CVPR|2017": {
+    "source_id": "https://openalex.org/S4306400194",
+    "source_name": "arXiv (Cornell University)",
+    "source_type": "repository",
+    "tier_used": 1,
+    "n_votes": 1,
+    "match_score": null
+  },
+  "CVPR|2018": {
+    "source_id": "https://openalex.org/S4306400194",
+    "source_name": "arXiv (Cornell University)",
+    "source_type": "repository",
+    "tier_used": 1,
+    "n_votes": 1,
+    "match_score": null
+  },
+  "FOCS|2002": {
+    "source_id": "https://openalex.org/S4306402519",
+    "source_name": "ThinkTech (Texas Tech University)",
+    "source_type": "repository",
+    "tier_used": 1,
+    "n_votes": 1,
+    "match_score": null
+  },
+  "FOCS|2003": {
+    "source_id": "https://openalex.org/S118992489",
+    "source_name": "Journal of the ACM",
+    "source_type": "journal",
+    "tier_used": 1,
+    "n_votes": 1,
+    "match_score": null
+  },
+  "FOCS|2004": {
+    "source_id": "https://openalex.org/S153560523",
+    "source_name": "SIAM Journal on Computing",
+    "source_type": "journal",
+    "tier_used": 1,
+    "n_votes": 1,
+    "match_score": null
+  },
+  "FOCS|2008": {
+    "source_id": "https://openalex.org/S118992489",
+    "source_name": "Journal of the ACM",
+    "source_type": "journal",
+    "tier_used": 1,
+    "n_votes": 1,
+    "match_score": null
+  },
+  "FOCS|2010": {
+    "source_id": "https://openalex.org/S118992489",
+    "source_name": "Journal of the ACM",
+    "source_type": "journal",
+    "tier_used": 1,
+    "n_votes": 2,
+    "match_score": null
+  },
+  "FOCS|2011": {
+    "source_id": "https://openalex.org/S4306400487",
+    "source_name": "Infoscience (Ecole Polytechnique F\u00e9d\u00e9rale de Lausanne)",
+    "source_type": "repository",
+    "tier_used": 1,
+    "n_votes": 2,
+    "match_score": null
+  },
+  "FOCS|2013": {
+    "source_id": "https://openalex.org/S4306400488",
+    "source_name": "Infoscience (Ecole Polytechnique F\u00e9d\u00e9rale de Lausanne)",
+    "source_type": "repository",
+    "tier_used": 1,
+    "n_votes": 1,
+    "match_score": null
+  },
+  "FOCS|2015": {
+    "source_id": "https://openalex.org/S118992489",
+    "source_name": "Journal of the ACM",
+    "source_type": "journal",
+    "tier_used": 1,
+    "n_votes": 1,
+    "match_score": null
+  },
+  "FOCS|2016": {
+    "source_id": "https://openalex.org/S4210233839",
+    "source_name": "ACM SIGecom Exchanges",
+    "source_type": "journal",
+    "tier_used": 1,
+    "n_votes": 2,
+    "match_score": null
+  },
+  "FOCS|2017": {
+    "source_id": "https://openalex.org/S4306400194",
+    "source_name": "arXiv (Cornell University)",
+    "source_type": "repository",
+    "tier_used": 1,
+    "n_votes": 3,
+    "match_score": null
+  },
+  "FOCS|2018": {
+    "source_id": "https://openalex.org/S118992489",
+    "source_name": "Journal of the ACM",
+    "source_type": "journal",
+    "tier_used": 1,
+    "n_votes": 1,
+    "match_score": null
+  },
+  "FSE|2003": {
+    "source_id": "https://openalex.org/S4306400425",
+    "source_name": "DSpace@MIT (Massachusetts Institute of Technology)",
+    "source_type": "repository",
+    "tier_used": 1,
+    "n_votes": 2,
+    "match_score": null
+  },
+  "FSE|2004": {
+    "source_id": "https://openalex.org/S4306400024",
+    "source_name": "UCL Discovery (University College London)",
+    "source_type": "repository",
+    "tier_used": 1,
+    "n_votes": 1,
+    "match_score": null
+  },
+  "FSE|2006": {
+    "source_id": "https://openalex.org/S4306400577",
+    "source_name": "Lincoln (University of Nebraska)",
+    "source_type": "repository",
+    "tier_used": 1,
+    "n_votes": 1,
+    "match_score": null
+  },
+  "FSE|2007": {
+    "source_id": "https://openalex.org/S4306401925",
+    "source_name": "Singapore Management University Institutional Knowledge (InK) (Singapore Management University)",
+    "source_type": "repository",
+    "tier_used": 1,
+    "n_votes": 1,
+    "match_score": null
+  },
+  "FSE|2008": {
+    "source_id": "https://openalex.org/S4306400025",
+    "source_name": "Middlesex University Research Repository (Middlesex University Of London)",
+    "source_type": "repository",
+    "tier_used": 1,
+    "n_votes": 1,
+    "match_score": null
+  },
+  "FSE|2009": {
+    "source_id": "https://openalex.org/S7407052290",
+    "source_name": "National University of Singapore",
+    "source_type": "repository",
+    "tier_used": 1,
+    "n_votes": 1,
+    "match_score": null
+  },
+  "FSE|2012": {
+    "source_id": "https://openalex.org/S7407050879",
+    "source_name": "UC Berkeley",
+    "source_type": "repository",
+    "tier_used": 1,
+    "n_votes": 1,
+    "match_score": null
+  },
+  "FSE|2014": {
+    "source_id": "https://openalex.org/S4306400194",
+    "source_name": "arXiv (Cornell University)",
+    "source_type": "repository",
+    "tier_used": 1,
+    "n_votes": 1,
+    "match_score": null
+  },
+  "FSE|2015": {
+    "source_id": "https://openalex.org/S4306401925",
+    "source_name": "Singapore Management University Institutional Knowledge (InK) (Singapore Management University)",
+    "source_type": "repository",
+    "tier_used": 1,
+    "n_votes": 2,
+    "match_score": null
+  },
+  "ICCV|2001": {
+    "source_id": "https://openalex.org/S25538012",
+    "source_name": "International Journal of Computer Vision",
+    "source_type": "journal",
+    "tier_used": 1,
+    "n_votes": 1,
+    "match_score": null
+  },
+  "ICCV|2003": {
+    "source_id": "https://openalex.org/S25538012",
+    "source_name": "International Journal of Computer Vision",
+    "source_type": "journal",
+    "tier_used": 1,
+    "n_votes": 2,
+    "match_score": null
+  },
+  "ICCV|2005": {
+    "source_id": "https://openalex.org/S25538012",
+    "source_name": "International Journal of Computer Vision",
+    "source_type": "journal",
+    "tier_used": 1,
+    "n_votes": 1,
+    "match_score": null
+  },
+  "ICCV|2007": {
+    "source_id": "https://openalex.org/S25538012",
+    "source_name": "International Journal of Computer Vision",
+    "source_type": "journal",
+    "tier_used": 1,
+    "n_votes": 1,
+    "match_score": null
+  },
+  "ICCV|2017": {
+    "source_id": "https://openalex.org/S4306402512",
+    "source_name": "HAL (Le Centre pour la Communication Scientifique Directe)",
+    "source_type": "repository",
+    "tier_used": 1,
+    "n_votes": 1,
+    "match_score": null
+  },
+  "ICML|2006": {
+    "source_id": "https://openalex.org/S4306400654",
+    "source_name": "MPG.PuRe (Max Planck Society)",
+    "source_type": "repository",
+    "tier_used": 1,
+    "n_votes": 1,
+    "match_score": null
+  },
+  "ICML|2010": {
+    "source_id": "https://openalex.org/S4306400194",
+    "source_name": "arXiv (Cornell University)",
+    "source_type": "repository",
+    "tier_used": 1,
+    "n_votes": 1,
+    "match_score": null
+  },
+  "ICML|2011": {
+    "source_id": "https://openalex.org/S4306400194",
+    "source_name": "arXiv (Cornell University)",
+    "source_type": "repository",
+    "tier_used": 1,
+    "n_votes": 1,
+    "match_score": null
+  },
+  "ICML|2012": {
+    "source_id": "https://openalex.org/S4306400088",
+    "source_name": "UvA-DARE (University of Amsterdam)",
+    "source_type": "repository",
+    "tier_used": 1,
+    "n_votes": 1,
+    "match_score": null
+  },
+  "ICML|2013": {
+    "source_id": "https://openalex.org/S4306400194",
+    "source_name": "arXiv (Cornell University)",
+    "source_type": "repository",
+    "tier_used": 1,
+    "n_votes": 1,
+    "match_score": null
+  },
+  "ICML|2014": {
+    "source_id": "https://openalex.org/S4306419644",
+    "source_name": "International Conference on Machine Learning",
+    "source_type": "conference",
+    "tier_used": 1,
+    "n_votes": 1,
+    "match_score": null
+  },
+  "ICML|2015": {
+    "source_id": "https://openalex.org/S4306400194",
+    "source_name": "arXiv (Cornell University)",
+    "source_type": "repository",
+    "tier_used": 1,
+    "n_votes": 2,
+    "match_score": null
+  },
+  "ICML|2016": {
+    "source_id": "https://openalex.org/S4306400194",
+    "source_name": "arXiv (Cornell University)",
+    "source_type": "repository",
+    "tier_used": 1,
+    "n_votes": 3,
+    "match_score": null
+  },
+  "ICML|2017": {
+    "source_id": "https://openalex.org/S4306400194",
+    "source_name": "arXiv (Cornell University)",
+    "source_type": "repository",
+    "tier_used": 1,
+    "n_votes": 1,
+    "match_score": null
+  },
+  "ICML|2018": {
+    "source_id": "https://openalex.org/S4306400194",
+    "source_name": "arXiv (Cornell University)",
+    "source_type": "repository",
+    "tier_used": 1,
+    "n_votes": 2,
+    "match_score": null
+  },
+  "ICSE|2003": {
+    "source_id": "https://openalex.org/S4306419842",
+    "source_name": "International Conference on Software Engineering",
+    "source_type": "conference",
+    "tier_used": 1,
+    "n_votes": 2,
+    "match_score": null
+  },
+  "ICSE|2004": {
+    "source_id": "https://openalex.org/S142627899",
+    "source_name": "ACM Transactions on Software Engineering and Methodology",
+    "source_type": "journal",
+    "tier_used": 1,
+    "n_votes": 3,
+    "match_score": null
+  },
+  "ICSE|2005": {
+    "source_id": "https://openalex.org/S4306400425",
+    "source_name": "DSpace@MIT (Massachusetts Institute of Technology)",
+    "source_type": "repository",
+    "tier_used": 1,
+    "n_votes": 2,
+    "match_score": null
+  },
+  "ICSE|2007": {
+    "source_id": "https://openalex.org/S4210203175",
+    "source_name": "Proceedings/Proceedings - International Conference on Software Engineering",
+    "source_type": "journal",
+    "tier_used": 1,
+    "n_votes": 3,
+    "match_score": null
+  },
+  "ICSE|2008": {
+    "source_id": "https://openalex.org/S4306401568",
+    "source_name": "eScholarship@McGill (McGill)",
+    "source_type": "repository",
+    "tier_used": 1,
+    "n_votes": 2,
+    "match_score": null
+  },
+  "ICSE|2009": {
+    "source_id": "https://openalex.org/S4306401281",
+    "source_name": "Zurich Open Repository and Archive (University of Zurich)",
+    "source_type": "repository",
+    "tier_used": 1,
+    "n_votes": 1,
+    "match_score": null
+  },
+  "ICSE|2011": {
+    "source_id": "https://openalex.org/S4306400312",
+    "source_name": "Virtual Community of Pathological Anatomy (University of Castilla La Mancha)",
+    "source_type": "repository",
+    "tier_used": 1,
+    "n_votes": 2,
+    "match_score": null
+  },
+  "ICSE|2013": {
+    "source_id": "https://openalex.org/S4363607951",
+    "source_name": "2013 35th International Conference on Software Engineering (ICSE)",
+    "source_type": "conference",
+    "tier_used": 1,
+    "n_votes": 3,
+    "match_score": null
+  },
+  "ICSE|2014": {
+    "source_id": "https://openalex.org/S4306400906",
+    "source_name": "Research Repository (Delft University of Technology)",
+    "source_type": "repository",
+    "tier_used": 1,
+    "n_votes": 2,
+    "match_score": null
+  },
+  "ICSE|2015": {
+    "source_id": "https://openalex.org/S4363607868",
+    "source_name": "2015 IEEE/ACM 37th IEEE International Conference on Software Engineering",
+    "source_type": "conference",
+    "tier_used": 1,
+    "n_votes": 3,
+    "match_score": null
+  },
+  "ICSE|2016": {
+    "source_id": "https://openalex.org/S4306401815",
+    "source_name": "Open Repository and Bibliography (University of Luxembourg)",
+    "source_type": "repository",
+    "tier_used": 1,
+    "n_votes": 2,
+    "match_score": null
+  },
+  "ICSE|2017": {
+    "source_id": "https://openalex.org/S7407055463",
+    "source_name": "ResearchSpace (University of Auckland)",
+    "source_type": "repository",
+    "tier_used": 1,
+    "n_votes": 1,
+    "match_score": null
+  },
+  "ICSE|2018": {
+    "source_id": "https://openalex.org/S4306400194",
+    "source_name": "arXiv (Cornell University)",
+    "source_type": "repository",
+    "tier_used": 1,
+    "n_votes": 3,
+    "match_score": null
+  },
+  "ICWSM|2007": {
+    "source_id": "https://openalex.org/S4306419920",
+    "source_name": "International Conference on Weblogs and Social Media",
+    "source_type": "conference",
+    "tier_used": 1,
+    "n_votes": 1,
+    "match_score": null
+  },
+  "ICWSM|2008": {
+    "source_id": "https://openalex.org/S4387284482",
+    "source_name": "Proceedings of the International AAAI Conference on Web and Social Media",
+    "source_type": "journal",
+    "tier_used": 1,
+    "n_votes": 1,
+    "match_score": null
+  },
+  "ICWSM|2009": {
+    "source_id": "https://openalex.org/S4387284482",
+    "source_name": "Proceedings of the International AAAI Conference on Web and Social Media",
+    "source_type": "journal",
+    "tier_used": 1,
+    "n_votes": 2,
+    "match_score": null
+  },
+  "ICWSM|2010": {
+    "source_id": "https://openalex.org/S4387284482",
+    "source_name": "Proceedings of the International AAAI Conference on Web and Social Media",
+    "source_type": "journal",
+    "tier_used": 1,
+    "n_votes": 2,
+    "match_score": null
+  },
+  "ICWSM|2011": {
+    "source_id": "https://openalex.org/S4387284482",
+    "source_name": "Proceedings of the International AAAI Conference on Web and Social Media",
+    "source_type": "journal",
+    "tier_used": 1,
+    "n_votes": 1,
+    "match_score": null
+  },
+  "ICWSM|2012": {
+    "source_id": "https://openalex.org/S4387284482",
+    "source_name": "Proceedings of the International AAAI Conference on Web and Social Media",
+    "source_type": "journal",
+    "tier_used": 1,
+    "n_votes": 2,
+    "match_score": null
+  },
+  "ICWSM|2013": {
+    "source_id": "https://openalex.org/S4387284482",
+    "source_name": "Proceedings of the International AAAI Conference on Web and Social Media",
+    "source_type": "journal",
+    "tier_used": 1,
+    "n_votes": 1,
+    "match_score": null
+  },
+  "ICWSM|2014": {
+    "source_id": "https://openalex.org/S4387284482",
+    "source_name": "Proceedings of the International AAAI Conference on Web and Social Media",
+    "source_type": "journal",
+    "tier_used": 1,
+    "n_votes": 1,
+    "match_score": null
+  },
+  "ICWSM|2015": {
+    "source_id": "https://openalex.org/S4387284482",
+    "source_name": "Proceedings of the International AAAI Conference on Web and Social Media",
+    "source_type": "journal",
+    "tier_used": 1,
+    "n_votes": 1,
+    "match_score": null
+  },
+  "ICWSM|2016": {
+    "source_id": "https://openalex.org/S4387284482",
+    "source_name": "Proceedings of the International AAAI Conference on Web and Social Media",
+    "source_type": "journal",
+    "tier_used": 1,
+    "n_votes": 1,
+    "match_score": null
+  },
+  "ICWSM|2017": {
+    "source_id": "https://openalex.org/S4387284482",
+    "source_name": "Proceedings of the International AAAI Conference on Web and Social Media",
+    "source_type": "journal",
+    "tier_used": 1,
+    "n_votes": 1,
+    "match_score": null
+  },
+  "ICWSM|2018": {
+    "source_id": "https://openalex.org/S4387284482",
+    "source_name": "Proceedings of the International AAAI Conference on Web and Social Media",
+    "source_type": "journal",
+    "tier_used": 1,
+    "n_votes": 1,
+    "match_score": null
+  },
+  "IJCAI|2001": {
+    "source_id": "https://openalex.org/S12967704",
+    "source_name": "Statistical Science",
+    "source_type": "journal",
+    "tier_used": 1,
+    "n_votes": 1,
+    "match_score": null
+  },
+  "IJCAI|2003": {
+    "source_id": "https://openalex.org/S7407050879",
+    "source_name": "UC Berkeley",
+    "source_type": "repository",
+    "tier_used": 1,
+    "n_votes": 2,
+    "match_score": null
+  },
+  "IJCAI|2005": {
+    "source_id": "https://openalex.org/S4306419999",
+    "source_name": "International Joint Conference on Artificial Intelligence",
+    "source_type": "conference",
+    "tier_used": 1,
+    "n_votes": 3,
+    "match_score": null
+  },
+  "IJCAI|2007": {
+    "source_id": "https://openalex.org/S4306419999",
+    "source_name": "International Joint Conference on Artificial Intelligence",
+    "source_type": "conference",
+    "tier_used": 1,
+    "n_votes": 2,
+    "match_score": null
+  },
+  "IJCAI|2009": {
+    "source_id": "https://openalex.org/S4306402512",
+    "source_name": "HAL (Le Centre pour la Communication Scientifique Directe)",
+    "source_type": "repository",
+    "tier_used": 1,
+    "n_votes": 2,
+    "match_score": null
+  },
+  "IJCAI|2011": {
+    "source_id": "https://openalex.org/S139930977",
+    "source_name": "Journal of Artificial Intelligence Research",
+    "source_type": "journal",
+    "tier_used": 1,
+    "n_votes": 2,
+    "match_score": null
+  },
+  "IJCAI|2013": {
+    "source_id": "https://openalex.org/S4306400906",
+    "source_name": "Research Repository (Delft University of Technology)",
+    "source_type": "repository",
+    "tier_used": 1,
+    "n_votes": 1,
+    "match_score": null
+  },
+  "IJCAI|2015": {
+    "source_id": "https://openalex.org/S4306419999",
+    "source_name": "International Joint Conference on Artificial Intelligence",
+    "source_type": "conference",
+    "tier_used": 1,
+    "n_votes": 2,
+    "match_score": null
+  },
+  "IJCAI|2016": {
+    "source_id": "https://openalex.org/S207023548",
+    "source_name": "Neural Computation",
+    "source_type": "journal",
+    "tier_used": 1,
+    "n_votes": 1,
+    "match_score": null
+  },
+  "IJCAI|2017": {
+    "source_id": "https://openalex.org/S4306400194",
+    "source_name": "arXiv (Cornell University)",
+    "source_type": "repository",
+    "tier_used": 1,
+    "n_votes": 1,
+    "match_score": null
+  },
+  "INFOCOM|2001": {
+    "source_id": "https://openalex.org/S66039016",
+    "source_name": "ACM SIGCOMM Computer Communication Review",
+    "source_type": "journal",
+    "tier_used": 1,
+    "n_votes": 1,
+    "match_score": null
+  },
+  "INFOCOM|2003": {
+    "source_id": "https://openalex.org/S4306402512",
+    "source_name": "HAL (Le Centre pour la Communication Scientifique Directe)",
+    "source_type": "repository",
+    "tier_used": 1,
+    "n_votes": 1,
+    "match_score": null
+  },
+  "INFOCOM|2005": {
+    "source_id": "https://openalex.org/S4306400487",
+    "source_name": "Infoscience (Ecole Polytechnique F\u00e9d\u00e9rale de Lausanne)",
+    "source_type": "repository",
+    "tier_used": 1,
+    "n_votes": 1,
+    "match_score": null
+  },
+  "INFOCOM|2006": {
+    "source_id": "https://openalex.org/S62238642",
+    "source_name": "IEEE/ACM Transactions on Networking",
+    "source_type": "journal",
+    "tier_used": 1,
+    "n_votes": 1,
+    "match_score": null
+  },
+  "INFOCOM|2007": {
+    "source_id": "https://openalex.org/S4306401902",
+    "source_name": "Digital Access to Libraries (Universit\u00e9 catholique de Louvain (UCL), l'Universit\u00e9 de Namur (UNamur) and the Universit\u00e9 Saint-Louis (USL-B))",
+    "source_type": "repository",
+    "tier_used": 1,
+    "n_votes": 1,
+    "match_score": null
+  },
+  "INFOCOM|2008": {
+    "source_id": "https://openalex.org/S62238642",
+    "source_name": "IEEE/ACM Transactions on Networking",
+    "source_type": "journal",
+    "tier_used": 1,
+    "n_votes": 1,
+    "match_score": null
+  },
+  "INFOCOM|2011": {
+    "source_id": "https://openalex.org/S4306401157",
+    "source_name": "Swinburne Research Bank (Swinburne University of Technology)",
+    "source_type": "repository",
+    "tier_used": 1,
+    "n_votes": 1,
+    "match_score": null
+  },
+  "INFOCOM|2014": {
+    "source_id": "https://openalex.org/S62238642",
+    "source_name": "IEEE/ACM Transactions on Networking",
+    "source_type": "journal",
+    "tier_used": 1,
+    "n_votes": 1,
+    "match_score": null
+  },
+  "INFOCOM|2018": {
+    "source_id": "https://openalex.org/S4306400460",
+    "source_name": "Istanbul Technical University Academic Open Archive (Istanbul Technical University)",
+    "source_type": "repository",
+    "tier_used": 1,
+    "n_votes": 2,
+    "match_score": null
+  },
+  "JCDL|2003": {
+    "source_id": "https://openalex.org/S4306417562",
+    "source_name": "ACM/IEEE Joint Conference on Digital Libraries",
+    "source_type": "conference",
+    "tier_used": 1,
+    "n_votes": 1,
+    "match_score": null
+  },
+  "JCDL|2011": {
+    "source_id": "https://openalex.org/S4306402487",
+    "source_name": "OSTI OAI (U.S. Department of Energy Office of Scientific and Technical Information)",
+    "source_type": "repository",
+    "tier_used": 1,
+    "n_votes": 1,
+    "match_score": null
+  },
+  "JCDL|2013": {
+    "source_id": "https://openalex.org/S7407052290",
+    "source_name": "National University of Singapore",
+    "source_type": "repository",
+    "tier_used": 1,
+    "n_votes": 1,
+    "match_score": null
+  },
+  "JCDL|2014": {
+    "source_id": "https://openalex.org/S4363608936",
+    "source_name": "Proceedings of the second ACM/IEEE-CS joint conference on Digital libraries - JCDL '02",
+    "source_type": "conference",
+    "tier_used": 2,
+    "n_votes": 1,
+    "match_score": 1.0
+  },
+  "JCDL|2017": {
+    "source_id": "https://openalex.org/S4306400216",
+    "source_name": "Research Portal (King's College London)",
+    "source_type": "repository",
+    "tier_used": 1,
+    "n_votes": 1,
+    "match_score": null
+  },
+  "JCDL|2018": {
+    "source_id": "https://openalex.org/S4306401843",
+    "source_name": "Data Archiving and Networked Services (DANS)",
+    "source_type": "repository",
+    "tier_used": 1,
+    "n_votes": 2,
+    "match_score": null
+  },
+  "KDD|2005": {
+    "source_id": "https://openalex.org/S19474917",
+    "source_name": "Internet Mathematics",
+    "source_type": "journal",
+    "tier_used": 1,
+    "n_votes": 1,
+    "match_score": null
+  },
+  "KDD|2008": {
+    "source_id": "https://openalex.org/S4306525036",
+    "source_name": "PubMed",
+    "source_type": "repository",
+    "tier_used": 1,
+    "n_votes": 1,
+    "match_score": null
+  },
+  "KDD|2010": {
+    "source_id": "https://openalex.org/S139930977",
+    "source_name": "Journal of Artificial Intelligence Research",
+    "source_type": "journal",
+    "tier_used": 1,
+    "n_votes": 1,
+    "match_score": null
+  },
+  "KDD|2012": {
+    "source_id": "https://openalex.org/S4306525036",
+    "source_name": "PubMed",
+    "source_type": "repository",
+    "tier_used": 1,
+    "n_votes": 1,
+    "match_score": null
+  },
+  "KDD|2015": {
+    "source_id": "https://openalex.org/S4377196107",
+    "source_name": "IRIS Research product catalog (Sapienza University of Rome)",
+    "source_type": "repository",
+    "tier_used": 1,
+    "n_votes": 1,
+    "match_score": null
+  },
+  "KDD|2018": {
+    "source_id": "https://openalex.org/S4306400194",
+    "source_name": "arXiv (Cornell University)",
+    "source_type": "repository",
+    "tier_used": 1,
+    "n_votes": 1,
+    "match_score": null
+  },
+  "MOBICOM|2011": {
+    "source_id": "https://openalex.org/S4210197018",
+    "source_name": "View",
+    "source_type": "journal",
+    "tier_used": 1,
+    "n_votes": 1,
+    "match_score": null
+  },
+  "MOBICOM|2014": {
+    "source_id": "https://openalex.org/S4306401796",
+    "source_name": "Rare & Special e-Zone (The Hong Kong University of Science and Technology)",
+    "source_type": "repository",
+    "tier_used": 1,
+    "n_votes": 1,
+    "match_score": null
+  },
+  "MOBICOM|2015": {
+    "source_id": "https://openalex.org/S4210227886",
+    "source_name": "GetMobile Mobile Computing and Communications",
+    "source_type": "journal",
+    "tier_used": 1,
+    "n_votes": 1,
+    "match_score": null
+  },
+  "MOBICOM|2018": {
+    "source_id": "https://openalex.org/S4210227886",
+    "source_name": "GetMobile Mobile Computing and Communications",
+    "source_type": "journal",
+    "tier_used": 1,
+    "n_votes": 1,
+    "match_score": null
+  },
+  "NeurIPS|2013": {
+    "source_id": "https://openalex.org/S4306400194",
+    "source_name": "arXiv (Cornell University)",
+    "source_type": "repository",
+    "tier_used": 1,
+    "n_votes": 3,
+    "match_score": null
+  },
+  "NeurIPS|2014": {
+    "source_id": "https://openalex.org/S4306400194",
+    "source_name": "arXiv (Cornell University)",
+    "source_type": "repository",
+    "tier_used": 1,
+    "n_votes": 2,
+    "match_score": null
+  },
+  "NeurIPS|2015": {
+    "source_id": "https://openalex.org/S4306420609",
+    "source_name": "Neural Information Processing Systems",
+    "source_type": "conference",
+    "tier_used": 1,
+    "n_votes": 2,
+    "match_score": null
+  },
+  "NeurIPS|2016": {
+    "source_id": "https://openalex.org/S4306401020",
+    "source_name": "ePrints Soton (University of Southampton)",
+    "source_type": "repository",
+    "tier_used": 1,
+    "n_votes": 1,
+    "match_score": null
+  },
+  "NeurIPS|2017": {
+    "source_id": "https://openalex.org/S4306400194",
+    "source_name": "arXiv (Cornell University)",
+    "source_type": "repository",
+    "tier_used": 1,
+    "n_votes": 3,
+    "match_score": null
+  },
+  "NeurIPS|2018": {
+    "source_id": "https://openalex.org/S4306420609",
+    "source_name": "Neural Information Processing Systems",
+    "source_type": "conference",
+    "tier_used": 1,
+    "n_votes": 3,
+    "match_score": null
+  },
+  "OSDI|2002": {
+    "source_id": "https://openalex.org/S50071195",
+    "source_name": "ACM SIGOPS Operating Systems Review",
+    "source_type": "journal",
+    "tier_used": 1,
+    "n_votes": 1,
+    "match_score": null
+  },
+  "OSDI|2004": {
+    "source_id": "https://openalex.org/S193109227",
+    "source_name": "ACM Transactions on Computer Systems",
+    "source_type": "journal",
+    "tier_used": 1,
+    "n_votes": 2,
+    "match_score": null
+  },
+  "OSDI|2006": {
+    "source_id": "https://openalex.org/S193109227",
+    "source_name": "ACM Transactions on Computer Systems",
+    "source_type": "journal",
+    "tier_used": 1,
+    "n_votes": 2,
+    "match_score": null
+  },
+  "OSDI|2008": {
+    "source_id": "https://openalex.org/S4306420647",
+    "source_name": "Operating Systems Design and Implementation",
+    "source_type": "conference",
+    "tier_used": 1,
+    "n_votes": 3,
+    "match_score": null
+  },
+  "OSDI|2010": {
+    "source_id": "https://openalex.org/S4306420647",
+    "source_name": "Operating Systems Design and Implementation",
+    "source_type": "conference",
+    "tier_used": 1,
+    "n_votes": 2,
+    "match_score": null
+  },
+  "OSDI|2014": {
+    "source_id": "https://openalex.org/S193109227",
+    "source_name": "ACM Transactions on Computer Systems",
+    "source_type": "journal",
+    "tier_used": 1,
+    "n_votes": 3,
+    "match_score": null
+  },
+  "OSDI|2016": {
+    "source_id": "https://openalex.org/S4306420647",
+    "source_name": "Operating Systems Design and Implementation",
+    "source_type": "conference",
+    "tier_used": 1,
+    "n_votes": 1,
+    "match_score": null
+  },
+  "OSDI|2018": {
+    "source_id": "https://openalex.org/S4306420647",
+    "source_name": "Operating Systems Design and Implementation",
+    "source_type": "conference",
+    "tier_used": 1,
+    "n_votes": 3,
+    "match_score": null
+  },
+  "PLDI|2003": {
+    "source_id": "https://openalex.org/S148324379",
+    "source_name": "ACM SIGPLAN Notices",
+    "source_type": "journal",
+    "tier_used": 1,
+    "n_votes": 1,
+    "match_score": null
+  },
+  "PLDI|2011": {
+    "source_id": "https://openalex.org/S148324379",
+    "source_name": "ACM SIGPLAN Notices",
+    "source_type": "journal",
+    "tier_used": 1,
+    "n_votes": 1,
+    "match_score": null
+  },
+  "PLDI|2013": {
+    "source_id": "https://openalex.org/S4306401796",
+    "source_name": "Rare & Special e-Zone (The Hong Kong University of Science and Technology)",
+    "source_type": "repository",
+    "tier_used": 1,
+    "n_votes": 1,
+    "match_score": null
+  },
+  "PLDI|2014": {
+    "source_id": "https://openalex.org/S4377196264",
+    "source_name": "Kent Academic Repository (University of Kent)",
+    "source_type": "repository",
+    "tier_used": 1,
+    "n_votes": 1,
+    "match_score": null
+  },
+  "PLDI|2015": {
+    "source_id": "https://openalex.org/S4306400757",
+    "source_name": "eCommons (Cornell University)",
+    "source_type": "repository",
+    "tier_used": 1,
+    "n_votes": 1,
+    "match_score": null
+  },
+  "PLDI|2016": {
+    "source_id": "https://openalex.org/S4306401777",
+    "source_name": "Apollo (University of Cambridge)",
+    "source_type": "repository",
+    "tier_used": 1,
+    "n_votes": 2,
+    "match_score": null
+  },
+  "PLDI|2017": {
+    "source_id": "https://openalex.org/S4306400662",
+    "source_name": "Research Explorer (The University of Manchester)",
+    "source_type": "repository",
+    "tier_used": 1,
+    "n_votes": 2,
+    "match_score": null
+  },
+  "PLDI|2018": {
+    "source_id": "https://openalex.org/S4306400194",
+    "source_name": "arXiv (Cornell University)",
+    "source_type": "repository",
+    "tier_used": 1,
+    "n_votes": 1,
+    "match_score": null
+  },
+  "PODS|2002": {
+    "source_id": "https://openalex.org/S4306400487",
+    "source_name": "Infoscience (Ecole Polytechnique F\u00e9d\u00e9rale de Lausanne)",
+    "source_type": "repository",
+    "tier_used": 1,
+    "n_votes": 1,
+    "match_score": null
+  },
+  "PODS|2004": {
+    "source_id": "https://openalex.org/S4306400088",
+    "source_name": "UvA-DARE (University of Amsterdam)",
+    "source_type": "repository",
+    "tier_used": 1,
+    "n_votes": 1,
+    "match_score": null
+  },
+  "PODS|2005": {
+    "source_id": "https://openalex.org/S4306401926",
+    "source_name": "Document Server@UHasselt (UHasselt)",
+    "source_type": "repository",
+    "tier_used": 1,
+    "n_votes": 1,
+    "match_score": null
+  },
+  "PODS|2006": {
+    "source_id": "https://openalex.org/S118992489",
+    "source_name": "Journal of the ACM",
+    "source_type": "journal",
+    "tier_used": 1,
+    "n_votes": 1,
+    "match_score": null
+  },
+  "PODS|2007": {
+    "source_id": "https://openalex.org/S4306419648",
+    "source_name": "International Conference on Management of Data",
+    "source_type": "conference",
+    "tier_used": 1,
+    "n_votes": 1,
+    "match_score": null
+  },
+  "PODS|2009": {
+    "source_id": "https://openalex.org/S4306402636",
+    "source_name": "Oxford University Research Archive (ORA) (University of Oxford)",
+    "source_type": "repository",
+    "tier_used": 1,
+    "n_votes": 1,
+    "match_score": null
+  },
+  "PODS|2010": {
+    "source_id": "https://openalex.org/S4306401540",
+    "source_name": "Digital Access to Scholarship at Harvard (DASH) (Harvard University)",
+    "source_type": "repository",
+    "tier_used": 1,
+    "n_votes": 1,
+    "match_score": null
+  },
+  "PODS|2012": {
+    "source_id": "https://openalex.org/S103870658",
+    "source_name": "PLoS Genetics",
+    "source_type": "journal",
+    "tier_used": 1,
+    "n_votes": 1,
+    "match_score": null
+  },
+  "PODS|2013": {
+    "source_id": "https://openalex.org/S4306402512",
+    "source_name": "HAL (Le Centre pour la Communication Scientifique Directe)",
+    "source_type": "repository",
+    "tier_used": 1,
+    "n_votes": 1,
+    "match_score": null
+  },
+  "PODS|2014": {
+    "source_id": "https://openalex.org/S90119964",
+    "source_name": "ACM Transactions on Database Systems",
+    "source_type": "journal",
+    "tier_used": 1,
+    "n_votes": 1,
+    "match_score": null
+  },
+  "PODS|2015": {
+    "source_id": "https://openalex.org/S4306401926",
+    "source_name": "Document Server@UHasselt (UHasselt)",
+    "source_type": "repository",
+    "tier_used": 1,
+    "n_votes": 1,
+    "match_score": null
+  },
+  "PODS|2017": {
+    "source_id": "https://openalex.org/S4306400194",
+    "source_name": "arXiv (Cornell University)",
+    "source_type": "repository",
+    "tier_used": 1,
+    "n_votes": 1,
+    "match_score": null
+  },
+  "S&P|2008": {
+    "source_id": "https://openalex.org/S4210233669",
+    "source_name": "Proceedings - IEEE Symposium on Security and Privacy/Proceedings of the ... IEEE Symposium on Security and Privacy",
+    "source_type": "journal",
+    "tier_used": 1,
+    "n_votes": 1,
+    "match_score": null
+  },
+  "S&P|2009": {
+    "source_id": "https://openalex.org/S103482838",
+    "source_name": "Communications of the ACM",
+    "source_type": "journal",
+    "tier_used": 1,
+    "n_votes": 1,
+    "match_score": null
+  },
+  "S&P|2013": {
+    "source_id": "https://openalex.org/S103482838",
+    "source_name": "Communications of the ACM",
+    "source_type": "journal",
+    "tier_used": 1,
+    "n_votes": 1,
+    "match_score": null
+  },
+  "S&P|2014": {
+    "source_id": "https://openalex.org/S103482838",
+    "source_name": "Communications of the ACM",
+    "source_type": "journal",
+    "tier_used": 1,
+    "n_votes": 1,
+    "match_score": null
+  },
+  "S&P|2015": {
+    "source_id": "https://openalex.org/S103482838",
+    "source_name": "Communications of the ACM",
+    "source_type": "journal",
+    "tier_used": 1,
+    "n_votes": 2,
+    "match_score": null
+  },
+  "S&P|2017": {
+    "source_id": "https://openalex.org/S4306402512",
+    "source_name": "HAL (Le Centre pour la Communication Scientifique Directe)",
+    "source_type": "repository",
+    "tier_used": 1,
+    "n_votes": 1,
+    "match_score": null
+  },
+  "S&P|2018": {
+    "source_id": "https://openalex.org/S4306400024",
+    "source_name": "UCL Discovery (University College London)",
+    "source_type": "repository",
+    "tier_used": 1,
+    "n_votes": 2,
+    "match_score": null
+  },
+  "SIGCOMM|2010": {
+    "source_id": "https://openalex.org/S66039016",
+    "source_name": "ACM SIGCOMM Computer Communication Review",
+    "source_type": "journal",
+    "tier_used": 1,
+    "n_votes": 1,
+    "match_score": null
+  },
+  "SIGCOMM|2011": {
+    "source_id": "https://openalex.org/S4306400425",
+    "source_name": "DSpace@MIT (Massachusetts Institute of Technology)",
+    "source_type": "repository",
+    "tier_used": 1,
+    "n_votes": 1,
+    "match_score": null
+  },
+  "SIGCOMM|2012": {
+    "source_id": "https://openalex.org/S7407050879",
+    "source_name": "UC Berkeley",
+    "source_type": "repository",
+    "tier_used": 1,
+    "n_votes": 1,
+    "match_score": null
+  },
+  "SIGCOMM|2014": {
+    "source_id": "https://openalex.org/S66039016",
+    "source_name": "ACM SIGCOMM Computer Communication Review",
+    "source_type": "journal",
+    "tier_used": 1,
+    "n_votes": 2,
+    "match_score": null
+  },
+  "SIGCOMM|2015": {
+    "source_id": "https://openalex.org/S4306401902",
+    "source_name": "Digital Access to Libraries (Universit\u00e9 catholique de Louvain (UCL), l'Universit\u00e9 de Namur (UNamur) and the Universit\u00e9 Saint-Louis (USL-B))",
+    "source_type": "repository",
+    "tier_used": 1,
+    "n_votes": 1,
+    "match_score": null
+  },
+  "SIGCOMM|2016": {
+    "source_id": "https://openalex.org/S66039016",
+    "source_name": "ACM SIGCOMM Computer Communication Review",
+    "source_type": "journal",
+    "tier_used": 1,
+    "n_votes": 3,
+    "match_score": null
+  },
+  "SIGCOMM|2017": {
+    "source_id": "https://openalex.org/S4306400024",
+    "source_name": "UCL Discovery (University College London)",
+    "source_type": "repository",
+    "tier_used": 1,
+    "n_votes": 2,
+    "match_score": null
+  },
+  "SIGCOMM|2018": {
+    "source_id": "https://openalex.org/S4306400944",
+    "source_name": "Research Commons (University of Waikato)",
+    "source_type": "repository",
+    "tier_used": 1,
+    "n_votes": 1,
+    "match_score": null
+  },
+  "SIGIR|2000": {
+    "source_id": "https://openalex.org/S6756005",
+    "source_name": "ACM SIGIR Forum",
+    "source_type": "journal",
+    "tier_used": 1,
+    "n_votes": 1,
+    "match_score": null
+  },
+  "SIGIR|2003": {
+    "source_id": "https://openalex.org/S4306402226",
+    "source_name": "Strathprints: The University of Strathclyde institutional repository (University of Strathclyde)",
+    "source_type": "repository",
+    "tier_used": 1,
+    "n_votes": 1,
+    "match_score": null
+  },
+  "SIGIR|2006": {
+    "source_id": "https://openalex.org/S4306402240",
+    "source_name": "ScholarWorks@UMassAmherst (University of Massachusetts Amherst)",
+    "source_type": "repository",
+    "tier_used": 1,
+    "n_votes": 1,
+    "match_score": null
+  },
+  "SIGIR|2014": {
+    "source_id": "https://openalex.org/S7407055261",
+    "source_name": "ISTI Open Portal",
+    "source_type": "repository",
+    "tier_used": 1,
+    "n_votes": 1,
+    "match_score": null
+  },
+  "SIGIR|2015": {
+    "source_id": "https://openalex.org/S4377196265",
+    "source_name": "CINECA IRIS Institutial research information system (University of Pisa)",
+    "source_type": "repository",
+    "tier_used": 1,
+    "n_votes": 1,
+    "match_score": null
+  },
+  "SIGIR|2016": {
+    "source_id": "https://openalex.org/S4210235606",
+    "source_name": "ENLIGHTEN (Jurnal Bimbingan dan Konseling Islam)",
+    "source_type": "journal",
+    "tier_used": 1,
+    "n_votes": 1,
+    "match_score": null
+  },
+  "SIGIR|2017": {
+    "source_id": "https://openalex.org/S4306402636",
+    "source_name": "Oxford University Research Archive (ORA) (University of Oxford)",
+    "source_type": "repository",
+    "tier_used": 1,
+    "n_votes": 1,
+    "match_score": null
+  },
+  "SIGMETRICS|2004": {
+    "source_id": "https://openalex.org/S4210187660",
+    "source_name": "ACM SIGMETRICS Performance Evaluation Review",
+    "source_type": "journal",
+    "tier_used": 1,
+    "n_votes": 1,
+    "match_score": null
+  },
+  "SIGMETRICS|2005": {
+    "source_id": "https://openalex.org/S62238642",
+    "source_name": "IEEE/ACM Transactions on Networking",
+    "source_type": "journal",
+    "tier_used": 1,
+    "n_votes": 1,
+    "match_score": null
+  },
+  "SIGMETRICS|2009": {
+    "source_id": "https://openalex.org/S4306462833",
+    "source_name": "Amsterdam University Press eBooks",
+    "source_type": "ebook platform",
+    "tier_used": 1,
+    "n_votes": 1,
+    "match_score": null
+  },
+  "SIGMETRICS|2013": {
+    "source_id": "https://openalex.org/S4306400425",
+    "source_name": "DSpace@MIT (Massachusetts Institute of Technology)",
+    "source_type": "repository",
+    "tier_used": 1,
+    "n_votes": 1,
+    "match_score": null
+  },
+  "SIGMETRICS|2014": {
+    "source_id": "https://openalex.org/S4306400088",
+    "source_name": "UvA-DARE (University of Amsterdam)",
+    "source_type": "repository",
+    "tier_used": 1,
+    "n_votes": 1,
+    "match_score": null
+  },
+  "SIGMETRICS|2015": {
+    "source_id": "https://openalex.org/S4210187660",
+    "source_name": "ACM SIGMETRICS Performance Evaluation Review",
+    "source_type": "journal",
+    "tier_used": 1,
+    "n_votes": 1,
+    "match_score": null
+  },
+  "SIGMETRICS|2017": {
+    "source_id": "https://openalex.org/S4306401396",
+    "source_name": "Spiral (Imperial College London)",
+    "source_type": "repository",
+    "tier_used": 1,
+    "n_votes": 1,
+    "match_score": null
+  },
+  "SIGMETRICS|2018": {
+    "source_id": "https://openalex.org/S4210193547",
+    "source_name": "Proceedings of the ACM on Measurement and Analysis of Computing Systems",
+    "source_type": "journal",
+    "tier_used": 1,
+    "n_votes": 1,
+    "match_score": null
+  },
+  "SIGMOD|2004": {
+    "source_id": "https://openalex.org/S4377196297",
+    "source_name": "cIRcle (University of British Columbia)",
+    "source_type": "repository",
+    "tier_used": 1,
+    "n_votes": 1,
+    "match_score": null
+  },
+  "SIGMOD|2006": {
+    "source_id": "https://openalex.org/S4306401019",
+    "source_name": "ePrints Soton (University of Southampton)",
+    "source_type": "repository",
+    "tier_used": 1,
+    "n_votes": 1,
+    "match_score": null
+  },
+  "SIGMOD|2008": {
+    "source_id": "https://openalex.org/S90119964",
+    "source_name": "ACM Transactions on Database Systems",
+    "source_type": "journal",
+    "tier_used": 1,
+    "n_votes": 1,
+    "match_score": null
+  },
+  "SIGMOD|2013": {
+    "source_id": "https://openalex.org/S4306402388",
+    "source_name": "Queensland's institutional digital repository (The University of Queensland)",
+    "source_type": "repository",
+    "tier_used": 1,
+    "n_votes": 1,
+    "match_score": null
+  },
+  "SIGMOD|2016": {
+    "source_id": "https://openalex.org/S4306401796",
+    "source_name": "Rare & Special e-Zone (The Hong Kong University of Science and Technology)",
+    "source_type": "repository",
+    "tier_used": 1,
+    "n_votes": 1,
+    "match_score": null
+  },
+  "SIGMOD|2017": {
+    "source_id": "https://openalex.org/S4406922455",
+    "source_name": "Edinburgh Research Explorer",
+    "source_type": "repository",
+    "tier_used": 1,
+    "n_votes": 1,
+    "match_score": null
+  },
+  "SODA|2009": {
+    "source_id": "https://openalex.org/S4306420974",
+    "source_name": "Symposium on Discrete Algorithms",
+    "source_type": "conference",
+    "tier_used": 1,
+    "n_votes": 1,
+    "match_score": null
+  },
+  "SODA|2011": {
+    "source_id": "https://openalex.org/S137348503",
+    "source_name": "ACM Transactions on Algorithms",
+    "source_type": "journal",
+    "tier_used": 1,
+    "n_votes": 1,
+    "match_score": null
+  },
+  "SODA|2012": {
+    "source_id": "https://openalex.org/S118992489",
+    "source_name": "Journal of the ACM",
+    "source_type": "journal",
+    "tier_used": 1,
+    "n_votes": 1,
+    "match_score": null
+  },
+  "SODA|2013": {
+    "source_id": "https://openalex.org/S4306401983",
+    "source_name": "Research at the University of Copenhagen (University of Copenhagen)",
+    "source_type": "repository",
+    "tier_used": 1,
+    "n_votes": 1,
+    "match_score": null
+  },
+  "SODA|2014": {
+    "source_id": "https://openalex.org/S118992489",
+    "source_name": "Journal of the ACM",
+    "source_type": "journal",
+    "tier_used": 1,
+    "n_votes": 2,
+    "match_score": null
+  },
+  "SODA|2016": {
+    "source_id": "https://openalex.org/S137348503",
+    "source_name": "ACM Transactions on Algorithms",
+    "source_type": "journal",
+    "tier_used": 1,
+    "n_votes": 1,
+    "match_score": null
+  },
+  "SODA|2017": {
+    "source_id": "https://openalex.org/S4306420974",
+    "source_name": "Symposium on Discrete Algorithms",
+    "source_type": "conference",
+    "tier_used": 1,
+    "n_votes": 1,
+    "match_score": null
+  },
+  "SODA|2018": {
+    "source_id": "https://openalex.org/S162708223",
+    "source_name": "Atmospheric chemistry and physics",
+    "source_type": "journal",
+    "tier_used": 1,
+    "n_votes": 2,
+    "match_score": null
+  },
+  "SOSP|2003": {
+    "source_id": "https://openalex.org/S50071195",
+    "source_name": "ACM SIGOPS Operating Systems Review",
+    "source_type": "journal",
+    "tier_used": 1,
+    "n_votes": 2,
+    "match_score": null
+  },
+  "SOSP|2005": {
+    "source_id": "https://openalex.org/S50071195",
+    "source_name": "ACM SIGOPS Operating Systems Review",
+    "source_type": "journal",
+    "tier_used": 1,
+    "n_votes": 2,
+    "match_score": null
+  },
+  "SOSP|2007": {
+    "source_id": "https://openalex.org/S193109227",
+    "source_name": "ACM Transactions on Computer Systems",
+    "source_type": "journal",
+    "tier_used": 1,
+    "n_votes": 2,
+    "match_score": null
+  },
+  "SOSP|2009": {
+    "source_id": "https://openalex.org/S4377196481",
+    "source_name": "UNSWorks (UNSW Sydney)",
+    "source_type": "repository",
+    "tier_used": 1,
+    "n_votes": 1,
+    "match_score": null
+  },
+  "SOSP|2011": {
+    "source_id": "https://openalex.org/S162176842",
+    "source_name": "BioMedical Engineering OnLine",
+    "source_type": "journal",
+    "tier_used": 1,
+    "n_votes": 2,
+    "match_score": null
+  },
+  "SOSP|2013": {
+    "source_id": "https://openalex.org/S4306400425",
+    "source_name": "DSpace@MIT (Massachusetts Institute of Technology)",
+    "source_type": "repository",
+    "tier_used": 1,
+    "n_votes": 1,
+    "match_score": null
+  },
+  "SOSP|2015": {
+    "source_id": "https://openalex.org/S193109227",
+    "source_name": "ACM Transactions on Computer Systems",
+    "source_type": "journal",
+    "tier_used": 1,
+    "n_votes": 2,
+    "match_score": null
+  },
+  "SOSP|2017": {
+    "source_id": "https://openalex.org/S4306400194",
+    "source_name": "arXiv (Cornell University)",
+    "source_type": "repository",
+    "tier_used": 1,
+    "n_votes": 2,
+    "match_score": null
+  },
+  "STOC|2004": {
+    "source_id": "https://openalex.org/S118992489",
+    "source_name": "Journal of the ACM",
+    "source_type": "journal",
+    "tier_used": 1,
+    "n_votes": 1,
+    "match_score": null
+  },
+  "STOC|2005": {
+    "source_id": "https://openalex.org/S11189987",
+    "source_name": "Electronic colloquium on computational complexity",
+    "source_type": "journal",
+    "tier_used": 1,
+    "n_votes": 1,
+    "match_score": null
+  },
+  "STOC|2006": {
+    "source_id": "https://openalex.org/S118992489",
+    "source_name": "Journal of the ACM",
+    "source_type": "journal",
+    "tier_used": 1,
+    "n_votes": 1,
+    "match_score": null
+  },
+  "STOC|2007": {
+    "source_id": "https://openalex.org/S118992489",
+    "source_name": "Journal of the ACM",
+    "source_type": "journal",
+    "tier_used": 1,
+    "n_votes": 1,
+    "match_score": null
+  },
+  "STOC|2010": {
+    "source_id": "https://openalex.org/S7407052290",
+    "source_name": "National University of Singapore",
+    "source_type": "repository",
+    "tier_used": 1,
+    "n_votes": 2,
+    "match_score": null
+  },
+  "STOC|2011": {
+    "source_id": "https://openalex.org/S4306400425",
+    "source_name": "DSpace@MIT (Massachusetts Institute of Technology)",
+    "source_type": "repository",
+    "tier_used": 1,
+    "n_votes": 1,
+    "match_score": null
+  },
+  "STOC|2012": {
+    "source_id": "https://openalex.org/S4306400088",
+    "source_name": "UvA-DARE (University of Amsterdam)",
+    "source_type": "repository",
+    "tier_used": 1,
+    "n_votes": 1,
+    "match_score": null
+  },
+  "STOC|2013": {
+    "source_id": "https://openalex.org/S118992489",
+    "source_name": "Journal of the ACM",
+    "source_type": "journal",
+    "tier_used": 1,
+    "n_votes": 1,
+    "match_score": null
+  },
+  "STOC|2016": {
+    "source_id": "https://openalex.org/S45918994",
+    "source_name": "Annals of Mathematics",
+    "source_type": "journal",
+    "tier_used": 1,
+    "n_votes": 2,
+    "match_score": null
+  },
+  "STOC|2017": {
+    "source_id": "https://openalex.org/S4306509107",
+    "source_name": "Electron. Colloquium Comput. Complex.",
+    "source_type": "journal",
+    "tier_used": 1,
+    "n_votes": 3,
+    "match_score": null
+  },
+  "STOC|2018": {
+    "source_id": "https://openalex.org/S4306400050",
+    "source_name": "London School of Economics and Political Science Theses Online (London School of Economics and Political Science)",
+    "source_type": "repository",
+    "tier_used": 1,
+    "n_votes": 1,
+    "match_score": null
+  },
+  "UIST|2004": {
+    "source_id": "https://openalex.org/S137146891",
+    "source_name": "Laboratory Investigation",
+    "source_type": "journal",
+    "tier_used": 1,
+    "n_votes": 1,
+    "match_score": null
+  },
+  "UIST|2010": {
+    "source_id": "https://openalex.org/S4210172555",
+    "source_name": "Journal of International Crisis and Risk Communication Research",
+    "source_type": "journal",
+    "tier_used": 1,
+    "n_votes": 1,
+    "match_score": null
+  },
+  "UIST|2013": {
+    "source_id": "https://openalex.org/S4306400425",
+    "source_name": "DSpace@MIT (Massachusetts Institute of Technology)",
+    "source_type": "repository",
+    "tier_used": 1,
+    "n_votes": 1,
+    "match_score": null
+  },
+  "UIST|2015": {
+    "source_id": "https://openalex.org/S4306402591",
+    "source_name": "Edinburgh Napier Research Repository (Edinburgh Napier University)",
+    "source_type": "repository",
+    "tier_used": 1,
+    "n_votes": 2,
+    "match_score": null
+  },
+  "UIST|2016": {
+    "source_id": "https://openalex.org/S4306400425",
+    "source_name": "DSpace@MIT (Massachusetts Institute of Technology)",
+    "source_type": "repository",
+    "tier_used": 1,
+    "n_votes": 3,
+    "match_score": null
+  },
+  "UIST|2017": {
+    "source_id": "https://openalex.org/S4306400194",
+    "source_name": "arXiv (Cornell University)",
+    "source_type": "repository",
+    "tier_used": 1,
+    "n_votes": 1,
+    "match_score": null
+  },
+  "UIST|2018": {
+    "source_id": "https://openalex.org/S4210197018",
+    "source_name": "View",
+    "source_type": "journal",
+    "tier_used": 1,
+    "n_votes": 1,
+    "match_score": null
+  },
+  "VLDB|2001": {
+    "source_id": "https://openalex.org/S4306400487",
+    "source_name": "Infoscience (Ecole Polytechnique F\u00e9d\u00e9rale de Lausanne)",
+    "source_type": "repository",
+    "tier_used": 1,
+    "n_votes": 1,
+    "match_score": null
+  },
+  "VLDB|2004": {
+    "source_id": "https://openalex.org/S4306463230",
+    "source_name": "Elsevier eBooks",
+    "source_type": "ebook platform",
+    "tier_used": 1,
+    "n_votes": 1,
+    "match_score": null
+  },
+  "VLDB|2005": {
+    "source_id": "https://openalex.org/S4306421142",
+    "source_name": "Very Large Data Bases",
+    "source_type": "conference",
+    "tier_used": 1,
+    "n_votes": 1,
+    "match_score": null
+  },
+  "VLDB|2006": {
+    "source_id": "https://openalex.org/S4306421142",
+    "source_name": "Very Large Data Bases",
+    "source_type": "conference",
+    "tier_used": 1,
+    "n_votes": 1,
+    "match_score": null
+  },
+  "VLDB|2008": {
+    "source_id": "https://openalex.org/S106296714",
+    "source_name": "Lecture notes in computer science",
+    "source_type": "book series",
+    "tier_used": 1,
+    "n_votes": 2,
+    "match_score": null
+  },
+  "VLDB|2009": {
+    "source_id": "https://openalex.org/S78926909",
+    "source_name": "The VLDB Journal",
+    "source_type": "journal",
+    "tier_used": 1,
+    "n_votes": 1,
+    "match_score": null
+  },
+  "VLDB|2010": {
+    "source_id": "https://openalex.org/S78926909",
+    "source_name": "The VLDB Journal",
+    "source_type": "journal",
+    "tier_used": 1,
+    "n_votes": 1,
+    "match_score": null
+  },
+  "VLDB|2011": {
+    "source_id": "https://openalex.org/S78926909",
+    "source_name": "The VLDB Journal",
+    "source_type": "journal",
+    "tier_used": 1,
+    "n_votes": 1,
+    "match_score": null
+  },
+  "VLDB|2012": {
+    "source_id": "https://openalex.org/S78926909",
+    "source_name": "The VLDB Journal",
+    "source_type": "journal",
+    "tier_used": 1,
+    "n_votes": 1,
+    "match_score": null
+  },
+  "VLDB|2013": {
+    "source_id": "https://openalex.org/S4210226185",
+    "source_name": "Proceedings of the VLDB Endowment",
+    "source_type": "journal",
+    "tier_used": 1,
+    "n_votes": 1,
+    "match_score": null
+  },
+  "VLDB|2014": {
+    "source_id": "https://openalex.org/S4210226185",
+    "source_name": "Proceedings of the VLDB Endowment",
+    "source_type": "journal",
+    "tier_used": 1,
+    "n_votes": 3,
+    "match_score": null
+  },
+  "VLDB|2015": {
+    "source_id": "https://openalex.org/S4210226185",
+    "source_name": "Proceedings of the VLDB Endowment",
+    "source_type": "journal",
+    "tier_used": 1,
+    "n_votes": 1,
+    "match_score": null
+  },
+  "VLDB|2016": {
+    "source_id": "https://openalex.org/S78926909",
+    "source_name": "The VLDB Journal",
+    "source_type": "journal",
+    "tier_used": 1,
+    "n_votes": 1,
+    "match_score": null
+  },
+  "VLDB|2017": {
+    "source_id": "https://openalex.org/S4210226185",
+    "source_name": "Proceedings of the VLDB Endowment",
+    "source_type": "journal",
+    "tier_used": 1,
+    "n_votes": 1,
+    "match_score": null
+  },
+  "VLDB|2018": {
+    "source_id": "https://openalex.org/S2595095599",
+    "source_name": "Frontiers in Robotics and AI",
+    "source_type": "journal",
+    "tier_used": 1,
+    "n_votes": 1,
+    "match_score": null
+  },
+  "WWW|2000": {
+    "source_id": "https://openalex.org/S63392143",
+    "source_name": "Computer Networks",
+    "source_type": "journal",
+    "tier_used": 1,
+    "n_votes": 1,
+    "match_score": null
+  },
+  "WWW|2003": {
+    "source_id": "https://openalex.org/S2737205702",
+    "source_name": "Journal of Bioresource Management",
+    "source_type": "journal",
+    "tier_used": 1,
+    "n_votes": 1,
+    "match_score": null
+  },
+  "WWW|2007": {
+    "source_id": "https://openalex.org/S103482838",
+    "source_name": "Communications of the ACM",
+    "source_type": "journal",
+    "tier_used": 1,
+    "n_votes": 1,
+    "match_score": null
+  },
+  "WWW|2009": {
+    "source_id": "https://openalex.org/S4306401596",
+    "source_name": "King Abdullah University of Science and Technology Repository (King Abdullah University of Science and Technology)",
+    "source_type": "repository",
+    "tier_used": 1,
+    "n_votes": 1,
+    "match_score": null
+  },
+  "WWW|2012": {
+    "source_id": "https://openalex.org/S4306481413",
+    "source_name": "Universidad de Chile",
+    "source_type": "repository",
+    "tier_used": 1,
+    "n_votes": 1,
+    "match_score": null
+  },
+  "WWW|2014": {
+    "source_id": "https://openalex.org/S4377196680",
+    "source_name": "IT University Of Copenhagen (IT University of Copenhagen)",
+    "source_type": "repository",
+    "tier_used": 1,
+    "n_votes": 1,
+    "match_score": null
+  },
+  "WWW|2015": {
+    "source_id": "https://openalex.org/S4306400194",
+    "source_name": "arXiv (Cornell University)",
+    "source_type": "repository",
+    "tier_used": 1,
+    "n_votes": 1,
+    "match_score": null
+  },
+  "ACL|2003": {
+    "source_id": null,
+    "source_name": null,
+    "source_type": null,
+    "tier_used": null,
+    "n_votes": 0,
+    "match_score": null
+  },
+  "ACL|2005": {
+    "source_id": null,
+    "source_name": null,
+    "source_type": null,
+    "tier_used": null,
+    "n_votes": 0,
+    "match_score": null
+  },
+  "ACL|2006": {
+    "source_id": null,
+    "source_name": null,
+    "source_type": null,
+    "tier_used": null,
+    "n_votes": 0,
+    "match_score": null
+  },
+  "ACL|2014": {
+    "source_id": null,
+    "source_name": null,
+    "source_type": null,
+    "tier_used": null,
+    "n_votes": 0,
+    "match_score": null
+  },
+  "ACL|2015": {
+    "source_id": null,
+    "source_name": null,
+    "source_type": null,
+    "tier_used": null,
+    "n_votes": 0,
+    "match_score": null
+  },
+  "ACL|2016": {
+    "source_id": null,
+    "source_name": null,
+    "source_type": null,
+    "tier_used": null,
+    "n_votes": 0,
+    "match_score": null
+  },
+  "CHI|2018": {
+    "source_id": null,
+    "source_name": null,
+    "source_type": null,
+    "tier_used": null,
+    "n_votes": 0,
+    "match_score": null
+  },
+  "CIKM|2004": {
+    "source_id": null,
+    "source_name": null,
+    "source_type": null,
+    "tier_used": null,
+    "n_votes": 0,
+    "match_score": null
+  },
+  "CIKM|2005": {
+    "source_id": null,
+    "source_name": null,
+    "source_type": null,
+    "tier_used": null,
+    "n_votes": 0,
+    "match_score": null
+  },
+  "CIKM|2006": {
+    "source_id": null,
+    "source_name": null,
+    "source_type": null,
+    "tier_used": null,
+    "n_votes": 0,
+    "match_score": null
+  },
+  "CIKM|2007": {
+    "source_id": null,
+    "source_name": null,
+    "source_type": null,
+    "tier_used": null,
+    "n_votes": 0,
+    "match_score": null
+  },
+  "CIKM|2009": {
+    "source_id": null,
+    "source_name": null,
+    "source_type": null,
+    "tier_used": null,
+    "n_votes": 0,
+    "match_score": null
+  },
+  "CIKM|2011": {
+    "source_id": null,
+    "source_name": null,
+    "source_type": null,
+    "tier_used": null,
+    "n_votes": 0,
+    "match_score": null
+  },
+  "CIKM|2013": {
+    "source_id": null,
+    "source_name": null,
+    "source_type": null,
+    "tier_used": null,
+    "n_votes": 0,
+    "match_score": null
+  },
+  "CIKM|2014": {
+    "source_id": null,
+    "source_name": null,
+    "source_type": null,
+    "tier_used": null,
+    "n_votes": 0,
+    "match_score": null
+  },
+  "CIKM|2016": {
+    "source_id": null,
+    "source_name": null,
+    "source_type": null,
+    "tier_used": null,
+    "n_votes": 0,
+    "match_score": null
+  },
+  "CIKM|2017": {
+    "source_id": null,
+    "source_name": null,
+    "source_type": null,
+    "tier_used": null,
+    "n_votes": 0,
+    "match_score": null
+  },
+  "CIKM|2018": {
+    "source_id": null,
+    "source_name": null,
+    "source_type": null,
+    "tier_used": null,
+    "n_votes": 0,
+    "match_score": null
+  },
+  "CVPR|2000": {
+    "source_id": null,
+    "source_name": null,
+    "source_type": null,
+    "tier_used": null,
+    "n_votes": 0,
+    "match_score": null
+  },
+  "CVPR|2001": {
+    "source_id": null,
+    "source_name": null,
+    "source_type": null,
+    "tier_used": null,
+    "n_votes": 0,
+    "match_score": null
+  },
+  "CVPR|2004": {
+    "source_id": null,
+    "source_name": null,
+    "source_type": null,
+    "tier_used": null,
+    "n_votes": 0,
+    "match_score": null
+  },
+  "CVPR|2013": {
+    "source_id": null,
+    "source_name": null,
+    "source_type": null,
+    "tier_used": null,
+    "n_votes": 0,
+    "match_score": null
+  },
+  "CVPR|2014": {
+    "source_id": null,
+    "source_name": null,
+    "source_type": null,
+    "tier_used": null,
+    "n_votes": 0,
+    "match_score": null
+  },
+  "CVPR|2015": {
+    "source_id": null,
+    "source_name": null,
+    "source_type": null,
+    "tier_used": null,
+    "n_votes": 0,
+    "match_score": null
+  },
+  "FOCS|2005": {
+    "source_id": null,
+    "source_name": null,
+    "source_type": null,
+    "tier_used": null,
+    "n_votes": 0,
+    "match_score": null
+  },
+  "FOCS|2006": {
+    "source_id": null,
+    "source_name": null,
+    "source_type": null,
+    "tier_used": null,
+    "n_votes": 0,
+    "match_score": null
+  },
+  "FOCS|2007": {
+    "source_id": null,
+    "source_name": null,
+    "source_type": null,
+    "tier_used": null,
+    "n_votes": 0,
+    "match_score": null
+  },
+  "FOCS|2012": {
+    "source_id": null,
+    "source_name": null,
+    "source_type": null,
+    "tier_used": null,
+    "n_votes": 0,
+    "match_score": null
+  },
+  "FOCS|2014": {
+    "source_id": null,
+    "source_name": null,
+    "source_type": null,
+    "tier_used": null,
+    "n_votes": 0,
+    "match_score": null
+  },
+  "FSE|2002": {
+    "source_id": null,
+    "source_name": null,
+    "source_type": null,
+    "tier_used": null,
+    "n_votes": 0,
+    "match_score": null
+  },
+  "FSE|2005": {
+    "source_id": null,
+    "source_name": null,
+    "source_type": null,
+    "tier_used": null,
+    "n_votes": 0,
+    "match_score": null
+  },
+  "FSE|2010": {
+    "source_id": null,
+    "source_name": null,
+    "source_type": null,
+    "tier_used": null,
+    "n_votes": 0,
+    "match_score": null
+  },
+  "FSE|2011": {
+    "source_id": null,
+    "source_name": null,
+    "source_type": null,
+    "tier_used": null,
+    "n_votes": 0,
+    "match_score": null
+  },
+  "FSE|2016": {
+    "source_id": null,
+    "source_name": null,
+    "source_type": null,
+    "tier_used": null,
+    "n_votes": 0,
+    "match_score": null
+  },
+  "FSE|2017": {
+    "source_id": null,
+    "source_name": null,
+    "source_type": null,
+    "tier_used": null,
+    "n_votes": 0,
+    "match_score": null
+  },
+  "FSE|2018": {
+    "source_id": null,
+    "source_name": null,
+    "source_type": null,
+    "tier_used": null,
+    "n_votes": 0,
+    "match_score": null
+  },
+  "ICCV|2009": {
+    "source_id": null,
+    "source_name": null,
+    "source_type": null,
+    "tier_used": null,
+    "n_votes": 0,
+    "match_score": null
+  },
+  "ICCV|2011": {
+    "source_id": null,
+    "source_name": null,
+    "source_type": null,
+    "tier_used": null,
+    "n_votes": 0,
+    "match_score": null
+  },
+  "ICCV|2013": {
+    "source_id": null,
+    "source_name": null,
+    "source_type": null,
+    "tier_used": null,
+    "n_votes": 0,
+    "match_score": null
+  },
+  "ICCV|2015": {
+    "source_id": null,
+    "source_name": null,
+    "source_type": null,
+    "tier_used": null,
+    "n_votes": 0,
+    "match_score": null
+  },
+  "ICML|2005": {
+    "source_id": null,
+    "source_name": null,
+    "source_type": null,
+    "tier_used": null,
+    "n_votes": 0,
+    "match_score": null
+  },
+  "ICML|2007": {
+    "source_id": null,
+    "source_name": null,
+    "source_type": null,
+    "tier_used": null,
+    "n_votes": 0,
+    "match_score": null
+  },
+  "ICML|2008": {
+    "source_id": null,
+    "source_name": null,
+    "source_type": null,
+    "tier_used": null,
+    "n_votes": 0,
+    "match_score": null
+  },
+  "ICML|2009": {
+    "source_id": null,
+    "source_name": null,
+    "source_type": null,
+    "tier_used": null,
+    "n_votes": 0,
+    "match_score": null
+  },
+  "ICSE|2006": {
+    "source_id": null,
+    "source_name": null,
+    "source_type": null,
+    "tier_used": null,
+    "n_votes": 0,
+    "match_score": null
+  },
+  "ICSE|2010": {
+    "source_id": null,
+    "source_name": null,
+    "source_type": null,
+    "tier_used": null,
+    "n_votes": 0,
+    "match_score": null
+  },
+  "ICSE|2012": {
+    "source_id": null,
+    "source_name": null,
+    "source_type": null,
+    "tier_used": null,
+    "n_votes": 0,
+    "match_score": null
+  },
+  "IJCAI|2018": {
+    "source_id": null,
+    "source_name": null,
+    "source_type": null,
+    "tier_used": null,
+    "n_votes": 0,
+    "match_score": null
+  },
+  "INFOCOM|2000": {
+    "source_id": null,
+    "source_name": null,
+    "source_type": null,
+    "tier_used": null,
+    "n_votes": 0,
+    "match_score": null
+  },
+  "INFOCOM|2002": {
+    "source_id": null,
+    "source_name": null,
+    "source_type": null,
+    "tier_used": null,
+    "n_votes": 0,
+    "match_score": null
+  },
+  "INFOCOM|2004": {
+    "source_id": null,
+    "source_name": null,
+    "source_type": null,
+    "tier_used": null,
+    "n_votes": 0,
+    "match_score": null
+  },
+  "INFOCOM|2009": {
+    "source_id": null,
+    "source_name": null,
+    "source_type": null,
+    "tier_used": null,
+    "n_votes": 0,
+    "match_score": null
+  },
+  "INFOCOM|2010": {
+    "source_id": null,
+    "source_name": null,
+    "source_type": null,
+    "tier_used": null,
+    "n_votes": 0,
+    "match_score": null
+  },
+  "INFOCOM|2012": {
+    "source_id": null,
+    "source_name": null,
+    "source_type": null,
+    "tier_used": null,
+    "n_votes": 0,
+    "match_score": null
+  },
+  "INFOCOM|2013": {
+    "source_id": null,
+    "source_name": null,
+    "source_type": null,
+    "tier_used": null,
+    "n_votes": 0,
+    "match_score": null
+  },
+  "INFOCOM|2015": {
+    "source_id": null,
+    "source_name": null,
+    "source_type": null,
+    "tier_used": null,
+    "n_votes": 0,
+    "match_score": null
+  },
+  "INFOCOM|2016": {
+    "source_id": null,
+    "source_name": null,
+    "source_type": null,
+    "tier_used": null,
+    "n_votes": 0,
+    "match_score": null
+  },
+  "INFOCOM|2017": {
+    "source_id": null,
+    "source_name": null,
+    "source_type": null,
+    "tier_used": null,
+    "n_votes": 0,
+    "match_score": null
+  },
+  "JCDL|2000": {
+    "source_id": null,
+    "source_name": null,
+    "source_type": null,
+    "tier_used": null,
+    "n_votes": 0,
+    "match_score": null
+  },
+  "JCDL|2002": {
+    "source_id": null,
+    "source_name": null,
+    "source_type": null,
+    "tier_used": null,
+    "n_votes": 0,
+    "match_score": null
+  },
+  "JCDL|2004": {
+    "source_id": null,
+    "source_name": null,
+    "source_type": null,
+    "tier_used": null,
+    "n_votes": 0,
+    "match_score": null
+  },
+  "JCDL|2005": {
+    "source_id": null,
+    "source_name": null,
+    "source_type": null,
+    "tier_used": null,
+    "n_votes": 0,
+    "match_score": null
+  },
+  "JCDL|2006": {
+    "source_id": null,
+    "source_name": null,
+    "source_type": null,
+    "tier_used": null,
+    "n_votes": 0,
+    "match_score": null
+  },
+  "JCDL|2007": {
+    "source_id": null,
+    "source_name": null,
+    "source_type": null,
+    "tier_used": null,
+    "n_votes": 0,
+    "match_score": null
+  },
+  "JCDL|2008": {
+    "source_id": null,
+    "source_name": null,
+    "source_type": null,
+    "tier_used": null,
+    "n_votes": 0,
+    "match_score": null
+  },
+  "JCDL|2009": {
+    "source_id": null,
+    "source_name": null,
+    "source_type": null,
+    "tier_used": null,
+    "n_votes": 0,
+    "match_score": null
+  },
+  "JCDL|2010": {
+    "source_id": null,
+    "source_name": null,
+    "source_type": null,
+    "tier_used": null,
+    "n_votes": 0,
+    "match_score": null
+  },
+  "JCDL|2012": {
+    "source_id": null,
+    "source_name": null,
+    "source_type": null,
+    "tier_used": null,
+    "n_votes": 0,
+    "match_score": null
+  },
+  "JCDL|2015": {
+    "source_id": null,
+    "source_name": null,
+    "source_type": null,
+    "tier_used": null,
+    "n_votes": 0,
+    "match_score": null
+  },
+  "JCDL|2016": {
+    "source_id": null,
+    "source_name": null,
+    "source_type": null,
+    "tier_used": null,
+    "n_votes": 0,
+    "match_score": null
+  },
+  "KDD|2000": {
+    "source_id": null,
+    "source_name": null,
+    "source_type": null,
+    "tier_used": null,
+    "n_votes": 0,
+    "match_score": null
+  },
+  "KDD|2001": {
+    "source_id": null,
+    "source_name": null,
+    "source_type": null,
+    "tier_used": null,
+    "n_votes": 0,
+    "match_score": null
+  },
+  "KDD|2002": {
+    "source_id": null,
+    "source_name": null,
+    "source_type": null,
+    "tier_used": null,
+    "n_votes": 0,
+    "match_score": null
+  },
+  "KDD|2003": {
+    "source_id": null,
+    "source_name": null,
+    "source_type": null,
+    "tier_used": null,
+    "n_votes": 0,
+    "match_score": null
+  },
+  "KDD|2004": {
+    "source_id": null,
+    "source_name": null,
+    "source_type": null,
+    "tier_used": null,
+    "n_votes": 0,
+    "match_score": null
+  },
+  "KDD|2006": {
+    "source_id": null,
+    "source_name": null,
+    "source_type": null,
+    "tier_used": null,
+    "n_votes": 0,
+    "match_score": null
+  },
+  "KDD|2007": {
+    "source_id": null,
+    "source_name": null,
+    "source_type": null,
+    "tier_used": null,
+    "n_votes": 0,
+    "match_score": null
+  },
+  "KDD|2009": {
+    "source_id": null,
+    "source_name": null,
+    "source_type": null,
+    "tier_used": null,
+    "n_votes": 0,
+    "match_score": null
+  },
+  "KDD|2011": {
+    "source_id": null,
+    "source_name": null,
+    "source_type": null,
+    "tier_used": null,
+    "n_votes": 0,
+    "match_score": null
+  },
+  "KDD|2013": {
+    "source_id": null,
+    "source_name": null,
+    "source_type": null,
+    "tier_used": null,
+    "n_votes": 0,
+    "match_score": null
+  },
+  "KDD|2014": {
+    "source_id": null,
+    "source_name": null,
+    "source_type": null,
+    "tier_used": null,
+    "n_votes": 0,
+    "match_score": null
+  },
+  "KDD|2016": {
+    "source_id": null,
+    "source_name": null,
+    "source_type": null,
+    "tier_used": null,
+    "n_votes": 0,
+    "match_score": null
+  },
+  "KDD|2017": {
+    "source_id": null,
+    "source_name": null,
+    "source_type": null,
+    "tier_used": null,
+    "n_votes": 0,
+    "match_score": null
+  },
+  "MOBICOM|2008": {
+    "source_id": null,
+    "source_name": null,
+    "source_type": null,
+    "tier_used": null,
+    "n_votes": 0,
+    "match_score": null
+  },
+  "MOBICOM|2009": {
+    "source_id": null,
+    "source_name": null,
+    "source_type": null,
+    "tier_used": null,
+    "n_votes": 0,
+    "match_score": null
+  },
+  "MOBICOM|2012": {
+    "source_id": null,
+    "source_name": null,
+    "source_type": null,
+    "tier_used": null,
+    "n_votes": 0,
+    "match_score": null
+  },
+  "MOBICOM|2013": {
+    "source_id": null,
+    "source_name": null,
+    "source_type": null,
+    "tier_used": null,
+    "n_votes": 0,
+    "match_score": null
+  },
+  "MOBICOM|2017": {
+    "source_id": null,
+    "source_name": null,
+    "source_type": null,
+    "tier_used": null,
+    "n_votes": 0,
+    "match_score": null
+  },
+  "OSDI|2000": {
+    "source_id": null,
+    "source_name": null,
+    "source_type": null,
+    "tier_used": null,
+    "n_votes": 0,
+    "match_score": null
+  },
+  "OSDI|2012": {
+    "source_id": null,
+    "source_name": null,
+    "source_type": null,
+    "tier_used": null,
+    "n_votes": 0,
+    "match_score": null
+  },
+  "PLDI|2000": {
+    "source_id": null,
+    "source_name": null,
+    "source_type": null,
+    "tier_used": null,
+    "n_votes": 0,
+    "match_score": null
+  },
+  "PLDI|2004": {
+    "source_id": null,
+    "source_name": null,
+    "source_type": null,
+    "tier_used": null,
+    "n_votes": 0,
+    "match_score": null
+  },
+  "PLDI|2005": {
+    "source_id": null,
+    "source_name": null,
+    "source_type": null,
+    "tier_used": null,
+    "n_votes": 0,
+    "match_score": null
+  },
+  "PLDI|2007": {
+    "source_id": null,
+    "source_name": null,
+    "source_type": null,
+    "tier_used": null,
+    "n_votes": 0,
+    "match_score": null
+  },
+  "PLDI|2009": {
+    "source_id": null,
+    "source_name": null,
+    "source_type": null,
+    "tier_used": null,
+    "n_votes": 0,
+    "match_score": null
+  },
+  "PLDI|2010": {
+    "source_id": null,
+    "source_name": null,
+    "source_type": null,
+    "tier_used": null,
+    "n_votes": 0,
+    "match_score": null
+  },
+  "PLDI|2012": {
+    "source_id": null,
+    "source_name": null,
+    "source_type": null,
+    "tier_used": null,
+    "n_votes": 0,
+    "match_score": null
+  },
+  "PODS|2000": {
+    "source_id": null,
+    "source_name": null,
+    "source_type": null,
+    "tier_used": null,
+    "n_votes": 0,
+    "match_score": null
+  },
+  "PODS|2001": {
+    "source_id": null,
+    "source_name": null,
+    "source_type": null,
+    "tier_used": null,
+    "n_votes": 0,
+    "match_score": null
+  },
+  "PODS|2003": {
+    "source_id": null,
+    "source_name": null,
+    "source_type": null,
+    "tier_used": null,
+    "n_votes": 0,
+    "match_score": null
+  },
+  "PODS|2008": {
+    "source_id": null,
+    "source_name": null,
+    "source_type": null,
+    "tier_used": null,
+    "n_votes": 0,
+    "match_score": null
+  },
+  "PODS|2011": {
+    "source_id": null,
+    "source_name": null,
+    "source_type": null,
+    "tier_used": null,
+    "n_votes": 0,
+    "match_score": null
+  },
+  "PODS|2016": {
+    "source_id": null,
+    "source_name": null,
+    "source_type": null,
+    "tier_used": null,
+    "n_votes": 0,
+    "match_score": null
+  },
+  "PODS|2018": {
+    "source_id": null,
+    "source_name": null,
+    "source_type": null,
+    "tier_used": null,
+    "n_votes": 0,
+    "match_score": null
+  },
+  "S&P|2010": {
+    "source_id": null,
+    "source_name": null,
+    "source_type": null,
+    "tier_used": null,
+    "n_votes": 0,
+    "match_score": null
+  },
+  "S&P|2016": {
+    "source_id": null,
+    "source_name": null,
+    "source_type": null,
+    "tier_used": null,
+    "n_votes": 0,
+    "match_score": null
+  },
+  "SIGCOMM|2009": {
+    "source_id": null,
+    "source_name": null,
+    "source_type": null,
+    "tier_used": null,
+    "n_votes": 0,
+    "match_score": null
+  },
+  "SIGCOMM|2013": {
+    "source_id": null,
+    "source_name": null,
+    "source_type": null,
+    "tier_used": null,
+    "n_votes": 0,
+    "match_score": null
+  },
+  "SIGIR|2001": {
+    "source_id": null,
+    "source_name": null,
+    "source_type": null,
+    "tier_used": null,
+    "n_votes": 0,
+    "match_score": null
+  },
+  "SIGIR|2002": {
+    "source_id": null,
+    "source_name": null,
+    "source_type": null,
+    "tier_used": null,
+    "n_votes": 0,
+    "match_score": null
+  },
+  "SIGIR|2004": {
+    "source_id": null,
+    "source_name": null,
+    "source_type": null,
+    "tier_used": null,
+    "n_votes": 0,
+    "match_score": null
+  },
+  "SIGIR|2005": {
+    "source_id": null,
+    "source_name": null,
+    "source_type": null,
+    "tier_used": null,
+    "n_votes": 0,
+    "match_score": null
+  },
+  "SIGIR|2007": {
+    "source_id": null,
+    "source_name": null,
+    "source_type": null,
+    "tier_used": null,
+    "n_votes": 0,
+    "match_score": null
+  },
+  "SIGIR|2008": {
+    "source_id": null,
+    "source_name": null,
+    "source_type": null,
+    "tier_used": null,
+    "n_votes": 0,
+    "match_score": null
+  },
+  "SIGIR|2009": {
+    "source_id": null,
+    "source_name": null,
+    "source_type": null,
+    "tier_used": null,
+    "n_votes": 0,
+    "match_score": null
+  },
+  "SIGIR|2010": {
+    "source_id": null,
+    "source_name": null,
+    "source_type": null,
+    "tier_used": null,
+    "n_votes": 0,
+    "match_score": null
+  },
+  "SIGIR|2011": {
+    "source_id": null,
+    "source_name": null,
+    "source_type": null,
+    "tier_used": null,
+    "n_votes": 0,
+    "match_score": null
+  },
+  "SIGIR|2012": {
+    "source_id": null,
+    "source_name": null,
+    "source_type": null,
+    "tier_used": null,
+    "n_votes": 0,
+    "match_score": null
+  },
+  "SIGIR|2013": {
+    "source_id": null,
+    "source_name": null,
+    "source_type": null,
+    "tier_used": null,
+    "n_votes": 0,
+    "match_score": null
+  },
+  "SIGIR|2018": {
+    "source_id": null,
+    "source_name": null,
+    "source_type": null,
+    "tier_used": null,
+    "n_votes": 0,
+    "match_score": null
+  },
+  "SIGMETRICS|2006": {
+    "source_id": null,
+    "source_name": null,
+    "source_type": null,
+    "tier_used": null,
+    "n_votes": 0,
+    "match_score": null
+  },
+  "SIGMETRICS|2007": {
+    "source_id": null,
+    "source_name": null,
+    "source_type": null,
+    "tier_used": null,
+    "n_votes": 0,
+    "match_score": null
+  },
+  "SIGMETRICS|2008": {
+    "source_id": null,
+    "source_name": null,
+    "source_type": null,
+    "tier_used": null,
+    "n_votes": 0,
+    "match_score": null
+  },
+  "SIGMETRICS|2010": {
+    "source_id": null,
+    "source_name": null,
+    "source_type": null,
+    "tier_used": null,
+    "n_votes": 0,
+    "match_score": null
+  },
+  "SIGMETRICS|2011": {
+    "source_id": null,
+    "source_name": null,
+    "source_type": null,
+    "tier_used": null,
+    "n_votes": 0,
+    "match_score": null
+  },
+  "SIGMETRICS|2012": {
+    "source_id": null,
+    "source_name": null,
+    "source_type": null,
+    "tier_used": null,
+    "n_votes": 0,
+    "match_score": null
+  },
+  "SIGMETRICS|2016": {
+    "source_id": null,
+    "source_name": null,
+    "source_type": null,
+    "tier_used": null,
+    "n_votes": 0,
+    "match_score": null
+  },
+  "SIGMOD|2000": {
+    "source_id": null,
+    "source_name": null,
+    "source_type": null,
+    "tier_used": null,
+    "n_votes": 0,
+    "match_score": null
+  },
+  "SIGMOD|2001": {
+    "source_id": null,
+    "source_name": null,
+    "source_type": null,
+    "tier_used": null,
+    "n_votes": 0,
+    "match_score": null
+  },
+  "SIGMOD|2003": {
+    "source_id": null,
+    "source_name": null,
+    "source_type": null,
+    "tier_used": null,
+    "n_votes": 0,
+    "match_score": null
+  },
+  "SIGMOD|2007": {
+    "source_id": null,
+    "source_name": null,
+    "source_type": null,
+    "tier_used": null,
+    "n_votes": 0,
+    "match_score": null
+  },
+  "SIGMOD|2009": {
+    "source_id": null,
+    "source_name": null,
+    "source_type": null,
+    "tier_used": null,
+    "n_votes": 0,
+    "match_score": null
+  },
+  "SIGMOD|2010": {
+    "source_id": null,
+    "source_name": null,
+    "source_type": null,
+    "tier_used": null,
+    "n_votes": 0,
+    "match_score": null
+  },
+  "SIGMOD|2011": {
+    "source_id": null,
+    "source_name": null,
+    "source_type": null,
+    "tier_used": null,
+    "n_votes": 0,
+    "match_score": null
+  },
+  "SIGMOD|2012": {
+    "source_id": null,
+    "source_name": null,
+    "source_type": null,
+    "tier_used": null,
+    "n_votes": 0,
+    "match_score": null
+  },
+  "SIGMOD|2014": {
+    "source_id": null,
+    "source_name": null,
+    "source_type": null,
+    "tier_used": null,
+    "n_votes": 0,
+    "match_score": null
+  },
+  "SIGMOD|2015": {
+    "source_id": null,
+    "source_name": null,
+    "source_type": null,
+    "tier_used": null,
+    "n_votes": 0,
+    "match_score": null
+  },
+  "SIGMOD|2018": {
+    "source_id": null,
+    "source_name": null,
+    "source_type": null,
+    "tier_used": null,
+    "n_votes": 0,
+    "match_score": null
+  },
+  "SODA|2010": {
+    "source_id": null,
+    "source_name": null,
+    "source_type": null,
+    "tier_used": null,
+    "n_votes": 0,
+    "match_score": null
+  },
+  "SODA|2015": {
+    "source_id": null,
+    "source_name": null,
+    "source_type": null,
+    "tier_used": null,
+    "n_votes": 0,
+    "match_score": null
+  },
+  "SOSP|2001": {
+    "source_id": null,
+    "source_name": null,
+    "source_type": null,
+    "tier_used": null,
+    "n_votes": 0,
+    "match_score": null
+  },
+  "STOC|2003": {
+    "source_id": null,
+    "source_name": null,
+    "source_type": null,
+    "tier_used": null,
+    "n_votes": 0,
+    "match_score": null
+  },
+  "STOC|2008": {
+    "source_id": null,
+    "source_name": null,
+    "source_type": null,
+    "tier_used": null,
+    "n_votes": 0,
+    "match_score": null
+  },
+  "STOC|2009": {
+    "source_id": null,
+    "source_name": null,
+    "source_type": null,
+    "tier_used": null,
+    "n_votes": 0,
+    "match_score": null
+  },
+  "STOC|2014": {
+    "source_id": null,
+    "source_name": null,
+    "source_type": null,
+    "tier_used": null,
+    "n_votes": 0,
+    "match_score": null
+  },
+  "STOC|2015": {
+    "source_id": null,
+    "source_name": null,
+    "source_type": null,
+    "tier_used": null,
+    "n_votes": 0,
+    "match_score": null
+  },
+  "UIST|2000": {
+    "source_id": null,
+    "source_name": null,
+    "source_type": null,
+    "tier_used": null,
+    "n_votes": 0,
+    "match_score": null
+  },
+  "UIST|2001": {
+    "source_id": null,
+    "source_name": null,
+    "source_type": null,
+    "tier_used": null,
+    "n_votes": 0,
+    "match_score": null
+  },
+  "UIST|2002": {
+    "source_id": null,
+    "source_name": null,
+    "source_type": null,
+    "tier_used": null,
+    "n_votes": 0,
+    "match_score": null
+  },
+  "UIST|2003": {
+    "source_id": null,
+    "source_name": null,
+    "source_type": null,
+    "tier_used": null,
+    "n_votes": 0,
+    "match_score": null
+  },
+  "UIST|2005": {
+    "source_id": null,
+    "source_name": null,
+    "source_type": null,
+    "tier_used": null,
+    "n_votes": 0,
+    "match_score": null
+  },
+  "UIST|2006": {
+    "source_id": null,
+    "source_name": null,
+    "source_type": null,
+    "tier_used": null,
+    "n_votes": 0,
+    "match_score": null
+  },
+  "UIST|2007": {
+    "source_id": null,
+    "source_name": null,
+    "source_type": null,
+    "tier_used": null,
+    "n_votes": 0,
+    "match_score": null
+  },
+  "UIST|2008": {
+    "source_id": null,
+    "source_name": null,
+    "source_type": null,
+    "tier_used": null,
+    "n_votes": 0,
+    "match_score": null
+  },
+  "UIST|2009": {
+    "source_id": null,
+    "source_name": null,
+    "source_type": null,
+    "tier_used": null,
+    "n_votes": 0,
+    "match_score": null
+  },
+  "UIST|2011": {
+    "source_id": null,
+    "source_name": null,
+    "source_type": null,
+    "tier_used": null,
+    "n_votes": 0,
+    "match_score": null
+  },
+  "UIST|2012": {
+    "source_id": null,
+    "source_name": null,
+    "source_type": null,
+    "tier_used": null,
+    "n_votes": 0,
+    "match_score": null
+  },
+  "UIST|2014": {
+    "source_id": null,
+    "source_name": null,
+    "source_type": null,
+    "tier_used": null,
+    "n_votes": 0,
+    "match_score": null
+  },
+  "VLDB|2007": {
+    "source_id": null,
+    "source_name": null,
+    "source_type": null,
+    "tier_used": null,
+    "n_votes": 0,
+    "match_score": null
+  },
+  "WWW|2001": {
+    "source_id": null,
+    "source_name": null,
+    "source_type": null,
+    "tier_used": null,
+    "n_votes": 0,
+    "match_score": null
+  },
+  "WWW|2002": {
+    "source_id": null,
+    "source_name": null,
+    "source_type": null,
+    "tier_used": null,
+    "n_votes": 0,
+    "match_score": null
+  },
+  "WWW|2004": {
+    "source_id": null,
+    "source_name": null,
+    "source_type": null,
+    "tier_used": null,
+    "n_votes": 0,
+    "match_score": null
+  },
+  "WWW|2005": {
+    "source_id": null,
+    "source_name": null,
+    "source_type": null,
+    "tier_used": null,
+    "n_votes": 0,
+    "match_score": null
+  },
+  "WWW|2006": {
+    "source_id": null,
+    "source_name": null,
+    "source_type": null,
+    "tier_used": null,
+    "n_votes": 0,
+    "match_score": null
+  },
+  "WWW|2008": {
+    "source_id": null,
+    "source_name": null,
+    "source_type": null,
+    "tier_used": null,
+    "n_votes": 0,
+    "match_score": null
+  },
+  "WWW|2010": {
+    "source_id": null,
+    "source_name": null,
+    "source_type": null,
+    "tier_used": null,
+    "n_votes": 0,
+    "match_score": null
+  },
+  "WWW|2011": {
+    "source_id": null,
+    "source_name": null,
+    "source_type": null,
+    "tier_used": null,
+    "n_votes": 0,
+    "match_score": null
+  },
+  "WWW|2013": {
+    "source_id": null,
+    "source_name": null,
+    "source_type": null,
+    "tier_used": null,
+    "n_votes": 0,
+    "match_score": null
+  },
+  "WWW|2016": {
+    "source_id": null,
+    "source_name": null,
+    "source_type": null,
+    "tier_used": null,
+    "n_votes": 0,
+    "match_score": null
+  },
+  "WWW|2018": {
+    "source_id": null,
+    "source_name": null,
+    "source_type": null,
+    "tier_used": null,
+    "n_votes": 0,
+    "match_score": null
+  }
+}

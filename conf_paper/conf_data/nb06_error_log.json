@@ -1,0 +1,4262 @@
+{
+  "AAAI|2004": [
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    }
+  ],
+  "ACL|2001": [
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 1,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 1,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    }
+  ],
+  "ACL|2002": [
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    }
+  ],
+  "ACL|2003": [
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 1,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 1,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    }
+  ],
+  "ACL|2004": [
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    }
+  ],
+  "ACL|2005": [
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    }
+  ],
+  "ACL|2006": [
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    }
+  ],
+  "ACL|2009": [
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 1,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 2,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 1,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 2,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    }
+  ],
+  "ACL|2014": [
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    }
+  ],
+  "ACL|2015": [
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 1,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 1,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    }
+  ],
+  "ACL|2016": [
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    }
+  ],
+  "ACL|2017": [
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    }
+  ],
+  "CHI|2005": [
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 1,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 2,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 3,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 1,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 2,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 3,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    }
+  ],
+  "CHI|2006": [
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 1,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 2,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 1,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 2,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    }
+  ],
+  "CHI|2009": [
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 1,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 2,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 4,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    }
+  ],
+  "CHI|2010": [
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 1,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 2,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 3,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 4,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 1,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 2,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 3,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 4,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    }
+  ],
+  "CHI|2011": [
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 1,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 2,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 3,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 4,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 1,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 2,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 3,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 4,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    }
+  ],
+  "CHI|2012": [
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 1,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 2,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 3,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 4,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 1,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 2,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 3,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 4,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    }
+  ],
+  "CHI|2013": [
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 1,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 2,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 3,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 4,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 1,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 2,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 3,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 4,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    }
+  ],
+  "CHI|2014": [
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 1,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 2,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 3,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 4,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 1,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 2,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 3,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 4,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    }
+  ],
+  "CHI|2015": [
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 1,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 2,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 3,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 4,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 1,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 2,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 3,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 4,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    }
+  ],
+  "CHI|2016": [
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 1,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 2,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 3,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 4,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 1,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 2,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 3,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 4,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    }
+  ],
+  "CHI|2017": [
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 1,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 2,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 3,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 4,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 1,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 2,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 3,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 4,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    }
+  ],
+  "CHI|2018": [
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 1,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 2,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 4,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    }
+  ],
+  "CIKM|2004": [
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    }
+  ],
+  "CIKM|2005": [
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    }
+  ],
+  "CIKM|2006": [
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    }
+  ],
+  "CIKM|2007": [
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    }
+  ],
+  "CIKM|2008": [
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    }
+  ],
+  "CIKM|2009": [
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    }
+  ],
+  "CIKM|2010": [
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 1,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 1,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    }
+  ],
+  "CIKM|2011": [
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    }
+  ],
+  "CIKM|2012": [
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    }
+  ],
+  "CIKM|2013": [
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    }
+  ],
+  "CIKM|2014": [
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    }
+  ],
+  "CIKM|2015": [
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    }
+  ],
+  "CIKM|2016": [
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    }
+  ],
+  "CIKM|2017": [
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    }
+  ],
+  "CIKM|2018": [
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    }
+  ],
+  "CVPR|2000": [
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    }
+  ],
+  "CVPR|2001": [
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    }
+  ],
+  "CVPR|2003": [
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    }
+  ],
+  "CVPR|2004": [
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    }
+  ],
+  "CVPR|2008": [
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 1,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 1,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    }
+  ],
+  "CVPR|2010": [
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    }
+  ],
+  "CVPR|2013": [
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    }
+  ],
+  "CVPR|2014": [
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    }
+  ],
+  "CVPR|2015": [
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    }
+  ],
+  "CVPR|2016": [
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    }
+  ],
+  "CVPR|2017": [
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 1,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 1,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    }
+  ],
+  "CVPR|2018": [
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    }
+  ],
+  "FOCS|2005": [
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    }
+  ],
+  "FOCS|2006": [
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    }
+  ],
+  "FOCS|2007": [
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    }
+  ],
+  "FOCS|2008": [
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    }
+  ],
+  "FOCS|2012": [
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 1,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 1,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    }
+  ],
+  "FOCS|2013": [
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 1,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 1,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    }
+  ],
+  "FOCS|2014": [
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    }
+  ],
+  "FOCS|2017": [
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 1,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 2,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 1,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 2,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    }
+  ],
+  "FSE|2002": [
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    }
+  ],
+  "FSE|2003": [
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 1,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 2,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 1,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 2,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    }
+  ],
+  "FSE|2004": [
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 1,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 1,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    }
+  ],
+  "FSE|2005": [
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 1,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 2,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 1,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 2,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    }
+  ],
+  "FSE|2006": [
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 1,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 1,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    }
+  ],
+  "FSE|2007": [
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 1,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 2,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 3,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 1,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 2,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 3,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    }
+  ],
+  "FSE|2008": [
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 1,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 1,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    }
+  ],
+  "FSE|2009": [
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 1,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 2,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 1,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 2,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    }
+  ],
+  "FSE|2010": [
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 1,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 2,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 1,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 2,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    }
+  ],
+  "FSE|2011": [
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 1,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 2,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 1,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 2,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    }
+  ],
+  "FSE|2012": [
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 1,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 2,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 1,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 2,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    }
+  ],
+  "FSE|2014": [
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 1,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 2,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 3,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 4,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 1,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 2,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 3,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 4,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    }
+  ],
+  "FSE|2015": [
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 1,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 2,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 3,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 4,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 1,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 2,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 3,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 4,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    }
+  ],
+  "FSE|2016": [
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 1,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 2,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 3,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 4,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 1,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 2,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 3,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 4,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    }
+  ],
+  "FSE|2017": [
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 1,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 2,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 3,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 4,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 1,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 2,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 3,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 4,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    }
+  ],
+  "FSE|2018": [
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 1,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 2,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 3,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 4,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 1,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 2,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 3,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 4,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    }
+  ],
+  "ICCV|2009": [
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    }
+  ],
+  "ICCV|2011": [
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    }
+  ],
+  "ICCV|2013": [
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    }
+  ],
+  "ICCV|2015": [
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    }
+  ],
+  "ICCV|2017": [
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    }
+  ],
+  "ICML|2005": [
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    }
+  ],
+  "ICML|2006": [
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    }
+  ],
+  "ICML|2007": [
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    }
+  ],
+  "ICML|2008": [
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    }
+  ],
+  "ICML|2009": [
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    }
+  ],
+  "ICSE|2005": [
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 1,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 2,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    }
+  ],
+  "ICSE|2006": [
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 1,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 1,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    }
+  ],
+  "ICSE|2009": [
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 1,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 2,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 3,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 4,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 1,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 2,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 3,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 4,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    }
+  ],
+  "ICSE|2010": [
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 1,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 2,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 3,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 4,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 1,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 2,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 3,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 4,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    }
+  ],
+  "ICSE|2011": [
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 1,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 2,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 3,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 4,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 1,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 2,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 3,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 4,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    }
+  ],
+  "ICSE|2012": [
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 1,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 2,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 4,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    }
+  ],
+  "ICSE|2014": [
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 1,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 2,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 3,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 4,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 1,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 2,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 3,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 4,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    }
+  ],
+  "ICSE|2016": [
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 1,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 2,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 3,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 4,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 1,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 2,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 3,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 4,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    }
+  ],
+  "ICSE|2017": [
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 1,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 2,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 3,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 4,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 1,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 2,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 3,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 4,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    }
+  ],
+  "IJCAI|2017": [
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    }
+  ],
+  "IJCAI|2018": [
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 1,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 2,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 3,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 4,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 1,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 2,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 3,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 4,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    }
+  ],
+  "INFOCOM|2000": [
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    }
+  ],
+  "INFOCOM|2002": [
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    }
+  ],
+  "INFOCOM|2003": [
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    }
+  ],
+  "INFOCOM|2004": [
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    }
+  ],
+  "INFOCOM|2005": [
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    }
+  ],
+  "INFOCOM|2007": [
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    }
+  ],
+  "INFOCOM|2009": [
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    }
+  ],
+  "INFOCOM|2010": [
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    }
+  ],
+  "INFOCOM|2011": [
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    }
+  ],
+  "INFOCOM|2012": [
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    }
+  ],
+  "INFOCOM|2013": [
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    }
+  ],
+  "INFOCOM|2015": [
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    }
+  ],
+  "INFOCOM|2016": [
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    }
+  ],
+  "INFOCOM|2017": [
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    }
+  ],
+  "INFOCOM|2018": [
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 1,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 2,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 1,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 2,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    }
+  ],
+  "JCDL|2000": [
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    }
+  ],
+  "JCDL|2002": [
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    }
+  ],
+  "JCDL|2004": [
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    }
+  ],
+  "JCDL|2005": [
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    }
+  ],
+  "JCDL|2006": [
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    }
+  ],
+  "JCDL|2007": [
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    }
+  ],
+  "JCDL|2008": [
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    }
+  ],
+  "JCDL|2009": [
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    }
+  ],
+  "JCDL|2010": [
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    }
+  ],
+  "JCDL|2011": [
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    }
+  ],
+  "JCDL|2012": [
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    }
+  ],
+  "JCDL|2013": [
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    }
+  ],
+  "JCDL|2014": [
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    }
+  ],
+  "JCDL|2015": [
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    }
+  ],
+  "JCDL|2016": [
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    }
+  ],
+  "JCDL|2017": [
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    }
+  ],
+  "JCDL|2018": [
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 1,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 1,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    }
+  ],
+  "KDD|2000": [
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    }
+  ],
+  "KDD|2001": [
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    }
+  ],
+  "KDD|2002": [
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    }
+  ],
+  "KDD|2003": [
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    }
+  ],
+  "KDD|2004": [
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    }
+  ],
+  "KDD|2006": [
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    }
+  ],
+  "KDD|2007": [
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    }
+  ],
+  "KDD|2008": [
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    }
+  ],
+  "KDD|2009": [
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    }
+  ],
+  "KDD|2011": [
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    }
+  ],
+  "KDD|2012": [
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    }
+  ],
+  "KDD|2013": [
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    }
+  ],
+  "KDD|2014": [
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    }
+  ],
+  "KDD|2015": [
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    }
+  ],
+  "KDD|2016": [
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    }
+  ],
+  "KDD|2017": [
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    }
+  ],
+  "KDD|2018": [
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    }
+  ],
+  "MOBICOM|2008": [
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    }
+  ],
+  "MOBICOM|2009": [
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    }
+  ],
+  "MOBICOM|2011": [
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 1,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 1,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    }
+  ],
+  "MOBICOM|2012": [
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    }
+  ],
+  "MOBICOM|2013": [
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    }
+  ],
+  "MOBICOM|2014": [
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    }
+  ],
+  "MOBICOM|2017": [
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    }
+  ],
+  "NeurIPS|2016": [
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    }
+  ],
+  "OSDI|2000": [
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    }
+  ],
+  "OSDI|2012": [
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    }
+  ],
+  "PLDI|2000": [
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    }
+  ],
+  "PLDI|2004": [
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    }
+  ],
+  "PLDI|2005": [
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 1,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 1,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    }
+  ],
+  "PLDI|2007": [
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 1,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 1,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    }
+  ],
+  "PLDI|2009": [
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    }
+  ],
+  "PLDI|2010": [
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    }
+  ],
+  "PLDI|2012": [
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    }
+  ],
+  "PLDI|2014": [
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 1,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 2,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 1,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 2,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    }
+  ],
+  "PLDI|2015": [
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 1,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 2,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 1,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 2,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    }
+  ],
+  "PLDI|2016": [
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 1,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 2,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 3,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 1,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 2,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 3,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    }
+  ],
+  "PLDI|2017": [
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 1,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 2,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 3,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 1,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 2,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 3,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    }
+  ],
+  "PLDI|2018": [
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 1,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 2,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 1,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 2,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    }
+  ],
+  "PODS|2000": [
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    }
+  ],
+  "PODS|2001": [
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    }
+  ],
+  "PODS|2002": [
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    }
+  ],
+  "PODS|2003": [
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    }
+  ],
+  "PODS|2004": [
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    }
+  ],
+  "PODS|2005": [
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 1,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 1,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    }
+  ],
+  "PODS|2008": [
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    }
+  ],
+  "PODS|2009": [
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    }
+  ],
+  "PODS|2010": [
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    }
+  ],
+  "PODS|2011": [
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    }
+  ],
+  "PODS|2013": [
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    }
+  ],
+  "PODS|2015": [
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    }
+  ],
+  "PODS|2016": [
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    }
+  ],
+  "PODS|2017": [
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    }
+  ],
+  "PODS|2018": [
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    }
+  ],
+  "S&P|2010": [
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    }
+  ],
+  "S&P|2016": [
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    }
+  ],
+  "S&P|2017": [
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    }
+  ],
+  "S&P|2018": [
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 1,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 1,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    }
+  ],
+  "SIGCOMM|2009": [
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    }
+  ],
+  "SIGCOMM|2011": [
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    }
+  ],
+  "SIGCOMM|2012": [
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    }
+  ],
+  "SIGCOMM|2013": [
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    }
+  ],
+  "SIGCOMM|2015": [
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    }
+  ],
+  "SIGCOMM|2017": [
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 1,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 1,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    }
+  ],
+  "SIGCOMM|2018": [
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    }
+  ],
+  "SIGIR|2001": [
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    }
+  ],
+  "SIGIR|2002": [
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    }
+  ],
+  "SIGIR|2003": [
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    }
+  ],
+  "SIGIR|2004": [
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    }
+  ],
+  "SIGIR|2005": [
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    }
+  ],
+  "SIGIR|2006": [
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    }
+  ],
+  "SIGIR|2007": [
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    }
+  ],
+  "SIGIR|2008": [
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    }
+  ],
+  "SIGIR|2009": [
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    }
+  ],
+  "SIGIR|2010": [
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    }
+  ],
+  "SIGIR|2011": [
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    }
+  ],
+  "SIGIR|2012": [
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    }
+  ],
+  "SIGIR|2013": [
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    }
+  ],
+  "SIGIR|2014": [
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    }
+  ],
+  "SIGIR|2015": [
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    }
+  ],
+  "SIGIR|2016": [
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    }
+  ],
+  "SIGIR|2018": [
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    }
+  ],
+  "SIGMETRICS|2006": [
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    }
+  ],
+  "SIGMETRICS|2007": [
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    }
+  ],
+  "SIGMETRICS|2008": [
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    }
+  ],
+  "SIGMETRICS|2010": [
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    }
+  ],
+  "SIGMETRICS|2011": [
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    }
+  ],
+  "SIGMETRICS|2012": [
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    }
+  ],
+  "SIGMETRICS|2013": [
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    }
+  ],
+  "SIGMETRICS|2014": [
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    }
+  ],
+  "SIGMETRICS|2016": [
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    }
+  ],
+  "SIGMETRICS|2017": [
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    }
+  ],
+  "SIGMOD|2000": [
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    }
+  ],
+  "SIGMOD|2001": [
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    }
+  ],
+  "SIGMOD|2003": [
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    }
+  ],
+  "SIGMOD|2004": [
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    }
+  ],
+  "SIGMOD|2007": [
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 1,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 1,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    }
+  ],
+  "SIGMOD|2009": [
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    }
+  ],
+  "SIGMOD|2010": [
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    }
+  ],
+  "SIGMOD|2011": [
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    }
+  ],
+  "SIGMOD|2012": [
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    }
+  ],
+  "SIGMOD|2013": [
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    }
+  ],
+  "SIGMOD|2014": [
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    }
+  ],
+  "SIGMOD|2015": [
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    }
+  ],
+  "SIGMOD|2016": [
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    }
+  ],
+  "SIGMOD|2017": [
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    }
+  ],
+  "SIGMOD|2018": [
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    }
+  ],
+  "SODA|2010": [
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    }
+  ],
+  "SODA|2013": [
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 1,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 1,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    }
+  ],
+  "SODA|2015": [
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    }
+  ],
+  "SOSP|2001": [
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 1,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 1,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    }
+  ],
+  "SOSP|2013": [
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 1,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 2,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 1,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 2,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    }
+  ],
+  "STOC|2003": [
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 1,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 1,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    }
+  ],
+  "STOC|2004": [
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 1,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 1,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    }
+  ],
+  "STOC|2005": [
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    }
+  ],
+  "STOC|2006": [
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    }
+  ],
+  "STOC|2008": [
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 1,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 1,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    }
+  ],
+  "STOC|2009": [
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 1,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 1,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    }
+  ],
+  "STOC|2010": [
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 1,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 1,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    }
+  ],
+  "STOC|2011": [
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 1,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 1,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    }
+  ],
+  "STOC|2012": [
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 1,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 1,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    }
+  ],
+  "STOC|2014": [
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    }
+  ],
+  "STOC|2015": [
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 1,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 2,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 1,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 2,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    }
+  ],
+  "STOC|2016": [
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 1,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 2,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 1,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 2,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    }
+  ],
+  "STOC|2017": [
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 1,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 2,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 1,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 2,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    }
+  ],
+  "STOC|2018": [
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    }
+  ],
+  "UIST|2000": [
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    }
+  ],
+  "UIST|2001": [
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    }
+  ],
+  "UIST|2002": [
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    }
+  ],
+  "UIST|2003": [
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    }
+  ],
+  "UIST|2005": [
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    }
+  ],
+  "UIST|2006": [
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    }
+  ],
+  "UIST|2007": [
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    }
+  ],
+  "UIST|2008": [
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    }
+  ],
+  "UIST|2009": [
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    }
+  ],
+  "UIST|2010": [
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    }
+  ],
+  "UIST|2011": [
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    }
+  ],
+  "UIST|2012": [
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 1,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 1,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    }
+  ],
+  "UIST|2013": [
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 1,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 2,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 1,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 2,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    }
+  ],
+  "UIST|2014": [
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 1,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 2,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 1,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 2,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    }
+  ],
+  "UIST|2015": [
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 1,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 2,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 1,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 2,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    }
+  ],
+  "UIST|2016": [
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 1,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 2,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 3,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 1,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 2,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 3,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    }
+  ],
+  "UIST|2017": [
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 1,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 2,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 1,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 2,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    }
+  ],
+  "UIST|2018": [
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 1,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 2,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 1,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 2,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    }
+  ],
+  "VLDB|2007": [
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    }
+  ],
+  "WWW|2001": [
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    }
+  ],
+  "WWW|2002": [
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    }
+  ],
+  "WWW|2004": [
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    }
+  ],
+  "WWW|2005": [
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    }
+  ],
+  "WWW|2006": [
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    }
+  ],
+  "WWW|2008": [
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    }
+  ],
+  "WWW|2009": [
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    }
+  ],
+  "WWW|2010": [
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    }
+  ],
+  "WWW|2011": [
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    }
+  ],
+  "WWW|2012": [
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    }
+  ],
+  "WWW|2013": [
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    }
+  ],
+  "WWW|2014": [
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    }
+  ],
+  "WWW|2015": [
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    }
+  ],
+  "WWW|2016": [
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    }
+  ],
+  "WWW|2018": [
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    },
+    {
+      "sample": 0,
+      "error": "NO_CONFERENCE_SOURCE_FOUND"
+    }
+  ]
+}

@@ -1,0 +1,2462 @@
+{
+  "ACL|2001": [
+    {
+      "sample": 1,
+      "error": "NO_STRUCTURED_SOURCE"
+    }
+  ],
+  "ACL|2003": [
+    {
+      "sample": 0,
+      "error": "NO_STRUCTURED_SOURCE"
+    },
+    {
+      "sample": 1,
+      "error": "NO_STRUCTURED_SOURCE"
+    },
+    {
+      "error": "TIER2_NO_SEARCH_RESULTS",
+      "raw_name": "Proceedings of the 41st Annual Meeting on Association for Computational Linguistics  - ACL '03"
+    },
+    {
+      "error": "TIER2_NO_SEARCH_RESULTS",
+      "raw_name": "Proceedings of the 41st Annual Meeting on Association for Computational Linguistics  - ACL '03"
+    }
+  ],
+  "ACL|2005": [
+    {
+      "sample": 0,
+      "error": "NO_STRUCTURED_SOURCE"
+    },
+    {
+      "error": "TIER2_NO_SEARCH_RESULTS",
+      "raw_name": "Proceedings of the 43rd Annual Meeting on Association for Computational Linguistics  - ACL '05"
+    }
+  ],
+  "ACL|2006": [
+    {
+      "sample": 0,
+      "error": "NO_STRUCTURED_SOURCE"
+    },
+    {
+      "error": "TIER2_NO_SEARCH_RESULTS",
+      "raw_name": "Proceedings of the 21st International Conference on Computational Linguistics and the 44th annual meeting of the ACL  - ACL '06"
+    }
+  ],
+  "ACL|2009": [
+    {
+      "sample": 0,
+      "error": "NO_STRUCTURED_SOURCE"
+    },
+    {
+      "sample": 2,
+      "error": "NO_STRUCTURED_SOURCE"
+    }
+  ],
+  "ACL|2014": [
+    {
+      "sample": 0,
+      "error": "NO_STRUCTURED_SOURCE"
+    },
+    {
+      "error": "TIER2_NO_SEARCH_RESULTS",
+      "raw_name": "Proceedings of the 52nd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)"
+    }
+  ],
+  "ACL|2015": [
+    {
+      "sample": 0,
+      "error": "NO_STRUCTURED_SOURCE"
+    },
+    {
+      "sample": 1,
+      "error": "NO_STRUCTURED_SOURCE"
+    },
+    {
+      "error": "TIER2_NO_SEARCH_RESULTS",
+      "raw_name": "Proceedings of the 53rd Annual Meeting of the Association for Computational Linguistics and the 7th International Joint Conference on Natural Language Processing (Volume 1: Long Papers)"
+    },
+    {
+      "error": "TIER2_NO_SEARCH_RESULTS",
+      "raw_name": "Proceedings of the 53rd Annual Meeting of the Association for Computational Linguistics and the 7th International Joint Conference on Natural Language Processing (Volume 1: Long Papers)"
+    }
+  ],
+  "ACL|2016": [
+    {
+      "sample": 0,
+      "error": "NO_STRUCTURED_SOURCE"
+    },
+    {
+      "error": "TIER2_NO_SEARCH_RESULTS",
+      "raw_name": "Proceedings of the 54th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)"
+    }
+  ],
+  "ACL|2018": [
+    {
+      "sample": 1,
+      "error": "NO_STRUCTURED_SOURCE"
+    }
+  ],
+  "CHI|2005": [
+    {
+      "sample": 0,
+      "error": "NO_STRUCTURED_SOURCE"
+    },
+    {
+      "sample": 2,
+      "error": "NO_STRUCTURED_SOURCE"
+    }
+  ],
+  "CHI|2006": [
+    {
+      "sample": 0,
+      "error": "NO_STRUCTURED_SOURCE"
+    },
+    {
+      "sample": 2,
+      "error": "NO_STRUCTURED_SOURCE"
+    }
+  ],
+  "CHI|2007": [
+    {
+      "sample": 0,
+      "error": "NO_STRUCTURED_SOURCE"
+    },
+    {
+      "sample": 1,
+      "error": "NO_STRUCTURED_SOURCE"
+    }
+  ],
+  "CHI|2008": [
+    {
+      "sample": 0,
+      "error": "NO_STRUCTURED_SOURCE"
+    },
+    {
+      "sample": 2,
+      "error": "NO_STRUCTURED_SOURCE"
+    }
+  ],
+  "CHI|2009": [
+    {
+      "sample": 0,
+      "error": "NO_STRUCTURED_SOURCE"
+    },
+    {
+      "sample": 1,
+      "error": "NO_STRUCTURED_SOURCE"
+    }
+  ],
+  "CHI|2010": [
+    {
+      "sample": 0,
+      "error": "NO_STRUCTURED_SOURCE"
+    },
+    {
+      "sample": 2,
+      "error": "NO_STRUCTURED_SOURCE"
+    }
+  ],
+  "CHI|2011": [
+    {
+      "sample": 0,
+      "error": "NO_STRUCTURED_SOURCE"
+    },
+    {
+      "sample": 2,
+      "error": "NO_STRUCTURED_SOURCE"
+    }
+  ],
+  "CHI|2012": [
+    {
+      "sample": 2,
+      "error": "NO_STRUCTURED_SOURCE"
+    }
+  ],
+  "CHI|2013": [
+    {
+      "sample": 1,
+      "error": "NO_STRUCTURED_SOURCE"
+    },
+    {
+      "sample": 2,
+      "error": "NO_STRUCTURED_SOURCE"
+    }
+  ],
+  "CHI|2014": [
+    {
+      "sample": 0,
+      "error": "NO_STRUCTURED_SOURCE"
+    },
+    {
+      "sample": 2,
+      "error": "NO_STRUCTURED_SOURCE"
+    }
+  ],
+  "CHI|2015": [
+    {
+      "sample": 0,
+      "error": "NO_STRUCTURED_SOURCE"
+    }
+  ],
+  "CHI|2016": [
+    {
+      "sample": 0,
+      "error": "NO_STRUCTURED_SOURCE"
+    },
+    {
+      "sample": 2,
+      "error": "NO_STRUCTURED_SOURCE"
+    }
+  ],
+  "CHI|2017": [
+    {
+      "sample": 0,
+      "error": "NO_STRUCTURED_SOURCE"
+    }
+  ],
+  "CHI|2018": [
+    {
+      "sample": 0,
+      "error": "NO_STRUCTURED_SOURCE"
+    },
+    {
+      "sample": 1,
+      "error": "NO_STRUCTURED_SOURCE"
+    },
+    {
+      "sample": 2,
+      "error": "NO_STRUCTURED_SOURCE"
+    },
+    {
+      "error": "TIER2_NO_SEARCH_RESULTS",
+      "raw_name": "Proceedings of the 2018 CHI Conference on Human Factors in Computing Systems"
+    },
+    {
+      "error": "TIER2_NO_SEARCH_RESULTS",
+      "raw_name": "Proceedings of the 2018 CHI Conference on Human Factors in Computing Systems"
+    },
+    {
+      "error": "TIER2_NO_SEARCH_RESULTS",
+      "raw_name": "Proceedings of the 2018 CHI Conference on Human Factors in Computing Systems"
+    }
+  ],
+  "CIKM|2004": [
+    {
+      "sample": 0,
+      "error": "NO_STRUCTURED_SOURCE"
+    },
+    {
+      "error": "TIER2_NO_SEARCH_RESULTS",
+      "raw_name": "Proceedings of the thirteenth ACM international conference on Information and knowledge management"
+    }
+  ],
+  "CIKM|2005": [
+    {
+      "sample": 0,
+      "error": "NO_STRUCTURED_SOURCE"
+    },
+    {
+      "error": "TIER2_NO_SEARCH_RESULTS",
+      "raw_name": "Proceedings of the 14th ACM international conference on Information and knowledge management"
+    }
+  ],
+  "CIKM|2006": [
+    {
+      "sample": 0,
+      "error": "NO_STRUCTURED_SOURCE"
+    },
+    {
+      "error": "TIER2_NO_SEARCH_RESULTS",
+      "raw_name": "Proceedings of the 15th ACM international conference on Information and knowledge management  - CIKM '06"
+    }
+  ],
+  "CIKM|2007": [
+    {
+      "sample": 0,
+      "error": "NO_STRUCTURED_SOURCE"
+    },
+    {
+      "error": "TIER2_NO_SEARCH_RESULTS",
+      "raw_name": "Proceedings of the sixteenth ACM conference on Conference on information and knowledge management"
+    }
+  ],
+  "CIKM|2009": [
+    {
+      "sample": 0,
+      "error": "NO_STRUCTURED_SOURCE"
+    },
+    {
+      "error": "TIER2_NO_SEARCH_RESULTS",
+      "raw_name": "Proceedings of the 18th ACM conference on Information and knowledge management"
+    }
+  ],
+  "CIKM|2010": [
+    {
+      "sample": 1,
+      "error": "NO_STRUCTURED_SOURCE"
+    }
+  ],
+  "CIKM|2011": [
+    {
+      "sample": 0,
+      "error": "NO_STRUCTURED_SOURCE"
+    },
+    {
+      "error": "TIER2_NO_SEARCH_RESULTS",
+      "raw_name": "Proceedings of the 20th ACM international conference on Information and knowledge management"
+    }
+  ],
+  "CIKM|2013": [
+    {
+      "sample": 0,
+      "error": "NO_STRUCTURED_SOURCE"
+    },
+    {
+      "error": "TIER2_NO_SEARCH_RESULTS",
+      "raw_name": "Proceedings of the 22nd ACM international conference on Information &amp; Knowledge Management"
+    }
+  ],
+  "CIKM|2014": [
+    {
+      "sample": 0,
+      "error": "NO_STRUCTURED_SOURCE"
+    },
+    {
+      "error": "TIER2_NO_SEARCH_RESULTS",
+      "raw_name": "Proceedings of the 23rd ACM International Conference on Conference on Information and Knowledge Management"
+    }
+  ],
+  "CIKM|2016": [
+    {
+      "sample": 0,
+      "error": "NO_STRUCTURED_SOURCE"
+    },
+    {
+      "error": "TIER2_NO_SEARCH_RESULTS",
+      "raw_name": "Proceedings of the 25th ACM International on Conference on Information and Knowledge Management"
+    }
+  ],
+  "CIKM|2017": [
+    {
+      "sample": 0,
+      "error": "NO_STRUCTURED_SOURCE"
+    },
+    {
+      "error": "TIER2_NO_SEARCH_RESULTS",
+      "raw_name": "Proceedings of the 2017 ACM on Conference on Information and Knowledge Management"
+    }
+  ],
+  "CIKM|2018": [
+    {
+      "sample": 0,
+      "error": "NO_STRUCTURED_SOURCE"
+    },
+    {
+      "error": "TIER2_NO_SEARCH_RESULTS",
+      "raw_name": "Proceedings of the 27th ACM International Conference on Information and Knowledge Management"
+    }
+  ],
+  "CVPR|2000": [
+    {
+      "sample": 0,
+      "error": "NO_STRUCTURED_SOURCE"
+    },
+    {
+      "error": "TIER2_NO_SEARCH_RESULTS",
+      "raw_name": "Proceedings IEEE Conference on Computer Vision and Pattern Recognition. CVPR 2000 (Cat. No.PR00662)"
+    }
+  ],
+  "CVPR|2001": [
+    {
+      "sample": 0,
+      "error": "NO_STRUCTURED_SOURCE"
+    },
+    {
+      "error": "TIER2_NO_SEARCH_RESULTS",
+      "raw_name": "Proceedings of the 2001 IEEE Computer Society Conference on Computer Vision and Pattern Recognition. CVPR 2001"
+    }
+  ],
+  "CVPR|2004": [
+    {
+      "sample": 0,
+      "error": "NO_STRUCTURED_SOURCE"
+    },
+    {
+      "error": "TIER2_NO_SEARCH_RESULTS",
+      "raw_name": "Proceedings of the 2004 IEEE Computer Society Conference on Computer Vision and Pattern Recognition, 2004. CVPR 2004."
+    }
+  ],
+  "CVPR|2008": [
+    {
+      "sample": 1,
+      "error": "NO_STRUCTURED_SOURCE"
+    }
+  ],
+  "CVPR|2013": [
+    {
+      "sample": 0,
+      "error": "NO_STRUCTURED_SOURCE"
+    },
+    {
+      "error": "TIER2_NO_SEARCH_RESULTS",
+      "raw_name": "http://static.googleusercontent.com/external_content/untrusted_dlcp/research.google.com/en/us/pubs/archive/41104.pdf"
+    }
+  ],
+  "CVPR|2014": [
+    {
+      "sample": 0,
+      "error": "NO_STRUCTURED_SOURCE"
+    },
+    {
+      "error": "TIER2_NO_SEARCH_RESULTS",
+      "raw_name": "2014 IEEE Conference on Computer Vision and Pattern Recognition"
+    }
+  ],
+  "CVPR|2015": [
+    {
+      "sample": 0,
+      "error": "NO_STRUCTURED_SOURCE"
+    },
+    {
+      "error": "TIER2_NO_SEARCH_RESULTS",
+      "raw_name": "2015 IEEE Conference on Computer Vision and Pattern Recognition (CVPR)"
+    }
+  ],
+  "CVPR|2017": [
+    {
+      "sample": 0,
+      "error": "NO_STRUCTURED_SOURCE"
+    }
+  ],
+  "FOCS|2002": [
+    {
+      "sample": 1,
+      "error": "NO_STRUCTURED_SOURCE"
+    },
+    {
+      "sample": 2,
+      "error": "NO_STRUCTURED_SOURCE"
+    }
+  ],
+  "FOCS|2004": [
+    {
+      "sample": 0,
+      "error": "NO_STRUCTURED_SOURCE"
+    }
+  ],
+  "FOCS|2005": [
+    {
+      "sample": 0,
+      "error": "NO_STRUCTURED_SOURCE"
+    },
+    {
+      "error": "TIER2_NO_SEARCH_RESULTS",
+      "raw_name": "46th Annual IEEE Symposium on Foundations of Computer Science (FOCS'05)"
+    }
+  ],
+  "FOCS|2006": [
+    {
+      "sample": 0,
+      "error": "NO_STRUCTURED_SOURCE"
+    },
+    {
+      "error": "TIER2_NO_SEARCH_RESULTS",
+      "raw_name": "2006 47th Annual IEEE Symposium on Foundations of Computer Science (FOCS'06)"
+    }
+  ],
+  "FOCS|2007": [
+    {
+      "sample": 0,
+      "error": "NO_STRUCTURED_SOURCE"
+    },
+    {
+      "error": "TIER2_NO_SEARCH_RESULTS",
+      "raw_name": "48th Annual IEEE Symposium on Foundations of Computer Science (FOCS'07)"
+    }
+  ],
+  "FOCS|2010": [
+    {
+      "sample": 2,
+      "error": "NO_STRUCTURED_SOURCE"
+    }
+  ],
+  "FOCS|2011": [
+    {
+      "sample": 0,
+      "error": "NO_STRUCTURED_SOURCE"
+    }
+  ],
+  "FOCS|2012": [
+    {
+      "sample": 0,
+      "error": "NO_STRUCTURED_SOURCE"
+    },
+    {
+      "sample": 1,
+      "error": "NO_STRUCTURED_SOURCE"
+    },
+    {
+      "error": "TIER2_NO_SEARCH_RESULTS",
+      "raw_name": "2012 IEEE 53rd Annual Symposium on Foundations of Computer Science"
+    },
+    {
+      "error": "TIER2_NO_SEARCH_RESULTS",
+      "raw_name": "2012 IEEE 53rd Annual Symposium on Foundations of Computer Science"
+    }
+  ],
+  "FOCS|2013": [
+    {
+      "sample": 1,
+      "error": "NO_STRUCTURED_SOURCE"
+    }
+  ],
+  "FOCS|2014": [
+    {
+      "sample": 0,
+      "error": "NO_STRUCTURED_SOURCE"
+    },
+    {
+      "error": "TIER2_NO_SEARCH_RESULTS",
+      "raw_name": "2014 IEEE 55th Annual Symposium on Foundations of Computer Science"
+    }
+  ],
+  "FOCS|2018": [
+    {
+      "sample": 0,
+      "error": "NO_STRUCTURED_SOURCE"
+    },
+    {
+      "sample": 1,
+      "error": "NO_STRUCTURED_SOURCE"
+    }
+  ],
+  "FSE|2002": [
+    {
+      "sample": 0,
+      "error": "NO_STRUCTURED_SOURCE"
+    },
+    {
+      "error": "TIER2_NO_SEARCH_RESULTS",
+      "raw_name": "Proceedings of the 10th ACM SIGSOFT symposium on Foundations of software engineering"
+    }
+  ],
+  "FSE|2003": [
+    {
+      "sample": 1,
+      "error": "NO_STRUCTURED_SOURCE"
+    }
+  ],
+  "FSE|2004": [
+    {
+      "sample": 0,
+      "error": "NO_STRUCTURED_SOURCE"
+    }
+  ],
+  "FSE|2005": [
+    {
+      "sample": 0,
+      "error": "NO_STRUCTURED_SOURCE"
+    },
+    {
+      "sample": 1,
+      "error": "NO_STRUCTURED_SOURCE"
+    },
+    {
+      "sample": 2,
+      "error": "NO_STRUCTURED_SOURCE"
+    },
+    {
+      "error": "TIER2_NO_SEARCH_RESULTS",
+      "raw_name": "Proceedings of the 10th European software engineering conference held jointly with 13th ACM SIGSOFT international symposium on Foundations of software engineering"
+    },
+    {
+      "error": "TIER2_NO_SEARCH_RESULTS",
+      "raw_name": "Proceedings of the 10th European software engineering conference held jointly with 13th ACM SIGSOFT international symposium on Foundations of software engineering"
+    },
+    {
+      "error": "TIER2_NO_SEARCH_RESULTS",
+      "raw_name": "Proceedings of the 10th European software engineering conference held jointly with 13th ACM SIGSOFT international symposium on Foundations of software engineering"
+    }
+  ],
+  "FSE|2006": [
+    {
+      "sample": 1,
+      "error": "NO_STRUCTURED_SOURCE"
+    }
+  ],
+  "FSE|2007": [
+    {
+      "sample": 1,
+      "error": "NO_STRUCTURED_SOURCE"
+    },
+    {
+      "sample": 2,
+      "error": "NO_STRUCTURED_SOURCE"
+    }
+  ],
+  "FSE|2008": [
+    {
+      "sample": 1,
+      "error": "NO_STRUCTURED_SOURCE"
+    }
+  ],
+  "FSE|2009": [
+    {
+      "sample": 0,
+      "error": "NO_STRUCTURED_SOURCE"
+    },
+    {
+      "sample": 2,
+      "error": "NO_STRUCTURED_SOURCE"
+    }
+  ],
+  "FSE|2010": [
+    {
+      "sample": 0,
+      "error": "NO_STRUCTURED_SOURCE"
+    },
+    {
+      "sample": 1,
+      "error": "NO_STRUCTURED_SOURCE"
+    },
+    {
+      "sample": 2,
+      "error": "NO_STRUCTURED_SOURCE"
+    },
+    {
+      "error": "TIER2_NO_SEARCH_RESULTS",
+      "raw_name": "Proceedings of the eighteenth ACM SIGSOFT international symposium on Foundations of software engineering"
+    },
+    {
+      "error": "TIER2_NO_SEARCH_RESULTS",
+      "raw_name": "Proceedings of the eighteenth ACM SIGSOFT international symposium on Foundations of software engineering"
+    },
+    {
+      "error": "TIER2_NO_SEARCH_RESULTS",
+      "raw_name": "Proceedings of the eighteenth ACM SIGSOFT international symposium on Foundations of software engineering"
+    }
+  ],
+  "FSE|2011": [
+    {
+      "sample": 0,
+      "error": "NO_STRUCTURED_SOURCE"
+    },
+    {
+      "sample": 1,
+      "error": "NO_STRUCTURED_SOURCE"
+    },
+    {
+      "sample": 2,
+      "error": "NO_STRUCTURED_SOURCE"
+    },
+    {
+      "error": "TIER2_NO_SEARCH_RESULTS",
+      "raw_name": "Proceedings of the 19th ACM SIGSOFT symposium and the 13th European conference on Foundations of software engineering"
+    },
+    {
+      "error": "TIER2_NO_SEARCH_RESULTS",
+      "raw_name": "Proceedings of the 19th ACM SIGSOFT symposium and the 13th European conference on Foundations of software engineering"
+    },
+    {
+      "error": "TIER2_NO_SEARCH_RESULTS",
+      "raw_name": "Proceedings of the 19th ACM SIGSOFT symposium and the 13th European conference on Foundations of software engineering"
+    }
+  ],
+  "FSE|2012": [
+    {
+      "sample": 0,
+      "error": "NO_STRUCTURED_SOURCE"
+    },
+    {
+      "sample": 2,
+      "error": "NO_STRUCTURED_SOURCE"
+    }
+  ],
+  "FSE|2014": [
+    {
+      "sample": 0,
+      "error": "NO_STRUCTURED_SOURCE"
+    },
+    {
+      "sample": 1,
+      "error": "NO_STRUCTURED_SOURCE"
+    }
+  ],
+  "FSE|2015": [
+    {
+      "sample": 2,
+      "error": "NO_STRUCTURED_SOURCE"
+    }
+  ],
+  "FSE|2016": [
+    {
+      "sample": 0,
+      "error": "NO_STRUCTURED_SOURCE"
+    },
+    {
+      "sample": 1,
+      "error": "NO_STRUCTURED_SOURCE"
+    },
+    {
+      "sample": 2,
+      "error": "NO_STRUCTURED_SOURCE"
+    },
+    {
+      "error": "TIER2_NO_SEARCH_RESULTS",
+      "raw_name": "Proceedings of the 2016 24th ACM SIGSOFT International Symposium on Foundations of Software Engineering"
+    },
+    {
+      "error": "TIER2_NO_SEARCH_RESULTS",
+      "raw_name": "Proceedings of the 2016 24th ACM SIGSOFT International Symposium on Foundations of Software Engineering"
+    },
+    {
+      "error": "TIER2_NO_SEARCH_RESULTS",
+      "raw_name": "Proceedings of the 2016 24th ACM SIGSOFT International Symposium on Foundations of Software Engineering"
+    }
+  ],
+  "FSE|2017": [
+    {
+      "sample": 0,
+      "error": "NO_STRUCTURED_SOURCE"
+    },
+    {
+      "sample": 1,
+      "error": "NO_STRUCTURED_SOURCE"
+    },
+    {
+      "sample": 2,
+      "error": "NO_STRUCTURED_SOURCE"
+    },
+    {
+      "error": "TIER2_NO_SEARCH_RESULTS",
+      "raw_name": "Proceedings of the 2017 11th Joint Meeting on Foundations of Software Engineering"
+    },
+    {
+      "error": "TIER2_NO_SEARCH_RESULTS",
+      "raw_name": "Proceedings of the 2017 11th Joint Meeting on Foundations of Software Engineering"
+    },
+    {
+      "error": "TIER2_NO_SEARCH_RESULTS",
+      "raw_name": "Proceedings of the 2017 11th Joint Meeting on Foundations of Software Engineering"
+    }
+  ],
+  "FSE|2018": [
+    {
+      "sample": 0,
+      "error": "NO_STRUCTURED_SOURCE"
+    },
+    {
+      "sample": 1,
+      "error": "NO_STRUCTURED_SOURCE"
+    },
+    {
+      "sample": 2,
+      "error": "NO_STRUCTURED_SOURCE"
+    },
+    {
+      "error": "TIER2_NO_SEARCH_RESULTS",
+      "raw_name": "Proceedings of the 2018 26th ACM Joint Meeting on European Software Engineering Conference and Symposium on the Foundations of Software Engineering"
+    },
+    {
+      "error": "TIER2_NO_SEARCH_RESULTS",
+      "raw_name": "Proceedings of the 2018 26th ACM Joint Meeting on European Software Engineering Conference and Symposium on the Foundations of Software Engineering"
+    },
+    {
+      "error": "TIER2_NO_SEARCH_RESULTS",
+      "raw_name": "Proceedings of the 2018 26th ACM Joint Meeting on European Software Engineering Conference and Symposium on the Foundations of Software Engineering"
+    }
+  ],
+  "ICCV|2001": [
+    {
+      "sample": 0,
+      "error": "NO_STRUCTURED_SOURCE"
+    }
+  ],
+  "ICCV|2003": [
+    {
+      "sample": 0,
+      "error": "NO_STRUCTURED_SOURCE"
+    }
+  ],
+  "ICCV|2009": [
+    {
+      "sample": 0,
+      "error": "NO_STRUCTURED_SOURCE"
+    },
+    {
+      "error": "TIER2_NO_SEARCH_RESULTS",
+      "raw_name": "2009 IEEE 12th International Conference on Computer Vision"
+    }
+  ],
+  "ICCV|2011": [
+    {
+      "sample": 0,
+      "error": "NO_STRUCTURED_SOURCE"
+    },
+    {
+      "error": "TIER2_NO_SEARCH_RESULTS",
+      "raw_name": "2011 International Conference on Computer Vision"
+    }
+  ],
+  "ICCV|2013": [
+    {
+      "sample": 0,
+      "error": "NO_STRUCTURED_SOURCE"
+    },
+    {
+      "error": "TIER2_NO_SEARCH_RESULTS",
+      "raw_name": "2013 IEEE International Conference on Computer Vision"
+    }
+  ],
+  "ICCV|2015": [
+    {
+      "sample": 0,
+      "error": "NO_STRUCTURED_SOURCE"
+    },
+    {
+      "error": "TIER2_NO_SEARCH_RESULTS",
+      "raw_name": "2015 IEEE International Conference on Computer Vision (ICCV)"
+    }
+  ],
+  "ICML|2005": [
+    {
+      "sample": 0,
+      "error": "NO_STRUCTURED_SOURCE"
+    },
+    {
+      "error": "TIER2_NO_SEARCH_RESULTS",
+      "raw_name": "Proceedings of the 22nd international conference on Machine learning  - ICML '05"
+    }
+  ],
+  "ICML|2007": [
+    {
+      "sample": 0,
+      "error": "NO_STRUCTURED_SOURCE"
+    },
+    {
+      "error": "TIER2_NO_SEARCH_RESULTS",
+      "raw_name": "Proceedings of the 24th international conference on Machine learning"
+    }
+  ],
+  "ICML|2008": [
+    {
+      "sample": 0,
+      "error": "NO_STRUCTURED_SOURCE"
+    },
+    {
+      "error": "TIER2_NO_SEARCH_RESULTS",
+      "raw_name": "Proceedings of the 25th international conference on Machine learning - ICML '08"
+    }
+  ],
+  "ICML|2009": [
+    {
+      "sample": 0,
+      "error": "NO_STRUCTURED_SOURCE"
+    },
+    {
+      "error": "TIER2_NO_SEARCH_RESULTS",
+      "raw_name": "Proceedings of the 26th Annual International Conference on Machine Learning"
+    }
+  ],
+  "ICML|2013": [
+    {
+      "sample": 1,
+      "error": "NO_STRUCTURED_SOURCE"
+    }
+  ],
+  "ICSE|2005": [
+    {
+      "sample": 2,
+      "error": "NO_STRUCTURED_SOURCE"
+    }
+  ],
+  "ICSE|2006": [
+    {
+      "sample": 0,
+      "error": "NO_STRUCTURED_SOURCE"
+    },
+    {
+      "sample": 1,
+      "error": "NO_STRUCTURED_SOURCE"
+    },
+    {
+      "error": "TIER2_NO_SEARCH_RESULTS",
+      "raw_name": "Proceedings of the 28th international conference on Software engineering"
+    },
+    {
+      "error": "TIER2_NO_SEARCH_RESULTS",
+      "raw_name": "Proceedings of the 28th international conference on Software engineering"
+    }
+  ],
+  "ICSE|2008": [
+    {
+      "sample": 1,
+      "error": "NO_STRUCTURED_SOURCE"
+    }
+  ],
+  "ICSE|2009": [
+    {
+      "sample": 0,
+      "error": "NO_STRUCTURED_SOURCE"
+    },
+    {
+      "sample": 2,
+      "error": "NO_STRUCTURED_SOURCE"
+    }
+  ],
+  "ICSE|2010": [
+    {
+      "sample": 0,
+      "error": "NO_STRUCTURED_SOURCE"
+    },
+    {
+      "sample": 1,
+      "error": "NO_STRUCTURED_SOURCE"
+    },
+    {
+      "sample": 2,
+      "error": "NO_STRUCTURED_SOURCE"
+    },
+    {
+      "error": "TIER2_NO_SEARCH_RESULTS",
+      "raw_name": "Proceedings of the 32nd ACM/IEEE International Conference on Software Engineering - Volume 1"
+    },
+    {
+      "error": "TIER2_NO_SEARCH_RESULTS",
+      "raw_name": "Proceedings of the 32nd ACM/IEEE International Conference on Software Engineering - Volume 1"
+    },
+    {
+      "error": "TIER2_NO_SEARCH_RESULTS",
+      "raw_name": "Proceedings of the 32nd ACM/IEEE International Conference on Software Engineering - Volume 1"
+    }
+  ],
+  "ICSE|2011": [
+    {
+      "sample": 2,
+      "error": "NO_STRUCTURED_SOURCE"
+    }
+  ],
+  "ICSE|2012": [
+    {
+      "sample": 0,
+      "error": "NO_STRUCTURED_SOURCE"
+    },
+    {
+      "sample": 1,
+      "error": "NO_STRUCTURED_SOURCE"
+    },
+    {
+      "sample": 2,
+      "error": "NO_STRUCTURED_SOURCE"
+    },
+    {
+      "error": "TIER2_NO_SEARCH_RESULTS",
+      "raw_name": "2012 34th International Conference on Software Engineering (ICSE)"
+    },
+    {
+      "error": "TIER2_NO_SEARCH_RESULTS",
+      "raw_name": "2012 34th International Conference on Software Engineering (ICSE)"
+    },
+    {
+      "error": "TIER2_NO_SEARCH_RESULTS",
+      "raw_name": "2012 34th International Conference on Software Engineering (ICSE)"
+    }
+  ],
+  "ICSE|2014": [
+    {
+      "sample": 2,
+      "error": "NO_STRUCTURED_SOURCE"
+    }
+  ],
+  "ICSE|2016": [
+    {
+      "sample": 2,
+      "error": "NO_STRUCTURED_SOURCE"
+    }
+  ],
+  "ICSE|2017": [
+    {
+      "sample": 0,
+      "error": "NO_STRUCTURED_SOURCE"
+    },
+    {
+      "sample": 2,
+      "error": "NO_STRUCTURED_SOURCE"
+    }
+  ],
+  "IJCAI|2007": [
+    {
+      "sample": 1,
+      "error": "NO_STRUCTURED_SOURCE"
+    }
+  ],
+  "IJCAI|2018": [
+    {
+      "sample": 0,
+      "error": "NO_STRUCTURED_SOURCE"
+    },
+    {
+      "sample": 1,
+      "error": "NO_STRUCTURED_SOURCE"
+    },
+    {
+      "sample": 2,
+      "error": "NO_STRUCTURED_SOURCE"
+    },
+    {
+      "error": "TIER2_NO_SEARCH_RESULTS",
+      "raw_name": "Proceedings of the Twenty-Seventh International Joint Conference on Artificial Intelligence"
+    },
+    {
+      "error": "TIER2_NO_SEARCH_RESULTS",
+      "raw_name": "Proceedings of the Twenty-Seventh International Joint Conference on Artificial Intelligence"
+    },
+    {
+      "error": "TIER2_NO_SEARCH_RESULTS",
+      "raw_name": "Proceedings of the Twenty-Seventh International Joint Conference on Artificial Intelligence"
+    }
+  ],
+  "INFOCOM|2000": [
+    {
+      "sample": 0,
+      "error": "NO_STRUCTURED_SOURCE"
+    },
+    {
+      "error": "TIER2_NO_SEARCH_RESULTS",
+      "raw_name": "Proceedings IEEE INFOCOM 2000. Conference on Computer Communications. Nineteenth Annual Joint Conference of the IEEE Computer and Communications Societies (Cat. No.00CH37064)"
+    }
+  ],
+  "INFOCOM|2002": [
+    {
+      "sample": 0,
+      "error": "NO_STRUCTURED_SOURCE"
+    },
+    {
+      "error": "TIER2_NO_SEARCH_RESULTS",
+      "raw_name": "Proceedings.Twenty-First Annual Joint Conference of the IEEE Computer and Communications Societies"
+    }
+  ],
+  "INFOCOM|2004": [
+    {
+      "sample": 0,
+      "error": "NO_STRUCTURED_SOURCE"
+    },
+    {
+      "error": "TIER2_NO_SEARCH_RESULTS",
+      "raw_name": "IEEE INFOCOM 2004"
+    }
+  ],
+  "INFOCOM|2008": [
+    {
+      "sample": 0,
+      "error": "NO_STRUCTURED_SOURCE"
+    },
+    {
+      "sample": 1,
+      "error": "NO_STRUCTURED_SOURCE"
+    }
+  ],
+  "INFOCOM|2009": [
+    {
+      "sample": 0,
+      "error": "NO_STRUCTURED_SOURCE"
+    },
+    {
+      "error": "TIER2_NO_SEARCH_RESULTS",
+      "raw_name": "IEEE INFOCOM 2009"
+    }
+  ],
+  "INFOCOM|2010": [
+    {
+      "sample": 0,
+      "error": "NO_STRUCTURED_SOURCE"
+    },
+    {
+      "error": "TIER2_NO_SEARCH_RESULTS",
+      "raw_name": "2010 Proceedings IEEE INFOCOM"
+    }
+  ],
+  "INFOCOM|2012": [
+    {
+      "sample": 0,
+      "error": "NO_STRUCTURED_SOURCE"
+    },
+    {
+      "error": "TIER2_NO_SEARCH_RESULTS",
+      "raw_name": "2012 Proceedings IEEE INFOCOM"
+    }
+  ],
+  "INFOCOM|2013": [
+    {
+      "sample": 0,
+      "error": "NO_STRUCTURED_SOURCE"
+    },
+    {
+      "error": "TIER2_NO_SEARCH_RESULTS",
+      "raw_name": "2013 Proceedings IEEE INFOCOM"
+    }
+  ],
+  "INFOCOM|2014": [
+    {
+      "sample": 1,
+      "error": "NO_STRUCTURED_SOURCE"
+    }
+  ],
+  "INFOCOM|2015": [
+    {
+      "sample": 0,
+      "error": "NO_STRUCTURED_SOURCE"
+    },
+    {
+      "error": "TIER2_NO_SEARCH_RESULTS",
+      "raw_name": "2015 IEEE Conference on Computer Communications (INFOCOM)"
+    }
+  ],
+  "INFOCOM|2016": [
+    {
+      "sample": 0,
+      "error": "NO_STRUCTURED_SOURCE"
+    },
+    {
+      "error": "TIER2_NO_SEARCH_RESULTS",
+      "raw_name": "IEEE INFOCOM 2016 - The 35th Annual IEEE International Conference on Computer Communications"
+    }
+  ],
+  "INFOCOM|2017": [
+    {
+      "sample": 0,
+      "error": "NO_STRUCTURED_SOURCE"
+    },
+    {
+      "error": "TIER2_NO_SEARCH_RESULTS",
+      "raw_name": "IEEE INFOCOM 2017 - IEEE Conference on Computer Communications"
+    }
+  ],
+  "INFOCOM|2018": [
+    {
+      "sample": 0,
+      "error": "NO_STRUCTURED_SOURCE"
+    }
+  ],
+  "JCDL|2000": [
+    {
+      "sample": 0,
+      "error": "NO_STRUCTURED_SOURCE"
+    },
+    {
+      "error": "TIER2_NO_SEARCH_RESULTS",
+      "raw_name": "Proceedings of the fifth ACM conference on Digital libraries"
+    }
+  ],
+  "JCDL|2002": [
+    {
+      "sample": 0,
+      "error": "NO_STRUCTURED_SOURCE"
+    },
+    {
+      "error": "TIER2_NO_SEARCH_RESULTS",
+      "raw_name": "Proceedings of the 2nd ACM/IEEE-CS joint conference on Digital libraries"
+    }
+  ],
+  "JCDL|2004": [
+    {
+      "sample": 0,
+      "error": "NO_STRUCTURED_SOURCE"
+    },
+    {
+      "error": "TIER2_NO_SEARCH_RESULTS",
+      "raw_name": "Proceedings of the 4th ACM/IEEE-CS joint conference on Digital libraries"
+    }
+  ],
+  "JCDL|2005": [
+    {
+      "sample": 0,
+      "error": "NO_STRUCTURED_SOURCE"
+    },
+    {
+      "error": "TIER2_NO_SEARCH_RESULTS",
+      "raw_name": "Proceedings of the 5th ACM/IEEE-CS joint conference on Digital libraries"
+    }
+  ],
+  "JCDL|2006": [
+    {
+      "sample": 0,
+      "error": "NO_STRUCTURED_SOURCE"
+    },
+    {
+      "error": "TIER2_NO_SEARCH_RESULTS",
+      "raw_name": "Proceedings of the 6th ACM/IEEE-CS joint conference on Digital libraries"
+    }
+  ],
+  "JCDL|2007": [
+    {
+      "sample": 0,
+      "error": "NO_STRUCTURED_SOURCE"
+    },
+    {
+      "error": "TIER2_NO_SEARCH_RESULTS",
+      "raw_name": "Proceedings of the 7th ACM/IEEE-CS joint conference on Digital libraries"
+    }
+  ],
+  "JCDL|2008": [
+    {
+      "sample": 0,
+      "error": "NO_STRUCTURED_SOURCE"
+    },
+    {
+      "error": "TIER2_NO_SEARCH_RESULTS",
+      "raw_name": "Proceedings of the 8th ACM/IEEE-CS joint conference on Digital libraries"
+    }
+  ],
+  "JCDL|2009": [
+    {
+      "sample": 0,
+      "error": "NO_STRUCTURED_SOURCE"
+    },
+    {
+      "error": "TIER2_NO_SEARCH_RESULTS",
+      "raw_name": "Proceedings of the 9th ACM/IEEE-CS joint conference on Digital libraries"
+    }
+  ],
+  "JCDL|2010": [
+    {
+      "sample": 0,
+      "error": "NO_STRUCTURED_SOURCE"
+    },
+    {
+      "error": "TIER2_NO_SEARCH_RESULTS",
+      "raw_name": "Proceedings of the 10th annual joint conference on Digital libraries"
+    }
+  ],
+  "JCDL|2012": [
+    {
+      "sample": 0,
+      "error": "NO_STRUCTURED_SOURCE"
+    },
+    {
+      "error": "TIER2_NO_SEARCH_RESULTS",
+      "raw_name": "Proceedings of the 12th ACM/IEEE-CS joint conference on Digital Libraries"
+    }
+  ],
+  "JCDL|2014": [
+    {
+      "sample": 0,
+      "error": "NO_STRUCTURED_SOURCE"
+    }
+  ],
+  "JCDL|2015": [
+    {
+      "sample": 0,
+      "error": "NO_STRUCTURED_SOURCE"
+    },
+    {
+      "error": "TIER2_NO_SEARCH_RESULTS",
+      "raw_name": "Proceedings of the 15th ACM/IEEE-CS Joint Conference on Digital Libraries"
+    }
+  ],
+  "JCDL|2016": [
+    {
+      "sample": 0,
+      "error": "NO_STRUCTURED_SOURCE"
+    },
+    {
+      "error": "TIER2_NO_SEARCH_RESULTS",
+      "raw_name": "Proceedings of the 16th ACM/IEEE-CS on Joint Conference on Digital Libraries"
+    }
+  ],
+  "KDD|2000": [
+    {
+      "sample": 0,
+      "error": "NO_STRUCTURED_SOURCE"
+    },
+    {
+      "error": "TIER2_NO_SEARCH_RESULTS",
+      "raw_name": "Proceedings of the sixth ACM SIGKDD international conference on Knowledge discovery and data mining"
+    }
+  ],
+  "KDD|2001": [
+    {
+      "sample": 0,
+      "error": "NO_STRUCTURED_SOURCE"
+    },
+    {
+      "error": "TIER2_NO_SEARCH_RESULTS",
+      "raw_name": "Proceedings of the seventh ACM SIGKDD international conference on Knowledge discovery and data mining"
+    }
+  ],
+  "KDD|2002": [
+    {
+      "sample": 0,
+      "error": "NO_STRUCTURED_SOURCE"
+    },
+    {
+      "error": "TIER2_NO_SEARCH_RESULTS",
+      "raw_name": "Proceedings of the eighth ACM SIGKDD international conference on Knowledge discovery and data mining"
+    }
+  ],
+  "KDD|2003": [
+    {
+      "sample": 0,
+      "error": "NO_STRUCTURED_SOURCE"
+    },
+    {
+      "error": "TIER2_NO_SEARCH_RESULTS",
+      "raw_name": "Proceedings of the ninth ACM SIGKDD international conference on Knowledge discovery and data mining"
+    }
+  ],
+  "KDD|2004": [
+    {
+      "sample": 0,
+      "error": "NO_STRUCTURED_SOURCE"
+    },
+    {
+      "error": "TIER2_REQUEST_ERROR: HTTPError('429 Client Error: Too Many Requests for url: https://api.openalex.org/sources?search=Proceedings+of+the+tenth+ACM+SIGKDD+international+conference+on+Knowledge+discovery+and+data+mining&per_page=5&mailto=sherotowshaw%40gmail.com')"
+    }
+  ],
+  "KDD|2006": [
+    {
+      "sample": 0,
+      "error": "NO_STRUCTURED_SOURCE"
+    },
+    {
+      "error": "TIER2_REQUEST_ERROR: HTTPError('429 Client Error: Too Many Requests for url: https://api.openalex.org/sources?search=Proceedings+of+the+12th+ACM+SIGKDD+international+conference+on+Knowledge+discovery+and+data+mining&per_page=5&mailto=sherotowshaw%40gmail.com')"
+    }
+  ],
+  "KDD|2007": [
+    {
+      "sample": 0,
+      "error": "NO_STRUCTURED_SOURCE"
+    },
+    {
+      "error": "TIER2_REQUEST_ERROR: HTTPError('429 Client Error: Too Many Requests for url: https://api.openalex.org/sources?search=Proceedings+of+the+13th+ACM+SIGKDD+international+conference+on+Knowledge+discovery+and+data+mining&per_page=5&mailto=sherotowshaw%40gmail.com')"
+    }
+  ],
+  "KDD|2009": [
+    {
+      "sample": 0,
+      "error": "NO_STRUCTURED_SOURCE"
+    },
+    {
+      "error": "TIER2_REQUEST_ERROR: HTTPError('429 Client Error: Too Many Requests for url: https://api.openalex.org/sources?search=Proceedings+of+the+15th+ACM+SIGKDD+international+conference+on+Knowledge+discovery+and+data+mining&per_page=5&mailto=sherotowshaw%40gmail.com')"
+    }
+  ],
+  "KDD|2010": [
+    {
+      "sample": 0,
+      "error": "NO_STRUCTURED_SOURCE"
+    }
+  ],
+  "KDD|2011": [
+    {
+      "sample": 0,
+      "error": "NO_STRUCTURED_SOURCE"
+    },
+    {
+      "error": "TIER2_REQUEST_ERROR: HTTPError('429 Client Error: Too Many Requests for url: https://api.openalex.org/sources?search=Proceedings+of+the+17th+ACM+SIGKDD+international+conference+on+Knowledge+discovery+and+data+mining&per_page=5&mailto=sherotowshaw%40gmail.com')"
+    }
+  ],
+  "KDD|2013": [
+    {
+      "sample": 0,
+      "error": "NO_STRUCTURED_SOURCE"
+    },
+    {
+      "error": "TIER2_REQUEST_ERROR: HTTPError('429 Client Error: Too Many Requests for url: https://api.openalex.org/sources?search=Proceedings+of+the+19th+ACM+SIGKDD+international+conference+on+Knowledge+discovery+and+data+mining&per_page=5&mailto=sherotowshaw%40gmail.com')"
+    }
+  ],
+  "KDD|2014": [
+    {
+      "sample": 0,
+      "error": "NO_STRUCTURED_SOURCE"
+    },
+    {
+      "error": "TIER2_REQUEST_ERROR: HTTPError('429 Client Error: Too Many Requests for url: https://api.openalex.org/sources?search=Proceedings+of+the+20th+ACM+SIGKDD+international+conference+on+Knowledge+discovery+and+data+mining&per_page=5&mailto=sherotowshaw%40gmail.com')"
+    }
+  ],
+  "KDD|2016": [
+    {
+      "sample": 0,
+      "error": "NO_STRUCTURED_SOURCE"
+    },
+    {
+      "error": "TIER2_REQUEST_ERROR: HTTPError('429 Client Error: Too Many Requests for url: https://api.openalex.org/sources?search=Proceedings+of+the+22nd+ACM+SIGKDD+International+Conference+on+Knowledge+Discovery+and+Data+Mining&per_page=5&mailto=sherotowshaw%40gmail.com')"
+    }
+  ],
+  "KDD|2017": [
+    {
+      "sample": 0,
+      "error": "NO_STRUCTURED_SOURCE"
+    },
+    {
+      "error": "TIER2_REQUEST_ERROR: HTTPError('429 Client Error: Too Many Requests for url: https://api.openalex.org/sources?search=Proceedings+of+the+23rd+ACM+SIGKDD+International+Conference+on+Knowledge+Discovery+and+Data+Mining&per_page=5&mailto=sherotowshaw%40gmail.com')"
+    }
+  ],
+  "MOBICOM|2008": [
+    {
+      "sample": 0,
+      "error": "NO_STRUCTURED_SOURCE"
+    },
+    {
+      "error": "TIER2_REQUEST_ERROR: HTTPError('429 Client Error: Too Many Requests for url: https://api.openalex.org/sources?search=Proceedings+of+the+14th+ACM+international+conference+on+Mobile+computing+and+networking&per_page=5&mailto=sherotowshaw%40gmail.com')"
+    }
+  ],
+  "MOBICOM|2009": [
+    {
+      "sample": 0,
+      "error": "NO_STRUCTURED_SOURCE"
+    },
+    {
+      "error": "TIER2_REQUEST_ERROR: HTTPError('429 Client Error: Too Many Requests for url: https://api.openalex.org/sources?search=Proceedings+of+the+15th+annual+international+conference+on+Mobile+computing+and+networking&per_page=5&mailto=sherotowshaw%40gmail.com')"
+    }
+  ],
+  "MOBICOM|2011": [
+    {
+      "sample": 0,
+      "error": "NO_STRUCTURED_SOURCE"
+    }
+  ],
+  "MOBICOM|2012": [
+    {
+      "sample": 0,
+      "error": "NO_STRUCTURED_SOURCE"
+    },
+    {
+      "error": "TIER2_REQUEST_ERROR: HTTPError('429 Client Error: Too Many Requests for url: https://api.openalex.org/sources?search=Proceedings+of+the+18th+annual+international+conference+on+Mobile+computing+and+networking&per_page=5&mailto=sherotowshaw%40gmail.com')"
+    }
+  ],
+  "MOBICOM|2013": [
+    {
+      "sample": 0,
+      "error": "NO_STRUCTURED_SOURCE"
+    },
+    {
+      "error": "TIER2_REQUEST_ERROR: HTTPError('429 Client Error: Too Many Requests for url: https://api.openalex.org/sources?search=Proceedings+of+the+19th+annual+international+conference+on+Mobile+computing+%26amp%3B+networking+-+MobiCom+%2713&per_page=5&mailto=sherotowshaw%40gmail.com')"
+    }
+  ],
+  "MOBICOM|2017": [
+    {
+      "sample": 0,
+      "error": "NO_STRUCTURED_SOURCE"
+    },
+    {
+      "error": "TIER2_REQUEST_ERROR: HTTPError('429 Client Error: Too Many Requests for url: https://api.openalex.org/sources?search=Proceedings+of+the+23rd+Annual+International+Conference+on+Mobile+Computing+and+Networking&per_page=5&mailto=sherotowshaw%40gmail.com')"
+    }
+  ],
+  "OSDI|2000": [
+    {
+      "sample": 0,
+      "error": "NO_STRUCTURED_SOURCE"
+    },
+    {
+      "error": "TIER2_REQUEST_ERROR: HTTPError('429 Client Error: Too Many Requests for url: https://api.openalex.org/sources?search=OSD+or+Non-Service+DoD+Agency&per_page=5&mailto=sherotowshaw%40gmail.com')"
+    }
+  ],
+  "OSDI|2012": [
+    {
+      "sample": 0,
+      "error": "NO_STRUCTURED_SOURCE"
+    },
+    {
+      "error": "TIER2_REQUEST_ERROR: HTTPError('429 Client Error: Too Many Requests for url: https://api.openalex.org/sources?search=Proceedings+of+the+6th+International+Systems+and+Storage+Conference+on+-+SYSTOR+%2713&per_page=5&mailto=sherotowshaw%40gmail.com')"
+    }
+  ],
+  "PLDI|2000": [
+    {
+      "sample": 0,
+      "error": "NO_STRUCTURED_SOURCE"
+    },
+    {
+      "error": "TIER2_REQUEST_ERROR: HTTPError('429 Client Error: Too Many Requests for url: https://api.openalex.org/sources?search=Proceedings+of+the+ACM+SIGPLAN+2000+conference+on+Programming+language+design+and+implementation&per_page=5&mailto=sherotowshaw%40gmail.com')"
+    }
+  ],
+  "PLDI|2004": [
+    {
+      "sample": 0,
+      "error": "NO_STRUCTURED_SOURCE"
+    },
+    {
+      "error": "TIER2_REQUEST_ERROR: HTTPError('429 Client Error: Too Many Requests for url: https://api.openalex.org/sources?search=Proceedings+of+the+ACM+SIGPLAN+2004+conference+on+Programming+language+design+and+implementation&per_page=5&mailto=sherotowshaw%40gmail.com')"
+    }
+  ],
+  "PLDI|2005": [
+    {
+      "sample": 0,
+      "error": "NO_STRUCTURED_SOURCE"
+    },
+    {
+      "sample": 1,
+      "error": "NO_STRUCTURED_SOURCE"
+    },
+    {
+      "error": "TIER2_REQUEST_ERROR: HTTPError('429 Client Error: Too Many Requests for url: https://api.openalex.org/sources?search=Proceedings+of+the+2005+ACM+SIGPLAN+conference+on+Programming+language+design+and+implementation&per_page=5&mailto=sherotowshaw%40gmail.com')"
+    },
+    {
+      "error": "TIER2_REQUEST_ERROR: HTTPError('429 Client Error: Too Many Requests for url: https://api.openalex.org/sources?search=Proceedings+of+the+2005+ACM+SIGPLAN+conference+on+Programming+language+design+and+implementation&per_page=5&mailto=sherotowshaw%40gmail.com')"
+    }
+  ],
+  "PLDI|2007": [
+    {
+      "sample": 0,
+      "error": "NO_STRUCTURED_SOURCE"
+    },
+    {
+      "sample": 1,
+      "error": "NO_STRUCTURED_SOURCE"
+    },
+    {
+      "error": "TIER2_REQUEST_ERROR: HTTPError('429 Client Error: Too Many Requests for url: https://api.openalex.org/sources?search=Proceedings+of+the+28th+ACM+SIGPLAN+Conference+on+Programming+Language+Design+and+Implementation&per_page=5&mailto=sherotowshaw%40gmail.com')"
+    },
+    {
+      "error": "TIER2_REQUEST_ERROR: HTTPError('429 Client Error: Too Many Requests for url: https://api.openalex.org/sources?search=Proceedings+of+the+28th+ACM+SIGPLAN+Conference+on+Programming+Language+Design+and+Implementation&per_page=5&mailto=sherotowshaw%40gmail.com')"
+    }
+  ],
+  "PLDI|2009": [
+    {
+      "sample": 0,
+      "error": "NO_STRUCTURED_SOURCE"
+    },
+    {
+      "error": "TIER2_REQUEST_ERROR: HTTPError('429 Client Error: Too Many Requests for url: https://api.openalex.org/sources?search=Proceedings+of+the+30th+ACM+SIGPLAN+Conference+on+Programming+Language+Design+and+Implementation&per_page=5&mailto=sherotowshaw%40gmail.com')"
+    }
+  ],
+  "PLDI|2010": [
+    {
+      "sample": 0,
+      "error": "NO_STRUCTURED_SOURCE"
+    },
+    {
+      "error": "TIER2_REQUEST_ERROR: HTTPError('429 Client Error: Too Many Requests for url: https://api.openalex.org/sources?search=Proceedings+of+the+31st+ACM+SIGPLAN+Conference+on+Programming+Language+Design+and+Implementation&per_page=5&mailto=sherotowshaw%40gmail.com')"
+    }
+  ],
+  "PLDI|2012": [
+    {
+      "sample": 0,
+      "error": "NO_STRUCTURED_SOURCE"
+    },
+    {
+      "error": "TIER2_REQUEST_ERROR: HTTPError('429 Client Error: Too Many Requests for url: https://api.openalex.org/sources?search=Proceedings+of+the+33rd+ACM+SIGPLAN+Conference+on+Programming+Language+Design+and+Implementation&per_page=5&mailto=sherotowshaw%40gmail.com')"
+    }
+  ],
+  "PLDI|2013": [
+    {
+      "sample": 0,
+      "error": "NO_STRUCTURED_SOURCE"
+    },
+    {
+      "sample": 2,
+      "error": "NO_STRUCTURED_SOURCE"
+    }
+  ],
+  "PLDI|2014": [
+    {
+      "sample": 0,
+      "error": "NO_STRUCTURED_SOURCE"
+    },
+    {
+      "sample": 1,
+      "error": "NO_STRUCTURED_SOURCE"
+    }
+  ],
+  "PLDI|2015": [
+    {
+      "sample": 0,
+      "error": "NO_STRUCTURED_SOURCE"
+    },
+    {
+      "sample": 2,
+      "error": "NO_STRUCTURED_SOURCE"
+    }
+  ],
+  "PLDI|2016": [
+    {
+      "sample": 1,
+      "error": "NO_STRUCTURED_SOURCE"
+    }
+  ],
+  "PLDI|2017": [
+    {
+      "sample": 2,
+      "error": "NO_STRUCTURED_SOURCE"
+    }
+  ],
+  "PLDI|2018": [
+    {
+      "sample": 0,
+      "error": "NO_STRUCTURED_SOURCE"
+    },
+    {
+      "sample": 1,
+      "error": "NO_STRUCTURED_SOURCE"
+    }
+  ],
+  "PODS|2000": [
+    {
+      "sample": 0,
+      "error": "NO_STRUCTURED_SOURCE"
+    },
+    {
+      "error": "TIER2_REQUEST_ERROR: HTTPError('429 Client Error: Too Many Requests for url: https://api.openalex.org/sources?search=Proceedings+of+the+nineteenth+ACM+SIGMOD-SIGACT-SIGART+symposium+on+Principles+of+database+systems++-+PODS+%2700&per_page=5&mailto=sherotowshaw%40gmail.com')"
+    }
+  ],
+  "PODS|2001": [
+    {
+      "sample": 0,
+      "error": "NO_STRUCTURED_SOURCE"
+    },
+    {
+      "error": "TIER2_REQUEST_ERROR: HTTPError('429 Client Error: Too Many Requests for url: https://api.openalex.org/sources?search=Proceedings+of+the+twentieth+ACM+SIGMOD-SIGACT-SIGART+symposium+on+Principles+of+database+systems&per_page=5&mailto=sherotowshaw%40gmail.com')"
+    }
+  ],
+  "PODS|2003": [
+    {
+      "sample": 0,
+      "error": "NO_STRUCTURED_SOURCE"
+    },
+    {
+      "error": "TIER2_REQUEST_ERROR: HTTPError('429 Client Error: Too Many Requests for url: https://api.openalex.org/sources?search=Proceedings+of+the+twenty-second+ACM+SIGMOD-SIGACT-SIGART+symposium+on+Principles+of+database+systems&per_page=5&mailto=sherotowshaw%40gmail.com')"
+    }
+  ],
+  "PODS|2005": [
+    {
+      "sample": 1,
+      "error": "NO_STRUCTURED_SOURCE"
+    }
+  ],
+  "PODS|2008": [
+    {
+      "sample": 0,
+      "error": "NO_STRUCTURED_SOURCE"
+    },
+    {
+      "error": "TIER2_REQUEST_ERROR: HTTPError('429 Client Error: Too Many Requests for url: https://api.openalex.org/sources?search=Proceedings+of+the+twenty-seventh+ACM+SIGMOD-SIGACT-SIGART+symposium+on+Principles+of+database+systems&per_page=5&mailto=sherotowshaw%40gmail.com')"
+    }
+  ],
+  "PODS|2011": [
+    {
+      "sample": 0,
+      "error": "NO_STRUCTURED_SOURCE"
+    },
+    {
+      "error": "TIER2_REQUEST_ERROR: HTTPError('429 Client Error: Too Many Requests for url: https://api.openalex.org/sources?search=Proceedings+of+the+thirtieth+ACM+SIGMOD-SIGACT-SIGART+symposium+on+Principles+of+database+systems&per_page=5&mailto=sherotowshaw%40gmail.com')"
+    }
+  ],
+  "PODS|2016": [
+    {
+      "sample": 0,
+      "error": "NO_STRUCTURED_SOURCE"
+    },
+    {
+      "error": "TIER2_REQUEST_ERROR: HTTPError('429 Client Error: Too Many Requests for url: https://api.openalex.org/sources?search=Proceedings+of+the+35th+ACM+SIGMOD-SIGACT-SIGAI+Symposium+on+Principles+of+Database+Systems&per_page=5&mailto=sherotowshaw%40gmail.com')"
+    }
+  ],
+  "PODS|2018": [
+    {
+      "sample": 0,
+      "error": "NO_STRUCTURED_SOURCE"
+    },
+    {
+      "error": "TIER2_REQUEST_ERROR: HTTPError('429 Client Error: Too Many Requests for url: https://api.openalex.org/sources?search=Proceedings+of+the+37th+ACM+SIGMOD-SIGACT-SIGAI+Symposium+on+Principles+of+Database+Systems&per_page=5&mailto=sherotowshaw%40gmail.com')"
+    }
+  ],
+  "S&P|2010": [
+    {
+      "sample": 0,
+      "error": "NO_STRUCTURED_SOURCE"
+    },
+    {
+      "error": "TIER2_REQUEST_ERROR: HTTPError('429 Client Error: Too Many Requests for url: https://api.openalex.org/sources?search=2010+IEEE+Symposium+on+Security+and+Privacy&per_page=5&mailto=sherotowshaw%40gmail.com')"
+    }
+  ],
+  "S&P|2016": [
+    {
+      "sample": 0,
+      "error": "NO_STRUCTURED_SOURCE"
+    },
+    {
+      "error": "TIER2_REQUEST_ERROR: HTTPError('429 Client Error: Too Many Requests for url: https://api.openalex.org/sources?search=2016+IEEE+Symposium+on+Security+and+Privacy+%28SP%29&per_page=5&mailto=sherotowshaw%40gmail.com')"
+    }
+  ],
+  "SIGCOMM|2009": [
+    {
+      "sample": 0,
+      "error": "NO_STRUCTURED_SOURCE"
+    },
+    {
+      "error": "TIER2_REQUEST_ERROR: HTTPError('429 Client Error: Too Many Requests for url: https://api.openalex.org/sources?search=Proceedings+of+the+ACM+SIGCOMM+2009+conference+on+Data+communication&per_page=5&mailto=sherotowshaw%40gmail.com')"
+    }
+  ],
+  "SIGCOMM|2013": [
+    {
+      "sample": 0,
+      "error": "NO_STRUCTURED_SOURCE"
+    },
+    {
+      "error": "TIER2_REQUEST_ERROR: HTTPError('429 Client Error: Too Many Requests for url: https://api.openalex.org/sources?search=Proceedings+of+the+ACM+SIGCOMM+2013+conference+on+SIGCOMM&per_page=5&mailto=sherotowshaw%40gmail.com')"
+    }
+  ],
+  "SIGIR|2001": [
+    {
+      "sample": 0,
+      "error": "NO_STRUCTURED_SOURCE"
+    },
+    {
+      "error": "TIER2_REQUEST_ERROR: HTTPError('429 Client Error: Too Many Requests for url: https://api.openalex.org/sources?search=Proceedings+of+the+24th+annual+international+ACM+SIGIR+conference+on+Research+and+development+in+information+retrieval&per_page=5&mailto=sherotowshaw%40gmail.com')"
+    }
+  ],
+  "SIGIR|2002": [
+    {
+      "sample": 0,
+      "error": "NO_STRUCTURED_SOURCE"
+    },
+    {
+      "error": "TIER2_REQUEST_ERROR: HTTPError('429 Client Error: Too Many Requests for url: https://api.openalex.org/sources?search=Proceedings+of+the+25th+annual+international+ACM+SIGIR+conference+on+Research+and+development+in+information+retrieval&per_page=5&mailto=sherotowshaw%40gmail.com')"
+    }
+  ],
+  "SIGIR|2004": [
+    {
+      "sample": 0,
+      "error": "NO_STRUCTURED_SOURCE"
+    },
+    {
+      "error": "TIER2_REQUEST_ERROR: HTTPError('429 Client Error: Too Many Requests for url: https://api.openalex.org/sources?search=Proceedings+of+the+27th+annual+international+ACM+SIGIR+conference+on+Research+and+development+in+information+retrieval&per_page=5&mailto=sherotowshaw%40gmail.com')"
+    }
+  ],
+  "SIGIR|2005": [
+    {
+      "sample": 0,
+      "error": "NO_STRUCTURED_SOURCE"
+    },
+    {
+      "error": "TIER2_REQUEST_ERROR: HTTPError('429 Client Error: Too Many Requests for url: https://api.openalex.org/sources?search=Proceedings+of+the+28th+annual+international+ACM+SIGIR+conference+on+Research+and+development+in+information+retrieval&per_page=5&mailto=sherotowshaw%40gmail.com')"
+    }
+  ],
+  "SIGIR|2007": [
+    {
+      "sample": 0,
+      "error": "NO_STRUCTURED_SOURCE"
+    },
+    {
+      "error": "TIER2_REQUEST_ERROR: HTTPError('429 Client Error: Too Many Requests for url: https://api.openalex.org/sources?search=Proceedings+of+the+30th+annual+international+ACM+SIGIR+conference+on+Research+and+development+in+information+retrieval&per_page=5&mailto=sherotowshaw%40gmail.com')"
+    }
+  ],
+  "SIGIR|2008": [
+    {
+      "sample": 0,
+      "error": "NO_STRUCTURED_SOURCE"
+    },
+    {
+      "error": "TIER2_REQUEST_ERROR: HTTPError('429 Client Error: Too Many Requests for url: https://api.openalex.org/sources?search=Proceedings+of+the+31st+annual+international+ACM+SIGIR+conference+on+Research+and+development+in+information+retrieval&per_page=5&mailto=sherotowshaw%40gmail.com')"
+    }
+  ],
+  "SIGIR|2009": [
+    {
+      "sample": 0,
+      "error": "NO_STRUCTURED_SOURCE"
+    },
+    {
+      "error": "TIER2_REQUEST_ERROR: HTTPError('429 Client Error: Too Many Requests for url: https://api.openalex.org/sources?search=Proceedings+of+the+32nd+international+ACM+SIGIR+conference+on+Research+and+development+in+information+retrieval&per_page=5&mailto=sherotowshaw%40gmail.com')"
+    }
+  ],
+  "SIGIR|2010": [
+    {
+      "sample": 0,
+      "error": "NO_STRUCTURED_SOURCE"
+    },
+    {
+      "error": "TIER2_REQUEST_ERROR: HTTPError('429 Client Error: Too Many Requests for url: https://api.openalex.org/sources?search=Proceedings+of+the+33rd+international+ACM+SIGIR+conference+on+Research+and+development+in+information+retrieval&per_page=5&mailto=sherotowshaw%40gmail.com')"
+    }
+  ],
+  "SIGIR|2011": [
+    {
+      "sample": 0,
+      "error": "NO_STRUCTURED_SOURCE"
+    },
+    {
+      "error": "TIER2_REQUEST_ERROR: HTTPError('429 Client Error: Too Many Requests for url: https://api.openalex.org/sources?search=Proceedings+of+the+34th+international+ACM+SIGIR+conference+on+Research+and+development+in+Information+Retrieval&per_page=5&mailto=sherotowshaw%40gmail.com')"
+    }
+  ],
+  "SIGIR|2012": [
+    {
+      "sample": 0,
+      "error": "NO_STRUCTURED_SOURCE"
+    },
+    {
+      "error": "TIER2_REQUEST_ERROR: HTTPError('429 Client Error: Too Many Requests for url: https://api.openalex.org/sources?search=Proceedings+of+the+35th+international+ACM+SIGIR+conference+on+Research+and+development+in+information+retrieval&per_page=5&mailto=sherotowshaw%40gmail.com')"
+    }
+  ],
+  "SIGIR|2013": [
+    {
+      "sample": 0,
+      "error": "NO_STRUCTURED_SOURCE"
+    },
+    {
+      "error": "TIER2_REQUEST_ERROR: HTTPError('429 Client Error: Too Many Requests for url: https://api.openalex.org/sources?search=Proceedings+of+the+36th+international+ACM+SIGIR+conference+on+Research+and+development+in+information+retrieval&per_page=5&mailto=sherotowshaw%40gmail.com')"
+    }
+  ],
+  "SIGIR|2018": [
+    {
+      "sample": 0,
+      "error": "NO_STRUCTURED_SOURCE"
+    },
+    {
+      "error": "TIER2_REQUEST_ERROR: HTTPError('429 Client Error: Too Many Requests for url: https://api.openalex.org/sources?search=The+41st+International+ACM+SIGIR+Conference+on+Research+%26amp%3B+Development+in+Information+Retrieval&per_page=5&mailto=sherotowshaw%40gmail.com')"
+    }
+  ],
+  "SIGMETRICS|2006": [
+    {
+      "sample": 0,
+      "error": "NO_STRUCTURED_SOURCE"
+    },
+    {
+      "error": "TIER2_REQUEST_ERROR: HTTPError('429 Client Error: Too Many Requests for url: https://api.openalex.org/sources?search=Proceedings+of+the+joint+international+conference+on+Measurement+and+modeling+of+computer+systems&per_page=5&mailto=sherotowshaw%40gmail.com')"
+    }
+  ],
+  "SIGMETRICS|2007": [
+    {
+      "sample": 0,
+      "error": "NO_STRUCTURED_SOURCE"
+    },
+    {
+      "error": "TIER2_REQUEST_ERROR: HTTPError('429 Client Error: Too Many Requests for url: https://api.openalex.org/sources?search=Proceedings+of+the+2007+ACM+SIGMETRICS+international+conference+on+Measurement+and+modeling+of+computer+systems&per_page=5&mailto=sherotowshaw%40gmail.com')"
+    }
+  ],
+  "SIGMETRICS|2008": [
+    {
+      "sample": 0,
+      "error": "NO_STRUCTURED_SOURCE"
+    },
+    {
+      "error": "TIER2_REQUEST_ERROR: HTTPError('429 Client Error: Too Many Requests for url: https://api.openalex.org/sources?search=Proceedings+of+the+2008+ACM+SIGMETRICS+international+conference+on+Measurement+and+modeling+of+computer+systems&per_page=5&mailto=sherotowshaw%40gmail.com')"
+    }
+  ],
+  "SIGMETRICS|2010": [
+    {
+      "sample": 0,
+      "error": "NO_STRUCTURED_SOURCE"
+    },
+    {
+      "error": "TIER2_REQUEST_ERROR: HTTPError('429 Client Error: Too Many Requests for url: https://api.openalex.org/sources?search=Proceedings+of+the+ACM+SIGMETRICS+international+conference+on+Measurement+and+modeling+of+computer+systems&per_page=5&mailto=sherotowshaw%40gmail.com')"
+    }
+  ],
+  "SIGMETRICS|2011": [
+    {
+      "sample": 0,
+      "error": "NO_STRUCTURED_SOURCE"
+    },
+    {
+      "error": "TIER2_REQUEST_ERROR: HTTPError('429 Client Error: Too Many Requests for url: https://api.openalex.org/sources?search=Proceedings+of+the+ACM+SIGMETRICS+joint+international+conference+on+Measurement+and+modeling+of+computer+systems&per_page=5&mailto=sherotowshaw%40gmail.com')"
+    }
+  ],
+  "SIGMETRICS|2012": [
+    {
+      "sample": 0,
+      "error": "NO_STRUCTURED_SOURCE"
+    },
+    {
+      "error": "TIER2_REQUEST_ERROR: HTTPError('429 Client Error: Too Many Requests for url: https://api.openalex.org/sources?search=Proceedings+of+the+12th+ACM+SIGMETRICS%2FPERFORMANCE+joint+international+conference+on+Measurement+and+Modeling+of+Computer+Systems&per_page=5&mailto=sherotowshaw%40gmail.com')"
+    }
+  ],
+  "SIGMETRICS|2016": [
+    {
+      "sample": 0,
+      "error": "NO_STRUCTURED_SOURCE"
+    },
+    {
+      "error": "TIER2_REQUEST_ERROR: HTTPError('429 Client Error: Too Many Requests for url: https://api.openalex.org/sources?search=Proceedings+of+the+2016+ACM+SIGMETRICS+International+Conference+on+Measurement+and+Modeling+of+Computer+Science&per_page=5&mailto=sherotowshaw%40gmail.com')"
+    }
+  ],
+  "SIGMOD|2000": [
+    {
+      "sample": 0,
+      "error": "NO_STRUCTURED_SOURCE"
+    },
+    {
+      "error": "TIER2_REQUEST_ERROR: HTTPError('429 Client Error: Too Many Requests for url: https://api.openalex.org/sources?search=Proceedings+of+the+2000+ACM+SIGMOD+international+conference+on+Management+of+data&per_page=5&mailto=sherotowshaw%40gmail.com')"
+    }
+  ],
+  "SIGMOD|2001": [
+    {
+      "sample": 0,
+      "error": "NO_STRUCTURED_SOURCE"
+    },
+    {
+      "error": "TIER2_REQUEST_ERROR: HTTPError('429 Client Error: Too Many Requests for url: https://api.openalex.org/sources?search=Proceedings+of+the+2001+ACM+SIGMOD+international+conference+on+Management+of+data&per_page=5&mailto=sherotowshaw%40gmail.com')"
+    }
+  ],
+  "SIGMOD|2003": [
+    {
+      "sample": 0,
+      "error": "NO_STRUCTURED_SOURCE"
+    },
+    {
+      "error": "TIER2_REQUEST_ERROR: HTTPError('429 Client Error: Too Many Requests for url: https://api.openalex.org/sources?search=Proceedings+of+the+2003+ACM+SIGMOD+international+conference+on+Management+of+data&per_page=5&mailto=sherotowshaw%40gmail.com')"
+    }
+  ],
+  "SIGMOD|2007": [
+    {
+      "sample": 0,
+      "error": "NO_STRUCTURED_SOURCE"
+    },
+    {
+      "sample": 1,
+      "error": "NO_STRUCTURED_SOURCE"
+    },
+    {
+      "error": "TIER2_REQUEST_ERROR: HTTPError('429 Client Error: Too Many Requests for url: https://api.openalex.org/sources?search=Proceedings+of+the+2007+ACM+SIGMOD+international+conference+on+Management+of+data&per_page=5&mailto=sherotowshaw%40gmail.com')"
+    },
+    {
+      "error": "TIER2_REQUEST_ERROR: HTTPError('429 Client Error: Too Many Requests for url: https://api.openalex.org/sources?search=Proceedings+of+the+2007+ACM+SIGMOD+international+conference+on+Management+of+data&per_page=5&mailto=sherotowshaw%40gmail.com')"
+    }
+  ],
+  "SIGMOD|2008": [
+    {
+      "sample": 1,
+      "error": "NO_STRUCTURED_SOURCE"
+    }
+  ],
+  "SIGMOD|2009": [
+    {
+      "sample": 0,
+      "error": "NO_STRUCTURED_SOURCE"
+    },
+    {
+      "error": "TIER2_REQUEST_ERROR: HTTPError('429 Client Error: Too Many Requests for url: https://api.openalex.org/sources?search=Proceedings+of+the+2009+ACM+SIGMOD+International+Conference+on+Management+of+data&per_page=5&mailto=sherotowshaw%40gmail.com')"
+    }
+  ],
+  "SIGMOD|2010": [
+    {
+      "sample": 0,
+      "error": "NO_STRUCTURED_SOURCE"
+    },
+    {
+      "error": "TIER2_REQUEST_ERROR: HTTPError('429 Client Error: Too Many Requests for url: https://api.openalex.org/sources?search=Proceedings+of+the+2010+ACM+SIGMOD+International+Conference+on+Management+of+data&per_page=5&mailto=sherotowshaw%40gmail.com')"
+    }
+  ],
+  "SIGMOD|2011": [
+    {
+      "sample": 0,
+      "error": "NO_STRUCTURED_SOURCE"
+    },
+    {
+      "error": "TIER2_REQUEST_ERROR: HTTPError('429 Client Error: Too Many Requests for url: https://api.openalex.org/sources?search=Proceedings+of+the+2011+ACM+SIGMOD+International+Conference+on+Management+of+data&per_page=5&mailto=sherotowshaw%40gmail.com')"
+    }
+  ],
+  "SIGMOD|2012": [
+    {
+      "sample": 0,
+      "error": "NO_STRUCTURED_SOURCE"
+    },
+    {
+      "error": "TIER2_REQUEST_ERROR: HTTPError('429 Client Error: Too Many Requests for url: https://api.openalex.org/sources?search=Proceedings+of+the+2012+ACM+SIGMOD+International+Conference+on+Management+of+Data&per_page=5&mailto=sherotowshaw%40gmail.com')"
+    }
+  ],
+  "SIGMOD|2014": [
+    {
+      "sample": 0,
+      "error": "NO_STRUCTURED_SOURCE"
+    },
+    {
+      "error": "TIER2_REQUEST_ERROR: HTTPError('429 Client Error: Too Many Requests for url: https://api.openalex.org/sources?search=Proceedings+of+the+2014+ACM+SIGMOD+International+Conference+on+Management+of+Data&per_page=5&mailto=sherotowshaw%40gmail.com')"
+    }
+  ],
+  "SIGMOD|2015": [
+    {
+      "sample": 0,
+      "error": "NO_STRUCTURED_SOURCE"
+    },
+    {
+      "error": "TIER2_REQUEST_ERROR: HTTPError('429 Client Error: Too Many Requests for url: https://api.openalex.org/sources?search=Proceedings+of+the+2015+ACM+SIGMOD+International+Conference+on+Management+of+Data&per_page=5&mailto=sherotowshaw%40gmail.com')"
+    }
+  ],
+  "SIGMOD|2018": [
+    {
+      "sample": 0,
+      "error": "NO_STRUCTURED_SOURCE"
+    },
+    {
+      "error": "TIER2_REQUEST_ERROR: HTTPError('429 Client Error: Too Many Requests for url: https://api.openalex.org/sources?search=Proceedings+of+the+2018+International+Conference+on+Management+of+Data&per_page=5&mailto=sherotowshaw%40gmail.com')"
+    }
+  ],
+  "SODA|2010": [
+    {
+      "sample": 0,
+      "error": "NO_STRUCTURED_SOURCE"
+    },
+    {
+      "error": "TIER2_REQUEST_ERROR: HTTPError('429 Client Error: Too Many Requests for url: https://api.openalex.org/sources?search=Proceedings+of+the+Twenty-First+Annual+ACM-SIAM+Symposium+on+Discrete+Algorithms&per_page=5&mailto=sherotowshaw%40gmail.com')"
+    }
+  ],
+  "SODA|2013": [
+    {
+      "sample": 1,
+      "error": "NO_STRUCTURED_SOURCE"
+    }
+  ],
+  "SODA|2015": [
+    {
+      "sample": 0,
+      "error": "NO_STRUCTURED_SOURCE"
+    },
+    {
+      "error": "TIER2_REQUEST_ERROR: HTTPError('429 Client Error: Too Many Requests for url: https://api.openalex.org/sources?search=Proceedings+of+the+Twenty-Sixth+Annual+ACM-SIAM+Symposium+on+Discrete+Algorithms&per_page=5&mailto=sherotowshaw%40gmail.com')"
+    }
+  ],
+  "SODA|2016": [
+    {
+      "sample": 0,
+      "error": "NO_STRUCTURED_SOURCE"
+    }
+  ],
+  "SOSP|2001": [
+    {
+      "sample": 0,
+      "error": "NO_STRUCTURED_SOURCE"
+    },
+    {
+      "sample": 1,
+      "error": "NO_STRUCTURED_SOURCE"
+    },
+    {
+      "error": "TIER2_REQUEST_ERROR: HTTPError('429 Client Error: Too Many Requests for url: https://api.openalex.org/sources?search=Foundations+of+Intrusion+Tolerant+Systems%2C+2003+%5BOrganically+Assured+and+Survivable+Information+Systems%5D&per_page=5&mailto=sherotowshaw%40gmail.com')"
+    },
+    {
+      "error": "TIER2_REQUEST_ERROR: HTTPError('429 Client Error: Too Many Requests for url: https://api.openalex.org/sources?search=Proceedings+of+the+eighteenth+ACM+symposium+on+Operating+systems+principles&per_page=5&mailto=sherotowshaw%40gmail.com')"
+    }
+  ],
+  "SOSP|2003": [
+    {
+      "sample": 0,
+      "error": "NO_STRUCTURED_SOURCE"
+    }
+  ],
+  "SOSP|2005": [
+    {
+      "sample": 2,
+      "error": "NO_STRUCTURED_SOURCE"
+    }
+  ],
+  "SOSP|2007": [
+    {
+      "sample": 0,
+      "error": "NO_STRUCTURED_SOURCE"
+    }
+  ],
+  "SOSP|2013": [
+    {
+      "sample": 1,
+      "error": "NO_STRUCTURED_SOURCE"
+    },
+    {
+      "sample": 2,
+      "error": "NO_STRUCTURED_SOURCE"
+    }
+  ],
+  "SOSP|2015": [
+    {
+      "sample": 1,
+      "error": "NO_STRUCTURED_SOURCE"
+    }
+  ],
+  "STOC|2003": [
+    {
+      "sample": 0,
+      "error": "NO_STRUCTURED_SOURCE"
+    },
+    {
+      "sample": 1,
+      "error": "NO_STRUCTURED_SOURCE"
+    },
+    {
+      "error": "TIER2_REQUEST_ERROR: HTTPError('429 Client Error: Too Many Requests for url: https://api.openalex.org/sources?search=Proceedings+of+the+thirty-fifth+annual+ACM+symposium+on+Theory+of+computing&per_page=5&mailto=sherotowshaw%40gmail.com')"
+    },
+    {
+      "error": "TIER2_REQUEST_ERROR: HTTPError('429 Client Error: Too Many Requests for url: https://api.openalex.org/sources?search=Proceedings+of+the+thirty-fifth+annual+ACM+symposium+on+Theory+of+computing&per_page=5&mailto=sherotowshaw%40gmail.com')"
+    }
+  ],
+  "STOC|2004": [
+    {
+      "sample": 0,
+      "error": "NO_STRUCTURED_SOURCE"
+    }
+  ],
+  "STOC|2007": [
+    {
+      "sample": 0,
+      "error": "NO_STRUCTURED_SOURCE"
+    }
+  ],
+  "STOC|2008": [
+    {
+      "sample": 0,
+      "error": "NO_STRUCTURED_SOURCE"
+    },
+    {
+      "sample": 1,
+      "error": "NO_STRUCTURED_SOURCE"
+    },
+    {
+      "error": "TIER2_REQUEST_ERROR: HTTPError('429 Client Error: Too Many Requests for url: https://api.openalex.org/sources?search=Proceedings+of+the+fortieth+annual+ACM+symposium+on+Theory+of+computing&per_page=5&mailto=sherotowshaw%40gmail.com')"
+    },
+    {
+      "error": "TIER2_REQUEST_ERROR: HTTPError('429 Client Error: Too Many Requests for url: https://api.openalex.org/sources?search=Proceedings+of+the+fortieth+annual+ACM+symposium+on+Theory+of+computing&per_page=5&mailto=sherotowshaw%40gmail.com')"
+    }
+  ],
+  "STOC|2009": [
+    {
+      "sample": 0,
+      "error": "NO_STRUCTURED_SOURCE"
+    },
+    {
+      "sample": 1,
+      "error": "NO_STRUCTURED_SOURCE"
+    },
+    {
+      "error": "TIER2_REQUEST_ERROR: HTTPError('429 Client Error: Too Many Requests for url: https://api.openalex.org/sources?search=Proceedings+of+the+forty-first+annual+ACM+symposium+on+Theory+of+computing&per_page=5&mailto=sherotowshaw%40gmail.com')"
+    },
+    {
+      "error": "TIER2_REQUEST_ERROR: HTTPError('429 Client Error: Too Many Requests for url: https://api.openalex.org/sources?search=Proceedings+of+the+forty-first+annual+ACM+symposium+on+Theory+of+computing&per_page=5&mailto=sherotowshaw%40gmail.com')"
+    }
+  ],
+  "STOC|2011": [
+    {
+      "sample": 1,
+      "error": "NO_STRUCTURED_SOURCE"
+    }
+  ],
+  "STOC|2012": [
+    {
+      "sample": 1,
+      "error": "NO_STRUCTURED_SOURCE"
+    }
+  ],
+  "STOC|2013": [
+    {
+      "sample": 1,
+      "error": "NO_STRUCTURED_SOURCE"
+    }
+  ],
+  "STOC|2014": [
+    {
+      "sample": 0,
+      "error": "NO_STRUCTURED_SOURCE"
+    },
+    {
+      "error": "TIER2_REQUEST_ERROR: HTTPError('429 Client Error: Too Many Requests for url: https://api.openalex.org/sources?search=Proceedings+of+the+forty-sixth+annual+ACM+symposium+on+Theory+of+computing&per_page=5&mailto=sherotowshaw%40gmail.com')"
+    }
+  ],
+  "STOC|2015": [
+    {
+      "sample": 0,
+      "error": "NO_STRUCTURED_SOURCE"
+    },
+    {
+      "sample": 1,
+      "error": "NO_STRUCTURED_SOURCE"
+    },
+    {
+      "sample": 2,
+      "error": "NO_STRUCTURED_SOURCE"
+    },
+    {
+      "error": "TIER2_REQUEST_ERROR: HTTPError('429 Client Error: Too Many Requests for url: https://api.openalex.org/sources?search=Proceedings+of+the+forty-seventh+annual+ACM+symposium+on+Theory+of+Computing&per_page=5&mailto=sherotowshaw%40gmail.com')"
+    },
+    {
+      "error": "TIER2_REQUEST_ERROR: HTTPError('429 Client Error: Too Many Requests for url: https://api.openalex.org/sources?search=Proceedings+of+the+forty-seventh+annual+ACM+symposium+on+Theory+of+Computing&per_page=5&mailto=sherotowshaw%40gmail.com')"
+    },
+    {
+      "error": "TIER2_REQUEST_ERROR: HTTPError('429 Client Error: Too Many Requests for url: https://api.openalex.org/sources?search=Proceedings+of+the+forty-seventh+annual+ACM+symposium+on+Theory+of+Computing&per_page=5&mailto=sherotowshaw%40gmail.com')"
+    }
+  ],
+  "STOC|2016": [
+    {
+      "sample": 0,
+      "error": "NO_STRUCTURED_SOURCE"
+    }
+  ],
+  "UIST|2000": [
+    {
+      "sample": 0,
+      "error": "NO_STRUCTURED_SOURCE"
+    },
+    {
+      "error": "TIER2_REQUEST_ERROR: HTTPError('429 Client Error: Too Many Requests for url: https://api.openalex.org/sources?search=Proceedings+of+the+13th+annual+ACM+symposium+on+User+interface+software+and+technology++-+UIST+%2700&per_page=5&mailto=sherotowshaw%40gmail.com')"
+    }
+  ],
+  "UIST|2001": [
+    {
+      "sample": 0,
+      "error": "NO_STRUCTURED_SOURCE"
+    },
+    {
+      "error": "TIER2_REQUEST_ERROR: HTTPError('429 Client Error: Too Many Requests for url: https://api.openalex.org/sources?search=Proceedings+of+the+14th+annual+ACM+symposium+on+User+interface+software+and+technology&per_page=5&mailto=sherotowshaw%40gmail.com')"
+    }
+  ],
+  "UIST|2002": [
+    {
+      "sample": 0,
+      "error": "NO_STRUCTURED_SOURCE"
+    },
+    {
+      "error": "TIER2_REQUEST_ERROR: HTTPError('429 Client Error: Too Many Requests for url: https://api.openalex.org/sources?search=Proceedings+of+the+15th+annual+ACM+symposium+on+User+interface+software+and+technology&per_page=5&mailto=sherotowshaw%40gmail.com')"
+    }
+  ],
+  "UIST|2003": [
+    {
+      "sample": 0,
+      "error": "NO_STRUCTURED_SOURCE"
+    },
+    {
+      "error": "TIER2_REQUEST_ERROR: HTTPError('429 Client Error: Too Many Requests for url: https://api.openalex.org/sources?search=Proceedings+of+the+16th+annual+ACM+symposium+on+User+interface+software+and+technology&per_page=5&mailto=sherotowshaw%40gmail.com')"
+    }
+  ],
+  "UIST|2004": [
+    {
+      "sample": 0,
+      "error": "NO_STRUCTURED_SOURCE"
+    }
+  ],
+  "UIST|2005": [
+    {
+      "sample": 0,
+      "error": "NO_STRUCTURED_SOURCE"
+    },
+    {
+      "error": "TIER2_REQUEST_ERROR: HTTPError('429 Client Error: Too Many Requests for url: https://api.openalex.org/sources?search=Proceedings+of+the+18th+annual+ACM+symposium+on+User+interface+software+and+technology&per_page=5&mailto=sherotowshaw%40gmail.com')"
+    }
+  ],
+  "UIST|2006": [
+    {
+      "sample": 0,
+      "error": "NO_STRUCTURED_SOURCE"
+    },
+    {
+      "error": "TIER2_REQUEST_ERROR: HTTPError('429 Client Error: Too Many Requests for url: https://api.openalex.org/sources?search=Proceedings+of+the+19th+annual+ACM+symposium+on+User+interface+software+and+technology&per_page=5&mailto=sherotowshaw%40gmail.com')"
+    }
+  ],
+  "UIST|2007": [
+    {
+      "sample": 0,
+      "error": "NO_STRUCTURED_SOURCE"
+    },
+    {
+      "error": "TIER2_REQUEST_ERROR: HTTPError('429 Client Error: Too Many Requests for url: https://api.openalex.org/sources?search=Proceedings+of+the+20th+annual+ACM+symposium+on+User+interface+software+and+technology&per_page=5&mailto=sherotowshaw%40gmail.com')"
+    }
+  ],
+  "UIST|2008": [
+    {
+      "sample": 0,
+      "error": "NO_STRUCTURED_SOURCE"
+    },
+    {
+      "error": "TIER2_REQUEST_ERROR: HTTPError('429 Client Error: Too Many Requests for url: https://api.openalex.org/sources?search=Proceedings+of+the+21st+annual+ACM+symposium+on+User+interface+software+and+technology&per_page=5&mailto=sherotowshaw%40gmail.com')"
+    }
+  ],
+  "UIST|2009": [
+    {
+      "sample": 0,
+      "error": "NO_STRUCTURED_SOURCE"
+    },
+    {
+      "error": "TIER2_REQUEST_ERROR: HTTPError('429 Client Error: Too Many Requests for url: https://api.openalex.org/sources?search=Proceedings+of+the+22nd+annual+ACM+symposium+on+User+interface+software+and+technology&per_page=5&mailto=sherotowshaw%40gmail.com')"
+    }
+  ],
+  "UIST|2011": [
+    {
+      "sample": 0,
+      "error": "NO_STRUCTURED_SOURCE"
+    },
+    {
+      "error": "TIER2_REQUEST_ERROR: HTTPError('429 Client Error: Too Many Requests for url: https://api.openalex.org/sources?search=Proceedings+of+the+24th+annual+ACM+symposium+on+User+interface+software+and+technology&per_page=5&mailto=sherotowshaw%40gmail.com')"
+    }
+  ],
+  "UIST|2012": [
+    {
+      "sample": 0,
+      "error": "NO_STRUCTURED_SOURCE"
+    },
+    {
+      "sample": 1,
+      "error": "NO_STRUCTURED_SOURCE"
+    },
+    {
+      "error": "TIER2_REQUEST_ERROR: HTTPError('429 Client Error: Too Many Requests for url: https://api.openalex.org/sources?search=Proceedings+of+the+25th+annual+ACM+symposium+on+User+interface+software+and+technology&per_page=5&mailto=sherotowshaw%40gmail.com')"
+    },
+    {
+      "error": "TIER2_REQUEST_ERROR: HTTPError('429 Client Error: Too Many Requests for url: https://api.openalex.org/sources?search=Proceedings+of+the+25th+annual+ACM+symposium+on+User+interface+software+and+technology&per_page=5&mailto=sherotowshaw%40gmail.com')"
+    }
+  ],
+  "UIST|2013": [
+    {
+      "sample": 1,
+      "error": "NO_STRUCTURED_SOURCE"
+    },
+    {
+      "sample": 2,
+      "error": "NO_STRUCTURED_SOURCE"
+    }
+  ],
+  "UIST|2014": [
+    {
+      "sample": 0,
+      "error": "NO_STRUCTURED_SOURCE"
+    },
+    {
+      "sample": 1,
+      "error": "NO_STRUCTURED_SOURCE"
+    },
+    {
+      "sample": 2,
+      "error": "NO_STRUCTURED_SOURCE"
+    },
+    {
+      "error": "TIER2_REQUEST_ERROR: HTTPError('429 Client Error: Too Many Requests for url: https://api.openalex.org/sources?search=Proceedings+of+the+27th+annual+ACM+symposium+on+User+interface+software+and+technology&per_page=5&mailto=sherotowshaw%40gmail.com')"
+    },
+    {
+      "error": "TIER2_REQUEST_ERROR: HTTPError('429 Client Error: Too Many Requests for url: https://api.openalex.org/sources?search=Proceedings+of+the+27th+annual+ACM+symposium+on+User+interface+software+and+technology&per_page=5&mailto=sherotowshaw%40gmail.com')"
+    },
+    {
+      "error": "TIER2_REQUEST_ERROR: HTTPError('429 Client Error: Too Many Requests for url: https://api.openalex.org/sources?search=Proceedings+of+the+27th+annual+ACM+symposium+on+User+interface+software+and+technology&per_page=5&mailto=sherotowshaw%40gmail.com')"
+    }
+  ],
+  "UIST|2015": [
+    {
+      "sample": 0,
+      "error": "NO_STRUCTURED_SOURCE"
+    }
+  ],
+  "UIST|2017": [
+    {
+      "sample": 0,
+      "error": "NO_STRUCTURED_SOURCE"
+    },
+    {
+      "sample": 1,
+      "error": "NO_STRUCTURED_SOURCE"
+    }
+  ],
+  "UIST|2018": [
+    {
+      "sample": 0,
+      "error": "NO_STRUCTURED_SOURCE"
+    },
+    {
+      "sample": 1,
+      "error": "NO_STRUCTURED_SOURCE"
+    }
+  ],
+  "VLDB|2007": [
+    {
+      "sample": 0,
+      "error": "NO_STRUCTURED_SOURCE"
+    },
+    {
+      "error": "TIER2_REQUEST_ERROR: HTTPError('429 Client Error: Too Many Requests for url: https://api.openalex.org/sources?search=http%3A%2F%2Fcs-www.cs.yale.edu%2Fhomes%2Fdna%2Fpapers%2Fbench.pdf&per_page=5&mailto=sherotowshaw%40gmail.com')"
+    }
+  ],
+  "WWW|2001": [
+    {
+      "sample": 0,
+      "error": "NO_STRUCTURED_SOURCE"
+    },
+    {
+      "error": "TIER2_REQUEST_ERROR: HTTPError('429 Client Error: Too Many Requests for url: https://api.openalex.org/sources?search=Proceedings+of+the+10th+international+conference+on+World+Wide+Web&per_page=5&mailto=sherotowshaw%40gmail.com')"
+    }
+  ],
+  "WWW|2002": [
+    {
+      "sample": 0,
+      "error": "NO_STRUCTURED_SOURCE"
+    },
+    {
+      "error": "TIER2_REQUEST_ERROR: HTTPError('429 Client Error: Too Many Requests for url: https://api.openalex.org/sources?search=Proceedings+of+the+11th+international+conference+on+World+Wide+Web&per_page=5&mailto=sherotowshaw%40gmail.com')"
+    }
+  ],
+  "WWW|2003": [
+    {
+      "sample": 0,
+      "error": "NO_STRUCTURED_SOURCE"
+    }
+  ],
+  "WWW|2004": [
+    {
+      "sample": 0,
+      "error": "NO_STRUCTURED_SOURCE"
+    },
+    {
+      "error": "TIER2_REQUEST_ERROR: HTTPError('429 Client Error: Too Many Requests for url: https://api.openalex.org/sources?search=Proceedings+of+the+13th+international+conference+on+World+Wide+Web&per_page=5&mailto=sherotowshaw%40gmail.com')"
+    }
+  ],
+  "WWW|2005": [
+    {
+      "sample": 0,
+      "error": "NO_STRUCTURED_SOURCE"
+    },
+    {
+      "error": "TIER2_REQUEST_ERROR: HTTPError('429 Client Error: Too Many Requests for url: https://api.openalex.org/sources?search=Proceedings+of+the+14th+international+conference+on+World+Wide+Web++-+WWW+%2705&per_page=5&mailto=sherotowshaw%40gmail.com')"
+    }
+  ],
+  "WWW|2006": [
+    {
+      "sample": 0,
+      "error": "NO_STRUCTURED_SOURCE"
+    },
+    {
+      "error": "TIER2_REQUEST_ERROR: HTTPError('429 Client Error: Too Many Requests for url: https://api.openalex.org/sources?search=Proceedings+of+the+15th+international+conference+on+World+Wide+Web&per_page=5&mailto=sherotowshaw%40gmail.com')"
+    }
+  ],
+  "WWW|2008": [
+    {
+      "sample": 0,
+      "error": "NO_STRUCTURED_SOURCE"
+    },
+    {
+      "error": "TIER2_REQUEST_ERROR: HTTPError('429 Client Error: Too Many Requests for url: https://api.openalex.org/sources?search=Proceedings+of+the+17th+international+conference+on+World+Wide+Web&per_page=5&mailto=sherotowshaw%40gmail.com')"
+    }
+  ],
+  "WWW|2010": [
+    {
+      "sample": 0,
+      "error": "NO_STRUCTURED_SOURCE"
+    },
+    {
+      "error": "TIER2_REQUEST_ERROR: HTTPError('429 Client Error: Too Many Requests for url: https://api.openalex.org/sources?search=Proceedings+of+the+19th+international+conference+on+World+wide+web&per_page=5&mailto=sherotowshaw%40gmail.com')"
+    }
+  ],
+  "WWW|2011": [
+    {
+      "sample": 0,
+      "error": "NO_STRUCTURED_SOURCE"
+    },
+    {
+      "error": "TIER2_REQUEST_ERROR: HTTPError('429 Client Error: Too Many Requests for url: https://api.openalex.org/sources?search=Proceedings+of+the+20th+international+conference+on+World+wide+web&per_page=5&mailto=sherotowshaw%40gmail.com')"
+    }
+  ],
+  "WWW|2013": [
+    {
+      "sample": 0,
+      "error": "NO_STRUCTURED_SOURCE"
+    },
+    {
+      "error": "TIER2_REQUEST_ERROR: HTTPError('429 Client Error: Too Many Requests for url: https://api.openalex.org/sources?search=Proceedings+of+the+22nd+international+conference+on+World+Wide+Web&per_page=5&mailto=sherotowshaw%40gmail.com')"
+    }
+  ],
+  "WWW|2016": [
+    {
+      "sample": 0,
+      "error": "NO_STRUCTURED_SOURCE"
+    },
+    {
+      "error": "TIER2_REQUEST_ERROR: HTTPError('429 Client Error: Too Many Requests for url: https://api.openalex.org/sources?search=Proceedings+of+the+25th+International+Conference+on+World+Wide+Web&per_page=5&mailto=sherotowshaw%40gmail.com')"
+    }
+  ],
+  "WWW|2018": [
+    {
+      "sample": 0,
+      "error": "NO_STRUCTURED_SOURCE"
+    },
+    {
+      "error": "TIER2_REQUEST_ERROR: HTTPError('429 Client Error: Too Many Requests for url: https://api.openalex.org/sources?search=Proceedings+of+the+2018+World+Wide+Web+Conference+on+World+Wide+Web+-+WWW+%2718&per_page=5&mailto=sherotowshaw%40gmail.com')"
+    }
+  ]
+}

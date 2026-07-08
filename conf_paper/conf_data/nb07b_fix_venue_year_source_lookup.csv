@@ -1,0 +1,449 @@
+conference,year,source_id,source_name,source_type,tier_used,n_votes,match_score,needs_manual_review
+AAAI,2000,https://openalex.org/S4306420577,National Conference on Artificial Intelligence,conference,1.0,3,,False
+AAAI,2002,https://openalex.org/S4306420577,National Conference on Artificial Intelligence,conference,1.0,1,,False
+AAAI,2004,https://openalex.org/S4210169993,Civil War Book Review,journal,1.0,1,,False
+AAAI,2005,https://openalex.org/S4306420577,National Conference on Artificial Intelligence,conference,1.0,1,,False
+AAAI,2006,https://openalex.org/S4306420577,National Conference on Artificial Intelligence,conference,1.0,2,,False
+AAAI,2007,https://openalex.org/S4306420577,National Conference on Artificial Intelligence,conference,1.0,2,,False
+AAAI,2008,https://openalex.org/S4306420577,National Conference on Artificial Intelligence,conference,1.0,2,,False
+AAAI,2010,https://openalex.org/S4210191458,Proceedings of the AAAI Conference on Artificial Intelligence,conference,1.0,2,,False
+AAAI,2011,https://openalex.org/S4210191458,Proceedings of the AAAI Conference on Artificial Intelligence,conference,1.0,2,,False
+AAAI,2012,https://openalex.org/S4210191458,Proceedings of the AAAI Conference on Artificial Intelligence,conference,1.0,2,,False
+AAAI,2013,https://openalex.org/S4210191458,Proceedings of the AAAI Conference on Artificial Intelligence,conference,1.0,2,,False
+AAAI,2014,https://openalex.org/S4306462769,ACM eBooks,ebook platform,1.0,1,,False
+AAAI,2015,https://openalex.org/S4210191458,Proceedings of the AAAI Conference on Artificial Intelligence,conference,1.0,1,,False
+AAAI,2016,https://openalex.org/S7407053046,University of Alberta Library,repository,1.0,1,,False
+AAAI,2017,https://openalex.org/S4210191458,Proceedings of the AAAI Conference on Artificial Intelligence,conference,1.0,1,,False
+AAAI,2018,https://openalex.org/S4210191458,Proceedings of the AAAI Conference on Artificial Intelligence,conference,1.0,1,,False
+ACL,2001,https://openalex.org/S4406923043,Defense Technical Information Center (DTIC),repository,1.0,1,,False
+ACL,2002,https://openalex.org/S4306401362,RWTH Publications (RWTH Aachen),repository,1.0,1,,False
+ACL,2003,,,,,0,,True
+ACL,2004,https://openalex.org/S4377196282,Figshare,repository,1.0,1,,False
+ACL,2005,,,,,0,,True
+ACL,2006,,,,,0,,True
+ACL,2007,https://openalex.org/S4306420508,Meeting of the Association for Computational Linguistics,conference,1.0,1,,False
+ACL,2008,https://openalex.org/S4306420508,Meeting of the Association for Computational Linguistics,conference,1.0,2,,False
+ACL,2009,https://openalex.org/S4306400425,DSpace@MIT (Massachusetts Institute of Technology),repository,1.0,1,,False
+ACL,2010,https://openalex.org/S4306420508,Meeting of the Association for Computational Linguistics,conference,1.0,1,,False
+ACL,2011,https://openalex.org/S4306420508,Meeting of the Association for Computational Linguistics,conference,1.0,1,,False
+ACL,2012,https://openalex.org/S4306420508,Meeting of the Association for Computational Linguistics,conference,1.0,1,,False
+ACL,2013,https://openalex.org/S4306420508,Meeting of the Association for Computational Linguistics,conference,1.0,1,,False
+ACL,2014,,,,,0,,True
+ACL,2015,,,,,0,,True
+ACL,2016,,,,,0,,True
+ACL,2017,https://openalex.org/S4306400194,arXiv (Cornell University),repository,1.0,1,,False
+ACL,2018,https://openalex.org/S4306400194,arXiv (Cornell University),repository,1.0,2,,False
+CHI,2005,https://openalex.org/S4306400188,Durham Research Online (Durham University),repository,1.0,1,,False
+CHI,2006,https://openalex.org/S4306402512,HAL (Le Centre pour la Communication Scientifique Directe),repository,1.0,1,,False
+CHI,2007,https://openalex.org/S53579087,Ground Water,journal,1.0,1,,False
+CHI,2008,https://openalex.org/S1535467,African Research Review,journal,1.0,1,,False
+CHI,2009,https://openalex.org/S4306401998,Open Research Exeter (University of Exeter),repository,1.0,1,,False
+CHI,2010,https://openalex.org/S4306400194,arXiv (Cornell University),repository,1.0,1,,False
+CHI,2011,https://openalex.org/S4306402512,HAL (Le Centre pour la Communication Scientifique Directe),repository,1.0,1,,False
+CHI,2012,https://openalex.org/S4306401916,Lancaster EPrints (Lancaster University),repository,1.0,2,,False
+CHI,2013,https://openalex.org/S4306402512,HAL (Le Centre pour la Communication Scientifique Directe),repository,1.0,1,,False
+CHI,2014,https://openalex.org/S4306401731,VBN Forskningsportal (Aalborg Universitet),repository,1.0,1,,False
+CHI,2015,https://openalex.org/S4306400230,St Andrews Research Repository (St Andrews Research Repository),repository,1.0,2,,False
+CHI,2016,https://openalex.org/S4306400766,Cork Open Research Archive (University College Cork),repository,1.0,1,,False
+CHI,2017,https://openalex.org/S4306400194,arXiv (Cornell University),repository,1.0,2,,False
+CHI,2018,,,,,0,,True
+CIKM,2004,,,,,0,,True
+CIKM,2005,,,,,0,,True
+CIKM,2006,,,,,0,,True
+CIKM,2007,,,,,0,,True
+CIKM,2008,https://openalex.org/S4306400944,Research Commons (University of Waikato),repository,1.0,1,,False
+CIKM,2009,,,,,0,,True
+CIKM,2010,https://openalex.org/S4406922265,Max Planck Institute for Plasma Physics,repository,1.0,1,,False
+CIKM,2011,,,,,0,,True
+CIKM,2012,https://openalex.org/S4306400792,University of North Texas Digital Library (University of North Texas),repository,1.0,1,,False
+CIKM,2013,,,,,0,,True
+CIKM,2014,,,,,0,,True
+CIKM,2015,https://openalex.org/S4306401913,Institutional Research Information System (Università degli Studi di Trento),repository,1.0,1,,False
+CIKM,2016,,,,,0,,True
+CIKM,2017,,,,,0,,True
+CIKM,2018,,,,,0,,True
+CVPR,2000,,,,,0,,True
+CVPR,2001,,,,,0,,True
+CVPR,2003,https://openalex.org/S4306402161,CaltechAUTHORS (California Institute of Technology),repository,1.0,1,,False
+CVPR,2004,,,,,0,,True
+CVPR,2005,https://openalex.org/S189275214,Particle and Fibre Toxicology,journal,1.0,1,,False
+CVPR,2006,https://openalex.org/S25538012,International Journal of Computer Vision,journal,1.0,1,,False
+CVPR,2007,https://openalex.org/S4210187442,Reviews in Mineralogy and Geochemistry,journal,1.0,1,,False
+CVPR,2008,https://openalex.org/S4406922265,Max Planck Institute for Plasma Physics,repository,1.0,1,,False
+CVPR,2009,https://openalex.org/S4363607795,2009 IEEE Conference on Computer Vision and Pattern Recognition,conference,1.0,1,,False
+CVPR,2010,https://openalex.org/S4306402607,QUT ePrints (Queensland University of Technology),repository,1.0,1,,False
+CVPR,2011,https://openalex.org/S103482838,Communications of the ACM,journal,1.0,1,,False
+CVPR,2012,https://openalex.org/S25538012,International Journal of Computer Vision,journal,1.0,1,,False
+CVPR,2013,,,,,0,,True
+CVPR,2014,,,,,0,,True
+CVPR,2015,,,,,0,,True
+CVPR,2016,https://openalex.org/S4306402641,LA Referencia (Red Federada de Repositorios Institucionales de Publicaciones Científicas),repository,1.0,1,,False
+CVPR,2017,https://openalex.org/S4306400194,arXiv (Cornell University),repository,1.0,1,,False
+CVPR,2018,https://openalex.org/S4306400194,arXiv (Cornell University),repository,1.0,1,,False
+FOCS,2002,https://openalex.org/S4306402519,ThinkTech (Texas Tech University),repository,1.0,1,,False
+FOCS,2003,https://openalex.org/S118992489,Journal of the ACM,journal,1.0,1,,False
+FOCS,2004,https://openalex.org/S153560523,SIAM Journal on Computing,journal,1.0,1,,False
+FOCS,2005,,,,,0,,True
+FOCS,2006,,,,,0,,True
+FOCS,2007,,,,,0,,True
+FOCS,2008,https://openalex.org/S118992489,Journal of the ACM,journal,1.0,1,,False
+FOCS,2010,https://openalex.org/S118992489,Journal of the ACM,journal,1.0,2,,False
+FOCS,2011,https://openalex.org/S4306400487,Infoscience (Ecole Polytechnique Fédérale de Lausanne),repository,1.0,2,,False
+FOCS,2012,,,,,0,,True
+FOCS,2013,https://openalex.org/S4306400488,Infoscience (Ecole Polytechnique Fédérale de Lausanne),repository,1.0,1,,False
+FOCS,2014,,,,,0,,True
+FOCS,2015,https://openalex.org/S118992489,Journal of the ACM,journal,1.0,1,,False
+FOCS,2016,https://openalex.org/S4210233839,ACM SIGecom Exchanges,journal,1.0,2,,False
+FOCS,2017,https://openalex.org/S4306400194,arXiv (Cornell University),repository,1.0,3,,False
+FOCS,2018,https://openalex.org/S118992489,Journal of the ACM,journal,1.0,1,,False
+FSE,2002,,,,,0,,True
+FSE,2003,https://openalex.org/S4306400425,DSpace@MIT (Massachusetts Institute of Technology),repository,1.0,2,,False
+FSE,2004,https://openalex.org/S4306400024,UCL Discovery (University College London),repository,1.0,1,,False
+FSE,2005,,,,,0,,True
+FSE,2006,https://openalex.org/S4306400577,Lincoln (University of Nebraska),repository,1.0,1,,False
+FSE,2007,https://openalex.org/S4306401925,Singapore Management University Institutional Knowledge (InK) (Singapore Management University),repository,1.0,1,,False
+FSE,2008,https://openalex.org/S4306400025,Middlesex University Research Repository (Middlesex University Of London),repository,1.0,1,,False
+FSE,2009,https://openalex.org/S7407052290,National University of Singapore,repository,1.0,1,,False
+FSE,2010,,,,,0,,True
+FSE,2011,,,,,0,,True
+FSE,2012,https://openalex.org/S7407050879,UC Berkeley,repository,1.0,1,,False
+FSE,2014,https://openalex.org/S4306400194,arXiv (Cornell University),repository,1.0,1,,False
+FSE,2015,https://openalex.org/S4306401925,Singapore Management University Institutional Knowledge (InK) (Singapore Management University),repository,1.0,2,,False
+FSE,2016,,,,,0,,True
+FSE,2017,,,,,0,,True
+FSE,2018,,,,,0,,True
+ICCV,2001,https://openalex.org/S25538012,International Journal of Computer Vision,journal,1.0,1,,False
+ICCV,2003,https://openalex.org/S25538012,International Journal of Computer Vision,journal,1.0,2,,False
+ICCV,2005,https://openalex.org/S25538012,International Journal of Computer Vision,journal,1.0,1,,False
+ICCV,2007,https://openalex.org/S25538012,International Journal of Computer Vision,journal,1.0,1,,False
+ICCV,2009,,,,,0,,True
+ICCV,2011,,,,,0,,True
+ICCV,2013,,,,,0,,True
+ICCV,2015,,,,,0,,True
+ICCV,2017,https://openalex.org/S4306402512,HAL (Le Centre pour la Communication Scientifique Directe),repository,1.0,1,,False
+ICML,2005,,,,,0,,True
+ICML,2006,https://openalex.org/S4306400654,MPG.PuRe (Max Planck Society),repository,1.0,1,,False
+ICML,2007,,,,,0,,True
+ICML,2008,,,,,0,,True
+ICML,2009,,,,,0,,True
+ICML,2010,https://openalex.org/S4306400194,arXiv (Cornell University),repository,1.0,1,,False
+ICML,2011,https://openalex.org/S4306400194,arXiv (Cornell University),repository,1.0,1,,False
+ICML,2012,https://openalex.org/S4306400088,UvA-DARE (University of Amsterdam),repository,1.0,1,,False
+ICML,2013,https://openalex.org/S4306400194,arXiv (Cornell University),repository,1.0,1,,False
+ICML,2014,https://openalex.org/S4306419644,International Conference on Machine Learning,conference,1.0,1,,False
+ICML,2015,https://openalex.org/S4306400194,arXiv (Cornell University),repository,1.0,2,,False
+ICML,2016,https://openalex.org/S4306400194,arXiv (Cornell University),repository,1.0,3,,False
+ICML,2017,https://openalex.org/S4306400194,arXiv (Cornell University),repository,1.0,1,,False
+ICML,2018,https://openalex.org/S4306400194,arXiv (Cornell University),repository,1.0,2,,False
+ICSE,2003,https://openalex.org/S4306419842,International Conference on Software Engineering,conference,1.0,2,,False
+ICSE,2004,https://openalex.org/S142627899,ACM Transactions on Software Engineering and Methodology,journal,1.0,3,,False
+ICSE,2005,https://openalex.org/S4306400425,DSpace@MIT (Massachusetts Institute of Technology),repository,1.0,2,,False
+ICSE,2006,,,,,0,,True
+ICSE,2007,https://openalex.org/S4210203175,Proceedings/Proceedings - International Conference on Software Engineering,journal,1.0,3,,False
+ICSE,2008,https://openalex.org/S4306401568,eScholarship@McGill (McGill),repository,1.0,2,,False
+ICSE,2009,https://openalex.org/S4306401281,Zurich Open Repository and Archive (University of Zurich),repository,1.0,1,,False
+ICSE,2010,,,,,0,,True
+ICSE,2011,https://openalex.org/S4306400312,Virtual Community of Pathological Anatomy (University of Castilla La Mancha),repository,1.0,2,,False
+ICSE,2012,,,,,0,,True
+ICSE,2013,https://openalex.org/S4363607951,2013 35th International Conference on Software Engineering (ICSE),conference,1.0,3,,False
+ICSE,2014,https://openalex.org/S4306400906,Research Repository (Delft University of Technology),repository,1.0,2,,False
+ICSE,2015,https://openalex.org/S4363607868,2015 IEEE/ACM 37th IEEE International Conference on Software Engineering,conference,1.0,3,,False
+ICSE,2016,https://openalex.org/S4306401815,Open Repository and Bibliography (University of Luxembourg),repository,1.0,2,,False
+ICSE,2017,https://openalex.org/S7407055463,ResearchSpace (University of Auckland),repository,1.0,1,,False
+ICSE,2018,https://openalex.org/S4306400194,arXiv (Cornell University),repository,1.0,3,,False
+ICWSM,2007,https://openalex.org/S4306419920,International Conference on Weblogs and Social Media,conference,1.0,1,,False
+ICWSM,2008,https://openalex.org/S4387284482,Proceedings of the International AAAI Conference on Web and Social Media,journal,1.0,1,,False
+ICWSM,2009,https://openalex.org/S4387284482,Proceedings of the International AAAI Conference on Web and Social Media,journal,1.0,2,,False
+ICWSM,2010,https://openalex.org/S4387284482,Proceedings of the International AAAI Conference on Web and Social Media,journal,1.0,2,,False
+ICWSM,2011,https://openalex.org/S4387284482,Proceedings of the International AAAI Conference on Web and Social Media,journal,1.0,1,,False
+ICWSM,2012,https://openalex.org/S4387284482,Proceedings of the International AAAI Conference on Web and Social Media,journal,1.0,2,,False
+ICWSM,2013,https://openalex.org/S4387284482,Proceedings of the International AAAI Conference on Web and Social Media,journal,1.0,1,,False
+ICWSM,2014,https://openalex.org/S4387284482,Proceedings of the International AAAI Conference on Web and Social Media,journal,1.0,1,,False
+ICWSM,2015,https://openalex.org/S4387284482,Proceedings of the International AAAI Conference on Web and Social Media,journal,1.0,1,,False
+ICWSM,2016,https://openalex.org/S4387284482,Proceedings of the International AAAI Conference on Web and Social Media,journal,1.0,1,,False
+ICWSM,2017,https://openalex.org/S4387284482,Proceedings of the International AAAI Conference on Web and Social Media,journal,1.0,1,,False
+ICWSM,2018,https://openalex.org/S4387284482,Proceedings of the International AAAI Conference on Web and Social Media,journal,1.0,1,,False
+IJCAI,2001,https://openalex.org/S12967704,Statistical Science,journal,1.0,1,,False
+IJCAI,2003,https://openalex.org/S7407050879,UC Berkeley,repository,1.0,2,,False
+IJCAI,2005,https://openalex.org/S4306419999,International Joint Conference on Artificial Intelligence,conference,1.0,3,,False
+IJCAI,2007,https://openalex.org/S4306419999,International Joint Conference on Artificial Intelligence,conference,1.0,2,,False
+IJCAI,2009,https://openalex.org/S4306402512,HAL (Le Centre pour la Communication Scientifique Directe),repository,1.0,2,,False
+IJCAI,2011,https://openalex.org/S139930977,Journal of Artificial Intelligence Research,journal,1.0,2,,False
+IJCAI,2013,https://openalex.org/S4306400906,Research Repository (Delft University of Technology),repository,1.0,1,,False
+IJCAI,2015,https://openalex.org/S4306419999,International Joint Conference on Artificial Intelligence,conference,1.0,2,,False
+IJCAI,2016,https://openalex.org/S207023548,Neural Computation,journal,1.0,1,,False
+IJCAI,2017,https://openalex.org/S4306400194,arXiv (Cornell University),repository,1.0,1,,False
+IJCAI,2018,,,,,0,,True
+INFOCOM,2000,,,,,0,,True
+INFOCOM,2001,https://openalex.org/S66039016,ACM SIGCOMM Computer Communication Review,journal,1.0,1,,False
+INFOCOM,2002,,,,,0,,True
+INFOCOM,2003,https://openalex.org/S4306402512,HAL (Le Centre pour la Communication Scientifique Directe),repository,1.0,1,,False
+INFOCOM,2004,,,,,0,,True
+INFOCOM,2005,https://openalex.org/S4306400487,Infoscience (Ecole Polytechnique Fédérale de Lausanne),repository,1.0,1,,False
+INFOCOM,2006,https://openalex.org/S62238642,IEEE/ACM Transactions on Networking,journal,1.0,1,,False
+INFOCOM,2007,https://openalex.org/S4306401902,"Digital Access to Libraries (Université catholique de Louvain (UCL), l'Université de Namur (UNamur) and the Université Saint-Louis (USL-B))",repository,1.0,1,,False
+INFOCOM,2008,https://openalex.org/S62238642,IEEE/ACM Transactions on Networking,journal,1.0,1,,False
+INFOCOM,2009,,,,,0,,True
+INFOCOM,2010,,,,,0,,True
+INFOCOM,2011,https://openalex.org/S4306401157,Swinburne Research Bank (Swinburne University of Technology),repository,1.0,1,,False
+INFOCOM,2012,,,,,0,,True
+INFOCOM,2013,,,,,0,,True
+INFOCOM,2014,https://openalex.org/S62238642,IEEE/ACM Transactions on Networking,journal,1.0,1,,False
+INFOCOM,2015,,,,,0,,True
+INFOCOM,2016,,,,,0,,True
+INFOCOM,2017,,,,,0,,True
+INFOCOM,2018,https://openalex.org/S4306400460,Istanbul Technical University Academic Open Archive (Istanbul Technical University),repository,1.0,2,,False
+JCDL,2000,,,,,0,,True
+JCDL,2002,,,,,0,,True
+JCDL,2003,https://openalex.org/S4306417562,ACM/IEEE Joint Conference on Digital Libraries,conference,1.0,1,,False
+JCDL,2004,,,,,0,,True
+JCDL,2005,,,,,0,,True
+JCDL,2006,,,,,0,,True
+JCDL,2007,,,,,0,,True
+JCDL,2008,,,,,0,,True
+JCDL,2009,,,,,0,,True
+JCDL,2010,,,,,0,,True
+JCDL,2011,https://openalex.org/S4306402487,OSTI OAI (U.S. Department of Energy Office of Scientific and Technical Information),repository,1.0,1,,False
+JCDL,2012,,,,,0,,True
+JCDL,2013,https://openalex.org/S7407052290,National University of Singapore,repository,1.0,1,,False
+JCDL,2014,https://openalex.org/S4363608936,Proceedings of the second ACM/IEEE-CS joint conference on Digital libraries - JCDL '02,conference,2.0,1,1.0,False
+JCDL,2015,,,,,0,,True
+JCDL,2016,,,,,0,,True
+JCDL,2017,https://openalex.org/S4306400216,Research Portal (King's College London),repository,1.0,1,,False
+JCDL,2018,https://openalex.org/S4306401843,Data Archiving and Networked Services (DANS),repository,1.0,2,,False
+KDD,2000,,,,,0,,True
+KDD,2001,,,,,0,,True
+KDD,2002,,,,,0,,True
+KDD,2003,,,,,0,,True
+KDD,2004,,,,,0,,True
+KDD,2005,https://openalex.org/S19474917,Internet Mathematics,journal,1.0,1,,False
+KDD,2006,,,,,0,,True
+KDD,2007,,,,,0,,True
+KDD,2008,https://openalex.org/S4306525036,PubMed,repository,1.0,1,,False
+KDD,2009,,,,,0,,True
+KDD,2010,https://openalex.org/S139930977,Journal of Artificial Intelligence Research,journal,1.0,1,,False
+KDD,2011,,,,,0,,True
+KDD,2012,https://openalex.org/S4306525036,PubMed,repository,1.0,1,,False
+KDD,2013,,,,,0,,True
+KDD,2014,,,,,0,,True
+KDD,2015,https://openalex.org/S4377196107,IRIS Research product catalog (Sapienza University of Rome),repository,1.0,1,,False
+KDD,2016,,,,,0,,True
+KDD,2017,,,,,0,,True
+KDD,2018,https://openalex.org/S4306400194,arXiv (Cornell University),repository,1.0,1,,False
+MOBICOM,2008,,,,,0,,True
+MOBICOM,2009,,,,,0,,True
+MOBICOM,2011,https://openalex.org/S4210197018,View,journal,1.0,1,,False
+MOBICOM,2012,,,,,0,,True
+MOBICOM,2013,,,,,0,,True
+MOBICOM,2014,https://openalex.org/S4306401796,Rare & Special e-Zone (The Hong Kong University of Science and Technology),repository,1.0,1,,False
+MOBICOM,2015,https://openalex.org/S4210227886,GetMobile Mobile Computing and Communications,journal,1.0,1,,False
+MOBICOM,2017,,,,,0,,True
+MOBICOM,2018,https://openalex.org/S4210227886,GetMobile Mobile Computing and Communications,journal,1.0,1,,False
+NeurIPS,2013,https://openalex.org/S4306400194,arXiv (Cornell University),repository,1.0,3,,False
+NeurIPS,2014,https://openalex.org/S4306400194,arXiv (Cornell University),repository,1.0,2,,False
+NeurIPS,2015,https://openalex.org/S4306420609,Neural Information Processing Systems,conference,1.0,2,,False
+NeurIPS,2016,https://openalex.org/S4306401020,ePrints Soton (University of Southampton),repository,1.0,1,,False
+NeurIPS,2017,https://openalex.org/S4306400194,arXiv (Cornell University),repository,1.0,3,,False
+NeurIPS,2018,https://openalex.org/S4306420609,Neural Information Processing Systems,conference,1.0,3,,False
+OSDI,2000,,,,,0,,True
+OSDI,2002,https://openalex.org/S50071195,ACM SIGOPS Operating Systems Review,journal,1.0,1,,False
+OSDI,2004,https://openalex.org/S193109227,ACM Transactions on Computer Systems,journal,1.0,2,,False
+OSDI,2006,https://openalex.org/S193109227,ACM Transactions on Computer Systems,journal,1.0,2,,False
+OSDI,2008,https://openalex.org/S4306420647,Operating Systems Design and Implementation,conference,1.0,3,,False
+OSDI,2010,https://openalex.org/S4306420647,Operating Systems Design and Implementation,conference,1.0,2,,False
+OSDI,2012,,,,,0,,True
+OSDI,2014,https://openalex.org/S193109227,ACM Transactions on Computer Systems,journal,1.0,3,,False
+OSDI,2016,https://openalex.org/S4306420647,Operating Systems Design and Implementation,conference,1.0,1,,False
+OSDI,2018,https://openalex.org/S4306420647,Operating Systems Design and Implementation,conference,1.0,3,,False
+PLDI,2000,,,,,0,,True
+PLDI,2003,https://openalex.org/S148324379,ACM SIGPLAN Notices,journal,1.0,1,,False
+PLDI,2004,,,,,0,,True
+PLDI,2005,,,,,0,,True
+PLDI,2007,,,,,0,,True
+PLDI,2009,,,,,0,,True
+PLDI,2010,,,,,0,,True
+PLDI,2011,https://openalex.org/S148324379,ACM SIGPLAN Notices,journal,1.0,1,,False
+PLDI,2012,,,,,0,,True
+PLDI,2013,https://openalex.org/S4306401796,Rare & Special e-Zone (The Hong Kong University of Science and Technology),repository,1.0,1,,False
+PLDI,2014,https://openalex.org/S4377196264,Kent Academic Repository (University of Kent),repository,1.0,1,,False
+PLDI,2015,https://openalex.org/S4306400757,eCommons (Cornell University),repository,1.0,1,,False
+PLDI,2016,https://openalex.org/S4306401777,Apollo (University of Cambridge),repository,1.0,2,,False
+PLDI,2017,https://openalex.org/S4306400662,Research Explorer (The University of Manchester),repository,1.0,2,,False
+PLDI,2018,https://openalex.org/S4306400194,arXiv (Cornell University),repository,1.0,1,,False
+PODS,2000,,,,,0,,True
+PODS,2001,,,,,0,,True
+PODS,2002,https://openalex.org/S4306400487,Infoscience (Ecole Polytechnique Fédérale de Lausanne),repository,1.0,1,,False
+PODS,2003,,,,,0,,True
+PODS,2004,https://openalex.org/S4306400088,UvA-DARE (University of Amsterdam),repository,1.0,1,,False
+PODS,2005,https://openalex.org/S4306401926,Document Server@UHasselt (UHasselt),repository,1.0,1,,False
+PODS,2006,https://openalex.org/S118992489,Journal of the ACM,journal,1.0,1,,False
+PODS,2007,https://openalex.org/S4306419648,International Conference on Management of Data,conference,1.0,1,,False
+PODS,2008,,,,,0,,True
+PODS,2009,https://openalex.org/S4306402636,Oxford University Research Archive (ORA) (University of Oxford),repository,1.0,1,,False
+PODS,2010,https://openalex.org/S4306401540,Digital Access to Scholarship at Harvard (DASH) (Harvard University),repository,1.0,1,,False
+PODS,2011,,,,,0,,True
+PODS,2012,https://openalex.org/S103870658,PLoS Genetics,journal,1.0,1,,False
+PODS,2013,https://openalex.org/S4306402512,HAL (Le Centre pour la Communication Scientifique Directe),repository,1.0,1,,False
+PODS,2014,https://openalex.org/S90119964,ACM Transactions on Database Systems,journal,1.0,1,,False
+PODS,2015,https://openalex.org/S4306401926,Document Server@UHasselt (UHasselt),repository,1.0,1,,False
+PODS,2016,,,,,0,,True
+PODS,2017,https://openalex.org/S4306400194,arXiv (Cornell University),repository,1.0,1,,False
+PODS,2018,,,,,0,,True
+S&P,2008,https://openalex.org/S4210233669,Proceedings - IEEE Symposium on Security and Privacy/Proceedings of the ... IEEE Symposium on Security and Privacy,journal,1.0,1,,False
+S&P,2009,https://openalex.org/S103482838,Communications of the ACM,journal,1.0,1,,False
+S&P,2010,,,,,0,,True
+S&P,2013,https://openalex.org/S103482838,Communications of the ACM,journal,1.0,1,,False
+S&P,2014,https://openalex.org/S103482838,Communications of the ACM,journal,1.0,1,,False
+S&P,2015,https://openalex.org/S103482838,Communications of the ACM,journal,1.0,2,,False
+S&P,2016,,,,,0,,True
+S&P,2017,https://openalex.org/S4306402512,HAL (Le Centre pour la Communication Scientifique Directe),repository,1.0,1,,False
+S&P,2018,https://openalex.org/S4306400024,UCL Discovery (University College London),repository,1.0,2,,False
+SIGCOMM,2009,,,,,0,,True
+SIGCOMM,2010,https://openalex.org/S66039016,ACM SIGCOMM Computer Communication Review,journal,1.0,1,,False
+SIGCOMM,2011,https://openalex.org/S4306400425,DSpace@MIT (Massachusetts Institute of Technology),repository,1.0,1,,False
+SIGCOMM,2012,https://openalex.org/S7407050879,UC Berkeley,repository,1.0,1,,False
+SIGCOMM,2013,,,,,0,,True
+SIGCOMM,2014,https://openalex.org/S66039016,ACM SIGCOMM Computer Communication Review,journal,1.0,2,,False
+SIGCOMM,2015,https://openalex.org/S4306401902,"Digital Access to Libraries (Université catholique de Louvain (UCL), l'Université de Namur (UNamur) and the Université Saint-Louis (USL-B))",repository,1.0,1,,False
+SIGCOMM,2016,https://openalex.org/S66039016,ACM SIGCOMM Computer Communication Review,journal,1.0,3,,False
+SIGCOMM,2017,https://openalex.org/S4306400024,UCL Discovery (University College London),repository,1.0,2,,False
+SIGCOMM,2018,https://openalex.org/S4306400944,Research Commons (University of Waikato),repository,1.0,1,,False
+SIGIR,2000,https://openalex.org/S6756005,ACM SIGIR Forum,journal,1.0,1,,False
+SIGIR,2001,,,,,0,,True
+SIGIR,2002,,,,,0,,True
+SIGIR,2003,https://openalex.org/S4306402226,Strathprints: The University of Strathclyde institutional repository (University of Strathclyde),repository,1.0,1,,False
+SIGIR,2004,,,,,0,,True
+SIGIR,2005,,,,,0,,True
+SIGIR,2006,https://openalex.org/S4306402240,ScholarWorks@UMassAmherst (University of Massachusetts Amherst),repository,1.0,1,,False
+SIGIR,2007,,,,,0,,True
+SIGIR,2008,,,,,0,,True
+SIGIR,2009,,,,,0,,True
+SIGIR,2010,,,,,0,,True
+SIGIR,2011,,,,,0,,True
+SIGIR,2012,,,,,0,,True
+SIGIR,2013,,,,,0,,True
+SIGIR,2014,https://openalex.org/S7407055261,ISTI Open Portal,repository,1.0,1,,False
+SIGIR,2015,https://openalex.org/S4377196265,CINECA IRIS Institutial research information system (University of Pisa),repository,1.0,1,,False
+SIGIR,2016,https://openalex.org/S4210235606,ENLIGHTEN (Jurnal Bimbingan dan Konseling Islam),journal,1.0,1,,False
+SIGIR,2017,https://openalex.org/S4306402636,Oxford University Research Archive (ORA) (University of Oxford),repository,1.0,1,,False
+SIGIR,2018,,,,,0,,True
+SIGMETRICS,2004,https://openalex.org/S4210187660,ACM SIGMETRICS Performance Evaluation Review,journal,1.0,1,,False
+SIGMETRICS,2005,https://openalex.org/S62238642,IEEE/ACM Transactions on Networking,journal,1.0,1,,False
+SIGMETRICS,2006,,,,,0,,True
+SIGMETRICS,2007,,,,,0,,True
+SIGMETRICS,2008,,,,,0,,True
+SIGMETRICS,2009,https://openalex.org/S4306462833,Amsterdam University Press eBooks,ebook platform,1.0,1,,False
+SIGMETRICS,2010,,,,,0,,True
+SIGMETRICS,2011,,,,,0,,True
+SIGMETRICS,2012,,,,,0,,True
+SIGMETRICS,2013,https://openalex.org/S4306400425,DSpace@MIT (Massachusetts Institute of Technology),repository,1.0,1,,False
+SIGMETRICS,2014,https://openalex.org/S4306400088,UvA-DARE (University of Amsterdam),repository,1.0,1,,False
+SIGMETRICS,2015,https://openalex.org/S4210187660,ACM SIGMETRICS Performance Evaluation Review,journal,1.0,1,,False
+SIGMETRICS,2016,,,,,0,,True
+SIGMETRICS,2017,https://openalex.org/S4306401396,Spiral (Imperial College London),repository,1.0,1,,False
+SIGMETRICS,2018,https://openalex.org/S4210193547,Proceedings of the ACM on Measurement and Analysis of Computing Systems,journal,1.0,1,,False
+SIGMOD,2000,,,,,0,,True
+SIGMOD,2001,,,,,0,,True
+SIGMOD,2003,,,,,0,,True
+SIGMOD,2004,https://openalex.org/S4377196297,cIRcle (University of British Columbia),repository,1.0,1,,False
+SIGMOD,2006,https://openalex.org/S4306401019,ePrints Soton (University of Southampton),repository,1.0,1,,False
+SIGMOD,2007,,,,,0,,True
+SIGMOD,2008,https://openalex.org/S90119964,ACM Transactions on Database Systems,journal,1.0,1,,False
+SIGMOD,2009,,,,,0,,True
+SIGMOD,2010,,,,,0,,True
+SIGMOD,2011,,,,,0,,True
+SIGMOD,2012,,,,,0,,True
+SIGMOD,2013,https://openalex.org/S4306402388,Queensland's institutional digital repository (The University of Queensland),repository,1.0,1,,False
+SIGMOD,2014,,,,,0,,True
+SIGMOD,2015,,,,,0,,True
+SIGMOD,2016,https://openalex.org/S4306401796,Rare & Special e-Zone (The Hong Kong University of Science and Technology),repository,1.0,1,,False
+SIGMOD,2017,https://openalex.org/S4406922455,Edinburgh Research Explorer,repository,1.0,1,,False
+SIGMOD,2018,,,,,0,,True
+SODA,2009,https://openalex.org/S4306420974,Symposium on Discrete Algorithms,conference,1.0,1,,False
+SODA,2010,,,,,0,,True
+SODA,2011,https://openalex.org/S137348503,ACM Transactions on Algorithms,journal,1.0,1,,False
+SODA,2012,https://openalex.org/S118992489,Journal of the ACM,journal,1.0,1,,False
+SODA,2013,https://openalex.org/S4306401983,Research at the University of Copenhagen (University of Copenhagen),repository,1.0,1,,False
+SODA,2014,https://openalex.org/S118992489,Journal of the ACM,journal,1.0,2,,False
+SODA,2015,,,,,0,,True
+SODA,2016,https://openalex.org/S137348503,ACM Transactions on Algorithms,journal,1.0,1,,False
+SODA,2017,https://openalex.org/S4306420974,Symposium on Discrete Algorithms,conference,1.0,1,,False
+SODA,2018,https://openalex.org/S162708223,Atmospheric chemistry and physics,journal,1.0,2,,False
+SOSP,2001,,,,,0,,True
+SOSP,2003,https://openalex.org/S50071195,ACM SIGOPS Operating Systems Review,journal,1.0,2,,False
+SOSP,2005,https://openalex.org/S50071195,ACM SIGOPS Operating Systems Review,journal,1.0,2,,False
+SOSP,2007,https://openalex.org/S193109227,ACM Transactions on Computer Systems,journal,1.0,2,,False
+SOSP,2009,https://openalex.org/S4377196481,UNSWorks (UNSW Sydney),repository,1.0,1,,False
+SOSP,2011,https://openalex.org/S162176842,BioMedical Engineering OnLine,journal,1.0,2,,False
+SOSP,2013,https://openalex.org/S4306400425,DSpace@MIT (Massachusetts Institute of Technology),repository,1.0,1,,False
+SOSP,2015,https://openalex.org/S193109227,ACM Transactions on Computer Systems,journal,1.0,2,,False
+SOSP,2017,https://openalex.org/S4306400194,arXiv (Cornell University),repository,1.0,2,,False
+STOC,2003,,,,,0,,True
+STOC,2004,https://openalex.org/S118992489,Journal of the ACM,journal,1.0,1,,False
+STOC,2005,https://openalex.org/S11189987,Electronic colloquium on computational complexity,journal,1.0,1,,False
+STOC,2006,https://openalex.org/S118992489,Journal of the ACM,journal,1.0,1,,False
+STOC,2007,https://openalex.org/S118992489,Journal of the ACM,journal,1.0,1,,False
+STOC,2008,,,,,0,,True
+STOC,2009,,,,,0,,True
+STOC,2010,https://openalex.org/S7407052290,National University of Singapore,repository,1.0,2,,False
+STOC,2011,https://openalex.org/S4306400425,DSpace@MIT (Massachusetts Institute of Technology),repository,1.0,1,,False
+STOC,2012,https://openalex.org/S4306400088,UvA-DARE (University of Amsterdam),repository,1.0,1,,False
+STOC,2013,https://openalex.org/S118992489,Journal of the ACM,journal,1.0,1,,False
+STOC,2014,,,,,0,,True
+STOC,2015,,,,,0,,True
+STOC,2016,https://openalex.org/S45918994,Annals of Mathematics,journal,1.0,2,,False
+STOC,2017,https://openalex.org/S4306509107,Electron. Colloquium Comput. Complex.,journal,1.0,3,,False
+STOC,2018,https://openalex.org/S4306400050,London School of Economics and Political Science Theses Online (London School of Economics and Political Science),repository,1.0,1,,False
+UIST,2000,,,,,0,,True
+UIST,2001,,,,,0,,True
+UIST,2002,,,,,0,,True
+UIST,2003,,,,,0,,True
+UIST,2004,https://openalex.org/S137146891,Laboratory Investigation,journal,1.0,1,,False
+UIST,2005,,,,,0,,True
+UIST,2006,,,,,0,,True
+UIST,2007,,,,,0,,True
+UIST,2008,,,,,0,,True
+UIST,2009,,,,,0,,True
+UIST,2010,https://openalex.org/S4210172555,Journal of International Crisis and Risk Communication Research,journal,1.0,1,,False
+UIST,2011,,,,,0,,True
+UIST,2012,,,,,0,,True
+UIST,2013,https://openalex.org/S4306400425,DSpace@MIT (Massachusetts Institute of Technology),repository,1.0,1,,False
+UIST,2014,,,,,0,,True
+UIST,2015,https://openalex.org/S4306402591,Edinburgh Napier Research Repository (Edinburgh Napier University),repository,1.0,2,,False
+UIST,2016,https://openalex.org/S4306400425,DSpace@MIT (Massachusetts Institute of Technology),repository,1.0,3,,False
+UIST,2017,https://openalex.org/S4306400194,arXiv (Cornell University),repository,1.0,1,,False
+UIST,2018,https://openalex.org/S4210197018,View,journal,1.0,1,,False
+VLDB,2001,https://openalex.org/S4306400487,Infoscience (Ecole Polytechnique Fédérale de Lausanne),repository,1.0,1,,False
+VLDB,2004,https://openalex.org/S4306463230,Elsevier eBooks,ebook platform,1.0,1,,False
+VLDB,2005,https://openalex.org/S4306421142,Very Large Data Bases,conference,1.0,1,,False
+VLDB,2006,https://openalex.org/S4306421142,Very Large Data Bases,conference,1.0,1,,False
+VLDB,2007,,,,,0,,True
+VLDB,2008,https://openalex.org/S106296714,Lecture notes in computer science,book series,1.0,2,,False
+VLDB,2009,https://openalex.org/S78926909,The VLDB Journal,journal,1.0,1,,False
+VLDB,2010,https://openalex.org/S78926909,The VLDB Journal,journal,1.0,1,,False
+VLDB,2011,https://openalex.org/S78926909,The VLDB Journal,journal,1.0,1,,False
+VLDB,2012,https://openalex.org/S78926909,The VLDB Journal,journal,1.0,1,,False
+VLDB,2013,https://openalex.org/S4210226185,Proceedings of the VLDB Endowment,journal,1.0,1,,False
+VLDB,2014,https://openalex.org/S4210226185,Proceedings of the VLDB Endowment,journal,1.0,3,,False
+VLDB,2015,https://openalex.org/S4210226185,Proceedings of the VLDB Endowment,journal,1.0,1,,False
+VLDB,2016,https://openalex.org/S78926909,The VLDB Journal,journal,1.0,1,,False
+VLDB,2017,https://openalex.org/S4210226185,Proceedings of the VLDB Endowment,journal,1.0,1,,False
+VLDB,2018,https://openalex.org/S2595095599,Frontiers in Robotics and AI,journal,1.0,1,,False
+WWW,2000,https://openalex.org/S63392143,Computer Networks,journal,1.0,1,,False
+WWW,2001,,,,,0,,True
+WWW,2002,,,,,0,,True
+WWW,2003,https://openalex.org/S2737205702,Journal of Bioresource Management,journal,1.0,1,,False
+WWW,2004,,,,,0,,True
+WWW,2005,,,,,0,,True
+WWW,2006,,,,,0,,True
+WWW,2007,https://openalex.org/S103482838,Communications of the ACM,journal,1.0,1,,False
+WWW,2008,,,,,0,,True
+WWW,2009,https://openalex.org/S4306401596,King Abdullah University of Science and Technology Repository (King Abdullah University of Science and Technology),repository,1.0,1,,False
+WWW,2010,,,,,0,,True
+WWW,2011,,,,,0,,True
+WWW,2012,https://openalex.org/S4306481413,Universidad de Chile,repository,1.0,1,,False
+WWW,2013,,,,,0,,True
+WWW,2014,https://openalex.org/S4377196680,IT University Of Copenhagen (IT University of Copenhagen),repository,1.0,1,,False
+WWW,2015,https://openalex.org/S4306400194,arXiv (Cornell University),repository,1.0,1,,False
+WWW,2016,,,,,0,,True
+WWW,2018,,,,,0,,True

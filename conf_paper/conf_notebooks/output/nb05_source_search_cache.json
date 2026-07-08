@@ -1,0 +1,469 @@
+{
+  "AAAI": [
+    {
+      "id": "https://openalex.org/S4210191458",
+      "display_name": "Proceedings of the AAAI Conference on Artificial Intelligence",
+      "works_count": 25109,
+      "type": "conference"
+    },
+    {
+      "id": "https://openalex.org/S4363608784",
+      "display_name": "Proceedings of the AAAI Conference on Artificial Intelligence and Interactive Digital Entertainment",
+      "works_count": 0,
+      "type": "conference"
+    }
+  ],
+  "ACL": [
+    {
+      "id": "https://openalex.org/S4363608652",
+      "display_name": "Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+      "works_count": 603,
+      "type": "conference"
+    }
+  ],
+  "CHI": [
+    {
+      "id": "https://openalex.org/S4363607743",
+      "display_name": "CHI Conference on Human Factors in Computing Systems",
+      "works_count": 637,
+      "type": "conference"
+    },
+    {
+      "id": "https://openalex.org/S4363607762",
+      "display_name": "CHI Conference on Human Factors in Computing Systems Extended Abstracts",
+      "works_count": 491,
+      "type": "conference"
+    }
+  ],
+  "CIKM": [
+    {
+      "id": "https://openalex.org/S4306418063",
+      "display_name": "Conference on Information and Knowledge Management",
+      "works_count": 140,
+      "type": "conference"
+    },
+    {
+      "id": "https://openalex.org/S4306498761",
+      "display_name": "2021 2nd International Conference on Education, Knowledge and Information Management (ICEKIM)",
+      "works_count": 214,
+      "type": "conference"
+    },
+    {
+      "id": "https://openalex.org/S4363607927",
+      "display_name": "2022 3rd International Conference on Education, Knowledge and Information Management (ICEKIM)",
+      "works_count": 250,
+      "type": "conference"
+    }
+  ],
+  "CVPR": [
+    {
+      "id": "https://openalex.org/S4363607701",
+      "display_name": "2022 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR)",
+      "works_count": 2082,
+      "type": "conference"
+    },
+    {
+      "id": "https://openalex.org/S4363607795",
+      "display_name": "2009 IEEE Conference on Computer Vision and Pattern Recognition",
+      "works_count": 768,
+      "type": "conference"
+    },
+    {
+      "id": "https://openalex.org/S4363607748",
+      "display_name": "2022 IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshops (CVPRW)",
+      "works_count": 570,
+      "type": "conference"
+    },
+    {
+      "id": "https://openalex.org/S4363608118",
+      "display_name": "2009 IEEE Computer Society Conference on Computer Vision and Pattern Recognition Workshops",
+      "works_count": 320,
+      "type": "conference"
+    },
+    {
+      "id": "https://openalex.org/S4393918233",
+      "display_name": "IEEE Computer Society Conference on Computer Vision and Pattern Recognition workshops",
+      "works_count": 0,
+      "type": "conference"
+    }
+  ],
+  "FOCS": [
+    {
+      "id": "https://openalex.org/S4363607389",
+      "display_name": "2022 IEEE 63rd Annual Symposium on Foundations of Computer Science (FOCS)",
+      "works_count": 118,
+      "type": "conference"
+    }
+  ],
+  "FSE": [],
+  "ICCV": [
+    {
+      "id": "https://openalex.org/S4363607764",
+      "display_name": "2021 IEEE/CVF International Conference on Computer Vision (ICCV)",
+      "works_count": 1617,
+      "type": "conference"
+    },
+    {
+      "id": "https://openalex.org/S4306419272",
+      "display_name": "International Conference on Computer Vision",
+      "works_count": 77,
+      "type": "conference"
+    },
+    {
+      "id": "https://openalex.org/S4363607914",
+      "display_name": "2022 3rd International Conference on Computer Vision, Image and Deep Learning &amp; International Conference on Computer Engineering and Applications (CVIDL &amp; ICCEA)",
+      "works_count": 258,
+      "type": "conference"
+    },
+    {
+      "id": "https://openalex.org/S4306419275",
+      "display_name": "International Conference on Computer Vision Theory and Applications",
+      "works_count": 98,
+      "type": "conference"
+    },
+    {
+      "id": "https://openalex.org/S4306419273",
+      "display_name": "International Conference on Computer Vision and Graphics",
+      "works_count": 33,
+      "type": "conference"
+    }
+  ],
+  "ICML": [
+    {
+      "id": "https://openalex.org/S4306419644",
+      "display_name": "International Conference on Machine Learning",
+      "works_count": 1905,
+      "type": "conference"
+    },
+    {
+      "id": "https://openalex.org/S4363607906",
+      "display_name": "2021 20th IEEE International Conference on Machine Learning and Applications (ICMLA)",
+      "works_count": 285,
+      "type": "conference"
+    },
+    {
+      "id": "https://openalex.org/S4306419645",
+      "display_name": "International Conference on Machine Learning and Applications",
+      "works_count": 58,
+      "type": "conference"
+    },
+    {
+      "id": "https://openalex.org/S4363608203",
+      "display_name": "2022 International Conference on Machine Learning, Big Data, Cloud and Parallel Computing (COM-IT-CON)",
+      "works_count": 154,
+      "type": "conference"
+    },
+    {
+      "id": "https://openalex.org/S4363608198",
+      "display_name": "2021 3rd International Conference on Machine Learning, Big Data and Business Intelligence (MLBDBI)",
+      "works_count": 154,
+      "type": "conference"
+    }
+  ],
+  "ICSE": [
+    {
+      "id": "https://openalex.org/S4306419842",
+      "display_name": "International Conference on Software Engineering",
+      "works_count": 2275,
+      "type": "conference"
+    },
+    {
+      "id": "https://openalex.org/S4363607951",
+      "display_name": "2013 35th International Conference on Software Engineering (ICSE)",
+      "works_count": 248,
+      "type": "conference"
+    },
+    {
+      "id": "https://openalex.org/S4363608967",
+      "display_name": "25th International Conference on Software Engineering, 2003. Proceedings.",
+      "works_count": 126,
+      "type": "conference"
+    },
+    {
+      "id": "https://openalex.org/S4363607868",
+      "display_name": "2015 IEEE/ACM 37th IEEE International Conference on Software Engineering",
+      "works_count": 323,
+      "type": "conference"
+    },
+    {
+      "id": "https://openalex.org/S4363608872",
+      "display_name": "Proceedings of the 44th International Conference on Software Engineering",
+      "works_count": 197,
+      "type": "conference"
+    }
+  ],
+  "ICWSM": [
+    {
+      "id": "https://openalex.org/S4363608822",
+      "display_name": "Proceedings of the International AAAI Conference on Web and Social Media",
+      "works_count": 0,
+      "type": "conference"
+    }
+  ],
+  "IJCAI": [
+    {
+      "id": "https://openalex.org/S4306419999",
+      "display_name": "International Joint Conference on Artificial Intelligence",
+      "works_count": 3015,
+      "type": "conference"
+    },
+    {
+      "id": "https://openalex.org/S4363608755",
+      "display_name": "Proceedings of the Thirty-First International Joint Conference on Artificial Intelligence",
+      "works_count": 861,
+      "type": "conference"
+    }
+  ],
+  "INFOCOM": [
+    {
+      "id": "https://openalex.org/S4363607980",
+      "display_name": "IEEE INFOCOM 2022 - IEEE Conference on Computer Communications",
+      "works_count": 230,
+      "type": "conference"
+    },
+    {
+      "id": "https://openalex.org/S4363608785",
+      "display_name": "2008 Proceedings IEEE INFOCOM - The 27th Conference on Computer Communications",
+      "works_count": 311,
+      "type": "conference"
+    },
+    {
+      "id": "https://openalex.org/S4363607985",
+      "display_name": "IEEE INFOCOM 2022 - IEEE Conference on Computer Communications Workshops (INFOCOM WKSHPS)",
+      "works_count": 229,
+      "type": "conference"
+    }
+  ],
+  "JCDL": [
+    {
+      "id": "https://openalex.org/S4306417562",
+      "display_name": "ACM/IEEE Joint Conference on Digital Libraries",
+      "works_count": 143,
+      "type": "conference"
+    },
+    {
+      "id": "https://openalex.org/S4363608936",
+      "display_name": "Proceedings of the second ACM/IEEE-CS joint conference on Digital libraries - JCDL '02",
+      "works_count": 135,
+      "type": "conference"
+    },
+    {
+      "id": "https://openalex.org/S4393917558",
+      "display_name": "Proceedings of the ACM/IEEE Joint Conference on Digital Libraries",
+      "works_count": 0,
+      "type": "conference"
+    }
+  ],
+  "KDD": [
+    {
+      "id": "https://openalex.org/S4306420424",
+      "display_name": "Knowledge Discovery and Data Mining",
+      "works_count": 353,
+      "type": "conference"
+    },
+    {
+      "id": "https://openalex.org/S4363608767",
+      "display_name": "Proceedings of the 28th ACM SIGKDD Conference on Knowledge Discovery and Data Mining",
+      "works_count": 534,
+      "type": "conference"
+    },
+    {
+      "id": "https://openalex.org/S4306421263",
+      "display_name": "Workshop on Knowledge Discovery and Data Mining",
+      "works_count": 26,
+      "type": "conference"
+    },
+    {
+      "id": "https://openalex.org/S4306420658",
+      "display_name": "Pacific-Asia Conference on Knowledge Discovery and Data Mining",
+      "works_count": 8,
+      "type": "conference"
+    },
+    {
+      "id": "https://openalex.org/S4306418343",
+      "display_name": "European Conference on Principles of Data Mining and Knowledge Discovery",
+      "works_count": 37,
+      "type": "conference"
+    }
+  ],
+  "MOBICOM": [
+    {
+      "id": "https://openalex.org/S4363608994",
+      "display_name": "Proceedings of the 28th Annual International Conference on Mobile Computing And Networking",
+      "works_count": 111,
+      "type": "conference"
+    },
+    {
+      "id": "https://openalex.org/S4306417560",
+      "display_name": "ACM/IEEE International Conference on Mobile Computing and Networking",
+      "works_count": 33,
+      "type": "conference"
+    },
+    {
+      "id": "https://openalex.org/S4306419686",
+      "display_name": "International Conference on Mobile Computing and Ubiquitous Networking",
+      "works_count": 15,
+      "type": "conference"
+    },
+    {
+      "id": "https://openalex.org/S4306419927",
+      "display_name": "International Conference on Wireless Communications, Networking and Mobile Computing",
+      "works_count": 9,
+      "type": "conference"
+    },
+    {
+      "id": "https://openalex.org/S4393917525",
+      "display_name": "Proceedings of the annual International Conference on Mobile Computing and Networking",
+      "works_count": 0,
+      "type": "conference"
+    }
+  ],
+  "NeurIPS": [
+    {
+      "id": "https://openalex.org/S4306420609",
+      "display_name": "Neural Information Processing Systems",
+      "works_count": 4137,
+      "type": "conference"
+    }
+  ],
+  "OSDI": [
+    {
+      "id": "https://openalex.org/S4306420647",
+      "display_name": "Operating Systems Design and Implementation",
+      "works_count": 165,
+      "type": "conference"
+    }
+  ],
+  "PLDI": [
+    {
+      "id": "https://openalex.org/S4306420747",
+      "display_name": "Programming Language Design and Implementation",
+      "works_count": 21,
+      "type": "conference"
+    },
+    {
+      "id": "https://openalex.org/S4393917474",
+      "display_name": "Proceedings of the ACM SIGPLAN Conference on Programming Language Design and Implementation",
+      "works_count": 0,
+      "type": "conference"
+    }
+  ],
+  "PODS": [
+    {
+      "id": "https://openalex.org/S4306420993",
+      "display_name": "Symposium on Principles of Database Systems",
+      "works_count": 64,
+      "type": "conference"
+    }
+  ],
+  "S&P": [
+    {
+      "id": "https://openalex.org/S4363606603",
+      "display_name": "2022 IEEE Symposium on Security and Privacy (SP)",
+      "works_count": 154,
+      "type": "conference"
+    },
+    {
+      "id": "https://openalex.org/S4306418833",
+      "display_name": "IEEE Symposium on Security and Privacy",
+      "works_count": 82,
+      "type": "conference"
+    },
+    {
+      "id": "https://openalex.org/S4306418620",
+      "display_name": "IEEE European Symposium on Security and Privacy",
+      "works_count": 2,
+      "type": "conference"
+    }
+  ],
+  "SIGCOMM": [
+    {
+      "id": "https://openalex.org/S4306417580",
+      "display_name": "ACM Special Interest Group on Data Communication",
+      "works_count": 36,
+      "type": "conference"
+    }
+  ],
+  "SIGIR": [
+    {
+      "id": "https://openalex.org/S4363608773",
+      "display_name": "Proceedings of the 45th International ACM SIGIR Conference on Research and Development in Information Retrieval",
+      "works_count": 444,
+      "type": "conference"
+    },
+    {
+      "id": "https://openalex.org/S4306418959",
+      "display_name": "International ACM SIGIR Conference on Research and Development in Information Retrieval",
+      "works_count": 385,
+      "type": "conference"
+    },
+    {
+      "id": "https://openalex.org/S4363609012",
+      "display_name": "Proceedings of the 26th annual international ACM SIGIR conference on Research and development in informaion retrieval - SIGIR '03",
+      "works_count": 104,
+      "type": "conference"
+    },
+    {
+      "id": "https://openalex.org/S4363609015",
+      "display_name": "Proceedings of the 25th annual international ACM SIGIR conference on Research and development in information retrieval - SIGIR '02",
+      "works_count": 105,
+      "type": "conference"
+    }
+  ],
+  "SIGMETRICS": [],
+  "SIGMOD": [
+    {
+      "id": "https://openalex.org/S4393915683",
+      "display_name": "Proceedings - ACM-SIGMOD International Conference on Management of Data",
+      "works_count": 0,
+      "type": "conference"
+    }
+  ],
+  "SODA": [
+    {
+      "id": "https://openalex.org/S4306420974",
+      "display_name": "Symposium on Discrete Algorithms",
+      "works_count": 1007,
+      "type": "conference"
+    },
+    {
+      "id": "https://openalex.org/S4363608732",
+      "display_name": "Proceedings of the Twentieth Annual ACM-SIAM Symposium on Discrete Algorithms",
+      "works_count": 139,
+      "type": "conference"
+    }
+  ],
+  "SOSP": [
+    {
+      "id": "https://openalex.org/S4306420989",
+      "display_name": "Symposium on Operating Systems Principles",
+      "works_count": 51,
+      "type": "conference"
+    }
+  ],
+  "STOC": [
+    {
+      "id": "https://openalex.org/S4306421003",
+      "display_name": "Symposium on the Theory of Computing",
+      "works_count": 225,
+      "type": "conference"
+    }
+  ],
+  "UIST": [],
+  "VLDB": [
+    {
+      "id": "https://openalex.org/S4306421142",
+      "display_name": "Very Large Data Bases",
+      "works_count": 1232,
+      "type": "conference"
+    }
+  ],
+  "WWW": [
+    {
+      "id": "https://openalex.org/S4363608152",
+      "display_name": "Alternate track papers & posters of the 13th international conference on World Wide Web - WWW Alt. '04",
+      "works_count": 0,
+      "type": "conference"
+    }
+  ]
+}

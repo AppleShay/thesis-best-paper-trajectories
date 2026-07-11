@@ -1,0 +1,513 @@
+conference,year,title,contents_url
+aaai,2000,"Proceedings of the Seventeenth National Conference on Artificial Intelligence and Twelfth Conference on on Innovative Applications of Artificial Intelligence, July 30 - August 3, 2000, Austin, Texas, USA.",https://dblp.org/db/conf/aaai/aaai2000.html
+aaai,2002,"Proceedings of the Eighteenth National Conference on Artificial Intelligence and Fourteenth Conference on Innovative Applications of Artificial Intelligence, July 28 - August 1, 2002, Edmonton, Alberta, Canada.",https://dblp.org/db/conf/aaai/aaai2002.html
+aaai,2004,"Proceedings of the Nineteenth National Conference on Artificial Intelligence, Sixteenth Conference on Innovative Applications of Artificial Intelligence, July 25-29, 2004, San Jose, California, USA.",https://dblp.org/db/conf/aaai/aaai2004.html
+aaai,2005,"Proceedings, The Twentieth National Conference on Artificial Intelligence and the Seventeenth Innovative Applications of Artificial Intelligence Conference, July 9-13, 2005, Pittsburgh, Pennsylvania, USA.",https://dblp.org/db/conf/aaai/aaai2005.html
+aaai,2006,"Proceedings, The Twenty-First National Conference on Artificial Intelligence and the Eighteenth Innovative Applications of Artificial Intelligence Conference, July 16-20, 2006, Boston, Massachusetts, USA.",https://dblp.org/db/conf/aaai/aaai2006.html
+aaai,2007,"Proceedings of the Twenty-Second AAAI Conference on Artificial Intelligence, July 22-26, 2007, Vancouver, British Columbia, Canada.",https://dblp.org/db/conf/aaai/aaai2007.html
+aaai,2008,"Proceedings of the Twenty-Third AAAI Conference on Artificial Intelligence, AAAI 2008, Chicago, Illinois, USA, July 13-17, 2008.",https://dblp.org/db/conf/aaai/aaai2008.html
+aaai,2010,"Proceedings of the Twenty-Fourth AAAI Conference on Artificial Intelligence, AAAI 2010, Atlanta, Georgia, USA, July 11-15, 2010.",https://dblp.org/db/conf/aaai/aaai2010.html
+aaai,2011,"Proceedings of the Twenty-Fifth AAAI Conference on Artificial Intelligence, AAAI 2011, San Francisco, California, USA, August 7-11, 2011.",https://dblp.org/db/conf/aaai/aaai2011.html
+aaai,2012,"Proceedings of the Twenty-Sixth AAAI Conference on Artificial Intelligence, July 22-26, 2012, Toronto, Ontario, Canada.",https://dblp.org/db/conf/aaai/aaai2012.html
+aaai,2013,"Proceedings of the Twenty-Seventh AAAI Conference on Artificial Intelligence, July 14-18, 2013, Bellevue, Washington, USA.",https://dblp.org/db/conf/aaai/aaai2013.html
+aaai,2014,"Proceedings of the Twenty-Eighth AAAI Conference on Artificial Intelligence, July 27 -31, 2014, Québec City, Québec, Canada.",https://dblp.org/db/conf/aaai/aaai2014.html
+aaai,2015,"Proceedings of the Twenty-Ninth AAAI Conference on Artificial Intelligence, January 25-30, 2015, Austin, Texas, USA.",https://dblp.org/db/conf/aaai/aaai2015.html
+aaai,2016,"Proceedings of the Thirtieth AAAI Conference on Artificial Intelligence, February 12-17, 2016, Phoenix, Arizona, USA.",https://dblp.org/db/conf/aaai/aaai2016.html
+aaai,2017,"Proceedings of the Thirty-First AAAI Conference on Artificial Intelligence, February 4-9, 2017, San Francisco, California, USA.",https://dblp.org/db/conf/aaai/aaai2017.html
+aaai,2018,"Proceedings of the Thirty-Second AAAI Conference on Artificial Intelligence, (AAAI-18), the 30th innovative Applications of Artificial Intelligence (IAAI-18), and the 8th AAAI Symposium on Educational Advances in Artificial Intelligence (EAAI-18), New Orleans, Louisiana, USA, February 2-7, 2018.",https://dblp.org/db/conf/aaai/aaai2018.html
+acl,2000,"38th Annual Meeting of the Association for Computational Linguistics, Hong Kong, China, October 1-8, 2000.",https://dblp.org/db/conf/acl/acl2000.html
+acl,2001,"Association for Computational Linguistic, 39th Annual Meeting and 10th Conference of the European Chapter, Proceedings of the Conference, July 9-11, 2001, Toulouse, France.",https://dblp.org/db/conf/acl/acl2001.html
+acl,2002,"Proceedings of the 40th Annual Meeting of the Association for Computational Linguistics, July 6-12, 2002, Philadelphia, PA, USA.",https://dblp.org/db/conf/acl/acl2002.html
+acl,2003,"Proceedings of the 41st Annual Meeting of the Association for Computational Linguistics, 7-12 July 2003, Sapporo Convention Center, Sapporo, Japan.",https://dblp.org/db/conf/acl/acl2003.html
+acl,2004,"Proceedings of the 42nd Annual Meeting of the Association for Computational Linguistics, 21-26 July, 2004, Barcelona, Spain.",https://dblp.org/db/conf/acl/acl2004.html
+acl,2005,"ACL 2005, 43rd Annual Meeting of the Association for Computational Linguistics, Proceedings of the Conference, 25-30 June 2005, University of Michigan, USA.",https://dblp.org/db/conf/acl/acl2005.html
+acl,2006,"ACL 2006, 21st International Conference on Computational Linguistics and 44th Annual Meeting of the Association for Computational Linguistics, Proceedings of the Conference, Sydney, Australia, 17-21 July 2006.",https://dblp.org/db/conf/acl/acl2006.html
+acl,2007,"ACL 2007, Proceedings of the 45th Annual Meeting of the Association for Computational Linguistics, June 23-30, 2007, Prague, Czech Republic.",https://dblp.org/db/conf/acl/acl2007.html
+acl,2008,"ACL 2008, Proceedings of the 46th Annual Meeting of the Association for Computational Linguistics, June 15-20, 2008, Columbus, Ohio, USA.",https://dblp.org/db/conf/acl/acl2008.html
+acl,2009,"ACL 2009, Proceedings of the 47th Annual Meeting of the Association for Computational Linguistics and the 4th International Joint Conference on Natural Language Processing of the AFNLP, 2-7 August 2009, Singapore.",https://dblp.org/db/conf/acl/acl2009.html
+acl,2010,"ACL 2010, Proceedings of the 48th Annual Meeting of the Association for Computational Linguistics, July 11-16, 2010, Uppsala, Sweden.",https://dblp.org/db/conf/acl/acl2010.html
+acl,2011,"The 49th Annual Meeting of the Association for Computational Linguistics: Human Language Technologies, Proceedings of the Conference, 19-24 June, 2011, Portland, Oregon, USA.",https://dblp.org/db/conf/acl/acl2011.html
+acl,2012,"The 50th Annual Meeting of the Association for Computational Linguistics, Proceedings of the Conference, July 8-14, 2012, Jeju Island, Korea - Volume 1: Long Papers.",https://dblp.org/db/conf/acl/acl2012-1.html
+acl,2013,"Proceedings of the 51st Annual Meeting of the Association for Computational Linguistics, ACL 2013, 4-9 August 2013, Sofia, Bulgaria, Volume 1: Long Papers.",https://dblp.org/db/conf/acl/acl2013-1.html
+acl,2014,"Proceedings of the 52nd Annual Meeting of the Association for Computational Linguistics, ACL 2014, June 22-27, 2014, Baltimore, MD, USA, Volume 1: Long Papers.",https://dblp.org/db/conf/acl/acl2014-1.html
+acl,2015,"Proceedings of the 53rd Annual Meeting of the Association for Computational Linguistics and the 7th International Joint Conference on Natural Language Processing of the Asian Federation of Natural Language Processing, ACL 2015, July 26-31, 2015, Beijing, China, Volume 1: Long Papers.",https://dblp.org/db/conf/acl/acl2015-1.html
+acl,2016,"Proceedings of the 54th Annual Meeting of the Association for Computational Linguistics, ACL 2016, August 7-12, 2016, Berlin, Germany, Volume 1: Long Papers.",https://dblp.org/db/conf/acl/acl2016-1.html
+acl,2017,"Proceedings of the 55th Annual Meeting of the Association for Computational Linguistics, ACL 2017, Vancouver, Canada, July 30 - August 4, Volume 1: Long Papers.",https://dblp.org/db/conf/acl/acl2017-1.html
+acl,2018,"Proceedings of the 56th Annual Meeting of the Association for Computational Linguistics, ACL 2018, Melbourne, Australia, July 15-20, 2018, Volume 1: Long Papers.",https://dblp.org/db/conf/acl/acl2018-1.html
+chi,2000,"Proceedings of the CHI 2000 Conference on Human factors in computing systems, The Hague, The Netherlands, April 1-6, 2000.",https://dblp.org/db/conf/chi/chi2000.html
+chi,2001,"Proceedings of the CHI 2001 Conference on Human Factors in Computing Systems, Seattle, WA, USA, March 31 - April 5, 2001.",https://dblp.org/db/conf/chi/chi2001.html
+chi,2002,"Proceedings of the CHI 2002 Conference on Human Factors in Computing Systems: Changing our World, Changing ourselves, Minneapolis, Minnesota, USA, April 20-25, 2002.",https://dblp.org/db/conf/chi/chi2002.html
+chi,2003,"Proceedings of the 2003 Conference on Human Factors in Computing Systems, CHI 2003, Ft. Lauderdale, Florida, USA, April 5-10, 2003.",https://dblp.org/db/conf/chi/chi2003.html
+chi,2004,"Proceedings of the 2004 Conference on Human Factors in Computing Systems, CHI 2004, Vienna, Austria, April 24 - 29, 2004.",https://dblp.org/db/conf/chi/chi2004.html
+chi,2005,"Proceedings of the 2005 Conference on Human Factors in Computing Systems, CHI 2005, Portland, Oregon, USA, April 2-7, 2005.",https://dblp.org/db/conf/chi/chi2005.html
+chi,2006,"Proceedings of the 2006 Conference on Human Factors in Computing Systems, CHI 2006, Montréal, Québec, Canada, April 22-27, 2006.",https://dblp.org/db/conf/chi/chi2006.html
+chi,2007,"Proceedings of the 2007 Conference on Human Factors in Computing Systems, CHI 2007, San Jose, California, USA, April 28 - May 3, 2007.",https://dblp.org/db/conf/chi/chi2007.html
+chi,2008,"Proceedings of the 2008 Conference on Human Factors in Computing Systems, CHI 2008, 2008, Florence, Italy, April 5-10, 2008.",https://dblp.org/db/conf/chi/chi2008.html
+chi,2009,"Proceedings of the 27th International Conference on Human Factors in Computing Systems, CHI 2009, Boston, MA, USA, April 4-9, 2009.",https://dblp.org/db/conf/chi/chi2009.html
+chi,2010,"Proceedings of the 28th International Conference on Human Factors in Computing Systems, CHI 2010, Atlanta, Georgia, USA, April 10-15, 2010.",https://dblp.org/db/conf/chi/chi2010.html
+chi,2011,"Proceedings of the International Conference on Human Factors in Computing Systems, CHI 2011, Vancouver, BC, Canada, May 7-12, 2011.",https://dblp.org/db/conf/chi/chi2011.html
+chi,2012,"CHI Conference on Human Factors in Computing Systems, CHI '12, Austin, TX, USA - May 05 - 10, 2012.",https://dblp.org/db/conf/chi/chi2012.html
+chi,2013,"2013 ACM SIGCHI Conference on Human Factors in Computing Systems, CHI '13, Paris, France, April 27 - May 2, 2013.",https://dblp.org/db/conf/chi/chi2013.html
+chi,2014,"CHI Conference on Human Factors in Computing Systems, CHI'14, Toronto, ON, Canada - April 26 - May 01, 2014.",https://dblp.org/db/conf/chi/chi2014.html
+chi,2015,"Proceedings of the 33rd Annual ACM Conference on Human Factors in Computing Systems, CHI 2015, Seoul, Republic of Korea, April 18-23, 2015.",https://dblp.org/db/conf/chi/chi2015.html
+chi,2016,"Proceedings of the 2016 CHI Conference on Human Factors in Computing Systems, San Jose, CA, USA, May 7-12, 2016.",https://dblp.org/db/conf/chi/chi2016.html
+chi,2017,"Proceedings of the 2017 CHI Conference on Human Factors in Computing Systems, Denver, CO, USA, May 06-11, 2017.",https://dblp.org/db/conf/chi/chi2017.html
+chi,2018,"Proceedings of the 2018 CHI Conference on Human Factors in Computing Systems, CHI 2018, Montreal, QC, Canada, April 21-26, 2018.",https://dblp.org/db/conf/chi/chi2018.html
+cikm,2001,"Proceedings of the 2001 ACM CIKM International Conference on Information and Knowledge Management, Atlanta, Georgia, USA, November 5-10, 2001.",https://dblp.org/db/conf/cikm/cikm2001.html
+cikm,2002,"Proceedings of the 2002 ACM CIKM International Conference on Information and Knowledge Management, McLean, VA, USA, November 4-9, 2002.",https://dblp.org/db/conf/cikm/cikm2002.html
+cikm,2003,"Proceedings of the 2003 ACM CIKM International Conference on Information and Knowledge Management, New Orleans, Louisiana, USA, November 2-8, 2003.",https://dblp.org/db/conf/cikm/cikm2003.html
+cikm,2004,"Proceedings of the 2004 ACM CIKM International Conference on Information and Knowledge Management, Washington, DC, USA, November 8-13, 2004.",https://dblp.org/db/conf/cikm/cikm2004.html
+cikm,2005,"Proceedings of the 2005 ACM CIKM International Conference on Information and Knowledge Management, Bremen, Germany, October 31 - November 5, 2005.",https://dblp.org/db/conf/cikm/cikm2005.html
+cikm,2006,"Proceedings of the 2006 ACM CIKM International Conference on Information and Knowledge Management, Arlington, Virginia, USA, November 6-11, 2006.",https://dblp.org/db/conf/cikm/cikm2006.html
+cikm,2007,"Proceedings of the Sixteenth ACM Conference on Information and Knowledge Management, CIKM 2007, Lisbon, Portugal, November 6-10, 2007.",https://dblp.org/db/conf/cikm/cikm2007.html
+cikm,2008,"Proceedings of the 17th ACM Conference on Information and Knowledge Management, CIKM 2008, Napa Valley, California, USA, October 26-30, 2008.",https://dblp.org/db/conf/cikm/cikm2008.html
+cikm,2009,"Proceedings of the 18th ACM Conference on Information and Knowledge Management, CIKM 2009, Hong Kong, China, November 2-6, 2009.",https://dblp.org/db/conf/cikm/cikm2009.html
+cikm,2010,"Proceedings of the 19th ACM Conference on Information and Knowledge Management, CIKM 2010, Toronto, Ontario, Canada, October 26-30, 2010.",https://dblp.org/db/conf/cikm/cikm2010.html
+cikm,2011,"Proceedings of the 20th ACM Conference on Information and Knowledge Management, CIKM 2011, Glasgow, United Kingdom, October 24-28, 2011.",https://dblp.org/db/conf/cikm/cikm2011.html
+cikm,2012,"21st ACM International Conference on Information and Knowledge Management, CIKM'12, Maui, HI, USA, October 29 - November 02, 2012.",https://dblp.org/db/conf/cikm/cikm2012.html
+cikm,2013,"22nd ACM International Conference on Information and Knowledge Management, CIKM'13, San Francisco, CA, USA, October 27 - November 1, 2013.",https://dblp.org/db/conf/cikm/cikm2013.html
+cikm,2014,"Proceedings of the 23rd ACM International Conference on Conference on Information and Knowledge Management, CIKM 2014, Shanghai, China, November 3-7, 2014.",https://dblp.org/db/conf/cikm/cikm2014.html
+cikm,2015,"Proceedings of the 24th ACM International Conference on Information and Knowledge Management, CIKM 2015, Melbourne, VIC, Australia, October 19 - 23, 2015.",https://dblp.org/db/conf/cikm/cikm2015.html
+cikm,2016,"Proceedings of the 25th ACM International Conference on Information and Knowledge Management, CIKM 2016, Indianapolis, IN, USA, October 24-28, 2016.",https://dblp.org/db/conf/cikm/cikm2016.html
+cikm,2017,"Proceedings of the 2017 ACM on Conference on Information and Knowledge Management, CIKM 2017, Singapore, November 06 - 10, 2017.",https://dblp.org/db/conf/cikm/cikm2017.html
+cikm,2018,"Proceedings of the 27th ACM International Conference on Information and Knowledge Management, CIKM 2018, Torino, Italy, October 22-26, 2018.",https://dblp.org/db/conf/cikm/cikm2018.html
+cvpr,2000,"2000 Conference on Computer Vision and Pattern Recognition (CVPR 2000), 13-15 June 2000, Hilton Head, SC, USA.",https://dblp.org/db/conf/cvpr/cvpr2000.html
+cvpr,2001,"2001 IEEE Computer Society Conference on Computer Vision and Pattern Recognition (CVPR 2001), with CD-ROM, 8-14 December 2001, Kauai, HI, USA.",https://dblp.org/db/conf/cvpr/cvpr2001.html
+cvpr,2003,"2003 IEEE Computer Society Conference on Computer Vision and Pattern Recognition (CVPR 2003), 16-22 June 2003, Madison, WI, USA.",https://dblp.org/db/conf/cvpr/cvpr2003.html
+cvpr,2004,"2004 IEEE Computer Society Conference on Computer Vision and Pattern Recognition (CVPR 2004), with CD-ROM, 27 June - 2 July 2004, Washington, DC, USA.",https://dblp.org/db/conf/cvpr/cvpr2004.html
+cvpr,2005,"2005 IEEE Computer Society Conference on Computer Vision and Pattern Recognition (CVPR 2005), 20-26 June 2005, San Diego, CA, USA.",https://dblp.org/db/conf/cvpr/cvpr2005.html
+cvpr,2006,"2006 IEEE Computer Society Conference on Computer Vision and Pattern Recognition (CVPR 2006), 17-22 June 2006, New York, NY, USA.",https://dblp.org/db/conf/cvpr/cvpr2006.html
+cvpr,2007,"2007 IEEE Computer Society Conference on Computer Vision and Pattern Recognition (CVPR 2007), 18-23 June 2007, Minneapolis, Minnesota, USA.",https://dblp.org/db/conf/cvpr/cvpr2007.html
+cvpr,2008,"2008 IEEE Computer Society Conference on Computer Vision and Pattern Recognition (CVPR 2008), 24-26 June 2008, Anchorage, Alaska, USA.",https://dblp.org/db/conf/cvpr/cvpr2008.html
+cvpr,2009,"2009 IEEE Computer Society Conference on Computer Vision and Pattern Recognition (CVPR 2009), 20-25 June 2009, Miami, Florida, USA.",https://dblp.org/db/conf/cvpr/cvpr2009.html
+cvpr,2010,"The Twenty-Third IEEE Conference on Computer Vision and Pattern Recognition, CVPR 2010, San Francisco, CA, USA, 13-18 June 2010.",https://dblp.org/db/conf/cvpr/cvpr2010.html
+cvpr,2011,"The 24th IEEE Conference on Computer Vision and Pattern Recognition, CVPR 2011, Colorado Springs, CO, USA, 20-25 June 2011.",https://dblp.org/db/conf/cvpr/cvpr2011.html
+cvpr,2012,"2012 IEEE Conference on Computer Vision and Pattern Recognition, Providence, RI, USA, June 16-21, 2012.",https://dblp.org/db/conf/cvpr/cvpr2012.html
+cvpr,2013,"2013 IEEE Conference on Computer Vision and Pattern Recognition, Portland, OR, USA, June 23-28, 2013.",https://dblp.org/db/conf/cvpr/cvpr2013.html
+cvpr,2014,"2014 IEEE Conference on Computer Vision and Pattern Recognition, CVPR 2014, Columbus, OH, USA, June 23-28, 2014.",https://dblp.org/db/conf/cvpr/cvpr2014.html
+cvpr,2015,"IEEE Conference on Computer Vision and Pattern Recognition, CVPR 2015, Boston, MA, USA, June 7-12, 2015.",https://dblp.org/db/conf/cvpr/cvpr2015.html
+cvpr,2016,"2016 IEEE Conference on Computer Vision and Pattern Recognition, CVPR 2016, Las Vegas, NV, USA, June 27-30, 2016.",https://dblp.org/db/conf/cvpr/cvpr2016.html
+cvpr,2017,"2017 IEEE Conference on Computer Vision and Pattern Recognition, CVPR 2017, Honolulu, HI, USA, July 21-26, 2017.",https://dblp.org/db/conf/cvpr/cvpr2017.html
+cvpr,2018,"2018 IEEE Conference on Computer Vision and Pattern Recognition, CVPR 2018, Salt Lake City, UT, USA, June 18-22, 2018.",https://dblp.org/db/conf/cvpr/cvpr2018.html
+focs,2000,"41st Annual Symposium on Foundations of Computer Science, FOCS 2000, Redondo Beach, California, USA, November 12-14, 2000.",https://dblp.org/db/conf/focs/focs2000.html
+focs,2001,"42nd Annual Symposium on Foundations of Computer Science, FOCS 2001, Las Vegas, Nevada, USA, October 14-17, 2001.",https://dblp.org/db/conf/focs/focs2001.html
+focs,2002,"43rd Symposium on Foundations of Computer Science, FOCS 2002, Vancouver, BC, Canada, November 16-19, 2002, Proceedings.",https://dblp.org/db/conf/focs/focs2002.html
+focs,2003,"44th Symposium on Foundations of Computer Science, FOCS 2003, Cambridge, MA, USA, October 11-14, 2003, Proceedings.",https://dblp.org/db/conf/focs/focs2003.html
+focs,2004,"45th Symposium on Foundations of Computer Science, FOCS 2004, Rome, Italy, October 17-19, 2004, Proceedings.",https://dblp.org/db/conf/focs/focs2004.html
+focs,2005,"46th Annual IEEE Symposium on Foundations of Computer Science, FOCS 2005, Pittsburgh, PA, USA, October 23-25, 2005, Proceedings.",https://dblp.org/db/conf/focs/focs2005.html
+focs,2006,"47th Annual IEEE Symposium on Foundations of Computer Science, FOCS 2006, Berkeley, California, USA, October 21-24, 2006, Proceedings.",https://dblp.org/db/conf/focs/focs2006.html
+focs,2007,"48th Annual IEEE Symposium on Foundations of Computer Science, FOCS 2007, Providence, RI, USA, October 20-23, 2007, Proceedings.",https://dblp.org/db/conf/focs/focs2007.html
+focs,2008,"49th Annual IEEE Symposium on Foundations of Computer Science, FOCS 2008, Philadelphia, PA, USA, October 25-28, 2008.",https://dblp.org/db/conf/focs/focs2008.html
+focs,2009,"50th Annual IEEE Symposium on Foundations of Computer Science, FOCS 2009, Atlanta, Georgia, USA, October 25-27, 2009.",https://dblp.org/db/conf/focs/focs2009.html
+focs,2010,"51th Annual IEEE Symposium on Foundations of Computer Science, FOCS 2010, Las Vegas, Nevada, USA, October 23-26, 2010.",https://dblp.org/db/conf/focs/focs2010.html
+focs,2011,"IEEE 52nd Annual Symposium on Foundations of Computer Science, FOCS 2011, Palm Springs, CA, USA, October 22-25, 2011.",https://dblp.org/db/conf/focs/focs2011.html
+focs,2012,"53rd Annual IEEE Symposium on Foundations of Computer Science, FOCS 2012, New Brunswick, NJ, USA, October 20-23, 2012.",https://dblp.org/db/conf/focs/focs2012.html
+focs,2013,"54th Annual IEEE Symposium on Foundations of Computer Science, FOCS 2013, Berkeley, CA, USA, October, 26-29, 2013.",https://dblp.org/db/conf/focs/focs2013.html
+focs,2014,"55th IEEE Annual Symposium on Foundations of Computer Science, FOCS 2014, Philadelphia, PA, USA, October 18-21, 2014.",https://dblp.org/db/conf/focs/focs2014.html
+focs,2015,"IEEE 56th Annual Symposium on Foundations of Computer Science, FOCS 2015, Berkeley, CA, USA, 17-20 October, 2015.",https://dblp.org/db/conf/focs/focs2015.html
+focs,2016,"IEEE 57th Annual Symposium on Foundations of Computer Science, FOCS 2016, Hyatt Regency, New Brunswick, New Jersey, USA, October 9-11, 2016.",https://dblp.org/db/conf/focs/focs2016.html
+focs,2017,"58th IEEE Annual Symposium on Foundations of Computer Science, FOCS 2017, Berkeley, CA, USA, October 15-17, 2017.",https://dblp.org/db/conf/focs/focs2017.html
+focs,2018,"59th IEEE Annual Symposium on Foundations of Computer Science, FOCS 2018, Paris, France, October 7-9, 2018.",https://dblp.org/db/conf/focs/focs2018.html
+fse,2016,"Fast Software Encryption - 23rd International Conference, FSE 2016, Bochum, Germany, March 20-23, 2016, Revised Selected Papers.",https://dblp.org/db/conf/fse/fse2016.html
+fse,2017,"Fast Software Encryption - 23rd International Conference, FSE 2016, Bochum, Germany, March 20-23, 2016, Revised Selected Papers.",https://dblp.org/db/conf/fse/fse2016.html
+iccv,2001,"Proceedings of the Eighth International Conference On Computer Vision (ICCV-01), Vancouver, British Columbia, Canada, July 7-14, 2001 - Volume 1.",https://dblp.org/db/conf/iccv/iccv2001-1.html
+iccv,2003,"9th IEEE International Conference on Computer Vision (ICCV 2003), 14-17 October 2003, Nice, France.",https://dblp.org/db/conf/iccv/iccv2003.html
+iccv,2005,"10th IEEE International Conference on Computer Vision (ICCV 2005), 17-20 October 2005, Beijing, China.",https://dblp.org/db/conf/iccv/iccv2005.html
+iccv,2007,"IEEE 11th International Conference on Computer Vision, ICCV 2007, Rio de Janeiro, Brazil, October 14-20, 2007.",https://dblp.org/db/conf/iccv/iccv2007.html
+iccv,2009,"IEEE 12th International Conference on Computer Vision, ICCV 2009, Kyoto, Japan, September 27 - October 4, 2009.",https://dblp.org/db/conf/iccv/iccv2009.html
+iccv,2011,"IEEE International Conference on Computer Vision, ICCV 2011, Barcelona, Spain, November 6-13, 2011.",https://dblp.org/db/conf/iccv/iccv2011.html
+iccv,2013,"IEEE International Conference on Computer Vision, ICCV 2013, Sydney, Australia, December 1-8, 2013.",https://dblp.org/db/conf/iccv/iccv2013.html
+iccv,2015,"2015 IEEE International Conference on Computer Vision, ICCV 2015, Santiago, Chile, December 7-13, 2015.",https://dblp.org/db/conf/iccv/iccv2015.html
+iccv,2017,"IEEE International Conference on Computer Vision, ICCV 2017, Venice, Italy, October 22-29, 2017.",https://dblp.org/db/conf/iccv/iccv2017.html
+icml,2000,"Proceedings of the Seventeenth International Conference on Machine Learning (ICML 2000), Stanford University, Stanford, CA, USA, June 29 - July 2, 2000.",https://dblp.org/db/conf/icml/icml2000.html
+icml,2001,"Proceedings of the Eighteenth International Conference on Machine Learning (ICML 2001), Williams College, Williamstown, MA, USA, June 28 - July 1, 2001.",https://dblp.org/db/conf/icml/icml2001.html
+icml,2002,"Machine Learning, Proceedings of the Nineteenth International Conference (ICML 2002), University of New South Wales, Sydney, Australia, July 8-12, 2002.",https://dblp.org/db/conf/icml/icml2002.html
+icml,2003,"Machine Learning, Proceedings of the Twentieth International Conference (ICML 2003), August 21-24, 2003, Washington, DC, USA.",https://dblp.org/db/conf/icml/icml2003.html
+icml,2004,"Machine Learning, Proceedings of the Twenty-first International Conference (ICML 2004), Banff, Alberta, Canada, July 4-8, 2004.",https://dblp.org/db/conf/icml/icml2004.html
+icml,2005,"Machine Learning, Proceedings of the Twenty-Second International Conference (ICML 2005), Bonn, Germany, August 7-11, 2005.",https://dblp.org/db/conf/icml/icml2005.html
+icml,2006,"Machine Learning, Proceedings of the Twenty-Third International Conference (ICML 2006), Pittsburgh, Pennsylvania, USA, June 25-29, 2006.",https://dblp.org/db/conf/icml/icml2006.html
+icml,2007,"Machine Learning, Proceedings of the Twenty-Fourth International Conference (ICML 2007), Corvallis, Oregon, USA, June 20-24, 2007.",https://dblp.org/db/conf/icml/icml2007.html
+icml,2008,"Machine Learning, Proceedings of the Twenty-Fifth International Conference (ICML 2008), Helsinki, Finland, June 5-9, 2008.",https://dblp.org/db/conf/icml/icml2008.html
+icml,2009,"Proceedings of the 26th Annual International Conference on Machine Learning, ICML 2009, Montreal, Quebec, Canada, June 14-18, 2009.",https://dblp.org/db/conf/icml/icml2009.html
+icml,2010,"Proceedings of the 27th International Conference on Machine Learning (ICML-10), June 21-24, 2010, Haifa, Israel.",https://dblp.org/db/conf/icml/icml2010.html
+icml,2011,"Proceedings of the 28th International Conference on Machine Learning, ICML 2011, Bellevue, Washington, USA, June 28 - July 2, 2011.",https://dblp.org/db/conf/icml/icml2011.html
+icml,2012,"Proceedings of the 29th International Conference on Machine Learning, ICML 2012, Edinburgh, Scotland, UK, June 26 - July 1, 2012.",https://dblp.org/db/conf/icml/icml2012.html
+icml,2013,"Proceedings of the 30th International Conference on Machine Learning, ICML 2013, Atlanta, GA, USA, 16-21 June 2013.",https://dblp.org/db/conf/icml/icml2013.html
+icml,2014,"Proceedings of the 31th International Conference on Machine Learning, ICML 2014, Beijing, China, 21-26 June 2014.",https://dblp.org/db/conf/icml/icml2014.html
+icml,2015,"Proceedings of the 32nd International Conference on Machine Learning, ICML 2015, Lille, France, 6-11 July 2015.",https://dblp.org/db/conf/icml/icml2015.html
+icml,2016,"Proceedings of the 33nd International Conference on Machine Learning, ICML 2016, New York City, NY, USA, June 19-24, 2016.",https://dblp.org/db/conf/icml/icml2016.html
+icml,2017,"Proceedings of the 34th International Conference on Machine Learning, ICML 2017, Sydney, NSW, Australia, 6-11 August 2017.",https://dblp.org/db/conf/icml/icml2017.html
+icml,2018,"Proceedings of the 35th International Conference on Machine Learning, ICML 2018, Stockholmsmässan, Stockholm, Sweden, July 10-15, 2018.",https://dblp.org/db/conf/icml/icml2018.html
+icse,2000,"Proceedings of the 22nd International Conference on on Software Engineering, ICSE 2000, Limerick Ireland, June 4-11, 2000.",https://dblp.org/db/conf/icse/icse2000.html
+icse,2001,"Proceedings of the 23rd International Conference on Software Engineering, ICSE 2001, 12-19 May 2001, Toronto, Ontario, Canada.",https://dblp.org/db/conf/icse/icse2001.html
+icse,2002,"Proceedings of the 24th International Conference on Software Engineering, ICSE 2002, 19-25 May 2002, Orlando, Florida, USA.",https://dblp.org/db/conf/icse/icse2002.html
+icse,2003,"Proceedings of the 25th International Conference on Software Engineering, May 3-10, 2003, Portland, Oregon, USA.",https://dblp.org/db/conf/icse/icse2003.html
+icse,2004,"26th International Conference on Software Engineering (ICSE 2004), 23-28 May 2004, Edinburgh, United Kingdom.",https://dblp.org/db/conf/icse/icse2004.html
+icse,2005,"27th International Conference on Software Engineering (ICSE 2005), 15-21 May 2005, St. Louis, Missouri, USA.",https://dblp.org/db/conf/icse/icse2005.html
+icse,2006,"28th International Conference on Software Engineering (ICSE 2006), Shanghai, China, May 20-28, 2006.",https://dblp.org/db/conf/icse/icse2006.html
+icse,2007,"29th International Conference on Software Engineering (ICSE 2007), Minneapolis, MN, USA, May 20-26, 2007.",https://dblp.org/db/conf/icse/icse2007.html
+icse,2008,"30th International Conference on Software Engineering (ICSE 2008), Leipzig, Germany, May 10-18, 2008.",https://dblp.org/db/conf/icse/icse2008.html
+icse,2009,"31st International Conference on Software Engineering, ICSE 2009, May 16-24, 2009, Vancouver, Canada, Proceedings.",https://dblp.org/db/conf/icse/icse2009.html
+icse,2010,"Proceedings of the 32nd ACM/IEEE International Conference on Software Engineering - Volume 1, ICSE 2010, Cape Town, South Africa, 1-8 May 2010.",https://dblp.org/db/conf/icse/icse2010-1.html
+icse,2011,"Proceedings of the 33rd International Conference on Software Engineering, ICSE 2011, Waikiki, Honolulu , HI, USA, May 21-28, 2011.",https://dblp.org/db/conf/icse/icse2011.html
+icse,2012,"34th International Conference on Software Engineering, ICSE 2012, June 2-9, 2012, Zurich, Switzerland.",https://dblp.org/db/conf/icse/icse2012.html
+icse,2013,"35th International Conference on Software Engineering, ICSE '13, San Francisco, CA, USA, May 18-26, 2013.",https://dblp.org/db/conf/icse/icse2013.html
+icse,2014,"36th International Conference on Software Engineering, ICSE '14, Hyderabad, India - May 31 - June 07, 2014.",https://dblp.org/db/conf/icse/icse2014.html
+icse,2015,"37th IEEE/ACM International Conference on Software Engineering, ICSE 2015, Florence, Italy, May 16-24, 2015, Volume 1.",https://dblp.org/db/conf/icse/icse2015-1.html
+icse,2016,"Proceedings of the 38th International Conference on Software Engineering, ICSE 2016, Austin, TX, USA, May 14-22, 2016.",https://dblp.org/db/conf/icse/icse2016.html
+icse,2017,"Proceedings of the 39th International Conference on Software Engineering, ICSE 2017, Buenos Aires, Argentina, May 20-28, 2017.",https://dblp.org/db/conf/icse/icse2017.html
+icse,2018,"Proceedings of the 40th International Conference on Software Engineering, ICSE 2018, Gothenburg, Sweden, May 27 - June 03, 2018.",https://dblp.org/db/conf/icse/icse2018.html
+icwsm,2007,"Proceedings of the First International Conference on Weblogs and Social Media, ICWSM 2007, Boulder, Colorado, USA, March 26-28, 2007.",https://dblp.org/db/conf/icwsm/icwsm2007.html
+icwsm,2008,"Proceedings of the Second International Conference on Weblogs and Social Media, ICWSM 2008, Seattle, Washington, USA, March 30 - April 2, 2008.",https://dblp.org/db/conf/icwsm/icwsm2008.html
+icwsm,2009,"Proceedings of the Third International Conference on Weblogs and Social Media, ICWSM 2009, San Jose, California, USA, May 17-20, 2009.",https://dblp.org/db/conf/icwsm/icwsm2009.html
+icwsm,2010,"Proceedings of the Fourth International Conference on Weblogs and Social Media, ICWSM 2010, Washington, DC, USA, May 23-26, 2010.",https://dblp.org/db/conf/icwsm/icwsm2010.html
+icwsm,2011,"Proceedings of the Fifth International Conference on Weblogs and Social Media, Barcelona, Catalonia, Spain, July 17-21, 2011.",https://dblp.org/db/conf/icwsm/icwsm2011.html
+icwsm,2012,"Proceedings of the Sixth International Conference on Weblogs and Social Media, Dublin, Ireland, June 4-7, 2012.",https://dblp.org/db/conf/icwsm/icwsm2012.html
+icwsm,2013,"Proceedings of the Seventh International Conference on Weblogs and Social Media, ICWSM 2013, Cambridge, Massachusetts, USA, July 8-11, 2013.",https://dblp.org/db/conf/icwsm/icwsm2013.html
+icwsm,2014,"Proceedings of the Eighth International Conference on Weblogs and Social Media, ICWSM 2014, Ann Arbor, Michigan, USA, June 1-4, 2014.",https://dblp.org/db/conf/icwsm/icwsm2014.html
+icwsm,2015,"Proceedings of the Ninth International Conference on Web and Social Media, ICWSM 2015, University of Oxford, Oxford, UK, May 26-29, 2015.",https://dblp.org/db/conf/icwsm/icwsm2015.html
+icwsm,2016,"Proceedings of the Tenth International Conference on Web and Social Media, Cologne, Germany, May 17-20, 2016.",https://dblp.org/db/conf/icwsm/icwsm2016.html
+icwsm,2017,"Proceedings of the Eleventh International Conference on Web and Social Media, ICWSM 2017, Montréal, Québec, Canada, May 15-18, 2017.",https://dblp.org/db/conf/icwsm/icwsm2017.html
+icwsm,2018,"Proceedings of the Twelfth International Conference on Web and Social Media, ICWSM 2018, Stanford, California, USA, June 25-28, 2018.",https://dblp.org/db/conf/icwsm/icwsm2018.html
+ijcai,2001,"Proceedings of the Seventeenth International Joint Conference on Artificial Intelligence, IJCAI 2001, Seattle, Washington, USA, August 4-10, 2001.",https://dblp.org/db/conf/ijcai/ijcai2001.html
+ijcai,2003,"IJCAI-03, Proceedings of the Eighteenth International Joint Conference on Artificial Intelligence, Acapulco, Mexico, August 9-15, 2003.",https://dblp.org/db/conf/ijcai/ijcai2003.html
+ijcai,2005,"IJCAI-05, Proceedings of the Nineteenth International Joint Conference on Artificial Intelligence, Edinburgh, Scotland, UK, July 30 - August 5, 2005.",https://dblp.org/db/conf/ijcai/ijcai2005.html
+ijcai,2007,"IJCAI 2007, Proceedings of the 20th International Joint Conference on Artificial Intelligence, Hyderabad, India, January 6-12, 2007.",https://dblp.org/db/conf/ijcai/ijcai2007.html
+ijcai,2009,"IJCAI 2009, Proceedings of the 21st International Joint Conference on Artificial Intelligence, Pasadena, California, USA, July 11-17, 2009.",https://dblp.org/db/conf/ijcai/ijcai2009.html
+ijcai,2011,"IJCAI 2011, Proceedings of the 22nd International Joint Conference on Artificial Intelligence, Barcelona, Catalonia, Spain, July 16-22, 2011.",https://dblp.org/db/conf/ijcai/ijcai2011.html
+ijcai,2013,"IJCAI 2013, Proceedings of the 23rd International Joint Conference on Artificial Intelligence, Beijing, China, August 3-9, 2013.",https://dblp.org/db/conf/ijcai/ijcai2013.html
+ijcai,2015,"Proceedings of the Twenty-Fourth International Joint Conference on Artificial Intelligence, IJCAI 2015, Buenos Aires, Argentina, July 25-31, 2015.",https://dblp.org/db/conf/ijcai/ijcai2015.html
+ijcai,2016,"Proceedings of the Twenty-Fifth International Joint Conference on Artificial Intelligence, IJCAI 2016, New York, NY, USA, 9-15 July 2016.",https://dblp.org/db/conf/ijcai/ijcai2016.html
+ijcai,2017,"Proceedings of the Twenty-Sixth International Joint Conference on Artificial Intelligence, IJCAI 2017, Melbourne, Australia, August 19-25, 2017.",https://dblp.org/db/conf/ijcai/ijcai2017.html
+ijcai,2018,"Proceedings of the Twenty-Seventh International Joint Conference on Artificial Intelligence, IJCAI 2018, July 13-19, 2018, Stockholm, Sweden.",https://dblp.org/db/conf/ijcai/ijcai2018.html
+infocom,2000,"Proceedings IEEE INFOCOM 2000, The Conference on Computer Communications, Nineteenth Annual Joint Conference of the IEEE Computer and Communications Societies, Reaching the Promised Land of Communications, Tel Aviv, Israel, March 26-30, 2000.",https://dblp.org/db/conf/infocom/infocom2000.html
+infocom,2001,"Proceedings IEEE INFOCOM 2001, The Conference on Computer Communications, Twentieth Annual Joint Conference of the IEEE Computer and Communications Societies, Twenty years into the communications odyssey, Anchorage, Alaska, USA, April 22-26, 2001.",https://dblp.org/db/conf/infocom/infocom2001.html
+infocom,2002,"Proceedings IEEE INFOCOM 2002, The 21st Annual Joint Conference of the IEEE Computer and Communications Societies, New York, USA, June 23-27, 2002.",https://dblp.org/db/conf/infocom/infocom2002.html
+infocom,2003,"Proceedings IEEE INFOCOM 2003, The 22nd Annual Joint Conference of the IEEE Computer and Communications Societies, San Franciso, CA, USA, March 30 - April 3, 2003.",https://dblp.org/db/conf/infocom/infocom2003.html
+infocom,2004,"Proceedings IEEE INFOCOM 2004, The 23rd Annual Joint Conference of the IEEE Computer and Communications Societies, Hong Kong, China, March 7-11, 2004.",https://dblp.org/db/conf/infocom/infocom2004.html
+infocom,2005,"INFOCOM 2005. 24th Annual Joint Conference of the IEEE Computer and Communications Societies, 13-17 March 2005, Miami, FL, USA.",https://dblp.org/db/conf/infocom/infocom2005.html
+infocom,2006,"INFOCOM 2006. 25th IEEE International Conference on Computer Communications, Joint Conference of the IEEE Computer and Communications Societies, 23-29 April 2006, Barcelona, Catalunya, Spain.",https://dblp.org/db/conf/infocom/infocom2006.html
+infocom,2007,"INFOCOM 2007. 26th IEEE International Conference on Computer Communications, Joint Conference of the IEEE Computer and Communications Societies, 6-12 May 2007, Anchorage, Alaska, USA.",https://dblp.org/db/conf/infocom/infocom2007.html
+infocom,2008,"INFOCOM 2008. 27th IEEE International Conference on Computer Communications, Joint Conference of the IEEE Computer and Communications Societies, 13-18 April 2008, Phoenix, AZ, USA.",https://dblp.org/db/conf/infocom/infocom2008.html
+infocom,2009,"INFOCOM 2009. 28th IEEE International Conference on Computer Communications, Joint Conference of the IEEE Computer and Communications Societies, 19-25 April 2009, Rio de Janeiro, Brazil.",https://dblp.org/db/conf/infocom/infocom2009.html
+infocom,2010,"INFOCOM 2010. 29th IEEE International Conference on Computer Communications, Joint Conference of the IEEE Computer and Communications Societies, 15-19 March 2010, San Diego, CA, USA.",https://dblp.org/db/conf/infocom/infocom2010.html
+infocom,2011,"INFOCOM 2011. 30th IEEE International Conference on Computer Communications, Joint Conference of the IEEE Computer and Communications Societies, 10-15 April 2011, Shanghai, China.",https://dblp.org/db/conf/infocom/infocom2011.html
+infocom,2012,"Proceedings of the IEEE INFOCOM 2012, Orlando, FL, USA, March 25-30, 2012.",https://dblp.org/db/conf/infocom/infocom2012.html
+infocom,2013,"Proceedings of the IEEE INFOCOM 2013, Turin, Italy, April 14-19, 2013.",https://dblp.org/db/conf/infocom/infocom2013.html
+infocom,2014,"2014 IEEE Conference on Computer Communications, INFOCOM 2014, Toronto, Canada, April 27 - May 2, 2014.",https://dblp.org/db/conf/infocom/infocom2014.html
+infocom,2015,"2015 IEEE Conference on Computer Communications, INFOCOM 2015, Kowloon, Hong Kong, April 26 - May 1, 2015.",https://dblp.org/db/conf/infocom/infocom2015.html
+infocom,2016,"35th Annual IEEE International Conference on Computer Communications, INFOCOM 2016, San Francisco, CA, USA, April 10-14, 2016.",https://dblp.org/db/conf/infocom/infocom2016.html
+infocom,2017,"2017 IEEE Conference on Computer Communications, INFOCOM 2017, Atlanta, GA, USA, May 1-4, 2017.",https://dblp.org/db/conf/infocom/infocom2017.html
+infocom,2018,"2018 IEEE Conference on Computer Communications, INFOCOM 2018, Honolulu, HI, USA, April 16-19, 2018.",https://dblp.org/db/conf/infocom/infocom2018.html
+jcdl,2001,"ACM/IEEE Joint Conference on Digital Libraries, JCDL 2001, Roanoke, Virginia, USA, June 24-28, 2001, Proceedings.",https://dblp.org/db/conf/jcdl/jcdl2001.html
+jcdl,2002,"ACM/IEEE Joint Conference on Digital Libraries, JCDL 2002, Portland, Oregon, USA, June 14-18, 2002, Proceedings.",https://dblp.org/db/conf/jcdl/jcdl2002.html
+jcdl,2003,"ACM/IEEE 2003 Joint Conference on Digital Libraries (JCDL 2003), 27-31 May 2003, Houston, Texas, USA, Proceedings.",https://dblp.org/db/conf/jcdl/jcdl2003.html
+jcdl,2004,"ACM/IEEE Joint Conference on Digital Libraries, JCDL 2004, Tucson, AZ, USA, June 7-11, 2004, Proceedings.",https://dblp.org/db/conf/jcdl/jcdl2004.html
+jcdl,2005,"ACM/IEEE Joint Conference on Digital Libraries, JCDL 2005, Denver, CO, USA, June 7-11, 2005, Proceedings.",https://dblp.org/db/conf/jcdl/jcdl2005.html
+jcdl,2006,"ACM/IEEE Joint Conference on Digital Libraries, JCDL 2006, Chapel Hill, NC, USA, June 11-15, 2006, Proceedings.",https://dblp.org/db/conf/jcdl/jcdl2006.html
+jcdl,2007,"ACM/IEEE Joint Conference on Digital Libraries, JCDL 2007, Vancouver, BC, Canada, June 18-23, 2007, Proceedings.",https://dblp.org/db/conf/jcdl/jcdl2007.html
+jcdl,2008,"ACM/IEEE Joint Conference on Digital Libraries, JCDL 2008, Pittsburgh, PA, USA, June 16-20, 2008.",https://dblp.org/db/conf/jcdl/jcdl2008.html
+jcdl,2009,"Proceedings of the 2009 Joint International Conference on Digital Libraries, JCDL 2009, Austin, TX, USA, June 15-19, 2009.",https://dblp.org/db/conf/jcdl/jcdl2009.html
+jcdl,2010,"Proceedings of the 2010 Joint International Conference on Digital Libraries, JCDL 2010, Gold Coast, Queensland, Australia, June 21-25, 2010.",https://dblp.org/db/conf/jcdl/jcdl2010.html
+jcdl,2011,"Proceedings of the 2011 Joint International Conference on Digital Libraries, JCDL 2011, Ottawa, ON, Canada, June 13-17, 2011.",https://dblp.org/db/conf/jcdl/jcdl2011.html
+jcdl,2012,"Proceedings of the 12th ACM/IEEE-CS Joint Conference on Digital Libraries, JCDL '12, Washington, DC, USA, June 10-14, 2012.",https://dblp.org/db/conf/jcdl/jcdl2012.html
+jcdl,2013,"13th ACM/IEEE-CS Joint Conference on Digital Libraries, JCDL '13, Indianapolis, IN, USA, July 22 - 26, 2013.",https://dblp.org/db/conf/jcdl/jcdl2013.html
+jcdl,2014,"IEEE/ACM Joint Conference on Digital Libraries, JCDL 2014, London, United Kingdom, September 8-12, 2014.",https://dblp.org/db/conf/jcdl/jcdl2014.html
+jcdl,2015,"Proceedings of the 15th ACM/IEEE-CE Joint Conference on Digital Libraries, Knoxville, TN, USA, June 21-25, 2015.",https://dblp.org/db/conf/jcdl/jcdl2015.html
+jcdl,2016,"Proceedings of the 16th ACM/IEEE-CS on Joint Conference on Digital Libraries, JCDL 2016, Newark, NJ, USA, June 19 - 23, 2016.",https://dblp.org/db/conf/jcdl/jcdl2016.html
+jcdl,2017,"2017 ACM/IEEE Joint Conference on Digital Libraries, JCDL 2017, Toronto, ON, Canada, June 19-23, 2017.",https://dblp.org/db/conf/jcdl/jcdl2017.html
+jcdl,2018,"Proceedings of the 18th ACM/IEEE on Joint Conference on Digital Libraries, JCDL 2018, Fort Worth, TX, USA, June 03-07, 2018.",https://dblp.org/db/conf/jcdl/jcdl2018.html
+kdd,2000,"Proceedings of the sixth ACM SIGKDD international conference on Knowledge discovery and data mining, Boston, MA, USA, August 20-23, 2000.",https://dblp.org/db/conf/kdd/kdd2000.html
+kdd,2001,"Proceedings of the seventh ACM SIGKDD international conference on Knowledge discovery and data mining, San Francisco, CA, USA, August 26-29, 2001.",https://dblp.org/db/conf/kdd/kdd2001.html
+kdd,2002,"Proceedings of the Eighth ACM SIGKDD International Conference on Knowledge Discovery and Data Mining, July 23-26, 2002, Edmonton, Alberta, Canada.",https://dblp.org/db/conf/kdd/kdd2002.html
+kdd,2003,"Proceedings of the Ninth ACM SIGKDD International Conference on Knowledge Discovery and Data Mining, Washington, DC, USA, August 24 - 27, 2003.",https://dblp.org/db/conf/kdd/kdd2003.html
+kdd,2004,"Proceedings of the Tenth ACM SIGKDD International Conference on Knowledge Discovery and Data Mining, Seattle, Washington, USA, August 22-25, 2004.",https://dblp.org/db/conf/kdd/kdd2004.html
+kdd,2005,"Proceedings of the Eleventh ACM SIGKDD International Conference on Knowledge Discovery and Data Mining, Chicago, Illinois, USA, August 21-24, 2005.",https://dblp.org/db/conf/kdd/kdd2005.html
+kdd,2006,"Proceedings of the Twelfth ACM SIGKDD International Conference on Knowledge Discovery and Data Mining, Philadelphia, PA, USA, August 20-23, 2006.",https://dblp.org/db/conf/kdd/kdd2006.html
+kdd,2007,"Proceedings of the 13th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining, San Jose, California, USA, August 12-15, 2007.",https://dblp.org/db/conf/kdd/kdd2007.html
+kdd,2008,"Proceedings of the 14th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining, Las Vegas, Nevada, USA, August 24-27, 2008.",https://dblp.org/db/conf/kdd/kdd2008.html
+kdd,2009,"Proceedings of the 15th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining, Paris, France, June 28 - July 1, 2009.",https://dblp.org/db/conf/kdd/kdd2009.html
+kdd,2010,"Proceedings of the 16th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining, Washington, DC, USA, July 25-28, 2010.",https://dblp.org/db/conf/kdd/kdd2010.html
+kdd,2011,"Proceedings of the 17th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining, San Diego, CA, USA, August 21-24, 2011.",https://dblp.org/db/conf/kdd/kdd2011.html
+kdd,2012,"The 18th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining, KDD '12, Beijing, China, August 12-16, 2012.",https://dblp.org/db/conf/kdd/kdd2012.html
+kdd,2013,"The 19th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining, KDD 2013, Chicago, IL, USA, August 11-14, 2013.",https://dblp.org/db/conf/kdd/kdd2013.html
+kdd,2014,"The 20th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining, KDD '14, New York, NY, USA - August 24 - 27, 2014.",https://dblp.org/db/conf/kdd/kdd2014.html
+kdd,2015,"Proceedings of the 21th ACM SIGKDD International Conference on Knowledge Discovery and Data Mining, Sydney, NSW, Australia, August 10-13, 2015.",https://dblp.org/db/conf/kdd/kdd2015.html
+kdd,2016,"Proceedings of the 22nd ACM SIGKDD International Conference on Knowledge Discovery and Data Mining, San Francisco, CA, USA, August 13-17, 2016.",https://dblp.org/db/conf/kdd/kdd2016.html
+kdd,2017,"Proceedings of the 23rd ACM SIGKDD International Conference on Knowledge Discovery and Data Mining, Halifax, NS, Canada, August 13 - 17, 2017.",https://dblp.org/db/conf/kdd/kdd2017.html
+kdd,2018,"Proceedings of the 24th ACM SIGKDD International Conference on Knowledge Discovery & Data Mining, KDD 2018, London, UK, August 19-23, 2018.",https://dblp.org/db/conf/kdd/kdd2018.html
+mobicom,2000,"MOBICOM 2000, Proceedings of the sixth annual international conference on Mobile computing and networking, Boston, MA, USA, August 6-11, 2000.",https://dblp.org/db/conf/mobicom/mobicom2000.html
+mobicom,2001,"MOBICOM 2001, Proceedings of the seventh annual international conference on Mobile computing and networking, Rome, Italy, July 16-21, 2001.",https://dblp.org/db/conf/mobicom/mobicom2001.html
+mobicom,2002,"Proceedings of the Eighth Annual International Conference on Mobile Computing and Networking, MOBICOM 2002, Atlanta, Georgia, USA, September 23-28, 2002.",https://dblp.org/db/conf/mobicom/mobicom2002P.html
+mobicom,2003,"Proceedings of the Ninth Annual International Conference on Mobile Computing and Networking, MOBICOM 2003, 2003, San Diego, CA, USA, September 14-19, 2003.",https://dblp.org/db/conf/mobicom/mobicom2003.html
+mobicom,2004,"Proceedings of the 10th Annual International Conference on Mobile Computing and Networking, MOBICOM 2004, 2004, Philadelphia, PA, USA, September 26 - October 1, 2004.",https://dblp.org/db/conf/mobicom/mobicom2004.html
+mobicom,2005,"Proceedings of the 11th Annual International Conference on Mobile Computing and Networking, MOBICOM 2005, Cologne, Germany, August 28 - September 2, 2005.",https://dblp.org/db/conf/mobicom/mobicom2005.html
+mobicom,2006,"Proceedings of the 12th Annual International Conference on Mobile Computing and Networking, MOBICOM 2006, Los Angeles, CA, USA, September 23-29, 2006.",https://dblp.org/db/conf/mobicom/mobicom2006.html
+mobicom,2007,"Proceedings of the 13th Annual International Conference on Mobile Computing and Networking, MOBICOM 2007, Montréal, Québec, Canada, September 9-14, 2007.",https://dblp.org/db/conf/mobicom/mobicom2007.html
+mobicom,2008,"Proceedings of the 14th Annual International Conference on Mobile Computing and Networking, MOBICOM 2008, San Francisco, California, USA, September 14-19, 2008.",https://dblp.org/db/conf/mobicom/mobicom2008.html
+mobicom,2009,"Proceedings of the 15th Annual International Conference on Mobile Computing and Networking, MOBICOM 2009, Beijing, China, September 20-25, 2009.",https://dblp.org/db/conf/mobicom/mobicom2009.html
+mobicom,2010,"Proceedings of the 16th Annual International Conference on Mobile Computing and Networking, MOBICOM 2010, Chicago, Illinois, USA, September 20-24, 2010.",https://dblp.org/db/conf/mobicom/mobicom2010.html
+mobicom,2011,"Proceedings of the 17th Annual International Conference on Mobile Computing and Networking, MOBICOM 2011, Las Vegas, Nevada, USA, September 19-23, 2011.",https://dblp.org/db/conf/mobicom/mobicom2011.html
+mobicom,2012,"The 18th Annual International Conference on Mobile Computing and Networking, Mobicom'12, Istanbul, Turkey, August 22-26, 2012.",https://dblp.org/db/conf/mobicom/mobicom2012.html
+mobicom,2013,"The 19th Annual International Conference on Mobile Computing and Networking, MobiCom'13, Miami, FL, USA, September 30 - October 04, 2013.",https://dblp.org/db/conf/mobicom/mobicom2013.html
+mobicom,2014,"The 20th Annual International Conference on Mobile Computing and Networking, MobiCom'14, Maui, HI, USA, September 7-11, 2014.",https://dblp.org/db/conf/mobicom/mobicom2014.html
+mobicom,2015,"Proceedings of the 21st Annual International Conference on Mobile Computing and Networking, MobiCom 2015, Paris, France, September 7-11, 2015.",https://dblp.org/db/conf/mobicom/mobicom2015.html
+mobicom,2016,"Proceedings of the 22nd Annual International Conference on Mobile Computing and Networking, MobiCom 2016, New York City, NY, USA, October 3-7, 2016.",https://dblp.org/db/conf/mobicom/mobicom2016.html
+mobicom,2017,"Proceedings of the 23rd Annual International Conference on Mobile Computing and Networking, MobiCom 2017, Snowbird, UT, USA, October 16 - 20, 2017.",https://dblp.org/db/conf/mobicom/mobicom2017.html
+mobicom,2018,"Proceedings of the 24th Annual International Conference on Mobile Computing and Networking, MobiCom 2018, New Delhi, India, October 29 - November 02, 2018.",https://dblp.org/db/conf/mobicom/mobicom2018.html
+nips,2000,"Advances in Neural Information Processing Systems 13, Papers from Neural Information Processing Systems (NIPS) 2000, Denver, CO, USA.",https://dblp.org/db/conf/nips/nips2000.html
+nips,2001,"Advances in Neural Information Processing Systems 14 [Neural Information Processing Systems: Natural and Synthetic, NIPS 2001, December 3-8, 2001, Vancouver, British Columbia, Canada].",https://dblp.org/db/conf/nips/nips2001.html
+nips,2002,"Advances in Neural Information Processing Systems 15 [Neural Information Processing Systems, NIPS 2002, December 9-14, 2002, Vancouver, British Columbia, Canada].",https://dblp.org/db/conf/nips/nips2002.html
+nips,2003,"Advances in Neural Information Processing Systems 16 [Neural Information Processing Systems, NIPS 2003, December 8-13, 2003, Vancouver and Whistler, British Columbia, Canada].",https://dblp.org/db/conf/nips/nips2003.html
+nips,2004,"Advances in Neural Information Processing Systems 17 [Neural Information Processing Systems, NIPS 2004, December 13-18, 2004, Vancouver, British Columbia, Canada].",https://dblp.org/db/conf/nips/nips2004.html
+nips,2005,"Advances in Neural Information Processing Systems 18 [Neural Information Processing Systems, NIPS 2005, December 5-8, 2005, Vancouver, British Columbia, Canada].",https://dblp.org/db/conf/nips/nips2005.html
+nips,2006,"Advances in Neural Information Processing Systems 19, Proceedings of the Twentieth Annual Conference on Neural Information Processing Systems, Vancouver, British Columbia, Canada, December 4-7, 2006.",https://dblp.org/db/conf/nips/nips2006.html
+nips,2007,"Advances in Neural Information Processing Systems 20, Proceedings of the Twenty-First Annual Conference on Neural Information Processing Systems, Vancouver, British Columbia, Canada, December 3-6, 2007.",https://dblp.org/db/conf/nips/nips2007.html
+nips,2008,"Advances in Neural Information Processing Systems 21, Proceedings of the Twenty-Second Annual Conference on Neural Information Processing Systems, Vancouver, British Columbia, Canada, December 8-11, 2008.",https://dblp.org/db/conf/nips/nips2008.html
+nips,2009,"Advances in Neural Information Processing Systems 22: 23rd Annual Conference on Neural Information Processing Systems 2009. Proceedings of a meeting held 7-10 December 2009, Vancouver, British Columbia, Canada.",https://dblp.org/db/conf/nips/nips2009.html
+nips,2010,"Advances in Neural Information Processing Systems 23: 24th Annual Conference on Neural Information Processing Systems 2010. Proceedings of a meeting held 6-9 December 2010, Vancouver, British Columbia, Canada.",https://dblp.org/db/conf/nips/nips2010.html
+nips,2011,"Advances in Neural Information Processing Systems 24: 25th Annual Conference on Neural Information Processing Systems 2011. Proceedings of a meeting held 12-14 December 2011, Granada, Spain.",https://dblp.org/db/conf/nips/nips2011.html
+nips,2012,"Advances in Neural Information Processing Systems 25: 26th Annual Conference on Neural Information Processing Systems 2012. Proceedings of a meeting held December 3-6, 2012, Lake Tahoe, Nevada, United States.",https://dblp.org/db/conf/nips/nips2012.html
+nips,2013,"Advances in Neural Information Processing Systems 26: 27th Annual Conference on Neural Information Processing Systems 2013. Proceedings of a meeting held December 5-8, 2013, Lake Tahoe, Nevada, United States.",https://dblp.org/db/conf/nips/nips2013.html
+nips,2014,"Advances in Neural Information Processing Systems 27: Annual Conference on Neural Information Processing Systems 2014, December 8-13 2014, Montreal, Quebec, Canada.",https://dblp.org/db/conf/nips/nips2014.html
+nips,2015,"Advances in Neural Information Processing Systems 28: Annual Conference on Neural Information Processing Systems 2015, December 7-12, 2015, Montreal, Quebec, Canada.",https://dblp.org/db/conf/nips/nips2015.html
+nips,2016,"Advances in Neural Information Processing Systems 29: Annual Conference on Neural Information Processing Systems 2016, December 5-10, 2016, Barcelona, Spain.",https://dblp.org/db/conf/nips/nips2016.html
+nips,2017,"Advances in Neural Information Processing Systems 30: Annual Conference on Neural Information Processing Systems 2017, December 4-9, 2017, Long Beach, CA, USA.",https://dblp.org/db/conf/nips/nips2017.html
+nips,2018,"Advances in Neural Information Processing Systems 31: Annual Conference on Neural Information Processing Systems 2018, NeurIPS 2018, December 3-8, 2018, Montréal, Canada.",https://dblp.org/db/conf/nips/nips2018.html
+osdi,2000,"4th Symposium on Operating System Design and Implementation (OSDI 2000), San Diego, California, USA, October 23-25, 2000.",https://dblp.org/db/conf/osdi/osdi2000.html
+osdi,2002,"5th Symposium on Operating System Design and Implementation (OSDI 2002), Boston, Massachusetts, USA, December 9-11, 2002.",https://dblp.org/db/conf/osdi/osdi2002.html
+osdi,2004,"6th Symposium on Operating System Design and Implementation (OSDI 2004), San Francisco, California, USA, December 6-8, 2004.",https://dblp.org/db/conf/osdi/osdi2004.html
+osdi,2006,"7th Symposium on Operating Systems Design and Implementation (OSDI '06), November 6-8, Seattle, WA, USA.",https://dblp.org/db/conf/osdi/osdi2006.html
+osdi,2008,"8th USENIX Symposium on Operating Systems Design and Implementation, OSDI 2008, December 8-10, 2008, San Diego, California, USA, Proceedings.",https://dblp.org/db/conf/osdi/osdi2008.html
+osdi,2010,"9th USENIX Symposium on Operating Systems Design and Implementation, OSDI 2010, October 4-6, 2010, Vancouver, BC, Canada, Proceedings.",https://dblp.org/db/conf/osdi/osdi2010.html
+osdi,2012,"10th USENIX Symposium on Operating Systems Design and Implementation, OSDI 2012, Hollywood, CA, USA, October 8-10, 2012.",https://dblp.org/db/conf/osdi/osdi2012.html
+osdi,2014,"11th USENIX Symposium on Operating Systems Design and Implementation, OSDI '14, Broomfield, CO, USA, October 6-8, 2014.",https://dblp.org/db/conf/osdi/osdi2014.html
+osdi,2016,"12th USENIX Symposium on Operating Systems Design and Implementation, OSDI 2016, Savannah, GA, USA, November 2-4, 2016.",https://dblp.org/db/conf/osdi/osdi2016.html
+osdi,2018,"13th USENIX Symposium on Operating Systems Design and Implementation, OSDI 2018, Carlsbad, CA, USA, October 8-10, 2018.",https://dblp.org/db/conf/osdi/osdi2018.html
+pldi,2000,"Proceedings of the 2000 ACM SIGPLAN Conference on Programming Language Design and Implementation (PLDI), Vancouver, Britith Columbia, Canada, June 18-21, 2000.",https://dblp.org/db/conf/pldi/pldi2000.html
+pldi,2001,"Proceedings of the 2001 ACM SIGPLAN Conference on Programming Language Design and Implementation (PLDI), Snowbird, Utah, USA, June 20-22, 2001.",https://dblp.org/db/conf/pldi/pldi2001.html
+pldi,2002,"Proceedings of the 2002 ACM SIGPLAN Conference on Programming Language Design and Implementation (PLDI), Berlin, Germany, June 17-19, 2002.",https://dblp.org/db/conf/pldi/pldi2002.html
+pldi,2003,"Proceedings of the ACM SIGPLAN 2003 Conference on Programming Language Design and Implementation 2003, San Diego, California, USA, June 9-11, 2003.",https://dblp.org/db/conf/pldi/pldi2003.html
+pldi,2004,"Proceedings of the ACM SIGPLAN 2004 Conference on Programming Language Design and Implementation 2004, Washington, DC, USA, June 9-11, 2004.",https://dblp.org/db/conf/pldi/pldi2004.html
+pldi,2005,"Proceedings of the ACM SIGPLAN 2005 Conference on Programming Language Design and Implementation, Chicago, IL, USA, June 12-15, 2005.",https://dblp.org/db/conf/pldi/pldi2005.html
+pldi,2006,"Proceedings of the ACM SIGPLAN 2006 Conference on Programming Language Design and Implementation, Ottawa, Ontario, Canada, June 11-14, 2006.",https://dblp.org/db/conf/pldi/pldi2006.html
+pldi,2007,"Proceedings of the ACM SIGPLAN 2007 Conference on Programming Language Design and Implementation, San Diego, California, USA, June 10-13, 2007.",https://dblp.org/db/conf/pldi/pldi2007.html
+pldi,2008,"Proceedings of the ACM SIGPLAN 2008 Conference on Programming Language Design and Implementation, Tucson, AZ, USA, June 7-13, 2008.",https://dblp.org/db/conf/pldi/pldi2008.html
+pldi,2009,"Proceedings of the 2009 ACM SIGPLAN Conference on Programming Language Design and Implementation, PLDI 2009, Dublin, Ireland, June 15-21, 2009.",https://dblp.org/db/conf/pldi/pldi2009.html
+pldi,2010,"Proceedings of the 2010 ACM SIGPLAN Conference on Programming Language Design and Implementation, PLDI 2010, Toronto, Ontario, Canada, June 5-10, 2010.",https://dblp.org/db/conf/pldi/pldi2010.html
+pldi,2011,"Proceedings of the 32nd ACM SIGPLAN Conference on Programming Language Design and Implementation, PLDI 2011, San Jose, CA, USA, June 4-8, 2011.",https://dblp.org/db/conf/pldi/pldi2011.html
+pldi,2012,"ACM SIGPLAN Conference on Programming Language Design and Implementation, PLDI '12, Beijing, China - June 11 - 16, 2012.",https://dblp.org/db/conf/pldi/pldi2012.html
+pldi,2013,"ACM SIGPLAN Conference on Programming Language Design and Implementation, PLDI '13, Seattle, WA, USA, June 16-19, 2013.",https://dblp.org/db/conf/pldi/pldi2013.html
+pldi,2014,"ACM SIGPLAN Conference on Programming Language Design and Implementation, PLDI '14, Edinburgh, United Kingdom - June 09 - 11, 2014.",https://dblp.org/db/conf/pldi/pldi2014.html
+pldi,2015,"Proceedings of the 36th ACM SIGPLAN Conference on Programming Language Design and Implementation, Portland, OR, USA, June 15-17, 2015.",https://dblp.org/db/conf/pldi/pldi2015.html
+pldi,2016,"Proceedings of the 37th ACM SIGPLAN Conference on Programming Language Design and Implementation, PLDI 2016, Santa Barbara, CA, USA, June 13-17, 2016.",https://dblp.org/db/conf/pldi/pldi2016.html
+pldi,2017,"Proceedings of the 38th ACM SIGPLAN Conference on Programming Language Design and Implementation, PLDI 2017, Barcelona, Spain, June 18-23, 2017.",https://dblp.org/db/conf/pldi/pldi2017.html
+pldi,2018,"Proceedings of the 39th ACM SIGPLAN Conference on Programming Language Design and Implementation, PLDI 2018, Philadelphia, PA, USA, June 18-22, 2018.",https://dblp.org/db/conf/pldi/pldi2018.html
+pods,2000,"Proceedings of the Nineteenth ACM SIGMOD-SIGACT-SIGART Symposium on Principles of Database Systems, May 15-17, 2000, Dallas, Texas, USA.",https://dblp.org/db/conf/pods/pods2000.html
+pods,2001,"Proceedings of the Twentieth ACM SIGACT-SIGMOD-SIGART Symposium on Principles of Database Systems, May 21-23, 2001, Santa Barbara, California, USA.",https://dblp.org/db/conf/pods/pods2001.html
+pods,2002,"Proceedings of the Twenty-first ACM SIGACT-SIGMOD-SIGART Symposium on Principles of Database Systems, June 3-5, Madison, Wisconsin, USA.",https://dblp.org/db/conf/pods/pods02.html
+pods,2003,"Proceedings of the Twenty-Second ACM SIGACT-SIGMOD-SIGART Symposium on Principles of Database Systems, June 9-12, 2003, San Diego, CA, USA.",https://dblp.org/db/conf/pods/pods2003.html
+pods,2004,"Proceedings of the Twenty-third ACM SIGACT-SIGMOD-SIGART Symposium on Principles of Database Systems, June 14-16, 2004, Paris, France.",https://dblp.org/db/conf/pods/pods2004.html
+pods,2005,"Proceedings of the Twenty-fourth ACM SIGACT-SIGMOD-SIGART Symposium on Principles of Database Systems, June 13-15, 2005, Baltimore, Maryland, USA.",https://dblp.org/db/conf/pods/pods2005.html
+pods,2006,"Proceedings of the Twenty-Fifth ACM SIGACT-SIGMOD-SIGART Symposium on Principles of Database Systems, June 26-28, 2006, Chicago, Illinois, USA.",https://dblp.org/db/conf/pods/pods2006.html
+pods,2007,"Proceedings of the Twenty-Sixth ACM SIGACT-SIGMOD-SIGART Symposium on Principles of Database Systems, June 11-13, 2007, Beijing, China.",https://dblp.org/db/conf/pods/pods2007.html
+pods,2008,"Proceedings of the Twenty-Seventh ACM SIGMOD-SIGACT-SIGART Symposium on Principles of Database Systems, PODS 2008, June 9-11, 2008, Vancouver, BC, Canada.",https://dblp.org/db/conf/pods/pods2008.html
+pods,2009,"Proceedings of the Twenty-Eigth ACM SIGMOD-SIGACT-SIGART Symposium on Principles of Database Systems, PODS 2009, June 19 - July 1, 2009, Providence, Rhode Island, USA.",https://dblp.org/db/conf/pods/pods2009.html
+pods,2010,"Proceedings of the Twenty-Ninth ACM SIGMOD-SIGACT-SIGART Symposium on Principles of Database Systems, PODS 2010, June 6-11, 2010, Indianapolis, Indiana, USA.",https://dblp.org/db/conf/pods/pods2010.html
+pods,2011,"Proceedings of the 30th ACM SIGMOD-SIGACT-SIGART Symposium on Principles of Database Systems, PODS 2011, June 12-16, 2011, Athens, Greece.",https://dblp.org/db/conf/pods/pods2011.html
+pods,2012,"Proceedings of the 31st ACM SIGMOD-SIGACT-SIGART Symposium on Principles of Database Systems, PODS 2012, Scottsdale, AZ, USA, May 20-24, 2012.",https://dblp.org/db/conf/pods/pods2012.html
+pods,2013,"Proceedings of the 32nd ACM SIGMOD-SIGACT-SIGART Symposium on Principles of Database Systems, PODS 2013, New York, NY, USA - June 22 - 27, 2013.",https://dblp.org/db/conf/pods/pods2013.html
+pods,2014,"Proceedings of the 33rd ACM SIGMOD-SIGACT-SIGART Symposium on Principles of Database Systems, PODS'14, Snowbird, UT, USA, June 22-27, 2014.",https://dblp.org/db/conf/pods/pods2014.html
+pods,2015,"Proceedings of the 34th ACM Symposium on Principles of Database Systems, PODS 2015, Melbourne, Victoria, Australia, May 31 - June 4, 2015.",https://dblp.org/db/conf/pods/pods2015.html
+pods,2016,"Proceedings of the 35th ACM SIGMOD-SIGACT-SIGAI Symposium on Principles of Database Systems, PODS 2016, San Francisco, CA, USA, June 26 - July 01, 2016.",https://dblp.org/db/conf/pods/pods2016.html
+pods,2017,"Proceedings of the 36th ACM SIGMOD-SIGACT-SIGAI Symposium on Principles of Database Systems, PODS 2017, Chicago, IL, USA, May 14-19, 2017.",https://dblp.org/db/conf/pods/pods2017.html
+pods,2018,"Proceedings of the 37th ACM SIGMOD-SIGACT-SIGAI Symposium on Principles of Database Systems, Houston, TX, USA, June 10-15, 2018.",https://dblp.org/db/conf/pods/pods2018.html
+sp,2000,"2000 IEEE Symposium on Security and Privacy, Berkeley, California, USA, May 14-17, 2000.",https://dblp.org/db/conf/sp/sp2000.html
+sp,2001,"2001 IEEE Symposium on Security and Privacy, Oakland, California, USA May 14-16, 2001.",https://dblp.org/db/conf/sp/sp2001.html
+sp,2002,"2002 IEEE Symposium on Security and Privacy, Berkeley, California, USA, May 12-15, 2002.",https://dblp.org/db/conf/sp/sp2002.html
+sp,2003,"2003 IEEE Symposium on Security and Privacy (S&P 2003), 11-14 May 2003, Berkeley, CA, USA.",https://dblp.org/db/conf/sp/sp2003.html
+sp,2004,"2004 IEEE Symposium on Security and Privacy (S&P 2004), 9-12 May 2004, Berkeley, CA, USA.",https://dblp.org/db/conf/sp/sp2004.html
+sp,2005,"2005 IEEE Symposium on Security and Privacy (S&P 2005), 8-11 May 2005, Oakland, CA, USA.",https://dblp.org/db/conf/sp/sp2005.html
+sp,2006,"2006 IEEE Symposium on Security and Privacy (S&P 2006), 21-24 May 2006, Berkeley, California, USA.",https://dblp.org/db/conf/sp/sp2006.html
+sp,2007,"2007 IEEE Symposium on Security and Privacy (S&P 2007), 20-23 May 2007, Oakland, California, USA.",https://dblp.org/db/conf/sp/sp2007.html
+sp,2008,"2008 IEEE Symposium on Security and Privacy (SP 2008), 18-21 May 2008, Oakland, California, USA.",https://dblp.org/db/conf/sp/sp2008.html
+sp,2009,"30th IEEE Symposium on Security and Privacy (SP 2009), 17-20 May 2009, Oakland, California, USA.",https://dblp.org/db/conf/sp/sp2009.html
+sp,2010,"31st IEEE Symposium on Security and Privacy, SP 2010, 16-19 May 2010, Berleley/Oakland, California, USA.",https://dblp.org/db/conf/sp/sp2010.html
+sp,2011,"32nd IEEE Symposium on Security and Privacy, SP 2011, 22-25 May 2011, Berkeley, California, USA.",https://dblp.org/db/conf/sp/sp2011.html
+sp,2012,"IEEE Symposium on Security and Privacy, SP 2012, 21-23 May 2012, San Francisco, California, USA.",https://dblp.org/db/conf/sp/sp2012.html
+sp,2013,"2013 IEEE Symposium on Security and Privacy, SP 2013, Berkeley, CA, USA, May 19-22, 2013.",https://dblp.org/db/conf/sp/sp2013.html
+sp,2014,"2014 IEEE Symposium on Security and Privacy, SP 2014, Berkeley, CA, USA, May 18-21, 2014.",https://dblp.org/db/conf/sp/sp2014.html
+sp,2015,"2015 IEEE Symposium on Security and Privacy, SP 2015, San Jose, CA, USA, May 17-21, 2015.",https://dblp.org/db/conf/sp/sp2015.html
+sp,2016,"IEEE Symposium on Security and Privacy, SP 2016, San Jose, CA, USA, May 22-26, 2016.",https://dblp.org/db/conf/sp/sp2016.html
+sp,2017,"2017 IEEE Symposium on Security and Privacy, SP 2017, San Jose, CA, USA, May 22-26, 2017.",https://dblp.org/db/conf/sp/sp2017.html
+sp,2018,"2018 IEEE Symposium on Security and Privacy, SP 2018, Proceedings, 21-23 May 2018, San Francisco, California, USA.",https://dblp.org/db/conf/sp/sp2018.html
+sigcomm,2000,"Proceedings of the ACM SIGCOMM 2000 Conference on Applications, Technologies, Architectures, and Protocols for Computer Communication, August 28 - September 1, 2000, Stockholm, Sweden.",https://dblp.org/db/conf/sigcomm/sigcomm2000.html
+sigcomm,2001,"Proceedings of the ACM SIGCOMM 2001 Conference on Applications, Technologies, Architectures, and Protocols for Computer Communication, August 27-31, 2001, San Diego, CA, USA.",https://dblp.org/db/conf/sigcomm/sigcomm2001.html
+sigcomm,2002,"Proceedings of the ACM SIGCOMM 2002 Conference on Applications, Technologies, Architectures, and Protocols for Computer Communication, August 19-23, 2002, Pittsburgh, PA, USA.",https://dblp.org/db/conf/sigcomm/sigcomm2002.html
+sigcomm,2003,"Proceedings of the ACM SIGCOMM 2003 Conference on Applications, Technologies, Architectures, and Protocols for Computer Communication, August 25-29, 2003, Karlsruhe, Germany.",https://dblp.org/db/conf/sigcomm/sigcomm2003.html
+sigcomm,2004,"Proceedings of the ACM SIGCOMM 2004 Conference on Applications, Technologies, Architectures, and Protocols for Computer Communication, August 30 - September 3, 2004, Portland, Oregon, USA.",https://dblp.org/db/conf/sigcomm/sigcomm2004.html
+sigcomm,2005,"Proceedings of the ACM SIGCOMM 2005 Conference on Applications, Technologies, Architectures, and Protocols for Computer Communications, Philadelphia, Pennsylvania, USA, August 22-26, 2005.",https://dblp.org/db/conf/sigcomm/sigcomm2005.html
+sigcomm,2006,"Proceedings of the ACM SIGCOMM 2006 Conference on Applications, Technologies, Architectures, and Protocols for Computer Communications, Pisa, Italy, September 11-15, 2006.",https://dblp.org/db/conf/sigcomm/sigcomm2006.html
+sigcomm,2007,"Proceedings of the ACM SIGCOMM 2007 Conference on Applications, Technologies, Architectures, and Protocols for Computer Communications, Kyoto, Japan, August 27-31, 2007.",https://dblp.org/db/conf/sigcomm/sigcomm2007.html
+sigcomm,2008,"Proceedings of the ACM SIGCOMM 2008 Conference on Applications, Technologies, Architectures, and Protocols for Computer Communications, Seattle, WA, USA, August 17-22, 2008.",https://dblp.org/db/conf/sigcomm/sigcomm2008.html
+sigcomm,2009,"Proceedings of the ACM SIGCOMM 2009 Conference on Applications, Technologies, Architectures, and Protocols for Computer Communications, Barcelona, Spain, August 16-21, 2009.",https://dblp.org/db/conf/sigcomm/sigcomm2009.html
+sigcomm,2010,"Proceedings of the ACM SIGCOMM 2010 Conference on Applications, Technologies, Architectures, and Protocols for Computer Communications, New Delhi, India, August 30 -September 3, 2010.",https://dblp.org/db/conf/sigcomm/sigcomm2010.html
+sigcomm,2011,"Proceedings of the ACM SIGCOMM 2011 Conference on Applications, Technologies, Architectures, and Protocols for Computer Communications, Toronto, ON, Canada, August 15-19, 2011.",https://dblp.org/db/conf/sigcomm/sigcomm2011.html
+sigcomm,2012,"ACM SIGCOMM 2012 Conference, SIGCOMM '12, Helsinki, Finland - August 13 - 17, 2012.",https://dblp.org/db/conf/sigcomm/sigcomm2012.html
+sigcomm,2013,"ACM SIGCOMM 2013 Conference, SIGCOMM 2013, Hong Kong, August 12-16, 2013.",https://dblp.org/db/conf/sigcomm/sigcomm2013.html
+sigcomm,2014,"ACM SIGCOMM 2014 Conference, SIGCOMM'14, Chicago, IL, USA, August 17-22, 2014.",https://dblp.org/db/conf/sigcomm/sigcomm2014.html
+sigcomm,2015,"Proceedings of the 2015 ACM Conference on Special Interest Group on Data Communication, SIGCOMM 2015, London, United Kingdom, August 17-21, 2015.",https://dblp.org/db/conf/sigcomm/sigcomm2015.html
+sigcomm,2016,"Proceedings of the ACM SIGCOMM 2016 Conference, Florianopolis, Brazil, August 22-26, 2016.",https://dblp.org/db/conf/sigcomm/sigcomm2016.html
+sigcomm,2017,"Proceedings of the Conference of the ACM Special Interest Group on Data Communication, SIGCOMM 2017, Los Angeles, CA, USA, August 21-25, 2017.",https://dblp.org/db/conf/sigcomm/sigcomm2017.html
+sigcomm,2018,"Proceedings of the 2018 Conference of the ACM Special Interest Group on Data Communication, SIGCOMM 2018, Budapest, Hungary, August 20-25, 2018.",https://dblp.org/db/conf/sigcomm/sigcomm2018.html
+sigir,2000,"SIGIR 2000: Proceedings of the 23rd Annual International ACM SIGIR Conference on Research and Development in Information Retrieval, July 24-28, 2000, Athens, Greece.",https://dblp.org/db/conf/sigir/sigir2000.html
+sigir,2001,"SIGIR 2001: Proceedings of the 24th Annual International ACM SIGIR Conference on Research and Development in Information Retrieval, September 9-13, 2001, New Orleans, Louisiana, USA.",https://dblp.org/db/conf/sigir/sigir2001.html
+sigir,2002,"SIGIR 2002: Proceedings of the 25th Annual International ACM SIGIR Conference on Research and Development in Information Retrieval, August 11-15, 2002, Tampere, Finland.",https://dblp.org/db/conf/sigir/sigir2002.html
+sigir,2003,"SIGIR 2003: Proceedings of the 26th Annual International ACM SIGIR Conference on Research and Development in Information Retrieval, July 28 - August 1, 2003, Toronto, Canada.",https://dblp.org/db/conf/sigir/sigir2003.html
+sigir,2004,"SIGIR 2004: Proceedings of the 27th Annual International ACM SIGIR Conference on Research and Development in Information Retrieval, Sheffield, UK, July 25-29, 2004.",https://dblp.org/db/conf/sigir/sigir2004.html
+sigir,2005,"SIGIR 2005: Proceedings of the 28th Annual International ACM SIGIR Conference on Research and Development in Information Retrieval, Salvador, Brazil, August 15-19, 2005.",https://dblp.org/db/conf/sigir/sigir2005.html
+sigir,2006,"SIGIR 2006: Proceedings of the 29th Annual International ACM SIGIR Conference on Research and Development in Information Retrieval, Seattle, Washington, USA, August 6-11, 2006.",https://dblp.org/db/conf/sigir/sigir2006.html
+sigir,2007,"SIGIR 2007: Proceedings of the 30th Annual International ACM SIGIR Conference on Research and Development in Information Retrieval, Amsterdam, The Netherlands, July 23-27, 2007.",https://dblp.org/db/conf/sigir/sigir2007.html
+sigir,2008,"Proceedings of the 31st Annual International ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR 2008, Singapore, July 20-24, 2008.",https://dblp.org/db/conf/sigir/sigir2008.html
+sigir,2009,"Proceedings of the 32nd Annual International ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR 2009, Boston, MA, USA, July 19-23, 2009.",https://dblp.org/db/conf/sigir/sigir2009.html
+sigir,2010,"Proceeding of the 33rd International ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR 2010, Geneva, Switzerland, July 19-23, 2010.",https://dblp.org/db/conf/sigir/sigir2010.html
+sigir,2011,"Proceeding of the 34th International ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR 2011, Beijing, China, July 25-29, 2011.",https://dblp.org/db/conf/sigir/sigir2011.html
+sigir,2012,"The 35th International ACM SIGIR conference on research and development in Information Retrieval, SIGIR '12, Portland, OR, USA, August 12-16, 2012.",https://dblp.org/db/conf/sigir/sigir2012.html
+sigir,2013,"The 36th International ACM SIGIR conference on research and development in Information Retrieval, SIGIR '13, Dublin, Ireland - July 28 - August 01, 2013.",https://dblp.org/db/conf/sigir/sigir2013.html
+sigir,2014,"The 37th International ACM SIGIR Conference on Research and Development in Information Retrieval, SIGIR '14, Gold Coast , QLD, Australia - July 06 - 11, 2014.",https://dblp.org/db/conf/sigir/sigir2014.html
+sigir,2015,"Proceedings of the 38th International ACM SIGIR Conference on Research and Development in Information Retrieval, Santiago, Chile, August 9-13, 2015.",https://dblp.org/db/conf/sigir/sigir2015.html
+sigir,2016,"Proceedings of the 39th International ACM SIGIR conference on Research and Development in Information Retrieval, SIGIR 2016, Pisa, Italy, July 17-21, 2016.",https://dblp.org/db/conf/sigir/sigir2016.html
+sigir,2017,"Proceedings of the 40th International ACM SIGIR Conference on Research and Development in Information Retrieval, Shinjuku, Tokyo, Japan, August 7-11, 2017.",https://dblp.org/db/conf/sigir/sigir2017.html
+sigir,2018,"The 41st International ACM SIGIR Conference on Research & Development in Information Retrieval, SIGIR 2018, Ann Arbor, MI, USA, July 08-12, 2018.",https://dblp.org/db/conf/sigir/sigir2018.html
+sigmetrics,2000,"Proceedings of the 2000 ACM SIGMETRICS international conference on Measurement and modeling of computer systems, Santa Clara, CA, USA, June 18-21, 2000.",https://dblp.org/db/conf/sigmetrics/sigmetrics2000.html
+sigmetrics,2001,"Proceedings of the Joint International Conference on Measurements and Modeling of Computer Systems, SIGMETRICS/Performance 2001, June 16-20, 2001, Cambridge, MA, USA.",https://dblp.org/db/conf/sigmetrics/sigmetrics2001.html
+sigmetrics,2002,"Proceedings of the International Conference on Measurements and Modeling of Computer Systems, SIGMETRICS 2002, June 15-19, 2002, Marina Del Rey, California, USA.",https://dblp.org/db/conf/sigmetrics/sigmetrics2002.html
+sigmetrics,2003,"Proceedings of the International Conference on Measurements and Modeling of Computer Systems, SIGMETRICS 2003, June 9-14, 2003, San Diego, CA, USA.",https://dblp.org/db/conf/sigmetrics/sigmetrics2003.html
+sigmetrics,2004,"Proceedings of the International Conference on Measurements and Modeling of Computer Systems, SIGMETRICS 2004, June 10-14, 2004, New York, NY, USA.",https://dblp.org/db/conf/sigmetrics/sigmetrics2004.html
+sigmetrics,2005,"Proceedings of the International Conference on Measurements and Modeling of Computer Systems, SIGMETRICS 2005, June 6-10, 2005, Banff, Alberta, Canada.",https://dblp.org/db/conf/sigmetrics/sigmetrics2005.html
+sigmetrics,2006,"Proceedings of the Joint International Conference on Measurement and Modeling of Computer Systems, SIGMETRICS/Performance 2006, Saint Malo, France, June 26-30, 2006.",https://dblp.org/db/conf/sigmetrics/sigmetrics2006.html
+sigmetrics,2007,"Proceedings of the 2007 ACM SIGMETRICS International Conference on Measurement and Modeling of Computer Systems, SIGMETRICS 2007, San Diego, California, USA, June 12-16, 2007.",https://dblp.org/db/conf/sigmetrics/sigmetrics2007.html
+sigmetrics,2008,"Proceedings of the 2008 ACM SIGMETRICS International Conference on Measurement and Modeling of Computer Systems, SIGMETRICS 2008, Annapolis, MD, USA, June 2-6, 2008.",https://dblp.org/db/conf/sigmetrics/sigmetrics2008.html
+sigmetrics,2009,"Proceedings of the Eleventh International Joint Conference on Measurement and Modeling of Computer Systems, SIGMETRICS/Performance 2009, Seattle, WA, USA, June 15-19, 2009.",https://dblp.org/db/conf/sigmetrics/sigmetrics2009.html
+sigmetrics,2010,"SIGMETRICS 2010, Proceedings of the 2010 ACM SIGMETRICS International Conference on Measurement and Modeling of Computer Systems, New York, New York, USA, 14-18 June 2010.",https://dblp.org/db/conf/sigmetrics/sigmetrics2010.html
+sigmetrics,2011,"SIGMETRICS 2011, Proceedings of the 2011 ACM SIGMETRICS International Conference on Measurement and Modeling of Computer Systems, San Jose, CA, USA, 07-11 June 2011 (Co-located with FCRC 2011).",https://dblp.org/db/conf/sigmetrics/sigmetrics2011.html
+sigmetrics,2012,"ACM SIGMETRICS/PERFORMANCE Joint International Conference on Measurement and Modeling of Computer Systems, SIGMETRICS '12, London, United Kingdom, June 11-15, 2012.",https://dblp.org/db/conf/sigmetrics/sigmetrics2012.html
+sigmetrics,2013,"ACM SIGMETRICS / International Conference on Measurement and Modeling of Computer Systems, SIGMETRICS '13, Pittsburgh, PA, USA, June 17-21, 2013.",https://dblp.org/db/conf/sigmetrics/sigmetrics2013.html
+sigmetrics,2014,"ACM SIGMETRICS / International Conference on Measurement and Modeling of Computer Systems, SIGMETRICS 2014, Austin, TX, USA, June 16-20, 2014.",https://dblp.org/db/conf/sigmetrics/sigmetrics2014.html
+sigmetrics,2015,"Proceedings of the 2015 ACM SIGMETRICS International Conference on Measurement and Modeling of Computer Systems, Portland, OR, USA, June 15-19, 2015.",https://dblp.org/db/conf/sigmetrics/sigmetrics2015.html
+sigmetrics,2016,"Proceedings of the 2016 ACM SIGMETRICS International Conference on Measurement and Modeling of Computer Science, Antibes Juan-Les-Pins, France, June 14-18, 2016.",https://dblp.org/db/conf/sigmetrics/sigmetrics2016.html
+sigmetrics,2017,"Proceedings of the 2017 ACM SIGMETRICS / International Conference on Measurement and Modeling of Computer Systems, Urbana-Champaign, IL, USA, June 05 - 09, 2017.",https://dblp.org/db/conf/sigmetrics/sigmetrics2017.html
+sigmetrics,2018,"Abstracts of the 2018 ACM International Conference on Measurement and Modeling of Computer Systems, SIGMETRICS 2018, Irvine, CA, USA, June 18-22, 2018.",https://dblp.org/db/conf/sigmetrics/sigmetrics2018.html
+sigmod,2000,"Proceedings of the 2000 ACM SIGMOD International Conference on Management of Data, May 16-18, 2000, Dallas, Texas, USA.",https://dblp.org/db/conf/sigmod/sigmod2000.html
+sigmod,2001,"Proceedings of the 2001 ACM SIGMOD international conference on Management of data, Santa Barbara, CA, USA, May 21-24, 2001.",https://dblp.org/db/conf/sigmod/sigmod2001.html
+sigmod,2002,"Proceedings of the 2002 ACM SIGMOD International Conference on Management of Data, Madison, Wisconsin, USA, June 3-6, 2002.",https://dblp.org/db/conf/sigmod/sigmod2002.html
+sigmod,2003,"Proceedings of the 2003 ACM SIGMOD International Conference on Management of Data, San Diego, California, USA, June 9-12, 2003.",https://dblp.org/db/conf/sigmod/sigmod2003.html
+sigmod,2004,"Proceedings of the ACM SIGMOD International Conference on Management of Data, Paris, France, June 13-18, 2004.",https://dblp.org/db/conf/sigmod/sigmod2004.html
+sigmod,2005,"Proceedings of the ACM SIGMOD International Conference on Management of Data, Baltimore, Maryland, USA, June 14-16, 2005.",https://dblp.org/db/conf/sigmod/sigmod2005.html
+sigmod,2006,"Proceedings of the ACM SIGMOD International Conference on Management of Data, Chicago, Illinois, USA, June 27-29, 2006.",https://dblp.org/db/conf/sigmod/sigmod2006.html
+sigmod,2007,"Proceedings of the ACM SIGMOD International Conference on Management of Data, Beijing, China, June 12-14, 2007.",https://dblp.org/db/conf/sigmod/sigmod2007.html
+sigmod,2008,"Proceedings of the ACM SIGMOD International Conference on Management of Data, SIGMOD 2008, Vancouver, BC, Canada, June 10-12, 2008.",https://dblp.org/db/conf/sigmod/sigmod2008.html
+sigmod,2009,"Proceedings of the ACM SIGMOD International Conference on Management of Data, SIGMOD 2009, Providence, Rhode Island, USA, June 29 - July 2, 2009.",https://dblp.org/db/conf/sigmod/sigmod2009.html
+sigmod,2010,"Proceedings of the ACM SIGMOD International Conference on Management of Data, SIGMOD 2010, Indianapolis, Indiana, USA, June 6-10, 2010.",https://dblp.org/db/conf/sigmod/sigmod2010.html
+sigmod,2011,"Proceedings of the ACM SIGMOD International Conference on Management of Data, SIGMOD 2011, Athens, Greece, June 12-16, 2011.",https://dblp.org/db/conf/sigmod/sigmod2011.html
+sigmod,2012,"Proceedings of the ACM SIGMOD International Conference on Management of Data, SIGMOD 2012, Scottsdale, AZ, USA, May 20-24, 2012.",https://dblp.org/db/conf/sigmod/sigmod2012.html
+sigmod,2013,"Proceedings of the ACM SIGMOD International Conference on Management of Data, SIGMOD 2013, New York, NY, USA, June 22-27, 2013.",https://dblp.org/db/conf/sigmod/sigmod2013.html
+sigmod,2014,"International Conference on Management of Data, SIGMOD 2014, Snowbird, UT, USA, June 22-27, 2014.",https://dblp.org/db/conf/sigmod/sigmod2014.html
+sigmod,2015,"Proceedings of the 2015 ACM SIGMOD International Conference on Management of Data, Melbourne, Victoria, Australia, May 31 - June 4, 2015.",https://dblp.org/db/conf/sigmod/sigmod2015.html
+sigmod,2016,"Proceedings of the 2016 International Conference on Management of Data, SIGMOD Conference 2016, San Francisco, CA, USA, June 26 - July 01, 2016.",https://dblp.org/db/conf/sigmod/sigmod2016.html
+sigmod,2017,"Proceedings of the 2017 ACM International Conference on Management of Data, SIGMOD Conference 2017, Chicago, IL, USA, May 14-19, 2017.",https://dblp.org/db/conf/sigmod/sigmod2017.html
+sigmod,2018,"Proceedings of the 2018 International Conference on Management of Data, SIGMOD Conference 2018, Houston, TX, USA, June 10-15, 2018.",https://dblp.org/db/conf/sigmod/sigmod2018.html
+soda,2000,"Proceedings of the Eleventh Annual ACM-SIAM Symposium on Discrete Algorithms, January 9-11, 2000, San Francisco, CA, USA.",https://dblp.org/db/conf/soda/soda2000.html
+soda,2001,"Proceedings of the Twelfth Annual Symposium on Discrete Algorithms, January 7-9, 2001, Washington, DC, USA.",https://dblp.org/db/conf/soda/soda2001.html
+soda,2002,"Proceedings of the Thirteenth Annual ACM-SIAM Symposium on Discrete Algorithms, January 6-8, 2002, San Francisco, CA, USA.",https://dblp.org/db/conf/soda/soda2002.html
+soda,2003,"Proceedings of the Fourteenth Annual ACM-SIAM Symposium on Discrete Algorithms, January 12-14, 2003, Baltimore, Maryland, USA.",https://dblp.org/db/conf/soda/soda2003.html
+soda,2004,"Proceedings of the Fifteenth Annual ACM-SIAM Symposium on Discrete Algorithms, SODA 2004, New Orleans, Louisiana, USA, January 11-14, 2004.",https://dblp.org/db/conf/soda/soda2004.html
+soda,2005,"Proceedings of the Sixteenth Annual ACM-SIAM Symposium on Discrete Algorithms, SODA 2005, Vancouver, British Columbia, Canada, January 23-25, 2005.",https://dblp.org/db/conf/soda/soda2005.html
+soda,2006,"Proceedings of the Seventeenth Annual ACM-SIAM Symposium on Discrete Algorithms, SODA 2006, Miami, Florida, USA, January 22-26, 2006.",https://dblp.org/db/conf/soda/soda2006.html
+soda,2007,"Proceedings of the Eighteenth Annual ACM-SIAM Symposium on Discrete Algorithms, SODA 2007, New Orleans, Louisiana, USA, January 7-9, 2007.",https://dblp.org/db/conf/soda/soda2007.html
+soda,2008,"Proceedings of the Nineteenth Annual ACM-SIAM Symposium on Discrete Algorithms, SODA 2008, San Francisco, California, USA, January 20-22, 2008.",https://dblp.org/db/conf/soda/soda2008.html
+soda,2009,"Proceedings of the Twentieth Annual ACM-SIAM Symposium on Discrete Algorithms, SODA 2009, New York, NY, USA, January 4-6, 2009.",https://dblp.org/db/conf/soda/soda2009.html
+soda,2010,"Proceedings of the Twenty-First Annual ACM-SIAM Symposium on Discrete Algorithms, SODA 2010, Austin, Texas, USA, January 17-19, 2010.",https://dblp.org/db/conf/soda/soda2010.html
+soda,2011,"Proceedings of the Twenty-Second Annual ACM-SIAM Symposium on Discrete Algorithms, SODA 2011, San Francisco, California, USA, January 23-25, 2011.",https://dblp.org/db/conf/soda/soda2011.html
+soda,2012,"Proceedings of the Twenty-Third Annual ACM-SIAM Symposium on Discrete Algorithms, SODA 2012, Kyoto, Japan, January 17-19, 2012.",https://dblp.org/db/conf/soda/soda2012.html
+soda,2013,"Proceedings of the Twenty-Fourth Annual ACM-SIAM Symposium on Discrete Algorithms, SODA 2013, New Orleans, Louisiana, USA, January 6-8, 2013.",https://dblp.org/db/conf/soda/soda2013.html
+soda,2014,"Proceedings of the Twenty-Fifth Annual ACM-SIAM Symposium on Discrete Algorithms, SODA 2014, Portland, Oregon, USA, January 5-7, 2014.",https://dblp.org/db/conf/soda/soda2014.html
+soda,2015,"Proceedings of the Twenty-Sixth Annual ACM-SIAM Symposium on Discrete Algorithms, SODA 2015, San Diego, CA, USA, January 4-6, 2015.",https://dblp.org/db/conf/soda/soda2015.html
+soda,2016,"Proceedings of the Twenty-Seventh Annual ACM-SIAM Symposium on Discrete Algorithms, SODA 2016, Arlington, VA, USA, January 10-12, 2016.",https://dblp.org/db/conf/soda/soda2016.html
+soda,2017,"Proceedings of the Twenty-Eighth Annual ACM-SIAM Symposium on Discrete Algorithms, SODA 2017, Barcelona, Spain, Hotel Porta Fira, January 16-19.",https://dblp.org/db/conf/soda/soda2017.html
+soda,2018,"Proceedings of the Twenty-Ninth Annual ACM-SIAM Symposium on Discrete Algorithms, SODA 2018, New Orleans, LA, USA, January 7-10, 2018.",https://dblp.org/db/conf/soda/soda2018.html
+sosp,2001,"Proceedings of the 18th ACM Symposium on Operating System Principles, SOSP 2001, Chateau Lake Louise, Banff, Alberta, Canada, October 21-24, 2001.",https://dblp.org/db/conf/sosp/sosp2001.html
+sosp,2003,"Proceedings of the 19th ACM Symposium on Operating Systems Principles 2003, SOSP 2003, Bolton Landing, NY, USA, October 19-22, 2003.",https://dblp.org/db/conf/sosp/sosp2003.html
+sosp,2005,"Proceedings of the 20th ACM Symposium on Operating Systems Principles 2005, SOSP 2005, Brighton, UK, October 23-26, 2005.",https://dblp.org/db/conf/sosp/sosp2005.html
+sosp,2007,"Proceedings of the 21st ACM Symposium on Operating Systems Principles 2007, SOSP 2007, Stevenson, Washington, USA, October 14-17, 2007.",https://dblp.org/db/conf/sosp/sosp2007.html
+sosp,2009,"Proceedings of the 22nd ACM Symposium on Operating Systems Principles 2009, SOSP 2009, Big Sky, Montana, USA, October 11-14, 2009.",https://dblp.org/db/conf/sosp/sosp2009.html
+sosp,2011,"Proceedings of the 23rd ACM Symposium on Operating Systems Principles 2011, SOSP 2011, Cascais, Portugal, October 23-26, 2011.",https://dblp.org/db/conf/sosp/sosp2011.html
+sosp,2013,"ACM SIGOPS 24th Symposium on Operating Systems Principles, SOSP '13, Farmington, PA, USA, November 3-6, 2013.",https://dblp.org/db/conf/sosp/sosp2013.html
+sosp,2015,"Proceedings of the 25th Symposium on Operating Systems Principles, SOSP 2015, Monterey, CA, USA, October 4-7, 2015.",https://dblp.org/db/conf/sosp/sosp2015.html
+sosp,2017,"Proceedings of the 26th Symposium on Operating Systems Principles, Shanghai, China, October 28-31, 2017.",https://dblp.org/db/conf/sosp/sosp2017.html
+stoc,2000,"Proceedings of the Thirty-Second Annual ACM Symposium on Theory of Computing, May 21-23, 2000, Portland, OR, USA.",https://dblp.org/db/conf/stoc/stoc2000.html
+stoc,2001,"Proceedings on 33rd Annual ACM Symposium on Theory of Computing, July 6-8, 2001, Heraklion, Crete, Greece.",https://dblp.org/db/conf/stoc/stoc2001.html
+stoc,2002,"Proceedings on 34th Annual ACM Symposium on Theory of Computing, May 19-21, 2002, Montréal, Québec, Canada.",https://dblp.org/db/conf/stoc/stoc2002.html
+stoc,2003,"Proceedings of the 35th Annual ACM Symposium on Theory of Computing, June 9-11, 2003, San Diego, CA, USA.",https://dblp.org/db/conf/stoc/stoc2003.html
+stoc,2004,"Proceedings of the 36th Annual ACM Symposium on Theory of Computing, Chicago, IL, USA, June 13-16, 2004.",https://dblp.org/db/conf/stoc/stoc2004.html
+stoc,2005,"Proceedings of the 37th Annual ACM Symposium on Theory of Computing, Baltimore, MD, USA, May 22-24, 2005.",https://dblp.org/db/conf/stoc/stoc2005.html
+stoc,2006,"Proceedings of the 38th Annual ACM Symposium on Theory of Computing, Seattle, WA, USA, May 21-23, 2006.",https://dblp.org/db/conf/stoc/stoc2006.html
+stoc,2007,"Proceedings of the 39th Annual ACM Symposium on Theory of Computing, San Diego, California, USA, June 11-13, 2007.",https://dblp.org/db/conf/stoc/stoc2007.html
+stoc,2008,"Proceedings of the 40th Annual ACM Symposium on Theory of Computing, Victoria, British Columbia, Canada, May 17-20, 2008.",https://dblp.org/db/conf/stoc/stoc2008.html
+stoc,2009,"Proceedings of the 41st Annual ACM Symposium on Theory of Computing, STOC 2009, Bethesda, MD, USA, May 31 - June 2, 2009.",https://dblp.org/db/conf/stoc/stoc2009.html
+stoc,2010,"Proceedings of the 42nd ACM Symposium on Theory of Computing, STOC 2010, Cambridge, Massachusetts, USA, 5-8 June 2010.",https://dblp.org/db/conf/stoc/stoc2010.html
+stoc,2011,"Proceedings of the 43rd ACM Symposium on Theory of Computing, STOC 2011, San Jose, CA, USA, 6-8 June 2011.",https://dblp.org/db/conf/stoc/stoc2011.html
+stoc,2012,"Proceedings of the 44th Symposium on Theory of Computing Conference, STOC 2012, New York, NY, USA, May 19 - 22, 2012.",https://dblp.org/db/conf/stoc/stoc2012.html
+stoc,2013,"Symposium on Theory of Computing Conference, STOC'13, Palo Alto, CA, USA, June 1-4, 2013.",https://dblp.org/db/conf/stoc/stoc2013.html
+stoc,2014,"Symposium on Theory of Computing, STOC 2014, New York, NY, USA, May 31 - June 03, 2014.",https://dblp.org/db/conf/stoc/stoc2014.html
+stoc,2015,"Proceedings of the Forty-Seventh Annual ACM on Symposium on Theory of Computing, STOC 2015, Portland, OR, USA, June 14-17, 2015.",https://dblp.org/db/conf/stoc/stoc2015.html
+stoc,2016,"Proceedings of the 48th Annual ACM SIGACT Symposium on Theory of Computing, STOC 2016, Cambridge, MA, USA, June 18-21, 2016.",https://dblp.org/db/conf/stoc/stoc2016.html
+stoc,2017,"Proceedings of the 49th Annual ACM SIGACT Symposium on Theory of Computing, STOC 2017, Montreal, QC, Canada, June 19-23, 2017.",https://dblp.org/db/conf/stoc/stoc2017.html
+stoc,2018,"Proceedings of the 50th Annual ACM SIGACT Symposium on Theory of Computing, STOC 2018, Los Angeles, CA, USA, June 25-29, 2018.",https://dblp.org/db/conf/stoc/stoc2018.html
+uist,2000,"Proceedings of the 13th Annual ACM Symposium on User Interface Software and Technology, UIST 2000, San Diego, California, USA, November 6-8, 2000.",https://dblp.org/db/conf/uist/uist2000.html
+uist,2001,"Proceedings of the 14th Annual ACM Symposium on User Interface Software and Technology, UIST 2001, Disney's BoardWalk Inn Resort, Walt Disney World, Orlando, Florida, USA, November 11-14, 2001.",https://dblp.org/db/conf/uist/uist2001.html
+uist,2002,"Proceedings of the 15th Annual ACM Symposium on User Interface Software and Technology, Paris, France, October 27-30, 2002.",https://dblp.org/db/conf/uist/uist2002.html
+uist,2003,"Proceedings of the 16th Annual ACM Symposium on User Interface Software and Technology, Vancouver, Canada, November 2-5, 2003.",https://dblp.org/db/conf/uist/uist2003.html
+uist,2004,"Proceedings of the 17th Annual ACM Symposium on User Interface Software and Technology, Santa Fe, NM, USA, October 24-27, 2004.",https://dblp.org/db/conf/uist/uist2004.html
+uist,2005,"Proceedings of the 18th Annual ACM Symposium on User Interface Software and Technology, Seattle, WA, USA, October 23-26, 2005.",https://dblp.org/db/conf/uist/uist2005.html
+uist,2006,"Proceedings of the 19th Annual ACM Symposium on User Interface Software and Technology, Montreux, Switzerland, October 15-18, 2006.",https://dblp.org/db/conf/uist/uist2006.html
+uist,2007,"Proceedings of the 20th Annual ACM Symposium on User Interface Software and Technology, Newport, Rhode Island, USA, October 7-10, 2007.",https://dblp.org/db/conf/uist/uist2007.html
+uist,2008,"Proceedings of the 21st Annual ACM Symposium on User Interface Software and Technology, Monterey, CA, USA, October 19-22, 2008.",https://dblp.org/db/conf/uist/uist2008.html
+uist,2009,"Proceedings of the 22nd Annual ACM Symposium on User Interface Software and Technology, Victoria, BC, Canada, October 4-7, 2009.",https://dblp.org/db/conf/uist/uist2009.html
+uist,2010,"Proceedings of the 23rd Annual ACM Symposium on User Interface Software and Technology, New York, NY, USA, October 3-6, 2010.",https://dblp.org/db/conf/uist/uist2010.html
+uist,2011,"Proceedings of the 24th Annual ACM Symposium on User Interface Software and Technology, Santa Barbara, CA, USA, October 16-19, 2011.",https://dblp.org/db/conf/uist/uist2011.html
+uist,2012,"The 25th Annual ACM Symposium on User Interface Software and Technology, UIST '12, Cambridge, MA, USA, October 7-10, 2012.",https://dblp.org/db/conf/uist/uist2012.html
+uist,2013,"The 26th Annual ACM Symposium on User Interface Software and Technology, UIST'13, St. Andrews, United Kingdom, October 8-11, 2013.",https://dblp.org/db/conf/uist/uist2013.html
+uist,2014,"The 27th Annual ACM Symposium on User Interface Software and Technology, UIST '14, Honolulu, HI, USA, October 5-8, 2014.",https://dblp.org/db/conf/uist/uist2014.html
+uist,2015,"Proceedings of the 28th Annual ACM Symposium on User Interface Software & Technology, UIST 2015, Charlotte, NC, USA, November 8-11, 2015.",https://dblp.org/db/conf/uist/uist2015.html
+uist,2016,"Proceedings of the 29th Annual Symposium on User Interface Software and Technology, UIST 2016, Tokyo, Japan, October 16-19, 2016.",https://dblp.org/db/conf/uist/uist2016.html
+uist,2017,"Proceedings of the 30th Annual ACM Symposium on User Interface Software and Technology, UIST 2017, Quebec City, QC, Canada, October 22 - 25, 2017.",https://dblp.org/db/conf/uist/uist2017.html
+uist,2018,"The 31st Annual ACM Symposium on User Interface Software and Technology, UIST 2018, Berlin, Germany, October 14-17, 2018.",https://dblp.org/db/conf/uist/uist2018.html
+vldb,2000,"VLDB 2000, Proceedings of 26th International Conference on Very Large Data Bases, September 10-14, 2000, Cairo, Egypt.",https://dblp.org/db/conf/vldb/vldb2000.html
+vldb,2001,"VLDB 2001, Proceedings of 27th International Conference on Very Large Data Bases, September 11-14, 2001, Roma, Italy.",https://dblp.org/db/conf/vldb/vldb2001.html
+vldb,2002,"Proceedings of 28th International Conference on Very Large Data Bases, VLDB 2002, Hong Kong, August 20-23, 2002.",https://dblp.org/db/conf/vldb/vldb2002.html
+vldb,2003,"Proceedings of 29th International Conference on Very Large Data Bases, VLDB 2003, Berlin, Germany, September 9-12, 2003.",https://dblp.org/db/conf/vldb/vldb2003.html
+vldb,2004,"(e)Proceedings of the Thirtieth International Conference on Very Large Data Bases, VLDB 2004, Toronto, Canada, August 31 - September 3 2004.",https://dblp.org/db/conf/vldb/vldb2004.html
+vldb,2005,"Proceedings of the 31st International Conference on Very Large Data Bases, Trondheim, Norway, August 30 - September 2, 2005.",https://dblp.org/db/conf/vldb/vldb2005.html
+vldb,2006,"Proceedings of the 32nd International Conference on Very Large Data Bases, Seoul, Korea, September 12-15, 2006.",https://dblp.org/db/conf/vldb/vldb2006.html
+vldb,2007,"Proceedings of the 33rd International Conference on Very Large Data Bases, University of Vienna, Austria, September 23-27, 2007.",https://dblp.org/db/conf/vldb/vldb2007.html
+vldb,2008,"Proceedings of the 33rd International Conference on Very Large Data Bases, University of Vienna, Austria, September 23-27, 2007.",https://dblp.org/db/conf/vldb/vldb2007.html
+www,2000,"Proceedings of the Fourth International Conference on World Wide Web, WWW4, Boston, Massachusetts, USA, December 11-14, 1995.",https://dblp.org/db/conf/www/www1995f.html
+www,2001,"Proceedings of the Tenth International World Wide Web Conference, WWW 10, Hong Kong, China, May 1-5, 2001.",https://dblp.org/db/conf/www/www2001.html
+www,2002,"Proceedings of the Eleventh International World Wide Web Conference, WWW 2002, May 7-11, 2002, Honolulu, Hawaii, USA.",https://dblp.org/db/conf/www/www2002.html
+www,2003,"Proceedings of the Twelfth International World Wide Web Conference, WWW 2003, Budapest, Hungary, May 20-24, 2003.",https://dblp.org/db/conf/www/www2003.html
+www,2004,"Proceedings of the 13th international conference on World Wide Web, WWW 2004, New York, NY, USA, May 17-20, 2004.",https://dblp.org/db/conf/www/www2004.html
+www,2005,"Proceedings of the 14th international conference on World Wide Web, WWW 2005, Chiba, Japan, May 10-14, 2005.",https://dblp.org/db/conf/www/www2005.html
+www,2006,"Proceedings of the 15th international conference on World Wide Web, WWW 2006, Edinburgh, Scotland, UK, May 23-26, 2006.",https://dblp.org/db/conf/www/www2006.html
+www,2007,"Proceedings of the 16th International Conference on World Wide Web, WWW 2007, Banff, Alberta, Canada, May 8-12, 2007.",https://dblp.org/db/conf/www/www2007.html
+www,2008,"Proceedings of the 17th International Conference on World Wide Web, WWW 2008, Beijing, China, April 21-25, 2008.",https://dblp.org/db/conf/www/www2008.html
+www,2009,"Proceedings of the 18th International Conference on World Wide Web, WWW 2009, Madrid, Spain, April 20-24, 2009.",https://dblp.org/db/conf/www/www2009.html
+www,2010,"Proceedings of the 19th International Conference on World Wide Web, WWW 2010, Raleigh, North Carolina, USA, April 26-30, 2010.",https://dblp.org/db/conf/www/www2010.html
+www,2011,"Proceedings of the 20th International Conference on World Wide Web, WWW 2011, Hyderabad, India, March 28 - April 1, 2011.",https://dblp.org/db/conf/www/www2011.html
+www,2012,"Proceedings of the 21st World Wide Web Conference 2012, WWW 2012, Lyon, France, April 16-20, 2012.",https://dblp.org/db/conf/www/www2012.html
+www,2013,"22nd International World Wide Web Conference, WWW '13, Rio de Janeiro, Brazil, May 13-17, 2013.",https://dblp.org/db/conf/www/www2013.html
+www,2014,"23rd International World Wide Web Conference, WWW '14, Seoul, Republic of Korea, April 7-11, 2014.",https://dblp.org/db/conf/www/www2014.html
+www,2015,"Proceedings of the 24th International Conference on World Wide Web, WWW 2015, Florence, Italy, May 18-22, 2015.",https://dblp.org/db/conf/www/www2015.html
+www,2016,"Proceedings of the 25th International Conference on World Wide Web, WWW 2016, Montreal, Canada, April 11 - 15, 2016.",https://dblp.org/db/conf/www/www2016.html
+www,2017,"Proceedings of the 26th International Conference on World Wide Web, WWW 2017, Perth, Australia, April 3-7, 2017.",https://dblp.org/db/conf/www/www2017.html
+www,2018,"Proceedings of the 2018 World Wide Web Conference on World Wide Web, WWW 2018, Lyon, France, April 23-27, 2018.",https://dblp.org/db/conf/www/www2018.html

@@ -1,11 +1,11 @@
 conference,year,source_id,source_name,source_type,n_award_papers,n_resolved,n_votes_for_winner,vote_agreement,status
-AAAI,2000,https://openalex.org/S4306420577,National Conference on Artificial Intelligence,conference,4,4,3,0.75,RESOLVED
+AAAI,2000,https://openalex.org/S4306420577,National Conference on Artificial Intelligence,conference,4,4,4,1.0,RESOLVED
 AAAI,2002,https://openalex.org/S4306420577,National Conference on Artificial Intelligence,conference,1,1,1,1.0,RESOLVED
 AAAI,2004,https://openalex.org/S4210169993,Civil War Book Review,journal,1,1,1,1.0,RESOLVED
 AAAI,2005,https://openalex.org/S4306420577,National Conference on Artificial Intelligence,conference,1,1,1,1.0,RESOLVED
-AAAI,2006,https://openalex.org/S4306420577,National Conference on Artificial Intelligence,conference,2,2,1,0.5,RESOLVED
+AAAI,2006,https://openalex.org/S4306420577,National Conference on Artificial Intelligence,conference,2,2,2,1.0,RESOLVED
 AAAI,2007,https://openalex.org/S4306420577,National Conference on Artificial Intelligence,conference,2,2,2,1.0,RESOLVED
-AAAI,2008,https://openalex.org/S4306420577,National Conference on Artificial Intelligence,conference,2,2,1,0.5,RESOLVED
+AAAI,2008,https://openalex.org/S4306420577,National Conference on Artificial Intelligence,conference,2,2,2,1.0,RESOLVED
 AAAI,2010,https://openalex.org/S4210191458,Proceedings of the AAAI Conference on Artificial Intelligence,conference,2,2,1,0.5,RESOLVED
 AAAI,2011,https://openalex.org/S4210191458,Proceedings of the AAAI Conference on Artificial Intelligence,conference,2,2,2,1.0,RESOLVED
 AAAI,2012,https://openalex.org/S4210191458,Proceedings of the AAAI Conference on Artificial Intelligence,conference,2,2,2,1.0,RESOLVED
@@ -128,13 +128,13 @@ ICML,2008,,,,1,0,0,,UNRESOLVED
 ICML,2009,,,,1,0,0,,UNRESOLVED
 ICML,2010,https://openalex.org/S4306400194,arXiv (Cornell University),repository,1,1,1,1.0,RESOLVED
 ICML,2011,https://openalex.org/S4306400194,arXiv (Cornell University),repository,1,1,1,1.0,RESOLVED
-ICML,2012,https://openalex.org/S4306400088,UvA-DARE (University of Amsterdam),repository,1,1,1,1.0,RESOLVED
-ICML,2013,https://openalex.org/S4306400194,arXiv (Cornell University),repository,2,1,1,1.0,RESOLVED
+ICML,2012,https://openalex.org/S4306419644,International Conference on Machine Learning,conference,1,1,1,1.0,RESOLVED
+ICML,2013,https://openalex.org/S4306419644,International Conference on Machine Learning,conference,2,1,1,1.0,RESOLVED
 ICML,2014,https://openalex.org/S4306419644,International Conference on Machine Learning,conference,1,1,1,1.0,RESOLVED
 ICML,2015,https://openalex.org/S4306400194,arXiv (Cornell University),repository,2,2,1,0.5,RESOLVED
 ICML,2016,https://openalex.org/S4306400194,arXiv (Cornell University),repository,3,3,3,1.0,RESOLVED
 ICML,2017,https://openalex.org/S4306400194,arXiv (Cornell University),repository,1,1,1,1.0,RESOLVED
-ICML,2018,https://openalex.org/S4306400194,arXiv (Cornell University),repository,2,2,2,1.0,RESOLVED
+ICML,2018,https://openalex.org/S4306400194,arXiv (Cornell University),repository,2,2,1,0.5,RESOLVED
 ICSE,2003,https://openalex.org/S4306419842,International Conference on Software Engineering,conference,2,2,1,0.5,RESOLVED
 ICSE,2004,https://openalex.org/S4363608974,Proceedings. 26th International Conference on Software Engineering,conference,5,5,3,0.6,RESOLVED
 ICSE,2005,https://openalex.org/S4306400425,DSpace@MIT (Massachusetts Institute of Technology),repository,4,3,1,0.33,RESOLVED
@@ -164,16 +164,16 @@ ICWSM,2016,https://openalex.org/S4387284482,Proceedings of the International AAA
 ICWSM,2017,https://openalex.org/S4387284482,Proceedings of the International AAAI Conference on Web and Social Media,journal,1,1,1,1.0,RESOLVED
 ICWSM,2018,https://openalex.org/S4387284482,Proceedings of the International AAAI Conference on Web and Social Media,journal,1,1,1,1.0,RESOLVED
 IJCAI,2001,https://openalex.org/S12967704,Statistical Science,journal,1,1,1,1.0,RESOLVED
-IJCAI,2003,https://openalex.org/S7407050879,UC Berkeley,repository,2,2,1,0.5,RESOLVED
+IJCAI,2003,https://openalex.org/S4306419999,International Joint Conference on Artificial Intelligence,conference,2,2,2,1.0,RESOLVED
 IJCAI,2005,https://openalex.org/S4306419999,International Joint Conference on Artificial Intelligence,conference,3,3,2,0.67,RESOLVED
 IJCAI,2007,https://openalex.org/S4306419999,International Joint Conference on Artificial Intelligence,conference,3,2,2,1.0,RESOLVED
 IJCAI,2009,https://openalex.org/S4306402512,HAL (Le Centre pour la Communication Scientifique Directe),repository,2,2,1,0.5,RESOLVED
 IJCAI,2011,https://openalex.org/S139930977,Journal of Artificial Intelligence Research,journal,2,2,1,0.5,RESOLVED
-IJCAI,2013,https://openalex.org/S4306400906,Research Repository (Delft University of Technology),repository,1,1,1,1.0,RESOLVED
+IJCAI,2013,https://openalex.org/S4306417826,Belgium-Netherlands Conference on Artificial Intelligence,conference,1,1,1,1.0,RESOLVED
 IJCAI,2015,https://openalex.org/S4306419999,International Joint Conference on Artificial Intelligence,conference,2,2,1,0.5,RESOLVED
 IJCAI,2016,https://openalex.org/S207023548,Neural Computation,journal,1,1,1,1.0,RESOLVED
 IJCAI,2017,https://openalex.org/S4306400194,arXiv (Cornell University),repository,1,1,1,1.0,RESOLVED
-IJCAI,2018,https://openalex.org/S4306400194,arXiv (Cornell University),repository,7,3,2,0.67,RESOLVED
+IJCAI,2018,https://openalex.org/S2764557503,Description Logics,journal,7,3,1,0.33,RESOLVED
 INFOCOM,2000,,,,1,0,0,,UNRESOLVED
 INFOCOM,2001,https://openalex.org/S66039016,ACM SIGCOMM Computer Communication Review,journal,1,1,1,1.0,RESOLVED
 INFOCOM,2002,,,,1,0,0,,UNRESOLVED
@@ -239,7 +239,7 @@ MOBICOM,2014,https://openalex.org/S4306401796,Rare & Special e-Zone (The Hong Ko
 MOBICOM,2015,https://openalex.org/S4210227886,GetMobile Mobile Computing and Communications,journal,1,1,1,1.0,RESOLVED
 MOBICOM,2017,,,,1,0,0,,UNRESOLVED
 MOBICOM,2018,https://openalex.org/S4210227886,GetMobile Mobile Computing and Communications,journal,1,1,1,1.0,RESOLVED
-NeurIPS,2013,https://openalex.org/S4306400194,arXiv (Cornell University),repository,3,3,2,0.67,RESOLVED
+NeurIPS,2013,https://openalex.org/S4306420609,Neural Information Processing Systems,conference,3,3,2,0.67,RESOLVED
 NeurIPS,2014,https://openalex.org/S4306400194,arXiv (Cornell University),repository,2,2,1,0.5,RESOLVED
 NeurIPS,2015,https://openalex.org/S4306420609,Neural Information Processing Systems,conference,2,2,2,1.0,RESOLVED
 NeurIPS,2016,https://openalex.org/S4306401020,ePrints Soton (University of Southampton),repository,1,1,1,1.0,RESOLVED
@@ -413,7 +413,7 @@ UIST,2015,https://openalex.org/S4306402591,Edinburgh Napier Research Repository 
 UIST,2016,https://openalex.org/S4306400425,DSpace@MIT (Massachusetts Institute of Technology),repository,4,3,1,0.33,RESOLVED
 UIST,2017,https://openalex.org/S4306400194,arXiv (Cornell University),repository,3,1,1,1.0,RESOLVED
 UIST,2018,https://openalex.org/S4210197018,View,journal,3,1,1,1.0,RESOLVED
-VLDB,2001,https://openalex.org/S4306400487,Infoscience (Ecole Polytechnique Fédérale de Lausanne),repository,1,1,1,1.0,RESOLVED
+VLDB,2001,https://openalex.org/S4306421142,Very Large Data Bases,conference,1,1,1,1.0,RESOLVED
 VLDB,2004,https://openalex.org/S4306463230,Elsevier eBooks,ebook platform,1,1,1,1.0,RESOLVED
 VLDB,2005,https://openalex.org/S4306421142,Very Large Data Bases,conference,1,1,1,1.0,RESOLVED
 VLDB,2006,https://openalex.org/S4306421142,Very Large Data Bases,conference,1,1,1,1.0,RESOLVED

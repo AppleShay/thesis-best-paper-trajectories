@@ -1,0 +1,28 @@
+{
+  "created_at_utc": "2026-10-29T11:34:33.435810+00:00",
+  "freeze_version": "award_cohort_v1",
+  "identity": {
+    "input_hashes": {
+      "manifest.json": "fcea11365cea2cb65b7c50e1ec6ee0d6b13dbcb27b07d1bd9dede51cdad837ea",
+      "award_cohort_papers.csv": "db4eb0dba6e2d041b1299ea1cf68b51a7d0b7104f946c8ca195dc1e0fe9f575a",
+      "award_cohort_authorships.csv": "0ccc9667b60cce5b8257bb61a3f1c00fe2b0d7c1a5fac1e4b41d8e68e7f9152d"
+    },
+    "transform_version": "reference_awards_1.0",
+    "reference_rule": "earliest_identified_award_year_in_frozen_2000_2018_cohort",
+    "tie_break": "conference, work ID, cohort record ID; representative only"
+  },
+  "output_sha256": {
+    "author_award_links.csv": "894946104bd2bddf85c73bfe9136d22aceae1bc8094c3eee541093f5a6ab808d",
+    "author_reference_roster.csv": "c8db9de11d98978bdc1bd56fb1f1dfb72a575a3333e06c7c6f6e7671f83846b7",
+    "conference_authorship_gaps.csv": "28202065641e195be3effd7439343077a28bd67cf45f77aaf0acd455ddf6ddd8",
+    "matching_authorship_gap_breakdown.csv": "0c1caa81bde2a0792cf9884bc1e12f781d18fdb218c82383692f9226ca56aceb",
+    "papers_without_authorships.csv": "9e765d8a66e8994fb26bfd034143719dee328e4b27fa12b3a23391965d467063",
+    "possible_earlier_unresolved_names.csv": "e04ea43ac97310cc8746a1b9c5c5d4751fecc5d6da74831d4f7533e5558ccccc",
+    "README.md": "cb9a230d0ddb29ea2c543ff773eff1b27fd6ef1aa6eaf1a747a1b01b1e376d0b",
+    "reference_year_award_links.csv": "db68dcea3fe51b21757152c9efcb3f093771119ada6fdef06a9f9ca0901b010c",
+    "step2_summary.csv": "9a5eab101a977f0f89a9d6d2e2def467af187ff43481d6da2b5132ed14bbcc3c",
+    "unresolved_authorship_queue.csv": "94a2db928b9d0e4f570030de7293e8467a8a2ef880053aca656153599568ff01"
+  },
+  "external_api_calls": false,
+  "frozen_source_modified": false
+}

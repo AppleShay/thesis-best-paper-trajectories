@@ -1,0 +1,58 @@
+{
+  "cohort_version": "award_cohort_v1",
+  "created_at_utc": "2026-10-29T11:26:24.526221+00:00",
+  "git_commit_at_run": null,
+  "source_sha256": "566ad7fa68317dc9d1dc2f15d68b93c0d0513f49439421d16b75b389f5be4bdd",
+  "journal_copy_path": "conf_paper/conf_data/huang_matched_openalex.csv",
+  "journal_copy_sha256": "566ad7fa68317dc9d1dc2f15d68b93c0d0513f49439421d16b75b389f5be4bdd",
+  "source_copy_difference_acknowledged": false,
+  "changed_paper_counts_acknowledged": false,
+  "settings": {
+    "year_start": 2000,
+    "year_end": 2018,
+    "source_path": "data/matched/huang_matched_openalex.csv",
+    "transform_version": "freeze_award_cohort_1.0",
+    "deduplication": "none; flags only",
+    "author_policy": "retain missing IDs and unknown-list placeholders"
+  },
+  "summary": {
+    "source_rows": 925,
+    "cohort_award_records": 925,
+    "excluded_source_rows": 0,
+    "conferences": 31,
+    "year_min": 2000,
+    "year_max": 2018,
+    "records_with_recorded_openalex_match": 903,
+    "records_missing_openalex_id": 22,
+    "records_invalid_openalex_id": 0,
+    "structured_authorship_slots": 3202,
+    "retained_slots_without_valid_author_id": 52,
+    "unique_valid_author_ids": 2710,
+    "papers_with_missing_author_id_slots": 14,
+    "papers_with_invalid_author_id_slots": 0,
+    "papers_with_unavailable_authorships": 57,
+    "placeholder_rows_not_known_authors": 57,
+    "authorship_rows_including_placeholders": 3259,
+    "records_flagged_duplicate_work_id": 0,
+    "records_flagged_duplicate_title_year_venue": 0
+  },
+  "output_sha256": {
+    "author_issues.csv": "94a2db928b9d0e4f570030de7293e8467a8a2ef880053aca656153599568ff01",
+    "award_cohort_authorships.csv": "0ccc9667b60cce5b8257bb61a3f1c00fe2b0d7c1a5fac1e4b41d8e68e7f9152d",
+    "award_cohort_papers.csv": "db4eb0dba6e2d041b1299ea1cf68b51a7d0b7104f946c8ca195dc1e0fe9f575a",
+    "cohort_conference_year_counts.csv": "9dbb9b0ffc047171c738fd47b798717c68549380fbedf60a5080bc496ccc9fdf",
+    "cohort_summary.csv": "0cc0ad9a03f2a3e7baf09d5a7ef21f96c9c2c0d8606d7b0bb7deacd6baa02a20",
+    "data_dictionary.json": "3ab79f2475e02e24b503ab05ee58a282c1ebb53af5afbea16153c46d28d64034",
+    "journal_copy_snapshot.csv": "566ad7fa68317dc9d1dc2f15d68b93c0d0513f49439421d16b75b389f5be4bdd",
+    "paper_issues.csv": "6dc328a6fc1a31250f933d7fa53b18077fbb6c6deed5627dc75c897588bfae47",
+    "README.md": "fd811dd5a56aa0069bb71446038ea95ebbaca06b0476bb690b25b270d6bb3fec",
+    "source_awards_snapshot.csv": "566ad7fa68317dc9d1dc2f15d68b93c0d0513f49439421d16b75b389f5be4bdd",
+    "source_exclusions.csv": "9dcceef8db334d4e35427caed618a11eadd5756259820f1eef80c07f42fdc921"
+  },
+  "scope_limitations": [
+    "Observed source cohort, not independently complete award census.",
+    "Recorded OpenAlex IDs are not revalidated.",
+    "Authorship list order/affiliations are source metadata.",
+    "Unavailable lists do not imply zero authors."
+  ]
+}

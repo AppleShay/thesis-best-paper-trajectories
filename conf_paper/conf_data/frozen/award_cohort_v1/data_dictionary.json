@@ -1,0 +1,21 @@
+{
+  "cohort_record_id": "Snapshot-specific source-row key; full source SHA-256 plus 1-based data row number.",
+  "source_row_number": "1-based data record ordinal in the source CSV, not a physical text-line number.",
+  "source_*": "Original source values preserved as strings. source_authorships and source_authors preserve unstructured input.",
+  "award_year": "Integer source year, restricted to 2000–2018 inclusive.",
+  "paper_has_recorded_openalex_match": "Valid-looking recorded W ID. No API verification or match-confidence validation performed.",
+  "paper_missing_openalex_id": "Source work ID is blank or a null-like token.",
+  "paper_invalid_openalex_id": "Source work ID is nonblank but fails the accepted W-ID format.",
+  "author_order_in_source": "1-based index in the source authorship list, unverified against the PDF.",
+  "is_placeholder": "Synthetic row representing unavailable structured author data; not one known author.",
+  "author_id_missing": "Missing ID within an observed author slot; blank for placeholders.",
+  "author_id_invalid": "Nonblank but invalid A-ID format within a slot; blank for placeholders.",
+  "author_identity_unresolved": "No valid A ID; true for missing/invalid slots and placeholders.",
+  "paper_authorships_unavailable": "Missing, empty, malformed or non-list structured authorships; see parse status.",
+  "n_structured_authorship_slots": "Parsed list length; blank when list cannot be parsed, zero for a valid empty list.",
+  "paper_author_data_incomplete": "Any unresolved/malformed slot or unavailable structured authorships.",
+  "institutions_json": "Institution data on this paper authorship, if supplied. Not independently verified award-date employment.",
+  "duplicate_*": "Review flags; flagged records remain in the cohort.",
+  "source_exclusions.csv": "All source rows excluded only because the year is invalid or outside 2000–2018.",
+  "unit_of_analysis": "Award-source record and author-source-record slot. Step 2 will choose the author reference event."
+}

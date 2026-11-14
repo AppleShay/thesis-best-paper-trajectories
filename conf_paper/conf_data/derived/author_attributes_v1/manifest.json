@@ -1,0 +1,39 @@
+{
+  "created_at_utc": "2026-11-14T11:19:05.018307+00:00",
+  "identity": {
+    "input_hashes": {
+      "freeze_manifest": "fcea11365cea2cb65b7c50e1ec6ee0d6b13dbcb27b07d1bd9dede51cdad837ea",
+      "step2_manifest": "b7bc5824caf5de03f8ec7a9d896711489b13e550999cd30ccd285de31815b516",
+      "profiles": "7c6832197e38aacfb7e915e35ca2d1fa1920d24ab5bd6a31d8cd522e76fdac57",
+      "works_cache": "08e28582df916b472ecd3832c9cfbdfe6d772423cb39018d901bb242bc0d9cff"
+    },
+    "settings": {
+      "transform_version": "author_attributes_1.0",
+      "use_works_cache": true,
+      "early_year_review_cutoff": 1940,
+      "max_career_age_review": 60,
+      "junior_cutoff": 5,
+      "cache_status": "loaded_with_restricted_unpickler"
+    }
+  },
+  "output_sha256": {
+    "affiliation_review.csv": "668287f8ba8c94ab1f081d77a1c743817d0172beb06ebeadc488627d30b288fa",
+    "author_attributes.csv": "ae08afedde45a4766ee6ccb3b5f44c71bebe1fd6668c9d4e1f5b98f2e036a883",
+    "earliest_cached_works.csv": "fde8158fa7e75f9fd1c2518d9da70398b5837900165227a27c28d392712dd986",
+    "firstpub_evidence.csv": "e2ec27ffdfa55b5db670c7d9188572ba8becdf08b19c866d3f304db103acf464",
+    "firstpub_review.csv": "ce7b487d399a4eebf0b5e247b3030590dfa4411c19a5aac14f66cc232b31e47a",
+    "position_review.csv": "438870a68ee3dd92aa4789b9e6cc523895c00431364847ed4b0a1844eb92965d",
+    "README.md": "2fb6a1c61d339c461446d67da06523c53ee4a4b0e9500a9f9136d806a3bf59e8",
+    "reference_paper_affiliations.csv": "a7d6ffab9c2ff34d04c73fe17a758d0f050ba0ba8a110f899985203dd7798dd7",
+    "reference_paper_attributes.csv": "575c32aa0310cae3bec354c4b07f714d113fe8c0ebef0a86b4340b867dc04f28",
+    "step3_summary.csv": "0b66c07b3b88c9f4ea0831180ddec6b13eea60b93b3c1cdc0ac22ef02583619c"
+  },
+  "external_api_calls": false,
+  "upstream_files_modified": false,
+  "definitions": {
+    "Junior": "0 <= reference year - candidate first year <= 5; must pass review checks",
+    "Senior": "career age > 5; must pass review checks",
+    "Unknown": "missing/unverified/review-flagged candidate; never treated as Senior",
+    "reference_author_order_clean": "1-based original paper authorship index, not a rerank of identified authors"
+  }
+}

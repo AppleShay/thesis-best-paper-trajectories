@@ -1,0 +1,70 @@
+{
+  "created_at_utc": "2026-11-14T11:36:46.866657+00:00",
+  "identity": {
+    "input_hashes": {
+      "freeze_manifest": "fcea11365cea2cb65b7c50e1ec6ee0d6b13dbcb27b07d1bd9dede51cdad837ea",
+      "step2_manifest": "b7bc5824caf5de03f8ec7a9d896711489b13e550999cd30ccd285de31815b516",
+      "step3_manifest": "b7356beba4b0925d47fac004689a752cfed96444a6dd68eeab18c80c4ac066ca",
+      "works_cache": "08e28582df916b472ecd3832c9cfbdfe6d772423cb39018d901bb242bc0d9cff"
+    },
+    "settings": {
+      "transform_version": "yearly_publications_1.0",
+      "offsets": [
+        -5,
+        -4,
+        -3,
+        -2,
+        -1,
+        0,
+        1,
+        2,
+        3,
+        4,
+        5
+      ],
+      "count_unit": "distinct_OpenAlex_work_ID_per_author",
+      "type_filter": "none; type unavailable in cache",
+      "award_year_separate": true,
+      "count_conflicts": "main author series missing; retain valid observed evidence",
+      "pagination_completeness": "unverified for legacy cache",
+      "cache_collection_date": "not reliably recorded"
+    }
+  },
+  "output_sha256": {
+    "author_cache_audit.csv": "b9c72cbf602d77b0298914c741a265bd48fda804abd7b7174cae85df436adc22",
+    "author_yearly_publications.csv": "443dffa70be2affec9f027f98ef3820a8a222ef1148f1b1329762f69035043c6",
+    "cache_review.csv": "fef7ee5e38698269081d747e111087cdabc56f55b86a141cb00de405b070f35b",
+    "cached_valid_works.csv": "23c1348f5320054eb0ab7318d3f54e4ed815c7bd71996d99eb4ca86157d9cb9d",
+    "data_dictionary.json": "42e73cbf2c1abc69181de13d30e655aea5e91788c63ed8fd9a93ad360f2b32ed",
+    "README.md": "6900d9d88c877d556aee89cd53f003c9756260491a4b15c0ae9f5d45d15baf4f",
+    "reference_work_cache_audit.csv": "90972bc830ac7d3a3ebdc391687c28bb4c338403d929f43ebdc8e2a6a6f8ea8c",
+    "step4_summary.csv": "45adee2833f4f59def4ccc19c7cabaf7a1a310171b37d03e59528b1be3d992db",
+    "work_issues.csv": "93b7d1db910fdc031b794de91a182f60cdd5dba64f7422f7b2f46eeeef11b361",
+    "yearly_count_coverage.csv": "953ab20bedbafdca1f3c2b919b2cdd76c705a6f973d6ba01ffc4fa3ebcb94e83",
+    "yearly_publications_long.csv": "f85483cd9c4014d76653262ab30f17bee0c4fe02870523cf4ebe1ae13ae5b67d"
+  },
+  "external_api_calls": false,
+  "upstream_files_modified": false,
+  "summary": {
+    "identified_authors_in_roster": 2710,
+    "raw_cache_author_entries": 2701,
+    "normalized_cache_author_ids": 2701,
+    "roster_authors_without_cache_key": 9,
+    "extra_cache_author_ids_not_in_roster": 0,
+    "unrecognized_cache_author_keys": 0,
+    "roster_authors_with_duplicate_normalized_keys": 0,
+    "roster_authors_in_failure_log": 0,
+    "authors_with_usable_provisional_count_series": 2593,
+    "authors_with_missing_main_count_series": 117,
+    "authors_requiring_cache_followup": 125,
+    "duplicate_work_rows_removed_within_author": 0,
+    "invalid_or_undated_cached_work_rows": 145,
+    "distinct_author_work_pairs_with_valid_unambiguous_year": 431902,
+    "work_ids_with_conflicting_years": 0,
+    "author_year_rows_expected": 29810,
+    "author_year_rows_exported": 29810,
+    "reference_links_missing_or_conflicting_in_cache": 18,
+    "reference_links_with_different_publication_year": 260,
+    "authors_with_independently_verified_pagination_completeness": 0
+  }
+}

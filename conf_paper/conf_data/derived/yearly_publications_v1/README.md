@@ -1,0 +1,3 @@
+# Step 4: yearly publications
+
+One author row plus 11 relative-year rows per identified author, anchored to step 2 reference awards. Award year is separate from five-year pre/post totals. Count distinct cached OpenAlex work IDs. Do not treat blanks as zeros or cached observed counts as independently complete histories. The legacy collector could silently return partial lists. No APIs, profile metrics, seniority reselection, citation calculations or upstream edits were performed. Review step4_summary.csv, cache_review.csv, work_issues.csv and reference_work_cache_audit.csv before interpreting results.

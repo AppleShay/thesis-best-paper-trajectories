@@ -1,0 +1,25 @@
+{
+  "yearly_columns": {
+    "-5": "pubs_m5",
+    "-4": "pubs_m4",
+    "-3": "pubs_m3",
+    "-2": "pubs_m2",
+    "-1": "pubs_m1",
+    "0": "pubs_award_year",
+    "1": "pubs_p1",
+    "2": "pubs_p2",
+    "3": "pubs_p3",
+    "4": "pubs_p4",
+    "5": "pubs_p5"
+  },
+  "pubs_mN": "Distinct cached works in reference year minus N; blank if cache series unusable.",
+  "pubs_award_year": "Distinct cached works in the reference award calendar year (relative year zero).",
+  "pubs_pN": "Distinct cached works in reference year plus N; blank if cache series unusable.",
+  "*_cached_observed": "Valid unambiguous cached evidence even for some flagged authors; not a completeness claim.",
+  "pubs_before_5y": "Sum m5 through m1 only; award year excluded; blank unless all five counts present.",
+  "pubs_after_5y": "Sum p1 through p5 only; award year excluded; blank unless all five counts present.",
+  "zero": "No work observed in a usable nonempty cached author list for that year; not independently verified actual zero.",
+  "missing": "Unavailable/empty/flagged cache history, not zero publications.",
+  "count_scope": "All cached work types. Distinct IDs, not bibliographically merged versions. Full per-author counting.",
+  "provisional": "Legacy pagination, author identity and reference-event completeness are not independently validated."
+}

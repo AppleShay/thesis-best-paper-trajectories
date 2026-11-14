@@ -1,0 +1,126 @@
+author_id,raw_cached_work_rows,distinct_valid_work_ids_before_global_audit,duplicate_work_rows_removed,invalid_work_rows,within_author_year_conflicts,reference_work_ids_expected,reference_work_ids_missing_from_cache,missing_reference_work_ids_json,cache_issues,pagination_completeness_verified,distinct_valid_dated_works_counted,counts_usable_as_provisional_cache_counts,publication_counts_provisional,cache_requires_followup,author_name,reference_award_year
+A5000796744,30.0,29,0,1,0,1,0,[],invalid_or_undated_work_rows,False,29,False,True,True,Daniel Cletheroe,2018
+A5001534492,269.0,268,0,1,0,1,0,[],invalid_or_undated_work_rows,False,268,False,True,True,Philip H. S. Torr,2008
+A5003040843,653.0,652,0,1,0,1,0,[],invalid_or_undated_work_rows,False,652,False,True,True,Andreas Krause,2011
+A5004444958,271.0,270,0,1,0,1,0,[],invalid_or_undated_work_rows,False,270,False,True,True,Yusuke Miyao,2012
+A5004988074,30.0,29,0,1,0,1,0,[],invalid_or_undated_work_rows,False,29,False,True,True,Spence Green,2013
+A5005715220,7.0,7,0,0,0,1,1,"[""W2109992755""]",,False,7,True,True,True,Marianne van den Boomen,2009
+A5005730180,310.0,309,0,1,0,1,0,[],invalid_or_undated_work_rows,False,309,False,True,True,Gerhard Lakemeyer,2006
+A5006126917,29.0,28,0,1,0,1,0,[],invalid_or_undated_work_rows,False,28,False,True,True,Erin Friess,2012
+A5006533777,284.0,283,0,1,0,1,0,[],invalid_or_undated_work_rows,False,283,False,True,True,Rémi Munos,2016
+A5008961593,462.0,461,0,1,0,1,0,[],invalid_or_undated_work_rows,False,461,False,True,True,Ken‐ichi Kawarabayashi,2013
+A5010572058,145.0,144,0,1,0,1,0,[],invalid_or_undated_work_rows,False,144,False,True,True,Jin Guo,2018
+A5013551063,180.0,179,0,1,0,1,0,[],invalid_or_undated_work_rows,False,179,False,True,True,Kasper Green Larsen,2012
+A5014963962,,0,0,0,0,1,1,"[""W2778244123""]",missing_cache_key,False,0,False,True,True,Nicholas Reiter,2017
+A5016270907,63.0,62,0,1,0,1,0,[],invalid_or_undated_work_rows,False,62,False,True,True,Julie Weeds,2004
+A5016893285,598.0,597,0,1,0,1,0,[],invalid_or_undated_work_rows,False,597,False,True,True,Stephen Brewster,2008
+A5017741738,138.0,137,0,1,0,1,0,[],invalid_or_undated_work_rows,False,137,False,True,True,Vasilis Syrgkanis,2015
+A5017969777,16.0,15,0,1,0,1,0,[],invalid_or_undated_work_rows,False,15,False,True,True,Misa Maruyama,2015
+A5018151279,411.0,410,0,1,0,1,0,[],invalid_or_undated_work_rows,False,410,False,True,True,Lester Mackey,2007
+A5019243359,85.0,84,0,1,0,1,0,[],invalid_or_undated_work_rows,False,84,False,True,True,Timothy M. Waring,2014
+A5019781598,64.0,63,0,1,0,1,0,[],invalid_or_undated_work_rows,False,63,False,True,True,Robert Muth,2009
+A5022100406,88.0,88,0,0,0,1,1,"[""W2152312062""]",,False,88,True,True,True,M. G. Trefry,2007
+A5024222363,365.0,363,0,2,0,1,0,[],invalid_or_undated_work_rows,False,363,False,True,True,Daniel Johnson,2017
+A5026069638,240.0,239,0,1,0,1,0,[],invalid_or_undated_work_rows,False,239,False,True,True,Mikel Luján,2017
+A5026971062,624.0,623,0,1,0,1,0,[],invalid_or_undated_work_rows,False,623,False,True,True,Alan Dix,2015
+A5027569258,74.0,72,0,2,0,1,0,[],invalid_or_undated_work_rows,False,72,False,True,True,Ulrich Germann,2001
+A5027819880,116.0,115,0,1,0,1,0,[],invalid_or_undated_work_rows,False,115,False,True,True,Peter M. Chen,2003
+A5028501178,209.0,201,0,8,0,1,0,[],invalid_or_undated_work_rows,False,201,False,True,True,Charles Sutton,2014
+A5031710345,210.0,209,0,1,0,1,0,[],invalid_or_undated_work_rows,False,209,False,True,True,Thomas Schwentick,2006
+A5032152448,261.0,260,0,1,0,1,0,[],invalid_or_undated_work_rows,False,260,False,True,True,Qi Guo,2011
+A5032238070,377.0,376,0,1,0,1,0,[],invalid_or_undated_work_rows,False,376,False,True,True,Pradeep Dubey,2005
+A5032344252,,0,0,0,0,1,1,"[""W1893312510""]",missing_cache_key,False,0,False,True,True,Anthony Liguori,2010
+A5032459671,,0,0,0,0,1,1,"[""W2150957281""]",missing_cache_key,False,0,False,True,True,Paramvir Bahl,2009
+A5032923261,0.0,0,0,0,0,1,1,"[""W2603410158""]",empty_cache_list_not_verified_zero,False,0,False,True,True,Julianna Hajek,2017
+A5033447950,120.0,119,0,1,0,1,0,[],invalid_or_undated_work_rows,False,119,False,True,True,Pierre-Yves Strub,2015
+A5033570514,157.0,156,0,1,0,1,0,[],invalid_or_undated_work_rows,False,156,False,True,True,Ian Pratt‐Hartmann,2011
+A5034616829,304.0,303,0,1,0,1,0,[],invalid_or_undated_work_rows,False,303,False,True,True,Carsten Lutz,2017
+A5035962853,346.0,339,0,7,0,1,0,[],invalid_or_undated_work_rows,False,339,False,True,True,Daniel M. Kane,2010
+A5036744986,291.0,290,0,1,0,1,0,[],invalid_or_undated_work_rows,False,290,False,True,True,Prémkumar Dévanbu,2004
+A5036969978,11.0,11,0,0,0,1,1,"[""W2386500332""]",,False,11,True,True,True,Tomáš Petříček,2016
+A5037737168,332.0,331,0,1,0,1,0,[],invalid_or_undated_work_rows,False,331,False,True,True,Charles L. A. Clarke,2012
+A5038017715,175.0,172,0,3,0,1,0,[],invalid_or_undated_work_rows,False,172,False,True,True,Domenico Bianculli,2016
+A5038153180,245.0,244,0,1,0,1,0,[],invalid_or_undated_work_rows,False,244,False,True,True,Yukiko Nakano,2003
+A5039232562,523.0,522,0,1,0,1,0,[],invalid_or_undated_work_rows,False,522,False,True,True,Mikkel Thorup,2013
+A5040311876,658.0,656,0,2,0,1,0,[],invalid_or_undated_work_rows,False,656,False,True,True,Alan Bundy,2000
+A5042411667,133.0,132,0,1,0,1,0,[],invalid_or_undated_work_rows,False,132,False,True,True,Luc Segoufin,2006
+A5043228682,686.0,685,0,1,0,1,0,[],invalid_or_undated_work_rows,False,685,False,True,True,Eric Horvitz,2000
+A5043369298,333.0,332,0,1,0,1,0,[],invalid_or_undated_work_rows,False,332,False,True,True,Richard E. Ladner,2011
+A5043626252,409.0,408,0,1,0,1,0,[],invalid_or_undated_work_rows,False,408,False,True,True,Joseph M. Hellerstein,2004
+A5043872671,313.0,312,0,1,0,1,0,[],invalid_or_undated_work_rows,False,312,False,True,True,Jay B. Dean,2006
+A5044138533,232.0,231,0,1,0,1,0,[],invalid_or_undated_work_rows,False,231,False,True,True,George Iosifidis,2017
+A5044697595,176.0,175,0,1,0,1,0,[],invalid_or_undated_work_rows,False,175,False,True,True,Craig Gentry,2007
+A5047351951,215.0,213,0,2,0,1,0,[],invalid_or_undated_work_rows,False,213,False,True,True,Kamesh Munagala,2009
+A5048101000,101.0,100,0,1,0,1,0,[],invalid_or_undated_work_rows,False,100,False,True,True,Bryan Semaan,2015
+A5048194226,207.0,206,0,1,0,1,0,[],invalid_or_undated_work_rows,False,206,False,True,True,Benjamin Bach,2013
+A5048264180,72.0,71,0,1,0,1,0,[],invalid_or_undated_work_rows,False,71,False,True,True,Melissa Valentine,2014
+A5049970479,286.0,284,0,2,0,1,0,[],invalid_or_undated_work_rows,False,284,False,True,True,M. Marx,2004
+A5050627806,163.0,162,0,1,0,1,0,[],invalid_or_undated_work_rows,False,162,False,True,True,George Ferguson,2007
+A5051693368,298.0,295,0,3,0,1,0,[],invalid_or_undated_work_rows,False,295,False,True,True,André F. T. Martins,2009
+A5054151701,248.0,247,0,1,0,1,0,[],invalid_or_undated_work_rows,False,247,False,True,True,Sarah Sharples,2018
+A5054753279,456.0,455,0,1,0,1,0,[],invalid_or_undated_work_rows,False,455,False,True,True,Alexander Serebrenik,2017
+A5055516926,45.0,44,0,1,0,1,0,[],invalid_or_undated_work_rows,False,44,False,True,True,Cristina Feier,2018
+A5055710645,563.0,562,0,1,0,1,0,[],invalid_or_undated_work_rows,False,562,False,True,True,Jon Kleinberg,2000
+A5055807602,120.0,119,0,1,0,1,0,[],invalid_or_undated_work_rows,False,119,False,True,True,Gabriella Giannachi,2009
+A5056502455,341.0,340,0,1,0,1,0,[],invalid_or_undated_work_rows,False,340,False,True,True,Makoto Ono,2013
+A5057689302,305.0,304,0,1,0,1,0,[],invalid_or_undated_work_rows,False,304,False,True,True,Lucas C. Cordeiro,2011
+A5058133910,839.0,838,0,1,0,1,0,[],invalid_or_undated_work_rows,False,838,False,True,True,Jorge Eduardo Pérez Pérez,2011
+A5058661031,11.0,10,0,1,0,1,0,[],invalid_or_undated_work_rows,False,10,False,True,True,Thomas S. Heydt-Benjamin,2008
+A5061727878,3.0,3,0,0,0,1,1,"[""W2003751975""]",,False,3,True,True,True,Carl Gould,2004
+A5061951606,468.0,465,0,3,0,1,0,[],invalid_or_undated_work_rows,False,465,False,True,True,Ryan Cotterell,2017
+A5062174672,353.0,352,0,1,0,1,0,[],invalid_or_undated_work_rows,False,352,False,True,True,David Wagner,2018
+A5062951341,239.0,238,0,1,0,1,0,[],invalid_or_undated_work_rows,False,238,False,True,True,Nicolas Heess,2016
+A5063574664,149.0,148,0,1,0,1,0,[],invalid_or_undated_work_rows,False,148,False,True,True,Walter S. Lasecki,2014
+A5066563480,203.0,201,0,2,0,1,0,[],invalid_or_undated_work_rows,False,201,False,True,True,Ronald de Wolf,2012
+A5067066896,19.0,18,0,1,0,1,0,[],invalid_or_undated_work_rows,False,18,False,True,True,Anoop Korattikara,2012
+A5068413510,312.0,311,0,1,0,1,0,[],invalid_or_undated_work_rows,False,311,False,True,True,John Zimmerman,2011
+A5068542108,94.0,93,0,1,0,1,0,[],invalid_or_undated_work_rows,False,93,False,True,True,Neil Walton,2014
+A5068799512,112.0,111,0,1,0,1,0,[],invalid_or_undated_work_rows,False,111,False,True,True,Nathalie Henry Riche,2013
+A5069883356,391.0,389,0,2,0,1,0,[],invalid_or_undated_work_rows,False,389,False,True,True,Leonid Libkin,2003
+A5069996857,156.0,155,0,1,0,1,0,[],invalid_or_undated_work_rows,False,155,False,True,True,Fred Douglis,2004
+A5070565287,293.0,292,0,1,0,1,0,[],invalid_or_undated_work_rows,False,292,False,True,True,Wenfei Fan,2010
+A5072236833,4.0,4,0,0,0,1,1,"[""W1710734607""]",,False,4,True,True,True,Dakarai Dunbar,2008
+A5072285921,341.0,340,0,1,0,1,0,[],invalid_or_undated_work_rows,False,340,False,True,True,James A. Landay,2010
+A5072760035,461.0,460,0,1,0,1,0,[],invalid_or_undated_work_rows,False,460,False,True,True,Lorrie Faith Cranor,2017
+A5076587279,123.0,122,0,1,0,1,0,[],invalid_or_undated_work_rows,False,122,False,True,True,Earl T. Barr,2014
+A5076635608,348.0,347,0,1,0,1,0,[],invalid_or_undated_work_rows,False,347,False,True,True,Jason Weston,2006
+A5077460655,492.0,491,0,1,0,1,0,[],invalid_or_undated_work_rows,False,491,False,True,True,Padhraic Smyth,2002
+A5077977985,111.0,110,0,1,0,1,0,[],invalid_or_undated_work_rows,False,110,False,True,True,Christian Wulff‐Nilsen,2016
+A5078308184,169.0,168,0,1,0,1,0,[],invalid_or_undated_work_rows,False,168,False,True,True,Madeline Balaam,2016
+A5078791295,212.0,211,0,1,0,1,0,[],invalid_or_undated_work_rows,False,211,False,True,True,Andrew D. Wilson,2008
+A5079075574,214.0,213,0,1,0,1,0,[],invalid_or_undated_work_rows,False,213,False,True,True,Ajitha Rajan,2008
+A5080221214,89.0,87,0,2,0,1,0,[],invalid_or_undated_work_rows,False,87,False,True,True,Miltiadis Allamanis,2014
+A5080497445,472.0,471,0,1,0,1,0,[],invalid_or_undated_work_rows,False,471,False,True,True,Jean‐Pierre Hubaux,2018
+A5080555605,727.0,726,0,1,0,1,0,[],invalid_or_undated_work_rows,False,726,False,True,True,Thomas A. Henzinger,2006
+A5081744093,54.0,53,0,1,0,1,0,[],invalid_or_undated_work_rows,False,53,False,True,True,Lars Bäckström,2007
+A5082741874,174.0,173,0,1,0,1,0,[],invalid_or_undated_work_rows,False,173,False,True,True,Bernd Fischer,2011
+A5082774652,165.0,162,0,3,0,1,0,[],invalid_or_undated_work_rows,False,162,False,True,True,Markulf Kohlweiss,2015
+A5084751438,303.0,302,0,1,0,1,0,[],invalid_or_undated_work_rows,False,302,False,True,True,Laurie Buys,2013
+A5087368991,526.0,518,0,8,0,1,0,[],invalid_or_undated_work_rows,False,518,False,True,True,Max Welling,2012
+A5089058945,52.0,52,0,0,0,1,1,"[""W1990592195""]",,False,52,True,True,True,Xiaoou Tang,2009
+A5089370410,191.0,190,0,1,0,1,0,[],invalid_or_undated_work_rows,False,190,False,True,True,Tim Regan,2014
+A5089763199,81.0,80,0,1,0,1,0,[],invalid_or_undated_work_rows,False,80,False,True,True,Juan Ramón Troncoso-Pastoriza,2018
+A5090002679,316.0,315,0,1,0,1,0,[],invalid_or_undated_work_rows,False,315,False,True,True,James F. Allen,2007
+A5090570042,252.0,251,0,1,0,1,0,[],invalid_or_undated_work_rows,False,251,False,True,True,Jeffrey Heer,2013
+A5091080723,195.0,194,0,1,0,1,0,[],invalid_or_undated_work_rows,False,194,False,True,True,Nikolaj Bjørner,2017
+A5091272738,631.0,629,0,2,0,1,0,[],invalid_or_undated_work_rows,False,629,False,True,True,Jure Leskovec,2013
+A5100355692,3450.0,3449,0,1,0,1,0,[],invalid_or_undated_work_rows,False,3449,False,True,True,Yang Liu,2016
+A5100392089,1386.0,1385,0,1,0,1,0,[],invalid_or_undated_work_rows,False,1385,False,True,True,Wei Wang,2008
+A5100631553,62.0,61,0,1,0,1,0,[],invalid_or_undated_work_rows,False,61,False,True,True,Wenqian Wang,2014
+A5101446790,320.0,319,0,1,0,1,0,[],invalid_or_undated_work_rows,False,319,False,True,True,Robert West,2013
+A5101497042,512.0,510,0,2,0,1,0,[],invalid_or_undated_work_rows,False,510,False,True,True,Arvind Krishnamurthy,2014
+A5101612744,215.0,214,0,1,0,1,0,[],invalid_or_undated_work_rows,False,214,False,True,True,Hongseok Yang,2014
+A5101748190,267.0,266,0,1,0,1,0,[],invalid_or_undated_work_rows,False,266,False,True,True,Ashish Goel,2009
+A5103343552,,0,0,0,0,1,1,"[""W2402939184""]",missing_cache_key,False,0,False,True,True,Robert J. K. Jacob,2016
+A5103555848,,0,0,0,0,1,1,"[""W4230948688""]",missing_cache_key,False,0,False,True,True,Shriram Rajagopalan,2011
+A5107835063,399.0,398,0,1,0,1,0,[],invalid_or_undated_work_rows,False,398,False,True,True,Andrew McCallum,2015
+A5108339374,1.0,1,0,0,0,1,1,"[""W1607840088""]",,False,1,True,True,True,Bart Selman,2006
+A5108387979,11.0,11,0,0,0,1,1,"[""W2143472559""]",,False,11,True,True,True,W. A. Morgan,2008
+A5108541542,165.0,164,0,1,0,1,0,[],invalid_or_undated_work_rows,False,164,False,True,True,Andrei Broder,2000
+A5109009001,103.0,102,0,1,0,1,0,[],invalid_or_undated_work_rows,False,102,False,True,True,Lex Fridman,2017
+A5109802420,,0,0,0,0,1,1,"[""W57159709""]",missing_cache_key,False,0,False,True,True,George Katsirelos,2011
+A5110181986,,0,0,0,0,1,1,"[""W2133795371""]",missing_cache_key,False,0,False,True,True,Bhaskaran Raman,2008
+A5111638399,339.0,338,0,1,0,1,0,[],invalid_or_undated_work_rows,False,338,False,True,True,Susan Dumais,2008
+A5112905724,,0,0,0,0,1,1,"[""W2798512429""]",missing_cache_key,False,0,False,True,True,William Shen,2018
+A5113708992,136.0,135,0,1,0,1,0,[],invalid_or_undated_work_rows,False,135,False,True,True,Kevin Fu,2008
+A5115883174,,0,0,0,0,1,1,"[""W2547900581""]",missing_cache_key,False,0,False,True,True,Lin Tan,2016

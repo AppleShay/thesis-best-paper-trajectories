@@ -1,0 +1,16 @@
+measure,value
+authors_retained,2710
+author_year_rows,29810
+portfolio_refresh_queries_planned,125
+portfolio_refresh_queries_complete,125
+target_ids_resolved,366516
+target_ids_unresolved_404,2900
+target_ids_pending_single_lookup,0
+canonical_citation_batches_planned,3386
+canonical_citation_batches_complete,8
+authors_with_usable_citation_series,1
+authors_missing_main_citation_series,2709
+authors_with_unresolved_target_ids,1157
+active_canonical_citation_edges_collected,21644
+blocked_queries,1
+http_attempts_this_run,50

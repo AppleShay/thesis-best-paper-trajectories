@@ -1,0 +1,11 @@
+{
+  "syntax_checks": "passed",
+  "staged_resume": "passed",
+  "no_premature_plan_change": "passed",
+  "merge_migration": "passed",
+  "saved_evidence_preserved": "passed",
+  "404_preserved": "passed",
+  "late_merge_guard": "passed",
+  "notebook_insertion": "passed",
+  "live_API_or_user_checkpoint_test": "not performed"
+}

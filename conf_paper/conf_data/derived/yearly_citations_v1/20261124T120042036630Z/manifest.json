@@ -1,0 +1,44 @@
+{
+  "created_at_utc": "2026-11-24T12:00:42.788068+00:00",
+  "legacy_checkpoint_identity": {
+    "inputs": {
+      "step4_manifest": "dfb82cc381612b6cfa226c980e3ead5711ef1d428b66cab1566777e7acfbebae",
+      "step2_manifest": "b7bc5824caf5de03f8ec7a9d896711489b13e550999cd30ccd285de31815b516",
+      "works_cache": "08e28582df916b472ecd3832c9cfbdfe6d772423cb39018d901bb242bc0d9cff"
+    },
+    "transform_version": "yearly_citations_1.0",
+    "corpus": "all",
+    "batch_size": 100,
+    "per_page": 100,
+    "window": [
+      1995,
+      2023
+    ]
+  },
+  "alias_policy": "canonical_alias_v2",
+  "output_sha256": {
+    "author_yearly_citations.csv": "0975843405d7c2379f1fd99cdbf9fa365e383dbd74036b88d5771316efcee37f",
+    "local_request_usage.csv": "4f67d30dbe278a37efeff9d67e033adb309c9d3da605459a6583f5eae0c91d8d",
+    "portfolio_coverage.csv": "cc2b8f217fd68362b65f5066c054bb5d39ef06914a6f0cc564784639c57078e6",
+    "query_progress.csv": "9c9a78e47018df9eb43f724e4fba516af333586d98f79ef4d7eaec8ce7ae3f4a",
+    "query_restart_audit.csv": "aa42c61e591810760433a0ccc87ab077f12151ad8483338fe5d0c11714dfda28",
+    "step5_summary.csv": "5cce229d4524e5151927f504bb5bf6bb7e4c94710b79b495cd3e34e4f957547d",
+    "unresolved_target_coverage.csv": "d04b3aebfe0e8ebab0aedce247796313685718216a4571106a34da848c318442",
+    "work_alias_audit.csv": "758002fca16b50c14112b6f791a3481484e41d2e4baa80321f68135f621453b6",
+    "yearly_citations_long.csv": "1b478ce307b1a8c1ec237366c348b7005794d8f464dd298352434087909d469a"
+  },
+  "stop_reason": "Per-run request cap reached; resume next run.",
+  "all_resolvable_citation_batches_complete": false,
+  "all_authors_have_usable_citation_series": false,
+  "credentials_saved": false,
+  "upstream_files_modified": false,
+  "definition": "distinct citing-work/canonical-cited-work edges binned by citing publication year; self-citations included",
+  "limitations": [
+    "Unrefreshed legacy portfolios remain unverified.",
+    "404 targets are missing coverage, not zero citations.",
+    "Current graph, not a historical index snapshot.",
+    "Canonical aliases reflect collection-time lookups, not immutable global identity.",
+    "Old citation tasks are superseded and excluded.",
+    "Missing citing-author IDs do not establish non-self-citation."
+  ]
+}
